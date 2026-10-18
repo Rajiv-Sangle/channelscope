@@ -1,0 +1,29 @@
+# o2_gate_measurements.tsv: each structure's pore radius at the gate (A), by two implementations, as
+# how/runtime/channelscope/o2/gate.py measured it (code sha256:d54a41599787f383d4612a404dd72928ac51afef84866ef1b8524db39b759ca2; criteria committed in b932329). Generated; never edited.
+# Inputs (retrieval records): 9NMO=cs:retrieval.EdoFVrww6tAVibr1OZS8mucjm99zjEi6; 9NMN=cs:retrieval.1ybavGMPb12UGnQ1TiWryGZCKQx6f9-L; 9NMQ=cs:retrieval.brtXcnLAUeOKfrZLEg-LYTbxSYIr1hsp; 9NMP=cs:retrieval.pL8dLF2aEnR7vHINcVG8nD619NH1kF_o; 8VJJ=cs:retrieval.VuK5f1VVVw_n-OHB2EBpIy3N8oj73Frj; 8VJK=cs:retrieval.xan-CXGwaKVJrqjrxeLx34xm6YCVAD5B; 8X4A=cs:retrieval.pR25iS9lE-23CSsQVl8uiE8VQ41q6i6U; 8X4B=cs:retrieval.hOTbhuj-tLLL7b1awE30J4kCmDULAmLY; 8X4C=cs:retrieval.qG50QkT1_4YOQstb-hi1B8zhH_zRMJAk; 7M6A=cs:retrieval.UtWHU7YIgjcb_-L8Rw7XlxuD3juAKmwO; 7M6L=cs:retrieval.eyyFPqvSLlHhVFK2C2F6tKS-2vRj1QPt; 5TB0=cs:retrieval.kVNCc55Vm9v8jvE7ELei45jDUCoLgF9G; 5T9V=cs:retrieval.FFdMFmwuUdG1m77On8tLnNe-nfngfTJK; 7T64=cs:retrieval.04xVf3fCplTGFedJsjq-A_wGGdDNgP3P; 7T65=cs:retrieval.tb9pyvPRj2KRBABhs0rCC9VdzSHSbRp8; 9CGP=cs:retrieval.jdUfAytotCsBJsiSg8bpSyvDpErFj6eq; 9CGQ=cs:retrieval.YyxAiTPiCN0MmKogYh9lDIB4xPQKbfwH; 6W1N=cs:retrieval.1XRUbjABhW0MF6EHNm_VLM83bEZtvISV; 6X32=cs:retrieval.NBuU4cG1bcHhTYOT98DeQQh-585wWSbA; 6X33=cs:retrieval.gPcFrmgLGcGT_T16U9C0zHpB53PpawSi; 6X34=cs:retrieval.FK9F6oiM_gU2sHRdw8XJ_WEu-PeYlioG; 6X35=cs:retrieval.Jpdu7nKydO2iNY_R8vgPXQ64Tx-wI90X; 6X36=cs:retrieval.YHrzzOqwSEUL78Kc6NOusKJMZHcbJbUw; 9PWO=cs:retrieval.84uiQB1owJUZmB_Y9jAW4OaDiu9O2Lw_
+# G1 FAIL; G2 pass; planted faults 5 of 6 caught
+entry	species	gate_residue	radius_A	radius_B	class_A	class_B	g1_agree	class_at_minus_0.5A	class_at_plus_0.5A	deposited_words	deposited_implies	measured_agrees
+9NMO	Mus musculus	I4935	0.92	0.92	closed	closed	yes	closed/closed	closed/closed	closed pore	closed	yes
+9NMN	Mus musculus	I4935	4.84	4.17	open	open	yes	open/open	open/open	open pore	open	yes
+9NMQ	Mus musculus	I4935	0.94	0.94	closed	closed	yes	closed/closed	closed/closed	closed pore	closed	yes
+9NMP	Mus musculus	I4935	4.38	3.41	open	open	yes	open/open	open/indeterminate	open pore	open	yes
+8VJJ	Mus musculus	I4935	0.86	0.86	closed	closed	yes	closed/closed	closed/closed	EGTA-only dataset (no state word)	-	-
+8VJK	Mus musculus	I4935	0.85	0.85	closed	closed	yes	closed/closed	closed/closed	high-Ca2+/CFF/ATP dataset (no state word)	-	-
+8X4A	Oryctolagus cuniculus	I4937	1.30	1.30	closed	closed	yes	closed/closed	closed/closed	closed state	closed	yes
+8X4B	Oryctolagus cuniculus	I4937	5.23	4.35	open	open	yes	open/open	open/open	open state	open	yes
+8X4C	Oryctolagus cuniculus	I4937	1.40	1.40	closed	closed	yes	closed/closed	closed/closed	20 uM Ca2+, 2 mM ATP (no state word)	-	-
+7M6A	Oryctolagus cuniculus	I4937	1.52	1.53	closed	closed	yes	indeterminate/indeterminate	closed/closed	primed model (paper); Closed state model (7M6L's record)	closed	yes
+7M6L	Oryctolagus cuniculus	I4937	4.96	3.80	open	open	no	open/open	open/open	open model (paper)	open	yes
+5TB0	Oryctolagus cuniculus	I4937	1.01	1.01	closed	closed	yes	closed/closed	closed/closed	a closed RyR1 pore (Woll and Van Petegem 2022): positive control	closed	yes
+5T9V	Oryctolagus cuniculus	I4937	4.16	3.51	open	open	yes	open/open	open/open	an open RyR1 (Woll and Van Petegem 2022): positive control	open	yes
+7T64	Oryctolagus cuniculus	I4937	1.24	1.24	closed	closed	yes	closed/closed	closed/closed	closed state	closed	yes
+7T65	Oryctolagus cuniculus	I4937	5.55	4.06	open	open	no	open/open	open/open	open state	open	yes
+9CGP	Oryctolagus cuniculus	I4937	0.83	0.83	closed	closed	yes	closed/closed	closed/closed	the closed state without Ca (paper)	closed	yes
+9CGQ	Oryctolagus cuniculus	I4937	5.01	4.10	open	open	yes	open/open	open/open	the open state with Ca (paper)	open	yes
+6W1N	Sus scrofa	I4935	0.90	0.90	closed	closed	yes	closed/closed	closed/closed	WT, 5 mM EGTA (no state word)	-	-
+6X32	Sus scrofa	I4935	0.86	0.86	closed	closed	yes	closed/closed	closed/closed	closed	closed	yes
+6X33	Sus scrofa	I4935	4.71	4.05	open	open	yes	open/open	open/open	open	open	yes
+6X34	Sus scrofa	I4935	3.20	3.20	open	open	yes	open/open	indeterminate/indeterminate	open (title); intermediate (paper)	open	yes
+6X35	Sus scrofa	I4935	4.24	3.22	open	open	no	open/open	open/indeterminate	open	open	yes
+6X36	Sus scrofa	I4935	0.92	0.92	closed	closed	yes	closed/closed	closed/closed	closed	closed	yes
+9PWO	Sus scrofa	I4935	5.27	4.77	open	open	yes	open/open	open/open	Open Conformation	open	yes

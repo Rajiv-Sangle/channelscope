@@ -1,0 +1,261 @@
+entry	scope	chain	entity	description	species	reference	reference_length	entity_decision	identity_with_reference	path_s	outcome	outcome_notes	modelled	compared	agree	declared_difference	disputed	path_a_only	path_a_only_residue	path_s_only	neither_path	unk	insertion_code	outside	not_observed_in_sifts	sifts_anomaly	microheterogeneity	undeclared_difference	refused	pairing_disagrees	identity_low	joined	ambiguous_path_a	residues_without_ca	k9_sum_holds	gate_residue	gate_outcome	gate_species_position	gate_reference_residue	gate_structure_residue	gate_note	departing_segments	o2_read	r15_cl2_reading	r15_agreement	sifts_file	sifts_date	sifts_pdb_version	sifts_uniprot_version	method_a_optimal_alignments
+9NMO	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	-	4	CAFFEINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	-	5	ADENOSINE-5'-TRIPHOSPHATE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	-	6	CALCIUM ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMO	entity	A,B,C,D	1	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4373/4373;B:4373/4373;C:4373/4373;D:4373/4373																																									
+9NMO	chain	A	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMO	chain	B	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMO	chain	C	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMO	chain	D	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMO	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17492	17492	17492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17492	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+9NMN	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	-	4	CAFFEINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	-	5	ADENOSINE-5'-TRIPHOSPHATE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	-	6	CALCIUM ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMN	entity	A,B,C,D	1	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4373/4373;B:4373/4373;C:4373/4373;D:4373/4373																																									
+9NMN	chain	A	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMN	chain	B	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMN	chain	C	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMN	chain	D	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMN	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17492	17492	17492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17492	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+9NMQ	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	4	CAFFEINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	5	ADENOSINE-5'-TRIPHOSPHATE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	6	CALCIUM ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	-	8	Simvastatin	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMQ	entity	A,B,C,D	1	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4373/4373;B:4373/4373;C:4373/4373;D:4373/4373																																									
+9NMQ	chain	A	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMQ	chain	B	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMQ	chain	C	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMQ	chain	D	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMQ	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17492	17492	17492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17492	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+9NMP	entity	E,F,G,H	1	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	4	CAFFEINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	5	ADENOSINE-5'-TRIPHOSPHATE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	6	CALCIUM ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	-	8	Simvastatin	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+9NMP	entity	A,B,C,D	2	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4373/4373;B:4373/4373;C:4373/4373;D:4373/4373																																									
+9NMP	chain	A	2		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMP	chain	B	2		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMP	chain	C	2		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMP	chain	D	2		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9NMP	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17492	17492	17492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17492	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:1
+8VJJ	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJJ	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJJ	entity	-	4	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJJ	entity	A,B,C,D	1	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4374/4374;B:4374/4374;C:4374/4374;D:4374/4374																																									
+8VJJ	chain	A	1		Mus musculus	E9PZQ0	5035			mapped	equal		4374	4374	4374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4374	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJJ	chain	B	1		Mus musculus	E9PZQ0	5035			mapped	equal		4374	4374	4374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4374	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJJ	chain	C	1		Mus musculus	E9PZQ0	5035			mapped	equal		4374	4374	4374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4374	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJJ	chain	D	1		Mus musculus	E9PZQ0	5035			mapped	equal		4374	4374	4374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4374	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJJ	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17496	17496	17496	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17496	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+8VJK	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1A	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	-	3	ZINC ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	-	4	CAFFEINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	-	5	ADENOSINE-5'-TRIPHOSPHATE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	-	6	CALCIUM ION	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Mus musculus	E9PZQ0	5035	excluded: not described as RyR1	-																																									
+8VJK	entity	A,B,C,D	1	Ryanodine receptor 1	Mus musculus	E9PZQ0	5035	RyR1	A:4373/4373;B:4373/4373;C:4373/4373;D:4373/4373																																									
+8VJK	chain	A	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJK	chain	B	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJK	chain	C	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJK	chain	D	1		Mus musculus	E9PZQ0	5035			mapped	equal		4373	4373	4373	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4373	0	0	true	I4935	agree	4935	I	ILE	-	-								
+8VJK	entry	A,B,C,D			Mus musculus	E9PZQ0	5035				equal	-	17492	17492	17492	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17492	0	0	true	I4935					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+8X4A	entity	-	2	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+8X4A	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:3990/3990;B:3990/3990;C:3990/3990;D:3990/3990																																									
+8X4A	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3990	3990	3990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3990	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4A	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3990	3990	3990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3990	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4A	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3990	3990	3990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3990	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4A	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3990	3990	3990	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3990	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4A	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	15960	15960	15960	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15960	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+8X4B	entity	-	2	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+8X4B	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4173/4173;B:4173/4173;C:4173/4173;D:4173/4173																																									
+8X4B	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4173	4173	4173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4173	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4B	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4173	4173	4173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4173	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4B	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4173	4173	4173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4173	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4B	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4173	4173	4173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4173	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4B	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	16692	16692	16692	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16692	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+8X4C	entity	-	2	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+8X4C	entity	-	3	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+8X4C	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:3155/3155;B:3155/3155;C:3155/3155;D:3155/3155																																									
+8X4C	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3155	3155	3155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4C	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3155	3155	3155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4C	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3155	3155	3155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4C	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		3155	3155	3155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+8X4C	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	12620	12620	12620	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12620	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	1:1
+7M6A	entity	F,H,J,O	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6A	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6A	entity	-	4	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6A	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6A	entity	-	6	CAFFEINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6A	entity	A,B,G,I	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4306/4306;B:4306/4306;G:4306/4306;I:4306/4306																																									
+7M6A	chain	A	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4306	4306	4306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4306	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6A	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4306	4306	4306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4306	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6A	chain	G	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4306	4306	4306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4306	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6A	chain	I	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4306	4306	4306	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4306	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6A	entry	A,B,G,I			Oryctolagus cuniculus	P11716	5037				equal	-	17224	17224	17224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17224	0	0	true	I4937					A:agree; B:agree; G:agree; I:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:1
+7M6L	entity	F,H,J,O	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6L	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6L	entity	-	4	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6L	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6L	entity	-	6	CAFFEINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7M6L	entity	A,B,G,I	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4299/4299;B:4299/4299;G:4299/4299;I:4299/4299																																									
+7M6L	chain	A	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4299	4299	4299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4299	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6L	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4299	4299	4299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4299	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6L	chain	G	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4299	4299	4299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4299	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6L	chain	I	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4299	4299	4299	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4299	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7M6L	entry	A,B,G,I			Oryctolagus cuniculus	P11716	5037				equal	-	17196	17196	17196	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17196	0	0	true	I4937					A:agree; B:agree; G:agree; I:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:1
+5TB0	entity	A,F,H,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5TB0	entity	-	3	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5TB0	entity	B,E,G,I	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	B:3268/3268;E:3268/3268;G:3268/3268;I:3268/3268																																									
+5TB0	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5TB0	chain	E	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5TB0	chain	G	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5TB0	chain	I	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5TB0	entry	B,E,G,I			Oryctolagus cuniculus	P11716	5037				equal	-	16776	13072	13072	0	0	0	0	0	0	3704	0	0	0	0	0	0	0	0	0	13072	236	0	true	I4937					B:agree; E:agree; G:agree; I:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:6
+5T9V	entity	A,F,H,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5T9V	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5T9V	entity	-	4	CAFFEINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5T9V	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5T9V	entity	-	6	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+5T9V	entity	B,E,G,I	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	B:3268/3268;E:3268/3268;G:3268/3268;I:3268/3268																																									
+5T9V	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5T9V	chain	E	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5T9V	chain	G	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5T9V	chain	I	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4194	3268	3268	0	0	0	0	0	0	926	0	0	0	0	0	0	0	0	0	3268	59	0	true	I4937	agree	4937	I	ILE	-	-								
+5T9V	entry	B,E,G,I			Oryctolagus cuniculus	P11716	5037				equal	-	16776	13072	13072	0	0	0	0	0	0	3704	0	0	0	0	0	0	0	0	0	13072	236	0	true	I4937					B:agree; E:agree; G:agree; I:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:6
+7T64	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T64	entity	-	3	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T64	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4246/4247;B:4246/4247;C:4246/4247;D:4246/4247																																									
+7T64	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4247	4247	4247	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4247	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T64	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4247	4247	4247	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4247	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T64	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4247	4247	4247	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4247	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T64	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4247	4247	4247	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4247	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T64	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	16988	16988	16988	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16988	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	Y523S; R164 (wild type)	Y523S: A S (declared: engineered mutation), B S (declared: engineered mutation), C S (declared: engineered mutation), D S (declared: engineered mutation); R164 (wild type): A R (as the reference), B R (as the reference), C R (as the reference), D R (as the reference)	agrees; agrees	yes	2026-10-04	40.26	2026.03	1:1
+7T65	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T65	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T65	entity	-	4	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T65	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+7T65	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4251/4252;B:4251/4252;C:4251/4252;D:4251/4252																																									
+7T65	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4252	4252	4252	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4252	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T65	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4252	4252	4252	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4252	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T65	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4252	4252	4252	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4252	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T65	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4252	4252	4252	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4252	0	0	true	I4937	agree	4937	I	ILE	-	-								
+7T65	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	17008	17008	17008	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17008	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	Y523S; R164 (wild type)	Y523S: A S (declared: engineered mutation), B S (declared: engineered mutation), C S (declared: engineered mutation), D S (declared: engineered mutation); R164 (wild type): A R (as the reference), B R (as the reference), C R (as the reference), D R (as the reference)	agrees; agrees	yes	2026-10-04	40.26	2026.03	1:1
+9CGP	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGP	entity	-	3	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGP	entity	-	4	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGP	entity	-	5	Dantrolene	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGP	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4257/4258;B:4257/4258;C:4257/4258;D:4257/4258																																									
+9CGP	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4258	4258	4258	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4258	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGP	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4258	4258	4258	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4258	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGP	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4258	4258	4258	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4258	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGP	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4258	4258	4258	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4258	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGP	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	17032	17032	17032	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17032	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	Y523S; R164 (wild type)	Y523S: A S (declared: engineered mutation), B S (declared: engineered mutation), C S (declared: engineered mutation), D S (declared: engineered mutation); R164 (wild type): A R (as the reference), B R (as the reference), C R (as the reference), D R (as the reference)	agrees; agrees	yes	2026-10-04	40.26	2026.03	1:1
+9CGQ	entity	E,F,G,H	2	Peptidyl-prolyl cis-trans isomerase FKBP1B	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGQ	entity	-	3	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGQ	entity	-	4	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGQ	entity	-	5	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGQ	entity	-	6	Dantrolene	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9CGQ	entity	A,B,C,D	1	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4154/4155;B:4154/4155;C:4154/4155;D:4154/4155																																									
+9CGQ	chain	A	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4155	4155	4155	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGQ	chain	B	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4155	4155	4155	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGQ	chain	C	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4155	4155	4155	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGQ	chain	D	1		Oryctolagus cuniculus	P11716	5037			mapped	equal		4155	4155	4155	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4155	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9CGQ	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	16620	16620	16620	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16620	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	Y523S; R164 (wild type)	Y523S: A S (declared: engineered mutation), B S (declared: engineered mutation), C S (declared: engineered mutation), D S (declared: engineered mutation); R164 (wild type): A R (as the reference), B R (as the reference), C R (as the reference), D R (as the reference)	agrees; agrees	yes	2026-10-04	40.26	2026.03	1:1
+6W1N	entity	A,C,E,G	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6W1N	entity	-	3	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6W1N	entity	B,D,F,H	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3389/3390;D:3389/3390;F:3389/3390;H:3389/3390																																									
+6W1N	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; path A only		3719	3389	0	0	0	3389	0	0	0	329	0	0	0	0	0	1	0	0	0	3389	4	0	true	I4935	path A only	4935	I	ILE	-	B:2736-2939:+1:180								
+6W1N	chain	D	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; path A only		3719	3389	0	0	0	3389	0	0	0	329	0	0	0	0	0	1	0	0	0	3389	4	0	true	I4935	path A only	4935	I	ILE	-	D:2736-2939:+1:180								
+6W1N	chain	F	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; path A only		3719	3389	0	0	0	3389	0	0	0	329	0	0	0	0	0	1	0	0	0	3389	4	0	true	I4935	path A only	4935	I	ILE	-	F:2736-2939:+1:180								
+6W1N	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; path A only		3719	3389	0	0	0	3389	0	0	0	329	0	0	0	0	0	1	0	0	0	3389	4	0	true	I4935	path A only	4935	I	ILE	-	H:2736-2939:+1:180								
+6W1N	entry	B,D,F,H			Sus scrofa	P16960	5035				departs; path A only	-	14876	13556	0	0	0	13556	0	0	0	1316	0	0	0	0	0	4	0	0	0	13556	16	0	true	I4935					B:path A only; D:path A only; F:path A only; H:path A only	B:2736-2939:+1:180;D:2736-2939:+1:180;F:2736-2939:+1:180;H:2736-2939:+1:180	R615 (wild type)	R615 (wild type): B R (as the reference), D R (as the reference), F R (as the reference), H R (as the reference)	agrees	yes	2026-10-04	40.26	2026.03	2:5
+6X32	entity	A,D,G,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X32	entity	C,F,I,L	3	Calmodulin-1	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X32	entity	-	4	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X32	entity	B,E,H,K	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3443/3445;E:3443/3445;H:3443/3445;K:3443/3445																																									
+6X32	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; disputed; short departing run, path A only; path A only		3798	3438	0	0	0	3438	0	0	5	353	0	0	0	0	0	2	0	0	45	3394	28	0	true	I4935	path A only	4935	I	ILE	-	B:2736-2939:+1:180								
+6X32	chain	E	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; disputed; short departing run, path A only; path A only		3798	3438	0	0	0	3438	0	0	5	353	0	0	0	0	0	2	0	0	45	3394	28	0	true	I4935	path A only	4935	I	ILE	-	E:2736-2939:+1:180								
+6X32	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; disputed; short departing run, path A only; path A only		3798	3438	0	0	0	3438	0	0	5	353	0	0	0	0	0	2	0	0	45	3394	28	0	true	I4935	path A only	4935	I	ILE	-	H:2736-2939:+1:180								
+6X32	chain	K	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; disputed; short departing run, path A only; path A only		3798	3438	0	0	0	3438	0	0	5	353	0	0	0	0	0	2	0	0	45	3394	28	0	true	I4935	path A only	4935	I	ILE	-	K:2736-2939:+1:180								
+6X32	entry	B,E,H,K			Sus scrofa	P16960	5035				departs; disputed; short departing run, path A only; path A only	-	15192	13752	0	0	0	13752	0	0	20	1412	0	0	0	0	0	8	0	0	180	13576	112	0	true	I4935					B:path A only; E:path A only; H:path A only; K:path A only	B:2736-2939:+1:180;E:2736-2939:+1:180;H:2736-2939:+1:180;K:2736-2939:+1:180	R615 (wild type)	R615 (wild type): B R (as the reference), E R (as the reference), H R (as the reference), K R (as the reference)	agrees	yes	2026-10-04	40.26	2026.03	2:6400
+6X33	entity	A,D,G,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X33	entity	C,F,I,L	3	Calmodulin-1	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X33	entity	-	4	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X33	entity	B,E,H,K	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3458/3458;E:3458/3458;H:3458/3458;K:3458/3458																																									
+6X33	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3816	3455	0	0	0	3455	0	0	3	358	0	0	0	0	0	0	0	0	0	3454	34	0	true	I4935	path A only	4935	I	ILE	-	B:2736-2939:+1:180								
+6X33	chain	E	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3816	3455	0	0	0	3455	0	0	3	358	0	0	0	0	0	0	0	0	0	3454	34	0	true	I4935	path A only	4935	I	ILE	-	E:2736-2939:+1:180								
+6X33	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3816	3455	0	0	0	3455	0	0	3	358	0	0	0	0	0	0	0	0	0	3454	34	0	true	I4935	path A only	4935	I	ILE	-	H:2736-2939:+1:180								
+6X33	chain	K	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3816	3455	0	0	0	3455	0	0	3	358	0	0	0	0	0	0	0	0	0	3454	34	0	true	I4935	path A only	4935	I	ILE	-	K:2736-2939:+1:180								
+6X33	entry	B,E,H,K			Sus scrofa	P16960	5035				departs; short departing run, path A only; path A only	-	15264	13820	0	0	0	13820	0	0	12	1432	0	0	0	0	0	0	0	0	0	13816	136	0	true	I4935					B:path A only; E:path A only; H:path A only; K:path A only	B:2736-2939:+1:180;E:2736-2939:+1:180;H:2736-2939:+1:180;K:2736-2939:+1:180	R615 (wild type)	R615 (wild type): B R (as the reference), E R (as the reference), H R (as the reference), K R (as the reference)	agrees	yes	2026-10-04	40.26	2026.03	2:1536
+6X34	entity	A,C,E,G	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X34	entity	-	3	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X34	entity	B,D,F,H	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3385/3386;D:3385/3386;F:3384/3385;H:3385/3386																																									
+6X34	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3715	3380	0	0	0	3380	0	0	5	329	0	0	0	0	0	1	0	0	0	3379	27	0	true	I4935	path A only	4935	I	ILE	-	B:2736-2939:+1:180								
+6X34	chain	D	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3715	3380	0	0	0	3380	0	0	5	329	0	0	0	0	0	1	0	0	0	3379	27	0	true	I4935	path A only	4935	I	ILE	-	D:2736-2939:+1:180								
+6X34	chain	F	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3715	3379	0	0	0	3379	0	0	6	329	0	0	0	0	0	1	0	0	0	3378	27	0	true	I4935	path A only	4935	I	ILE	-	F:2736-2939:+1:180								
+6X34	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3715	3380	0	0	0	3380	0	0	5	329	0	0	0	0	0	1	0	0	0	3379	27	0	true	I4935	path A only	4935	I	ILE	-	H:2736-2939:+1:180								
+6X34	entry	B,D,F,H			Sus scrofa	P16960	5035				departs; short departing run, path A only; path A only	-	14860	13519	0	0	0	13519	0	0	21	1316	0	0	0	0	0	4	0	0	0	13515	108	0	true	I4935					B:path A only; D:path A only; F:path A only; H:path A only	B:2736-2939:+1:180;D:2736-2939:+1:180;F:2736-2939:+1:180;H:2736-2939:+1:180	R615C	R615C: B C (undeclared, not joined), D C (undeclared, not joined), F C (undeclared, not joined), H C (undeclared, not joined)	agrees	yes	2026-10-04	40.26	2026.03	2:2400
+6X35	entity	A,D,G,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X35	entity	C,F,I,L	3	Calmodulin-1	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X35	entity	-	4	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X35	entity	B,E,H,K	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3442/3444;E:3442/3444;H:3442/3444;K:3442/3444																																									
+6X35	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3801	3439	0	0	0	3439	0	0	3	357	0	0	0	0	0	2	0	0	0	3438	17	0	true	I4935	path A only	4935	I	ILE	-	B:2736-2939:+1:180								
+6X35	chain	E	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3801	3439	0	0	0	3439	0	0	3	357	0	0	0	0	0	2	0	0	0	3438	17	0	true	I4935	path A only	4935	I	ILE	-	E:2736-2939:+1:180								
+6X35	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3801	3439	0	0	0	3439	0	0	3	357	0	0	0	0	0	2	0	0	0	3438	17	0	true	I4935	path A only	4935	I	ILE	-	H:2736-2939:+1:180								
+6X35	chain	K	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	departs; short departing run, path A only; path A only		3801	3439	0	0	0	3439	0	0	3	357	0	0	0	0	0	2	0	0	0	3438	17	0	true	I4935	path A only	4935	I	ILE	-	K:2736-2939:+1:180								
+6X35	entry	B,E,H,K			Sus scrofa	P16960	5035				departs; short departing run, path A only; path A only	-	15204	13756	0	0	0	13756	0	0	12	1428	0	0	0	0	0	8	0	0	0	13752	68	0	true	I4935					B:path A only; E:path A only; H:path A only; K:path A only	B:2736-2939:+1:180;E:2736-2939:+1:180;H:2736-2939:+1:180;K:2736-2939:+1:180	R615C	R615C: B C (undeclared, not joined), E C (undeclared, not joined), H C (undeclared, not joined), K C (undeclared, not joined)	agrees	yes	2026-10-04	40.26	2026.03	2:384
+6X36	entity	A,D,G,J	1	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X36	entity	C,F,I,L	3	Calmodulin-1	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+6X36	entity	B,E,H,K	2	Ryanodine Receptor	Sus scrofa	P16960	5035	RyR1	B:3184/3185;E:3184/3185;H:3184/3185;K:3184/3185																																									
+6X36	chain	B	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	equal; short departing run, path A only; path A only		3529	3178	0	0	0	3178	0	0	6	344	0	0	0	0	0	1	0	0	0	3177	252	0	true	I4935	path A only	4935	I	ILE	-	-								
+6X36	chain	E	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	equal; short departing run, path A only; path A only		3529	3178	0	0	0	3178	0	0	6	344	0	0	0	0	0	1	0	0	0	3177	252	0	true	I4935	path A only	4935	I	ILE	-	-								
+6X36	chain	H	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	equal; short departing run, path A only; path A only		3529	3178	0	0	0	3178	0	0	6	344	0	0	0	0	0	1	0	0	0	3177	252	0	true	I4935	path A only	4935	I	ILE	-	-								
+6X36	chain	K	2		Sus scrofa	P16960	5035			none: chain not mapped to UniProt	equal; short departing run, path A only; path A only		3529	3178	0	0	0	3178	0	0	6	344	0	0	0	0	0	1	0	0	0	3177	252	0	true	I4935	path A only	4935	I	ILE	-	-								
+6X36	entry	B,E,H,K			Sus scrofa	P16960	5035				equal; short departing run, path A only; path A only	-	14116	12712	0	0	0	12712	0	0	24	1376	0	0	0	0	0	4	0	0	0	12708	1008	0	true	I4935					B:path A only; E:path A only; H:path A only; K:path A only	-	R615C	R615C: B C (undeclared, not joined), E C (undeclared, not joined), H C (undeclared, not joined), K C (undeclared, not joined)	agrees	yes	2026-10-04	40.26	2026.03	2:29184
+9PWO	entity	B,H,N,T	2	Peptidyl-prolyl cis-trans isomerase FKBP1B	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+9PWO	entity	-	3	CAFFEINE	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+9PWO	entity	-	4	CALCIUM ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+9PWO	entity	-	5	7-[2-(4-FLUORO-PHENYL)-5-ISOPROPYL-3-PHENYL-4-PHENYLCARBAMOYL-PYRROL-1-YL]- 3,5-DIHYDROXY-HEPTANOIC ACID	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+9PWO	entity	-	6	ZINC ION	Sus scrofa	P16960	5035	excluded: not described as RyR1	-																																									
+9PWO	entity	A,G,M,S	1	Ryanodine receptor 1	Sus scrofa	P16960	5035	RyR1	A:4102/4103;G:4102/4103;M:4102/4103;S:4102/4103																																									
+9PWO	chain	A	1		Sus scrofa	P16960	5035			mapped	equal		4103	4103	4103	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4103	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9PWO	chain	G	1		Sus scrofa	P16960	5035			mapped	equal		4103	4103	4103	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4103	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9PWO	chain	M	1		Sus scrofa	P16960	5035			mapped	equal		4103	4103	4103	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4103	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9PWO	chain	S	1		Sus scrofa	P16960	5035			mapped	equal		4103	4103	4103	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4103	0	0	true	I4935	agree	4935	I	ILE	-	-								
+9PWO	entry	A,G,M,S			Sus scrofa	P16960	5035				equal	-	16412	16412	16412	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16412	0	0	true	I4935					A:agree; G:agree; M:agree; S:agree	-	R615C	R615C: A C (declared: variant), G C (declared: variant), M C (declared: variant), S C (declared: variant)	agrees	yes	2026-10-04	40.26	2026.03	1:1
+9ZO8	entity	E,F,G,H	1	Peptidyl-prolyl cis-trans isomerase FKBP1A	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	-	4	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	-	6	CAFFEINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZO8	entity	A,B,C,D	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4383/4383;B:4383/4383;C:4383/4383;D:4383/4383																																									
+9ZO8	chain	A	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4433	4383	4383	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZO8	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4433	4383	4383	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZO8	chain	C	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4433	4383	4383	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZO8	chain	D	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4433	4383	4383	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZO8	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	17732	17532	17532	0	0	0	0	0	0	200	0	0	0	0	0	0	0	0	0	17532	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:1
+9ZOE	entity	E,F,G,H	1	Peptidyl-prolyl cis-trans isomerase FKBP1A	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	3	ADENOSINE-5'-TRIPHOSPHATE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	4	CALCIUM ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	5	ZINC ION	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	6	CAFFEINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	7	1,2-DIOLEOYL-SN-GLYCERO-3-PHOSPHOCHOLINE	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	-	8	rosuvastatin lactone	Oryctolagus cuniculus	P11716	5037	excluded: not described as RyR1	-																																									
+9ZOE	entity	A,B,C,D	2	Ryanodine receptor 1	Oryctolagus cuniculus	P11716	5037	RyR1	A:4383/4383;B:4383/4383;C:4383/4383;D:4383/4383																																									
+9ZOE	chain	A	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4383	4383	4383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZOE	chain	B	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4383	4383	4383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZOE	chain	C	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4383	4383	4383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZOE	chain	D	2		Oryctolagus cuniculus	P11716	5037			mapped	equal		4383	4383	4383	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4383	0	0	true	I4937	agree	4937	I	ILE	-	-								
+9ZOE	entry	A,B,C,D			Oryctolagus cuniculus	P11716	5037				equal	-	17532	17532	17532	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17532	0	0	true	I4937					A:agree; B:agree; C:agree; D:agree	-	-	-	-	yes	2026-10-04	40.26	2026.03	2:1

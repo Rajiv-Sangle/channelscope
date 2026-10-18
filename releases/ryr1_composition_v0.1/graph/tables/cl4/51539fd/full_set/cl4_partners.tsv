@@ -1,0 +1,898 @@
+human_position	species	partner_numbering	correspondence	partner_position	partner_residue	reliability	reliability_reasons	ambiguous	mapping_column	mapping_table	c7_blind_plus1	c7_blind_minus1	partner_numbering_record	a6_entries	a6_record
+13	Oryctolagus cuniculus	numbering:P11716.sv1	pair	14	L	lowered	near-indel	false	14	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+33	Oryctolagus cuniculus	numbering:P11716.sv1	pair	34	K	standard		false	34	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+35	Oryctolagus cuniculus	numbering:P11716.sv1	pair	36	C	standard		false	36	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+40	Oryctolagus cuniculus	numbering:P11716.sv1	pair	41	G	standard		false	41	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+44	Oryctolagus cuniculus	numbering:P11716.sv1	pair	45	R	standard		false	45	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+51	Oryctolagus cuniculus	numbering:P11716.sv1	pair	52	T	standard		false	52	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+60	Oryctolagus cuniculus	numbering:P11716.sv1	pair	61	D	standard		false	61	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+64	Oryctolagus cuniculus	numbering:P11716.sv1	pair	65	C	standard		false	65	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+71	Oryctolagus cuniculus	numbering:P11716.sv1	pair	72	S	standard		false	72	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+84	Oryctolagus cuniculus	numbering:P11716.sv1	pair	85	T	standard		false	85	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+140	Oryctolagus cuniculus	numbering:P11716.sv1	pair	141	A	standard		false	141	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+152	Oryctolagus cuniculus	numbering:P11716.sv1	pair	153	A	standard		false	153	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+155	Oryctolagus cuniculus	numbering:P11716.sv1	pair	156	Q	standard		false	156	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+156	Oryctolagus cuniculus	numbering:P11716.sv1	pair	157	R	standard		false	157	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-04	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+160	Oryctolagus cuniculus	numbering:P11716.sv1	pair	161	E	standard		false	161	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+163	Oryctolagus cuniculus	numbering:P11716.sv1	pair	164	R	standard		false	164	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-02;A6-03	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+165	Oryctolagus cuniculus	numbering:P11716.sv1	pair	166	G	standard		false	166	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+166	Oryctolagus cuniculus	numbering:P11716.sv1	pair	167	D	standard		false	167	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+176	Oryctolagus cuniculus	numbering:P11716.sv1	pair	177	E	standard		false	177	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+177	Oryctolagus cuniculus	numbering:P11716.sv1	pair	178	R	standard		false	178	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+178	Oryctolagus cuniculus	numbering:P11716.sv1	pair	179	Y	standard		false	179	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+193	Oryctolagus cuniculus	numbering:P11716.sv1	pair	194	S	standard		false	194	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+207	Oryctolagus cuniculus	numbering:P11716.sv1	pair	208	C	standard		false	208	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+209	Oryctolagus cuniculus	numbering:P11716.sv1	pair	210	E	standard		false	210	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+214	Oryctolagus cuniculus	numbering:P11716.sv1	pair	215	T	standard		false	215	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+218	Oryctolagus cuniculus	numbering:P11716.sv1	pair	219	V	standard		false	219	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+226	Oryctolagus cuniculus	numbering:P11716.sv1	pair	227	M	standard		false	227	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+227	Oryctolagus cuniculus	numbering:P11716.sv1	pair	228	D	standard		false	228	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+248	Oryctolagus cuniculus	numbering:P11716.sv1	pair	249	G	standard		false	249	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+316	Oryctolagus cuniculus	numbering:P11716.sv1	pair	317	R	standard		false	317	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+328	Oryctolagus cuniculus	numbering:P11716.sv1	pair	329	R	standard		false	329	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+341	Oryctolagus cuniculus	numbering:P11716.sv1	pair	342	G	standard		false	342	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+342	Oryctolagus cuniculus	numbering:P11716.sv1	pair	343	E	standard		false	343	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+367	Oryctolagus cuniculus	numbering:P11716.sv1	pair	368	R	standard		false	368	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+382	Oryctolagus cuniculus	numbering:P11716.sv1	pair	383	H	standard		false	383	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+401	Oryctolagus cuniculus	numbering:P11716.sv1	pair	402	R	standard		false	402	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+403	Oryctolagus cuniculus	numbering:P11716.sv1	pair	404	I	standard		false	404	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+464	Oryctolagus cuniculus	numbering:P11716.sv1	pair	465	Q	standard		false	465	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+471	Oryctolagus cuniculus	numbering:P11716.sv1	pair	472	R	standard		false	472	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+474	Oryctolagus cuniculus	numbering:P11716.sv1	pair	475	Q	standard		false	475	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+485	Oryctolagus cuniculus	numbering:P11716.sv1	pair	486	L	standard		false	486	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-08	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+487	Oryctolagus cuniculus	numbering:P11716.sv1	pair	488	L	standard		false	488	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+492	Oryctolagus cuniculus	numbering:P11716.sv1	pair	493	R	standard		false	493	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+518	Oryctolagus cuniculus	numbering:P11716.sv1	pair	519	V	standard		false	519	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+522	Oryctolagus cuniculus	numbering:P11716.sv1	pair	523	Y	standard		false	523	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-01	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+530	Oryctolagus cuniculus	numbering:P11716.sv1	pair	531	R	standard		false	531	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+533	Oryctolagus cuniculus	numbering:P11716.sv1	pair	534	R	standard		false	534	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+539	Oryctolagus cuniculus	numbering:P11716.sv1	pair	540	F	standard		false	540	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+544	Oryctolagus cuniculus	numbering:P11716.sv1	pair	545	D	standard		false	545	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+552	Oryctolagus cuniculus	numbering:P11716.sv1	pair	553	R	standard		false	553	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+612	Oryctolagus cuniculus	numbering:P11716.sv1	pair	613	A	standard		false	613	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+614	Oryctolagus cuniculus	numbering:P11716.sv1	pair	615	R	standard		false	615	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+684	Oryctolagus cuniculus	numbering:P11716.sv1	pair	685	G	standard		false	685	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+708	Oryctolagus cuniculus	numbering:P11716.sv1	pair	709	D	standard		false	709	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+816	Oryctolagus cuniculus	numbering:P11716.sv1	pair	817	P	standard		false	817	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+846	Oryctolagus cuniculus	numbering:P11716.sv1	pair	847	S	lowered	repeat	false	847	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+885	Oryctolagus cuniculus	numbering:P11716.sv1	pair	886	R	lowered	repeat	false	886	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+893	Oryctolagus cuniculus	numbering:P11716.sv1	pair	894	G	lowered	repeat	false	894	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+933	Oryctolagus cuniculus	numbering:P11716.sv1	pair	934	A	lowered	repeat	false	934	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+975	Oryctolagus cuniculus	numbering:P11716.sv1	pair	976	R	lowered	repeat	false	976	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+999	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1000	R	lowered	repeat	false	1000	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1032	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1033	R	lowered	repeat	false	1033	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1043	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1044	R	lowered	repeat	false	1044	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1056	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1057	D	lowered	repeat	false	1057	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1058	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1059	E	lowered	repeat	false	1059	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1075	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1076	R	standard		false	1076	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1140	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1141	R	standard		false	1141	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1176	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1177	T	standard		false	1177	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1219	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1220	Q	standard		false	1220	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1223	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1224	E	standard		false	1224	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1301	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1302	R	standard		false	1302	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1342	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1343	G	lowered	disordered	false	1343	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1352	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1353	A	lowered	disordered;repeat	false	1353	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1393	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1394	K	standard		false	1394	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1467	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1468	K	standard		false	1468	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1571	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1572	I	standard		false	1572	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1577	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1578	A	standard		false	1578	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1583	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1584	R	standard		false	1584	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1588	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1589	P	standard		false	1589	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1592	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1593	P	standard		false	1593	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1667	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1668	R	standard		false	1668	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1675	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1676	L	standard		false	1676	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1678	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1679	N	standard		false	1679	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1679	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1680	R	standard		false	1680	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1711	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1712	Y	standard		false	1712	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1728	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1729	S	standard		false	1729	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1729	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1730	M	standard		false	1730	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1773	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1773	P	standard		false	1774	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1781	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1781	C	standard		false	1782	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1787	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1787	P	standard		false	1788	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1814	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1814	M	standard		false	1815	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+1964	Oryctolagus cuniculus	numbering:P11716.sv1	pair	1964	R	standard		false	1968	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2013	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2013	K	standard		false	2017	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2060	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2060	S	standard		false	2064	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2101	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2101	M	standard		false	2105	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2102	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2102	V	standard		false	2106	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2117	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2117	V	standard		false	2121	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2126	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2126	R	standard		false	2130	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2129	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2129	D	standard		false	2133	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2130	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2130	G	standard		false	2134	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2160	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2160	G	standard		false	2164	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2163	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2163	R	standard		false	2167	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2168	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2168	V	standard		false	2172	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2182	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2182	I	standard		false	2186	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2183	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2183	G	standard		false	2187	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2200	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2200	A	standard		false	2204	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2204	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2204	H	standard		false	2208	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2206	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2206	T	standard		false	2210	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2210	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2210	V	standard		false	2214	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2212	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2212	V	standard		false	2216	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2214	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2214	V	standard		false	2218	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2224	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2224	R	standard		false	2228	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2237	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2237	C	standard		false	2241	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2248	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2248	R	standard		false	2252	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2253	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2253	H	standard		false	2257	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2280	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2280	V	standard		false	2284	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2283	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2283	N	standard		false	2287	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2321	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2321	I	standard		false	2325	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2336	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2336	R	standard		false	2340	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2340	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2340	F	standard		false	2344	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2342	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2342	N	standard		false	2346	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2344	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2344	E	standard		false	2348	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2345	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2345	S	standard		false	2349	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2346	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2346	V	standard		false	2350	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2348	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2348	E	standard		false	2352	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2350	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2350	A	standard		false	2354	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2354	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2354	V	standard		false	2358	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2355	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2355	R	standard		false	2359	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2358	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2358	I	standard		false	2362	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2359	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2359	R	standard		false	2363	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2362	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2362	E	standard		false	2366	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2363	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2363	C	standard		false	2367	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2364	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2364	F	standard		false	2368	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2366	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2366	P	standard		false	2370	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2367	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2367	A	standard		false	2371	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2371	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2371	E	standard		false	2375	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2375	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2375	G	standard		false	2379	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2400	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2400	D	lowered	disordered	false	2404	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2404	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2404	E	lowered	disordered	false	2408	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2428	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2428	A	standard		false	2432	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2431	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2431	D	standard		false	2435	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2434	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2434	G	standard		false	2438	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2435	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2435	R	standard		false	2439	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2436	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2436	C	standard		false	2440	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2437	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2437	A	standard		false	2441	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2439	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2439	E	standard		false	2443	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2452	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2452	R	standard		false	2456	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2453	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2453	I	standard		false	2457	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2454	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2454	R	standard		false	2458	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2458	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2458	R	standard		false	2462	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2462	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2462	P	standard		false	2466	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2496	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2496	P	standard		false	2500	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2508	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2508	R	standard		false	2512	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2510	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2510	Y	standard		false	2514	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2542	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2542	S	standard		false	2546	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2560	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2560	P	standard		false	2564	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2587	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2587	Y	standard		false	2591	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2591	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2591	R	standard		false	2595	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2593	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2593	R	standard		false	2597	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2596	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2596	T	standard		false	2600	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2606	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2606	C	standard		false	2610	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2627	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2627	V	standard		false	2631	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2635	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2635	E	standard		false	2639	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2669	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2669	E	standard		false	2673	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2676	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2676	R	standard		false	2680	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2685	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2685	S	standard		false	2689	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2730	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2730	D	lowered	repeat	false	2734	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2733	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2733	G	lowered	repeat	false	2737	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2764	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2764	E	lowered	repeat	false	2768	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2776	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2776	S	lowered	repeat	false	2780	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2787	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2787	T	lowered	repeat	false	2791	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2840	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2840	R	lowered	disordered;repeat	false	2844	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2843	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2843	S	lowered	disordered;repeat	false	2847	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2867	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2867	L	lowered	repeat	false	2871	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2880	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2880	E	lowered	repeat	false	2884	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2885	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2885	T	lowered	repeat	false	2889	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2910	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2910	T	lowered	repeat	false	2914	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2963	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2963	L	standard		false	2967	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+2976	Oryctolagus cuniculus	numbering:P11716.sv1	pair	2976	H	standard		false	2980	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3051	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3051	R	standard		false	3055	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3090	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3090	A	standard		false	3094	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3104	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3104	E	standard		false	3108	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3118	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3118	A	standard		false	3122	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3119	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3119	R	standard		false	3123	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3212	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3212	E	standard		false	3216	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3217	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3217	S	standard		false	3221	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3218	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3218	V	standard		false	3222	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3226	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3226	E	standard		false	3230	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3253	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3253	I	standard		false	3257	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3266	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3266	M	standard		false	3270	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3283	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3283	R	standard		false	3287	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3284	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3284	W	standard		false	3288	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3290	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3290	E	standard		false	3294	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3292	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3292	P	standard		false	3296	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3324	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3324	V	standard		false	3328	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3348	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3348	R	standard		false	3352	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3366	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3366	R	standard		false	3370	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3367	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3367	K	standard		false	3371	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3402	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3402	C	standard		false	3406	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3410	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3410	P	standard		false	3414	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3413	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3413	I	standard		false	3417	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3418	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3418	N	standard		false	3422	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3519	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3519	P	standard		false	3523	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3539	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3539	R	standard		false	3543	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3550	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3550	R	standard		false	3554	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3583	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3583	E	standard		false	3587	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3584	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3584	E	standard		false	3588	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3631	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3631	A	standard		false	3635	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3696	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3696	D	standard		false	3700	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3707	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3707	R	standard		false	3711	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3709	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3709	A	standard		false	3713	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3711	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3711	T	standard		false	3715	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3756	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3757	E	lowered	near-indel	false	3761	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3772	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3773	R	standard		false	3777	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3806	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3807	G	standard		false	3811	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3840	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3841	V	standard		false	3845	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3903	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3904	R	standard		false	3908	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3908	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3909	N	standard		false	3913	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3916	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3917	I	standard		false	3921	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3933	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3934	Y	standard		false	3938	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3938	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3939	G	standard		false	3943	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3983	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3984	R	standard		false	3988	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3985	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3986	W	standard		false	3990	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3986	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3987	D	standard		false	3991	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+3990	Oryctolagus cuniculus	numbering:P11716.sv1	pair	3991	G	standard		false	3995	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4010	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4011	E	standard		false	4015	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4022	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4023	M	standard		false	4027	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4039	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4040	I	standard		false	4044	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4041	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4042	R	standard		false	4046	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4050	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4051	S	standard		false	4055	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4081	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4082	T	standard		false	4086	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4104	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4105	G	standard		false	4109	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4119	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4120	N	standard		false	4124	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4128	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4129	A	standard		false	4133	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4133	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4134	E	standard		false	4138	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4136	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4137	R	standard		false	4141	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4138	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4139	I	standard		false	4143	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4178	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4179	G	standard		false	4183	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4185	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4186	A	standard		false	4190	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4230	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4231	M	standard		false	4235	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4234	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4235	V	standard		false	4239	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4283	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4282	E	lowered	compositional-bias;disordered	false	4288	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4294	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4293	T	standard		false	4299	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4295	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4294	A	standard		false	4300	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4501	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4498	P	lowered	compositional-bias;disordered;near-indel	false	4506	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4502	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4499	E	lowered	compositional-bias;disordered;near-indel	false	4507	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4505	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4502	D	lowered	compositional-bias;disordered;near-indel	false	4510	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4558	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4557	R	standard		false	4566	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4568	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4567	L	standard		false	4576	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4587	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4586	P	standard		false	4595	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4638	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4637	G	standard		false	4646	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4640	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4639	M	standard		false	4648	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4645	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4644	W	standard		false	4653	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4650	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4649	L	standard		false	4658	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4664	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4663	C	standard		false	4672	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4665	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4664	L	standard		false	4673	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4668	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4667	P	standard		false	4676	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4684	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4683	F	standard		false	4692	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4709	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4708	T	standard		false	4717	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4723	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4722	R	standard		false	4731	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4725	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4724	V	standard		false	4733	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4729	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4728	H	standard		false	4737	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4733	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4732	F	standard		false	4741	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4734	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4733	G	standard		false	4742	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4737	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4736	R	standard		false	4745	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4757	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4756	R	standard		false	4765	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4796	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4795	Y	standard		false	4804	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4808	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4807	F	standard		false	4816	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4817	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4816	I	standard		false	4825	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4820	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4819	G	standard		false	4828	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4824	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4823	L	standard		false	4832	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4826	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4825	T	standard		false	4834	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4833	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4832	H	standard		false	4841	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4837	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4836	Q	standard		false	4845	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-09	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+4838	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4837	L	standard		false	4846	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4842	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4841	V	standard		false	4850	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4847	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4846	V	standard		false	4855	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4849	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4848	V	standard		false	4857	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4851	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4850	L	standard		false	4859	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4853	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4852	T	standard		false	4861	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4856	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4855	A	standard		false	4864	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4861	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4860	R	standard		false	4869	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4876	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4875	K	standard		false	4884	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4880	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4879	M	standard		false	4888	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	true	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4893	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4892	R	standard		false	4901	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4894	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4893	A	standard		false	4902	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4897	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4896	G	standard		false	4905	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4898	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4897	I	standard		false	4906	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4928	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4927	I	standard		false	4936	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa	A6-06	cs:check_result.R2g8_EbkE2AkRkXlt0hrjWN5bMxBofK1
+4935	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4934	G	standard		false	4943	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4938	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4937	I	standard		false	4946	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	true	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4939	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4938	D	standard		false	4947	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4940	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4939	A	standard		false	4948	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4942	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4941	G	standard		false	4950	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4960	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4959	F	standard		false	4968	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4973	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4972	P	standard		false	4981	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4976	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4975	F	standard		false	4984	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+4990	Oryctolagus cuniculus	numbering:P11716.sv1	pair	4989	M	standard		false	4998	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+5020	Oryctolagus cuniculus	numbering:P11716.sv1	pair	5019	W	standard		false	5028	cs:table.5URsZZtyhn3vUFBvDH0dg0YxVwduVhjo	false	false	cs:numbering.y9heVhYNcbvHgB8QdRIVWiziSbXW0eOa		
+13	Mus musculus	numbering:E9PZQ0.sv1	pair	15	L	lowered	near-indel	false	15	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+33	Mus musculus	numbering:E9PZQ0.sv1	pair	35	K	standard		false	35	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+35	Mus musculus	numbering:E9PZQ0.sv1	pair	37	C	standard		false	37	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+40	Mus musculus	numbering:E9PZQ0.sv1	pair	42	G	standard		false	42	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+44	Mus musculus	numbering:E9PZQ0.sv1	pair	46	R	standard		false	46	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+51	Mus musculus	numbering:E9PZQ0.sv1	pair	53	T	standard		false	53	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+60	Mus musculus	numbering:E9PZQ0.sv1	pair	62	D	standard		false	62	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+64	Mus musculus	numbering:E9PZQ0.sv1	pair	66	C	standard		false	66	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+71	Mus musculus	numbering:E9PZQ0.sv1	pair	73	S	standard		false	73	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+84	Mus musculus	numbering:E9PZQ0.sv1	pair	86	T	standard		false	86	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+140	Mus musculus	numbering:E9PZQ0.sv1	pair	142	A	standard		false	142	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+152	Mus musculus	numbering:E9PZQ0.sv1	pair	154	A	standard		false	154	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+155	Mus musculus	numbering:E9PZQ0.sv1	pair	157	Q	standard		false	157	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+156	Mus musculus	numbering:E9PZQ0.sv1	pair	158	R	standard		false	158	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+160	Mus musculus	numbering:E9PZQ0.sv1	pair	162	E	standard		false	162	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+163	Mus musculus	numbering:E9PZQ0.sv1	pair	165	R	standard		false	165	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+165	Mus musculus	numbering:E9PZQ0.sv1	pair	167	G	standard		false	167	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+166	Mus musculus	numbering:E9PZQ0.sv1	pair	168	D	standard		false	168	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+176	Mus musculus	numbering:E9PZQ0.sv1	pair	178	E	standard		false	178	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+177	Mus musculus	numbering:E9PZQ0.sv1	pair	179	R	standard		false	179	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+178	Mus musculus	numbering:E9PZQ0.sv1	pair	180	Y	standard		false	180	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+193	Mus musculus	numbering:E9PZQ0.sv1	pair	195	S	standard		false	195	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+207	Mus musculus	numbering:E9PZQ0.sv1	pair	209	G	standard		false	209	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+209	Mus musculus	numbering:E9PZQ0.sv1	pair	211	E	standard		false	211	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+214	Mus musculus	numbering:E9PZQ0.sv1	pair	216	T	standard		false	216	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+218	Mus musculus	numbering:E9PZQ0.sv1	pair	220	V	standard		false	220	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+226	Mus musculus	numbering:E9PZQ0.sv1	pair	228	M	standard		false	228	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+227	Mus musculus	numbering:E9PZQ0.sv1	pair	229	D	standard		false	229	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+248	Mus musculus	numbering:E9PZQ0.sv1	pair	250	G	standard		false	250	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+316	Mus musculus	numbering:E9PZQ0.sv1	pair	318	R	standard		false	318	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+328	Mus musculus	numbering:E9PZQ0.sv1	pair	330	R	standard		false	330	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+341	Mus musculus	numbering:E9PZQ0.sv1	pair	343	G	standard		false	343	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+342	Mus musculus	numbering:E9PZQ0.sv1	pair	344	E	standard		false	344	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+367	Mus musculus	numbering:E9PZQ0.sv1	pair	369	R	standard		false	369	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+382	Mus musculus	numbering:E9PZQ0.sv1	pair	384	H	standard		false	384	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+401	Mus musculus	numbering:E9PZQ0.sv1	pair	403	R	standard		false	403	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+403	Mus musculus	numbering:E9PZQ0.sv1	pair	405	I	standard		false	405	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+464	Mus musculus	numbering:E9PZQ0.sv1	pair	466	Q	standard		false	466	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+471	Mus musculus	numbering:E9PZQ0.sv1	pair	473	R	standard		false	473	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+474	Mus musculus	numbering:E9PZQ0.sv1	pair	476	Q	standard		false	476	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+485	Mus musculus	numbering:E9PZQ0.sv1	pair	487	L	standard		false	487	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+487	Mus musculus	numbering:E9PZQ0.sv1	pair	489	L	standard		false	489	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+492	Mus musculus	numbering:E9PZQ0.sv1	pair	494	R	standard		false	494	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+518	Mus musculus	numbering:E9PZQ0.sv1	pair	520	V	standard		false	520	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+522	Mus musculus	numbering:E9PZQ0.sv1	pair	524	Y	standard		false	524	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+530	Mus musculus	numbering:E9PZQ0.sv1	pair	532	R	standard		false	532	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+533	Mus musculus	numbering:E9PZQ0.sv1	pair	535	R	standard		false	535	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+539	Mus musculus	numbering:E9PZQ0.sv1	pair	541	F	standard		false	541	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+544	Mus musculus	numbering:E9PZQ0.sv1	pair	546	D	standard		false	546	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+552	Mus musculus	numbering:E9PZQ0.sv1	pair	554	R	standard		false	554	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+612	Mus musculus	numbering:E9PZQ0.sv1	pair	614	A	standard		false	614	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+614	Mus musculus	numbering:E9PZQ0.sv1	pair	616	R	standard		false	616	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+684	Mus musculus	numbering:E9PZQ0.sv1	pair	686	G	standard		false	686	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+708	Mus musculus	numbering:E9PZQ0.sv1	pair	710	D	standard		false	710	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+816	Mus musculus	numbering:E9PZQ0.sv1	pair	818	P	standard		false	818	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+846	Mus musculus	numbering:E9PZQ0.sv1	pair	848	S	lowered	repeat	false	848	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+885	Mus musculus	numbering:E9PZQ0.sv1	pair	887	R	lowered	repeat	false	887	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+893	Mus musculus	numbering:E9PZQ0.sv1	pair	895	G	lowered	repeat	false	895	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+933	Mus musculus	numbering:E9PZQ0.sv1	pair	935	A	lowered	repeat	false	935	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+975	Mus musculus	numbering:E9PZQ0.sv1	pair	977	R	lowered	repeat	false	977	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+999	Mus musculus	numbering:E9PZQ0.sv1	pair	1001	R	lowered	repeat	false	1001	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1032	Mus musculus	numbering:E9PZQ0.sv1	pair	1034	R	lowered	repeat	false	1034	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1043	Mus musculus	numbering:E9PZQ0.sv1	pair	1045	R	lowered	repeat	false	1045	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1056	Mus musculus	numbering:E9PZQ0.sv1	pair	1058	D	lowered	repeat	false	1058	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1058	Mus musculus	numbering:E9PZQ0.sv1	pair	1060	E	lowered	repeat	false	1060	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1075	Mus musculus	numbering:E9PZQ0.sv1	pair	1077	R	standard		false	1077	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1140	Mus musculus	numbering:E9PZQ0.sv1	pair	1142	R	standard		false	1142	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1176	Mus musculus	numbering:E9PZQ0.sv1	pair	1178	T	standard		false	1178	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1219	Mus musculus	numbering:E9PZQ0.sv1	pair	1221	Q	standard		false	1221	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1223	Mus musculus	numbering:E9PZQ0.sv1	pair	1225	E	standard		false	1225	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1301	Mus musculus	numbering:E9PZQ0.sv1	pair	1303	R	standard		false	1303	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1342	Mus musculus	numbering:E9PZQ0.sv1	pair	1344	G	lowered	disordered	false	1344	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1352	Mus musculus	numbering:E9PZQ0.sv1	pair	1354	A	lowered	disordered;repeat	false	1354	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1393	Mus musculus	numbering:E9PZQ0.sv1	pair	1395	K	standard		false	1395	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1467	Mus musculus	numbering:E9PZQ0.sv1	pair	1469	K	standard		false	1469	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1571	Mus musculus	numbering:E9PZQ0.sv1	pair	1573	I	standard		false	1573	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1577	Mus musculus	numbering:E9PZQ0.sv1	pair	1579	A	standard		false	1579	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1583	Mus musculus	numbering:E9PZQ0.sv1	pair	1585	R	standard		false	1585	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1588	Mus musculus	numbering:E9PZQ0.sv1	pair	1590	P	standard		false	1590	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1592	Mus musculus	numbering:E9PZQ0.sv1	pair	1594	P	standard		false	1594	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1667	Mus musculus	numbering:E9PZQ0.sv1	pair	1669	S	standard		false	1669	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1675	Mus musculus	numbering:E9PZQ0.sv1	pair	1677	L	standard		false	1677	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1678	Mus musculus	numbering:E9PZQ0.sv1	pair	1680	N	standard		false	1680	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1679	Mus musculus	numbering:E9PZQ0.sv1	pair	1681	R	standard		false	1681	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1711	Mus musculus	numbering:E9PZQ0.sv1	pair	1713	Y	standard		false	1713	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1728	Mus musculus	numbering:E9PZQ0.sv1	pair	1730	S	standard		false	1730	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1729	Mus musculus	numbering:E9PZQ0.sv1	pair	1731	M	standard		false	1731	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1773	Mus musculus	numbering:E9PZQ0.sv1	pair	1775	P	standard		false	1775	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1781	Mus musculus	numbering:E9PZQ0.sv1	pair	1783	C	standard		false	1783	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1787	Mus musculus	numbering:E9PZQ0.sv1	pair	1789	P	standard		false	1789	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1814	Mus musculus	numbering:E9PZQ0.sv1	pair	1816	M	standard		false	1816	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+1964	Mus musculus	numbering:E9PZQ0.sv1	pair	1965	C	standard		false	1967	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2013	Mus musculus	numbering:E9PZQ0.sv1	pair	2014	K	standard		false	2016	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2060	Mus musculus	numbering:E9PZQ0.sv1	pair	2061	G	standard		false	2063	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2101	Mus musculus	numbering:E9PZQ0.sv1	pair	2102	T	standard		false	2104	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2102	Mus musculus	numbering:E9PZQ0.sv1	pair	2103	V	standard		false	2105	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2117	Mus musculus	numbering:E9PZQ0.sv1	pair	2118	V	standard		false	2120	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2126	Mus musculus	numbering:E9PZQ0.sv1	pair	2127	R	standard		false	2129	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2129	Mus musculus	numbering:E9PZQ0.sv1	pair	2130	D	standard		false	2132	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2130	Mus musculus	numbering:E9PZQ0.sv1	pair	2131	G	standard		false	2133	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2160	Mus musculus	numbering:E9PZQ0.sv1	pair	2161	G	standard		false	2163	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2163	Mus musculus	numbering:E9PZQ0.sv1	pair	2164	R	standard		false	2166	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2168	Mus musculus	numbering:E9PZQ0.sv1	pair	2169	V	standard		false	2171	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2182	Mus musculus	numbering:E9PZQ0.sv1	pair	2183	I	standard		false	2185	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2183	Mus musculus	numbering:E9PZQ0.sv1	pair	2184	G	standard		false	2186	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2200	Mus musculus	numbering:E9PZQ0.sv1	pair	2201	A	standard		false	2203	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2204	Mus musculus	numbering:E9PZQ0.sv1	pair	2205	H	standard		false	2207	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2206	Mus musculus	numbering:E9PZQ0.sv1	pair	2207	T	standard		false	2209	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2210	Mus musculus	numbering:E9PZQ0.sv1	pair	2211	V	standard		false	2213	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2212	Mus musculus	numbering:E9PZQ0.sv1	pair	2213	V	standard		false	2215	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2214	Mus musculus	numbering:E9PZQ0.sv1	pair	2215	V	standard		false	2217	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2224	Mus musculus	numbering:E9PZQ0.sv1	pair	2225	R	standard		false	2227	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2237	Mus musculus	numbering:E9PZQ0.sv1	pair	2238	C	standard		false	2240	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2248	Mus musculus	numbering:E9PZQ0.sv1	pair	2249	R	standard		false	2251	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2253	Mus musculus	numbering:E9PZQ0.sv1	pair	2254	H	standard		false	2256	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2280	Mus musculus	numbering:E9PZQ0.sv1	pair	2281	V	standard		false	2283	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2283	Mus musculus	numbering:E9PZQ0.sv1	pair	2284	N	standard		false	2286	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2321	Mus musculus	numbering:E9PZQ0.sv1	pair	2322	I	standard		false	2324	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2336	Mus musculus	numbering:E9PZQ0.sv1	pair	2337	R	standard		false	2339	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2340	Mus musculus	numbering:E9PZQ0.sv1	pair	2341	F	standard		false	2343	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2342	Mus musculus	numbering:E9PZQ0.sv1	pair	2343	N	standard		false	2345	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2344	Mus musculus	numbering:E9PZQ0.sv1	pair	2345	E	standard		false	2347	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2345	Mus musculus	numbering:E9PZQ0.sv1	pair	2346	S	standard		false	2348	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2346	Mus musculus	numbering:E9PZQ0.sv1	pair	2347	V	standard		false	2349	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2348	Mus musculus	numbering:E9PZQ0.sv1	pair	2349	E	standard		false	2351	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2350	Mus musculus	numbering:E9PZQ0.sv1	pair	2351	A	standard		false	2353	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2354	Mus musculus	numbering:E9PZQ0.sv1	pair	2355	V	standard		false	2357	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2355	Mus musculus	numbering:E9PZQ0.sv1	pair	2356	R	standard		false	2358	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2358	Mus musculus	numbering:E9PZQ0.sv1	pair	2359	I	standard		false	2361	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2359	Mus musculus	numbering:E9PZQ0.sv1	pair	2360	R	standard		false	2362	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2362	Mus musculus	numbering:E9PZQ0.sv1	pair	2363	E	standard		false	2365	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2363	Mus musculus	numbering:E9PZQ0.sv1	pair	2364	C	standard		false	2366	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2364	Mus musculus	numbering:E9PZQ0.sv1	pair	2365	F	standard		false	2367	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2366	Mus musculus	numbering:E9PZQ0.sv1	pair	2367	P	standard		false	2369	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2367	Mus musculus	numbering:E9PZQ0.sv1	pair	2368	A	standard		false	2370	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2371	Mus musculus	numbering:E9PZQ0.sv1	pair	2372	E	standard		false	2374	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2375	Mus musculus	numbering:E9PZQ0.sv1	pair	2376	G	standard		false	2378	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2400	Mus musculus	numbering:E9PZQ0.sv1	pair	2401	D	lowered	disordered	false	2403	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2404	Mus musculus	numbering:E9PZQ0.sv1	pair	2405	E	lowered	disordered	false	2407	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2428	Mus musculus	numbering:E9PZQ0.sv1	pair	2429	A	standard		false	2431	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2431	Mus musculus	numbering:E9PZQ0.sv1	pair	2432	D	standard		false	2434	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2434	Mus musculus	numbering:E9PZQ0.sv1	pair	2435	G	standard		false	2437	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2435	Mus musculus	numbering:E9PZQ0.sv1	pair	2436	R	standard		false	2438	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2436	Mus musculus	numbering:E9PZQ0.sv1	pair	2437	C	standard		false	2439	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2437	Mus musculus	numbering:E9PZQ0.sv1	pair	2438	A	standard		false	2440	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2439	Mus musculus	numbering:E9PZQ0.sv1	pair	2440	E	standard		false	2442	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2452	Mus musculus	numbering:E9PZQ0.sv1	pair	2453	R	standard		false	2455	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2453	Mus musculus	numbering:E9PZQ0.sv1	pair	2454	I	standard		false	2456	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2454	Mus musculus	numbering:E9PZQ0.sv1	pair	2455	R	standard		false	2457	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2458	Mus musculus	numbering:E9PZQ0.sv1	pair	2459	R	standard		false	2461	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2462	Mus musculus	numbering:E9PZQ0.sv1	pair	2463	P	standard		false	2465	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2496	Mus musculus	numbering:E9PZQ0.sv1	pair	2497	P	standard		false	2499	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2508	Mus musculus	numbering:E9PZQ0.sv1	pair	2509	R	standard		false	2511	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2510	Mus musculus	numbering:E9PZQ0.sv1	pair	2511	Y	standard		false	2513	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2542	Mus musculus	numbering:E9PZQ0.sv1	pair	2543	S	standard		false	2545	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2560	Mus musculus	numbering:E9PZQ0.sv1	pair	2561	P	standard		false	2563	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2587	Mus musculus	numbering:E9PZQ0.sv1	pair	2588	Y	standard		false	2590	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2591	Mus musculus	numbering:E9PZQ0.sv1	pair	2592	R	standard		false	2594	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2593	Mus musculus	numbering:E9PZQ0.sv1	pair	2594	R	standard		false	2596	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2596	Mus musculus	numbering:E9PZQ0.sv1	pair	2597	T	standard		false	2599	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2606	Mus musculus	numbering:E9PZQ0.sv1	pair	2607	C	standard		false	2609	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2627	Mus musculus	numbering:E9PZQ0.sv1	pair	2628	V	standard		false	2630	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2635	Mus musculus	numbering:E9PZQ0.sv1	pair	2636	E	standard		false	2638	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2669	Mus musculus	numbering:E9PZQ0.sv1	pair	2670	E	standard		false	2672	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2676	Mus musculus	numbering:E9PZQ0.sv1	pair	2677	R	standard		false	2679	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2685	Mus musculus	numbering:E9PZQ0.sv1	pair	2686	S	standard		false	2688	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2730	Mus musculus	numbering:E9PZQ0.sv1	pair	2731	D	lowered	repeat	false	2733	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2733	Mus musculus	numbering:E9PZQ0.sv1	pair	2734	G	lowered	repeat	false	2736	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2764	Mus musculus	numbering:E9PZQ0.sv1	pair	2765	E	lowered	repeat	false	2767	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2776	Mus musculus	numbering:E9PZQ0.sv1	pair	2777	S	lowered	repeat	false	2779	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2787	Mus musculus	numbering:E9PZQ0.sv1	pair	2788	T	lowered	repeat	false	2790	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2840	Mus musculus	numbering:E9PZQ0.sv1	pair	2841	R	lowered	disordered;repeat	false	2843	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2843	Mus musculus	numbering:E9PZQ0.sv1	pair	2844	S	lowered	disordered;repeat	false	2846	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2867	Mus musculus	numbering:E9PZQ0.sv1	pair	2868	L	lowered	repeat	false	2870	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2880	Mus musculus	numbering:E9PZQ0.sv1	pair	2881	E	lowered	repeat	false	2883	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2885	Mus musculus	numbering:E9PZQ0.sv1	pair	2886	T	lowered	repeat	false	2888	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2910	Mus musculus	numbering:E9PZQ0.sv1	pair	2911	T	lowered	repeat	false	2913	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2963	Mus musculus	numbering:E9PZQ0.sv1	pair	2964	L	standard		false	2966	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+2976	Mus musculus	numbering:E9PZQ0.sv1	pair	2977	H	standard		false	2979	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3051	Mus musculus	numbering:E9PZQ0.sv1	pair	3052	R	standard		false	3054	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3090	Mus musculus	numbering:E9PZQ0.sv1	pair	3091	A	standard		false	3093	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3104	Mus musculus	numbering:E9PZQ0.sv1	pair	3105	E	standard		false	3107	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3118	Mus musculus	numbering:E9PZQ0.sv1	pair	3119	A	standard		false	3121	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3119	Mus musculus	numbering:E9PZQ0.sv1	pair	3120	R	standard		false	3122	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3212	Mus musculus	numbering:E9PZQ0.sv1	pair	3213	E	standard		false	3215	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3217	Mus musculus	numbering:E9PZQ0.sv1	pair	3218	S	standard		false	3220	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3218	Mus musculus	numbering:E9PZQ0.sv1	pair	3219	V	standard		false	3221	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3226	Mus musculus	numbering:E9PZQ0.sv1	pair	3227	E	standard		false	3229	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3253	Mus musculus	numbering:E9PZQ0.sv1	pair	3254	I	standard		false	3256	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3266	Mus musculus	numbering:E9PZQ0.sv1	pair	3267	M	standard		false	3269	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3283	Mus musculus	numbering:E9PZQ0.sv1	pair	3284	R	standard		false	3286	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3284	Mus musculus	numbering:E9PZQ0.sv1	pair	3285	W	standard		false	3287	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3290	Mus musculus	numbering:E9PZQ0.sv1	pair	3291	E	standard		false	3293	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3292	Mus musculus	numbering:E9PZQ0.sv1	pair	3293	P	standard		false	3295	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3324	Mus musculus	numbering:E9PZQ0.sv1	pair	3325	V	standard		false	3327	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3348	Mus musculus	numbering:E9PZQ0.sv1	pair	3349	R	standard		false	3351	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3366	Mus musculus	numbering:E9PZQ0.sv1	pair	3367	R	standard		false	3369	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3367	Mus musculus	numbering:E9PZQ0.sv1	pair	3368	K	standard		false	3370	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3402	Mus musculus	numbering:E9PZQ0.sv1	pair	3403	C	standard		false	3405	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3410	Mus musculus	numbering:E9PZQ0.sv1	pair	3411	P	standard		false	3413	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3413	Mus musculus	numbering:E9PZQ0.sv1	pair	3414	I	standard		false	3416	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3418	Mus musculus	numbering:E9PZQ0.sv1	pair	3419	N	standard		false	3421	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3519	Mus musculus	numbering:E9PZQ0.sv1	pair	3520	P	standard		false	3522	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3539	Mus musculus	numbering:E9PZQ0.sv1	pair	3540	R	standard		false	3542	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3550	Mus musculus	numbering:E9PZQ0.sv1	pair	3551	R	standard		false	3553	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3583	Mus musculus	numbering:E9PZQ0.sv1	pair	3584	E	standard		false	3586	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3584	Mus musculus	numbering:E9PZQ0.sv1	pair	3585	E	standard		false	3587	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3631	Mus musculus	numbering:E9PZQ0.sv1	pair	3632	A	standard		false	3634	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3696	Mus musculus	numbering:E9PZQ0.sv1	pair	3697	D	standard		false	3699	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3707	Mus musculus	numbering:E9PZQ0.sv1	pair	3708	R	standard		false	3710	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3709	Mus musculus	numbering:E9PZQ0.sv1	pair	3710	A	standard		false	3712	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3711	Mus musculus	numbering:E9PZQ0.sv1	pair	3712	T	standard		false	3714	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3756	Mus musculus	numbering:E9PZQ0.sv1	pair	3760	E	standard		false	3762	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3772	Mus musculus	numbering:E9PZQ0.sv1	pair	3776	R	standard		false	3778	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3806	Mus musculus	numbering:E9PZQ0.sv1	pair	3810	G	standard		false	3812	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3840	Mus musculus	numbering:E9PZQ0.sv1	pair	3844	V	standard		false	3846	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3903	Mus musculus	numbering:E9PZQ0.sv1	pair	3907	R	standard		false	3909	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3908	Mus musculus	numbering:E9PZQ0.sv1	pair	3912	N	standard		false	3914	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3916	Mus musculus	numbering:E9PZQ0.sv1	pair	3920	I	standard		false	3922	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3933	Mus musculus	numbering:E9PZQ0.sv1	pair	3937	Y	standard		false	3939	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3938	Mus musculus	numbering:E9PZQ0.sv1	pair	3942	G	standard		false	3944	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3983	Mus musculus	numbering:E9PZQ0.sv1	pair	3987	R	standard		false	3989	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3985	Mus musculus	numbering:E9PZQ0.sv1	pair	3989	W	standard		false	3991	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3986	Mus musculus	numbering:E9PZQ0.sv1	pair	3990	D	standard		false	3992	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+3990	Mus musculus	numbering:E9PZQ0.sv1	pair	3994	G	standard		false	3996	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4010	Mus musculus	numbering:E9PZQ0.sv1	pair	4014	E	standard		false	4016	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4022	Mus musculus	numbering:E9PZQ0.sv1	pair	4026	M	standard		false	4028	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4039	Mus musculus	numbering:E9PZQ0.sv1	pair	4043	I	standard		false	4045	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4041	Mus musculus	numbering:E9PZQ0.sv1	pair	4045	R	standard		false	4047	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4050	Mus musculus	numbering:E9PZQ0.sv1	pair	4054	S	standard		false	4056	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4081	Mus musculus	numbering:E9PZQ0.sv1	pair	4085	T	standard		false	4087	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4104	Mus musculus	numbering:E9PZQ0.sv1	pair	4108	G	standard		false	4110	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4119	Mus musculus	numbering:E9PZQ0.sv1	pair	4123	N	standard		false	4125	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4128	Mus musculus	numbering:E9PZQ0.sv1	pair	4132	A	standard		false	4134	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4133	Mus musculus	numbering:E9PZQ0.sv1	pair	4137	E	standard		false	4139	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4136	Mus musculus	numbering:E9PZQ0.sv1	pair	4140	R	standard		false	4142	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4138	Mus musculus	numbering:E9PZQ0.sv1	pair	4142	I	standard		false	4144	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4178	Mus musculus	numbering:E9PZQ0.sv1	pair	4182	G	standard		false	4184	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4185	Mus musculus	numbering:E9PZQ0.sv1	pair	4189	A	standard		false	4191	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4230	Mus musculus	numbering:E9PZQ0.sv1	pair	4234	M	standard		false	4236	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4234	Mus musculus	numbering:E9PZQ0.sv1	pair	4238	V	standard		false	4240	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4283	Mus musculus	numbering:E9PZQ0.sv1	pair	4280	D	lowered	disordered	false	4289	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4294	Mus musculus	numbering:E9PZQ0.sv1	pair	4291	W	standard		false	4300	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4295	Mus musculus	numbering:E9PZQ0.sv1	pair	4292	V	standard		false	4301	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4501	Mus musculus	numbering:E9PZQ0.sv1	pair	4496	P	lowered	compositional-bias;disordered;near-indel	false	4507	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4502	Mus musculus	numbering:E9PZQ0.sv1	pair	4497	E	lowered	compositional-bias;disordered;near-indel	false	4508	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4505	Mus musculus	numbering:E9PZQ0.sv1	pair	4500	D	lowered	compositional-bias;disordered;near-indel	false	4511	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4558	Mus musculus	numbering:E9PZQ0.sv1	pair	4555	R	standard		false	4568	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4568	Mus musculus	numbering:E9PZQ0.sv1	pair	4565	L	standard		false	4578	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4587	Mus musculus	numbering:E9PZQ0.sv1	pair	4584	P	standard		false	4597	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4638	Mus musculus	numbering:E9PZQ0.sv1	pair	4635	G	standard		false	4648	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4640	Mus musculus	numbering:E9PZQ0.sv1	pair	4637	M	standard		false	4650	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4645	Mus musculus	numbering:E9PZQ0.sv1	pair	4642	R	standard		false	4655	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4650	Mus musculus	numbering:E9PZQ0.sv1	pair	4647	L	standard		false	4660	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4664	Mus musculus	numbering:E9PZQ0.sv1	pair	4661	C	standard		false	4674	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4665	Mus musculus	numbering:E9PZQ0.sv1	pair	4662	L	standard		false	4675	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4668	Mus musculus	numbering:E9PZQ0.sv1	pair	4665	P	standard		false	4678	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4684	Mus musculus	numbering:E9PZQ0.sv1	pair	4681	F	standard		false	4694	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4709	Mus musculus	numbering:E9PZQ0.sv1	pair	4706	T	standard		false	4719	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4723	Mus musculus	numbering:E9PZQ0.sv1	pair	4720	R	standard		false	4733	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4725	Mus musculus	numbering:E9PZQ0.sv1	pair	4722	V	standard		false	4735	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4729	Mus musculus	numbering:E9PZQ0.sv1	pair	4726	H	standard		false	4739	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4733	Mus musculus	numbering:E9PZQ0.sv1	pair	4730	F	standard		false	4743	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4734	Mus musculus	numbering:E9PZQ0.sv1	pair	4731	G	standard		false	4744	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4737	Mus musculus	numbering:E9PZQ0.sv1	pair	4734	R	standard		false	4747	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4757	Mus musculus	numbering:E9PZQ0.sv1	pair	4754	R	standard		false	4767	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4796	Mus musculus	numbering:E9PZQ0.sv1	pair	4793	Y	standard		false	4806	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4808	Mus musculus	numbering:E9PZQ0.sv1	pair	4805	F	standard		false	4818	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4817	Mus musculus	numbering:E9PZQ0.sv1	pair	4814	I	standard		false	4827	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4820	Mus musculus	numbering:E9PZQ0.sv1	pair	4817	G	standard		false	4830	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4824	Mus musculus	numbering:E9PZQ0.sv1	pair	4821	L	standard		false	4834	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4826	Mus musculus	numbering:E9PZQ0.sv1	pair	4823	T	standard		false	4836	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4833	Mus musculus	numbering:E9PZQ0.sv1	pair	4830	H	standard		false	4843	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4837	Mus musculus	numbering:E9PZQ0.sv1	pair	4834	Q	standard		false	4847	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4838	Mus musculus	numbering:E9PZQ0.sv1	pair	4835	L	standard		false	4848	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4842	Mus musculus	numbering:E9PZQ0.sv1	pair	4839	V	standard		false	4852	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4847	Mus musculus	numbering:E9PZQ0.sv1	pair	4844	V	standard		false	4857	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4849	Mus musculus	numbering:E9PZQ0.sv1	pair	4846	V	standard		false	4859	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4851	Mus musculus	numbering:E9PZQ0.sv1	pair	4848	L	standard		false	4861	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4853	Mus musculus	numbering:E9PZQ0.sv1	pair	4850	T	standard		false	4863	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4856	Mus musculus	numbering:E9PZQ0.sv1	pair	4853	A	standard		false	4866	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4861	Mus musculus	numbering:E9PZQ0.sv1	pair	4858	R	standard		false	4871	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4876	Mus musculus	numbering:E9PZQ0.sv1	pair	4873	K	standard		false	4886	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4880	Mus musculus	numbering:E9PZQ0.sv1	pair	4877	M	standard		false	4890	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	true	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4893	Mus musculus	numbering:E9PZQ0.sv1	pair	4890	R	standard		false	4903	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4894	Mus musculus	numbering:E9PZQ0.sv1	pair	4891	A	standard		false	4904	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4897	Mus musculus	numbering:E9PZQ0.sv1	pair	4894	G	standard		false	4907	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4898	Mus musculus	numbering:E9PZQ0.sv1	pair	4895	I	standard		false	4908	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4928	Mus musculus	numbering:E9PZQ0.sv1	pair	4925	I	standard		false	4938	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4935	Mus musculus	numbering:E9PZQ0.sv1	pair	4932	G	standard		false	4945	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4938	Mus musculus	numbering:E9PZQ0.sv1	pair	4935	I	standard		false	4948	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	true	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4939	Mus musculus	numbering:E9PZQ0.sv1	pair	4936	D	standard		false	4949	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4940	Mus musculus	numbering:E9PZQ0.sv1	pair	4937	A	standard		false	4950	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4942	Mus musculus	numbering:E9PZQ0.sv1	pair	4939	G	standard		false	4952	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4960	Mus musculus	numbering:E9PZQ0.sv1	pair	4957	F	standard		false	4970	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4973	Mus musculus	numbering:E9PZQ0.sv1	pair	4970	P	standard		false	4983	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4976	Mus musculus	numbering:E9PZQ0.sv1	pair	4973	F	standard		false	4986	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+4990	Mus musculus	numbering:E9PZQ0.sv1	pair	4987	M	standard		false	5000	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+5020	Mus musculus	numbering:E9PZQ0.sv1	pair	5017	W	standard		false	5030	cs:table.9708f3rPzqExweM8kfbZH1egpdG4nNKI	false	false	cs:numbering._Q5Z6arpFIGP5_LZ3XH9Zj9b7KYKca_f		
+13	Sus scrofa	numbering:P16960.sv2	pair	14	L	lowered	near-indel	false	14	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+33	Sus scrofa	numbering:P16960.sv2	pair	34	K	standard		false	34	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+35	Sus scrofa	numbering:P16960.sv2	pair	36	C	standard		false	36	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+40	Sus scrofa	numbering:P16960.sv2	pair	41	G	standard		false	41	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+44	Sus scrofa	numbering:P16960.sv2	pair	45	R	standard		false	45	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+51	Sus scrofa	numbering:P16960.sv2	pair	52	T	standard		false	52	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+60	Sus scrofa	numbering:P16960.sv2	pair	61	D	standard		false	61	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+64	Sus scrofa	numbering:P16960.sv2	pair	65	C	standard		false	65	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+71	Sus scrofa	numbering:P16960.sv2	pair	72	S	standard		false	72	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+84	Sus scrofa	numbering:P16960.sv2	pair	85	T	standard		false	85	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+140	Sus scrofa	numbering:P16960.sv2	pair	141	A	standard		false	141	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+152	Sus scrofa	numbering:P16960.sv2	pair	153	A	standard		false	153	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+155	Sus scrofa	numbering:P16960.sv2	pair	156	Q	standard		false	156	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+156	Sus scrofa	numbering:P16960.sv2	pair	157	R	standard		false	157	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+160	Sus scrofa	numbering:P16960.sv2	pair	161	E	standard		false	161	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+163	Sus scrofa	numbering:P16960.sv2	pair	164	R	standard		false	164	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+165	Sus scrofa	numbering:P16960.sv2	pair	166	G	standard		false	166	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+166	Sus scrofa	numbering:P16960.sv2	pair	167	D	standard		false	167	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+176	Sus scrofa	numbering:P16960.sv2	pair	177	E	standard		false	177	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+177	Sus scrofa	numbering:P16960.sv2	pair	178	R	standard		false	178	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+178	Sus scrofa	numbering:P16960.sv2	pair	179	Y	standard		false	179	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+193	Sus scrofa	numbering:P16960.sv2	pair	194	S	standard		false	194	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+207	Sus scrofa	numbering:P16960.sv2	pair	208	G	standard		false	208	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+209	Sus scrofa	numbering:P16960.sv2	pair	210	E	standard		false	210	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+214	Sus scrofa	numbering:P16960.sv2	pair	215	T	standard		false	215	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+218	Sus scrofa	numbering:P16960.sv2	pair	219	V	standard		false	219	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+226	Sus scrofa	numbering:P16960.sv2	pair	227	M	standard		false	227	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+227	Sus scrofa	numbering:P16960.sv2	pair	228	D	standard		false	228	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+248	Sus scrofa	numbering:P16960.sv2	pair	249	G	standard		false	249	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+316	Sus scrofa	numbering:P16960.sv2	pair	317	R	standard		false	317	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+328	Sus scrofa	numbering:P16960.sv2	pair	329	R	standard		false	329	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+341	Sus scrofa	numbering:P16960.sv2	pair	342	G	standard		false	342	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+342	Sus scrofa	numbering:P16960.sv2	pair	343	E	standard		false	343	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+367	Sus scrofa	numbering:P16960.sv2	pair	368	R	standard		false	368	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+382	Sus scrofa	numbering:P16960.sv2	pair	383	H	standard		false	383	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+401	Sus scrofa	numbering:P16960.sv2	pair	402	R	standard		false	402	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+403	Sus scrofa	numbering:P16960.sv2	pair	404	I	standard		false	404	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+464	Sus scrofa	numbering:P16960.sv2	pair	465	Q	standard		false	465	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+471	Sus scrofa	numbering:P16960.sv2	pair	472	R	standard		false	472	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+474	Sus scrofa	numbering:P16960.sv2	pair	475	Q	standard		false	475	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+485	Sus scrofa	numbering:P16960.sv2	pair	486	L	standard		false	486	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+487	Sus scrofa	numbering:P16960.sv2	pair	488	L	standard		false	488	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+492	Sus scrofa	numbering:P16960.sv2	pair	493	R	standard		false	493	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+518	Sus scrofa	numbering:P16960.sv2	pair	519	V	standard		false	519	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+522	Sus scrofa	numbering:P16960.sv2	pair	523	Y	standard		false	523	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+530	Sus scrofa	numbering:P16960.sv2	pair	531	R	standard		false	531	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+533	Sus scrofa	numbering:P16960.sv2	pair	534	R	standard		false	534	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+539	Sus scrofa	numbering:P16960.sv2	pair	540	F	standard		false	540	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+544	Sus scrofa	numbering:P16960.sv2	pair	545	D	standard		false	545	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+552	Sus scrofa	numbering:P16960.sv2	pair	553	R	standard		false	553	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+612	Sus scrofa	numbering:P16960.sv2	pair	613	A	standard		false	613	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+614	Sus scrofa	numbering:P16960.sv2	pair	615	R	standard		false	615	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+684	Sus scrofa	numbering:P16960.sv2	pair	685	G	standard		false	685	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+708	Sus scrofa	numbering:P16960.sv2	pair	709	D	standard		false	709	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+816	Sus scrofa	numbering:P16960.sv2	pair	817	P	standard		false	817	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+846	Sus scrofa	numbering:P16960.sv2	pair	847	S	lowered	repeat	false	847	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+885	Sus scrofa	numbering:P16960.sv2	pair	886	R	lowered	repeat	false	886	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+893	Sus scrofa	numbering:P16960.sv2	pair	894	G	lowered	repeat	false	894	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+933	Sus scrofa	numbering:P16960.sv2	pair	934	A	lowered	repeat	false	934	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+975	Sus scrofa	numbering:P16960.sv2	pair	976	R	lowered	repeat	false	976	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+999	Sus scrofa	numbering:P16960.sv2	pair	1000	R	lowered	repeat	false	1000	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1032	Sus scrofa	numbering:P16960.sv2	pair	1033	R	lowered	repeat	false	1033	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1043	Sus scrofa	numbering:P16960.sv2	pair	1044	R	lowered	repeat	false	1044	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1056	Sus scrofa	numbering:P16960.sv2	pair	1057	D	lowered	repeat	false	1057	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1058	Sus scrofa	numbering:P16960.sv2	pair	1059	E	lowered	repeat	false	1059	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1075	Sus scrofa	numbering:P16960.sv2	pair	1076	R	standard		false	1076	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1140	Sus scrofa	numbering:P16960.sv2	pair	1141	R	standard		false	1141	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1176	Sus scrofa	numbering:P16960.sv2	pair	1177	T	standard		false	1177	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1219	Sus scrofa	numbering:P16960.sv2	pair	1220	Q	standard		false	1220	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1223	Sus scrofa	numbering:P16960.sv2	pair	1224	E	standard		false	1224	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1301	Sus scrofa	numbering:P16960.sv2	pair	1302	R	standard		false	1302	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1342	Sus scrofa	numbering:P16960.sv2	pair	1343	G	lowered	compositional-bias;disordered	false	1343	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1352	Sus scrofa	numbering:P16960.sv2	pair	1353	A	lowered	compositional-bias;disordered;repeat	false	1353	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1393	Sus scrofa	numbering:P16960.sv2	pair	1394	K	standard		false	1394	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1467	Sus scrofa	numbering:P16960.sv2	pair	1468	K	standard		false	1468	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1571	Sus scrofa	numbering:P16960.sv2	pair	1572	I	standard		false	1572	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1577	Sus scrofa	numbering:P16960.sv2	pair	1578	A	standard		false	1578	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1583	Sus scrofa	numbering:P16960.sv2	pair	1584	R	standard		false	1584	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1588	Sus scrofa	numbering:P16960.sv2	pair	1589	P	standard		false	1589	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1592	Sus scrofa	numbering:P16960.sv2	pair	1593	P	standard		false	1593	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1667	Sus scrofa	numbering:P16960.sv2	pair	1668	R	standard		false	1668	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1675	Sus scrofa	numbering:P16960.sv2	pair	1676	L	standard		false	1676	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1678	Sus scrofa	numbering:P16960.sv2	pair	1679	N	standard		false	1679	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1679	Sus scrofa	numbering:P16960.sv2	pair	1680	R	standard		false	1680	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1711	Sus scrofa	numbering:P16960.sv2	pair	1712	Y	standard		false	1712	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1728	Sus scrofa	numbering:P16960.sv2	pair	1729	S	standard		false	1729	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1729	Sus scrofa	numbering:P16960.sv2	pair	1730	M	standard		false	1730	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1773	Sus scrofa	numbering:P16960.sv2	pair	1774	P	standard		false	1774	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1781	Sus scrofa	numbering:P16960.sv2	pair	1782	C	standard		false	1782	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1787	Sus scrofa	numbering:P16960.sv2	pair	1788	P	standard		false	1788	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1814	Sus scrofa	numbering:P16960.sv2	pair	1815	M	standard		false	1815	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+1964	Sus scrofa	numbering:P16960.sv2	pair	1965	R	standard		false	1965	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2013	Sus scrofa	numbering:P16960.sv2	pair	2014	K	standard		false	2014	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2060	Sus scrofa	numbering:P16960.sv2	pair	2061	G	standard		false	2061	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2101	Sus scrofa	numbering:P16960.sv2	pair	2102	T	standard		false	2102	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2102	Sus scrofa	numbering:P16960.sv2	pair	2103	V	standard		false	2103	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2117	Sus scrofa	numbering:P16960.sv2	pair	2118	V	standard		false	2118	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2126	Sus scrofa	numbering:P16960.sv2	pair	2127	R	standard		false	2127	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2129	Sus scrofa	numbering:P16960.sv2	pair	2130	D	standard		false	2130	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2130	Sus scrofa	numbering:P16960.sv2	pair	2131	G	standard		false	2131	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2160	Sus scrofa	numbering:P16960.sv2	pair	2161	G	standard		false	2161	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2163	Sus scrofa	numbering:P16960.sv2	pair	2164	R	standard		false	2164	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2168	Sus scrofa	numbering:P16960.sv2	pair	2169	V	standard		false	2169	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2182	Sus scrofa	numbering:P16960.sv2	pair	2183	I	standard		false	2183	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2183	Sus scrofa	numbering:P16960.sv2	pair	2184	G	standard		false	2184	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2200	Sus scrofa	numbering:P16960.sv2	pair	2201	A	standard		false	2201	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2204	Sus scrofa	numbering:P16960.sv2	pair	2205	H	standard		false	2205	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2206	Sus scrofa	numbering:P16960.sv2	pair	2207	T	standard		false	2207	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2210	Sus scrofa	numbering:P16960.sv2	pair	2211	V	standard		false	2211	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2212	Sus scrofa	numbering:P16960.sv2	pair	2213	V	standard		false	2213	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2214	Sus scrofa	numbering:P16960.sv2	pair	2215	V	standard		false	2215	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2224	Sus scrofa	numbering:P16960.sv2	pair	2225	R	standard		false	2225	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2237	Sus scrofa	numbering:P16960.sv2	pair	2238	C	standard		false	2238	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2248	Sus scrofa	numbering:P16960.sv2	pair	2249	R	standard		false	2249	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2253	Sus scrofa	numbering:P16960.sv2	pair	2254	H	standard		false	2254	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2280	Sus scrofa	numbering:P16960.sv2	pair	2281	V	standard		false	2281	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2283	Sus scrofa	numbering:P16960.sv2	pair	2284	N	standard		false	2284	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2321	Sus scrofa	numbering:P16960.sv2	pair	2322	I	standard		false	2322	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2336	Sus scrofa	numbering:P16960.sv2	pair	2337	R	standard		false	2337	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2340	Sus scrofa	numbering:P16960.sv2	pair	2341	F	standard		false	2341	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2342	Sus scrofa	numbering:P16960.sv2	pair	2343	N	standard		false	2343	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2344	Sus scrofa	numbering:P16960.sv2	pair	2345	E	standard		false	2345	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2345	Sus scrofa	numbering:P16960.sv2	pair	2346	S	standard		false	2346	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2346	Sus scrofa	numbering:P16960.sv2	pair	2347	V	standard		false	2347	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2348	Sus scrofa	numbering:P16960.sv2	pair	2349	E	standard		false	2349	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2350	Sus scrofa	numbering:P16960.sv2	pair	2351	A	standard		false	2351	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2354	Sus scrofa	numbering:P16960.sv2	pair	2355	V	standard		false	2355	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2355	Sus scrofa	numbering:P16960.sv2	pair	2356	R	standard		false	2356	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2358	Sus scrofa	numbering:P16960.sv2	pair	2359	I	standard		false	2359	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2359	Sus scrofa	numbering:P16960.sv2	pair	2360	R	standard		false	2360	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2362	Sus scrofa	numbering:P16960.sv2	pair	2363	E	standard		false	2363	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2363	Sus scrofa	numbering:P16960.sv2	pair	2364	C	standard		false	2364	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2364	Sus scrofa	numbering:P16960.sv2	pair	2365	F	standard		false	2365	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2366	Sus scrofa	numbering:P16960.sv2	pair	2367	P	standard		false	2367	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2367	Sus scrofa	numbering:P16960.sv2	pair	2368	A	standard		false	2368	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2371	Sus scrofa	numbering:P16960.sv2	pair	2372	E	standard		false	2372	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2375	Sus scrofa	numbering:P16960.sv2	pair	2376	G	standard		false	2376	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2400	Sus scrofa	numbering:P16960.sv2	pair	2401	D	lowered	disordered	false	2401	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2404	Sus scrofa	numbering:P16960.sv2	pair	2405	E	lowered	disordered	false	2405	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2428	Sus scrofa	numbering:P16960.sv2	pair	2429	A	standard		false	2429	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2431	Sus scrofa	numbering:P16960.sv2	pair	2432	D	standard		false	2432	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2434	Sus scrofa	numbering:P16960.sv2	pair	2435	G	standard		false	2435	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2435	Sus scrofa	numbering:P16960.sv2	pair	2436	R	standard		false	2436	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2436	Sus scrofa	numbering:P16960.sv2	pair	2437	C	standard		false	2437	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2437	Sus scrofa	numbering:P16960.sv2	pair	2438	A	standard		false	2438	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2439	Sus scrofa	numbering:P16960.sv2	pair	2440	E	standard		false	2440	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2452	Sus scrofa	numbering:P16960.sv2	pair	2453	R	standard		false	2453	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2453	Sus scrofa	numbering:P16960.sv2	pair	2454	I	standard		false	2454	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2454	Sus scrofa	numbering:P16960.sv2	pair	2455	R	standard		false	2455	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2458	Sus scrofa	numbering:P16960.sv2	pair	2459	R	standard		false	2459	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2462	Sus scrofa	numbering:P16960.sv2	pair	2463	P	standard		false	2463	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2496	Sus scrofa	numbering:P16960.sv2	pair	2497	P	standard		false	2497	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2508	Sus scrofa	numbering:P16960.sv2	pair	2509	R	standard		false	2509	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2510	Sus scrofa	numbering:P16960.sv2	pair	2511	Y	standard		false	2511	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2542	Sus scrofa	numbering:P16960.sv2	pair	2543	S	standard		false	2543	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2560	Sus scrofa	numbering:P16960.sv2	pair	2561	P	standard		false	2561	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2587	Sus scrofa	numbering:P16960.sv2	pair	2588	Y	standard		false	2588	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2591	Sus scrofa	numbering:P16960.sv2	pair	2592	R	standard		false	2592	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2593	Sus scrofa	numbering:P16960.sv2	pair	2594	R	standard		false	2594	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2596	Sus scrofa	numbering:P16960.sv2	pair	2597	T	standard		false	2597	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2606	Sus scrofa	numbering:P16960.sv2	pair	2607	C	standard		false	2607	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2627	Sus scrofa	numbering:P16960.sv2	pair	2628	V	standard		false	2628	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2635	Sus scrofa	numbering:P16960.sv2	pair	2636	E	standard		false	2636	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2669	Sus scrofa	numbering:P16960.sv2	pair	2670	E	standard		false	2670	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2676	Sus scrofa	numbering:P16960.sv2	pair	2677	R	standard		false	2677	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2685	Sus scrofa	numbering:P16960.sv2	pair	2686	S	standard		false	2686	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2730	Sus scrofa	numbering:P16960.sv2	pair	2731	D	lowered	repeat	false	2731	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2733	Sus scrofa	numbering:P16960.sv2	pair	2734	G	lowered	repeat	false	2734	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2764	Sus scrofa	numbering:P16960.sv2	pair	2765	E	lowered	repeat	false	2765	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2776	Sus scrofa	numbering:P16960.sv2	pair	2777	S	lowered	repeat	false	2777	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2787	Sus scrofa	numbering:P16960.sv2	pair	2788	T	lowered	repeat	false	2788	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2840	Sus scrofa	numbering:P16960.sv2	pair	2841	R	lowered	disordered;repeat	false	2841	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2843	Sus scrofa	numbering:P16960.sv2	pair	2844	S	lowered	disordered;repeat	false	2844	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2867	Sus scrofa	numbering:P16960.sv2	pair	2868	L	lowered	repeat	false	2868	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2880	Sus scrofa	numbering:P16960.sv2	pair	2881	E	lowered	repeat	false	2881	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2885	Sus scrofa	numbering:P16960.sv2	pair	2886	T	lowered	repeat	false	2886	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2910	Sus scrofa	numbering:P16960.sv2	pair	2911	T	lowered	repeat	false	2911	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2963	Sus scrofa	numbering:P16960.sv2	pair	2964	L	standard		false	2964	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+2976	Sus scrofa	numbering:P16960.sv2	pair	2977	H	standard		false	2977	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3051	Sus scrofa	numbering:P16960.sv2	pair	3052	R	standard		false	3052	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3090	Sus scrofa	numbering:P16960.sv2	pair	3091	A	standard		false	3091	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3104	Sus scrofa	numbering:P16960.sv2	pair	3105	E	standard		false	3105	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3118	Sus scrofa	numbering:P16960.sv2	pair	3119	A	standard		false	3119	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3119	Sus scrofa	numbering:P16960.sv2	pair	3120	R	standard		false	3120	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3212	Sus scrofa	numbering:P16960.sv2	pair	3213	E	standard		false	3213	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3217	Sus scrofa	numbering:P16960.sv2	pair	3218	S	standard		false	3218	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3218	Sus scrofa	numbering:P16960.sv2	pair	3219	V	standard		false	3219	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3226	Sus scrofa	numbering:P16960.sv2	pair	3227	E	standard		false	3227	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3253	Sus scrofa	numbering:P16960.sv2	pair	3254	I	standard		false	3254	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3266	Sus scrofa	numbering:P16960.sv2	pair	3267	M	standard		false	3267	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3283	Sus scrofa	numbering:P16960.sv2	pair	3284	R	standard		false	3284	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3284	Sus scrofa	numbering:P16960.sv2	pair	3285	W	standard		false	3285	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3290	Sus scrofa	numbering:P16960.sv2	pair	3291	E	standard		false	3291	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3292	Sus scrofa	numbering:P16960.sv2	pair	3293	P	standard		false	3293	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3324	Sus scrofa	numbering:P16960.sv2	pair	3325	V	standard		false	3325	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3348	Sus scrofa	numbering:P16960.sv2	pair	3349	R	standard		false	3349	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3366	Sus scrofa	numbering:P16960.sv2	pair	3367	R	standard		false	3367	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3367	Sus scrofa	numbering:P16960.sv2	pair	3368	K	standard		false	3368	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3402	Sus scrofa	numbering:P16960.sv2	pair	3403	C	standard		false	3403	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3410	Sus scrofa	numbering:P16960.sv2	pair	3411	P	standard		false	3411	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3413	Sus scrofa	numbering:P16960.sv2	pair	3414	I	standard		false	3414	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3418	Sus scrofa	numbering:P16960.sv2	pair	3419	N	standard		false	3419	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3519	Sus scrofa	numbering:P16960.sv2	pair	3515	P	standard		false	3520	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3539	Sus scrofa	numbering:P16960.sv2	pair	3535	R	standard		false	3540	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3550	Sus scrofa	numbering:P16960.sv2	pair	3546	R	standard		false	3551	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3583	Sus scrofa	numbering:P16960.sv2	pair	3579	E	standard		false	3584	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3584	Sus scrofa	numbering:P16960.sv2	pair	3580	E	standard		false	3585	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3631	Sus scrofa	numbering:P16960.sv2	pair	3627	A	standard		false	3632	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3696	Sus scrofa	numbering:P16960.sv2	pair	3692	D	standard		false	3697	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3707	Sus scrofa	numbering:P16960.sv2	pair	3703	R	standard		false	3708	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3709	Sus scrofa	numbering:P16960.sv2	pair	3705	A	standard		false	3710	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3711	Sus scrofa	numbering:P16960.sv2	pair	3707	T	standard		false	3712	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3756	Sus scrofa	numbering:P16960.sv2	pair	3752	E	standard		false	3757	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3772	Sus scrofa	numbering:P16960.sv2	pair	3768	R	standard		false	3773	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3806	Sus scrofa	numbering:P16960.sv2	pair	3802	G	standard		false	3807	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3840	Sus scrofa	numbering:P16960.sv2	pair	3836	V	standard		false	3841	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3903	Sus scrofa	numbering:P16960.sv2	pair	3899	R	standard		false	3904	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3908	Sus scrofa	numbering:P16960.sv2	pair	3904	N	standard		false	3909	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3916	Sus scrofa	numbering:P16960.sv2	pair	3912	I	standard		false	3917	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3933	Sus scrofa	numbering:P16960.sv2	pair	3929	Y	standard		false	3934	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3938	Sus scrofa	numbering:P16960.sv2	pair	3934	G	standard		false	3939	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3983	Sus scrofa	numbering:P16960.sv2	pair	3979	R	standard		false	3984	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3985	Sus scrofa	numbering:P16960.sv2	pair	3981	W	standard		false	3986	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3986	Sus scrofa	numbering:P16960.sv2	pair	3982	D	standard		false	3987	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+3990	Sus scrofa	numbering:P16960.sv2	pair	3986	G	standard		false	3991	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4010	Sus scrofa	numbering:P16960.sv2	pair	4006	E	standard		false	4011	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4022	Sus scrofa	numbering:P16960.sv2	pair	4018	M	standard		false	4023	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4039	Sus scrofa	numbering:P16960.sv2	pair	4035	I	standard		false	4040	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4041	Sus scrofa	numbering:P16960.sv2	pair	4037	R	standard		false	4042	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4050	Sus scrofa	numbering:P16960.sv2	pair	4046	S	standard		false	4051	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4081	Sus scrofa	numbering:P16960.sv2	pair	4077	T	standard		false	4082	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4104	Sus scrofa	numbering:P16960.sv2	pair	4100	G	standard		false	4105	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4119	Sus scrofa	numbering:P16960.sv2	pair	4115	N	standard		false	4120	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4128	Sus scrofa	numbering:P16960.sv2	pair	4124	A	standard		false	4129	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4133	Sus scrofa	numbering:P16960.sv2	pair	4129	E	standard		false	4134	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4136	Sus scrofa	numbering:P16960.sv2	pair	4132	R	standard		false	4137	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4138	Sus scrofa	numbering:P16960.sv2	pair	4134	I	standard		false	4139	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4178	Sus scrofa	numbering:P16960.sv2	pair	4174	G	standard		false	4179	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4185	Sus scrofa	numbering:P16960.sv2	pair	4181	A	standard		false	4186	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4230	Sus scrofa	numbering:P16960.sv2	pair	4226	M	standard		false	4231	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4234	Sus scrofa	numbering:P16960.sv2	pair	4230	V	standard		false	4235	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4283	Sus scrofa	numbering:P16960.sv2	pair	4279	E	lowered	compositional-bias;disordered	false	4284	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4294	Sus scrofa	numbering:P16960.sv2	pair	4290	T	standard		false	4295	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4295	Sus scrofa	numbering:P16960.sv2	pair	4291	A	standard		false	4296	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4501	Sus scrofa	numbering:P16960.sv2	pair	4495	P	lowered	compositional-bias;disordered;near-indel	false	4502	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4502	Sus scrofa	numbering:P16960.sv2	pair	4496	E	lowered	compositional-bias;disordered;near-indel	false	4503	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4505	Sus scrofa	numbering:P16960.sv2	pair	4499	D	lowered	compositional-bias;disordered;near-indel	false	4506	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4558	Sus scrofa	numbering:P16960.sv2	pair	4555	R	standard		false	4562	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4568	Sus scrofa	numbering:P16960.sv2	pair	4565	L	standard		false	4572	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4587	Sus scrofa	numbering:P16960.sv2	pair	4584	P	standard		false	4591	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4638	Sus scrofa	numbering:P16960.sv2	pair	4635	G	standard		false	4642	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4640	Sus scrofa	numbering:P16960.sv2	pair	4637	M	standard		false	4644	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4645	Sus scrofa	numbering:P16960.sv2	pair	4642	R	standard		false	4649	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4650	Sus scrofa	numbering:P16960.sv2	pair	4647	L	standard		false	4654	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4664	Sus scrofa	numbering:P16960.sv2	pair	4661	C	standard		false	4668	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4665	Sus scrofa	numbering:P16960.sv2	pair	4662	L	standard		false	4669	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4668	Sus scrofa	numbering:P16960.sv2	pair	4665	P	standard		false	4672	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4684	Sus scrofa	numbering:P16960.sv2	pair	4681	F	standard		false	4688	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4709	Sus scrofa	numbering:P16960.sv2	pair	4706	T	standard		false	4713	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4723	Sus scrofa	numbering:P16960.sv2	pair	4720	R	standard		false	4727	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4725	Sus scrofa	numbering:P16960.sv2	pair	4722	V	standard		false	4729	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4729	Sus scrofa	numbering:P16960.sv2	pair	4726	H	standard		false	4733	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4733	Sus scrofa	numbering:P16960.sv2	pair	4730	Y	standard		false	4737	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4734	Sus scrofa	numbering:P16960.sv2	pair	4731	G	standard		false	4738	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4737	Sus scrofa	numbering:P16960.sv2	pair	4734	R	standard		false	4741	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4757	Sus scrofa	numbering:P16960.sv2	pair	4754	R	standard		false	4761	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4796	Sus scrofa	numbering:P16960.sv2	pair	4793	Y	standard		false	4800	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4808	Sus scrofa	numbering:P16960.sv2	pair	4805	F	standard		false	4812	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4817	Sus scrofa	numbering:P16960.sv2	pair	4814	I	standard		false	4821	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4820	Sus scrofa	numbering:P16960.sv2	pair	4817	G	standard		false	4824	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4824	Sus scrofa	numbering:P16960.sv2	pair	4821	L	standard		false	4828	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4826	Sus scrofa	numbering:P16960.sv2	pair	4823	T	standard		false	4830	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4833	Sus scrofa	numbering:P16960.sv2	pair	4830	H	standard		false	4837	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4837	Sus scrofa	numbering:P16960.sv2	pair	4834	Q	standard		false	4841	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4838	Sus scrofa	numbering:P16960.sv2	pair	4835	L	standard		false	4842	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4842	Sus scrofa	numbering:P16960.sv2	pair	4839	V	standard		false	4846	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4847	Sus scrofa	numbering:P16960.sv2	pair	4844	V	standard		false	4851	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4849	Sus scrofa	numbering:P16960.sv2	pair	4846	V	standard		false	4853	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4851	Sus scrofa	numbering:P16960.sv2	pair	4848	L	standard		false	4855	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4853	Sus scrofa	numbering:P16960.sv2	pair	4850	T	standard		false	4857	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4856	Sus scrofa	numbering:P16960.sv2	pair	4853	A	standard		false	4860	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4861	Sus scrofa	numbering:P16960.sv2	pair	4858	R	standard		false	4865	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4876	Sus scrofa	numbering:P16960.sv2	pair	4873	K	standard		false	4880	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4880	Sus scrofa	numbering:P16960.sv2	pair	4877	M	standard		false	4884	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	true	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4893	Sus scrofa	numbering:P16960.sv2	pair	4890	R	standard		false	4897	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4894	Sus scrofa	numbering:P16960.sv2	pair	4891	A	standard		false	4898	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4897	Sus scrofa	numbering:P16960.sv2	pair	4894	G	standard		false	4901	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4898	Sus scrofa	numbering:P16960.sv2	pair	4895	I	standard		false	4902	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4928	Sus scrofa	numbering:P16960.sv2	pair	4925	I	standard		false	4932	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4935	Sus scrofa	numbering:P16960.sv2	pair	4932	G	standard		false	4939	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4938	Sus scrofa	numbering:P16960.sv2	pair	4935	I	standard		false	4942	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	true	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4939	Sus scrofa	numbering:P16960.sv2	pair	4936	D	standard		false	4943	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4940	Sus scrofa	numbering:P16960.sv2	pair	4937	A	standard		false	4944	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4942	Sus scrofa	numbering:P16960.sv2	pair	4939	G	standard		false	4946	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4960	Sus scrofa	numbering:P16960.sv2	pair	4957	F	standard		false	4964	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4973	Sus scrofa	numbering:P16960.sv2	pair	4970	P	standard		false	4977	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4976	Sus scrofa	numbering:P16960.sv2	pair	4973	F	standard		false	4980	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+4990	Sus scrofa	numbering:P16960.sv2	pair	4987	M	standard		false	4994	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		
+5020	Sus scrofa	numbering:P16960.sv2	pair	5017	W	standard		false	5024	cs:table.nt5DASs63Krm6eTtUVxT7Q3GgKRa_nFu	false	false	cs:numbering.FXFSHHIraVyHQUctjygCVHg_sel5gyar		

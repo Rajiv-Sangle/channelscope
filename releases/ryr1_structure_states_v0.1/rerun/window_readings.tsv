@@ -1,0 +1,131 @@
+entry	reading	radius_b_o2_window	o2_window_set_by
+9NMO	as computed	0.92	D:ILE 4935 CD1
+9NMO	both kept	0.92	D:ILE 4935 CD1
+9NMO	both dropped	0.92	D:ILE 4935 CD1
+9NMO	the lower kept only	0.92	D:ILE 4935 CD1
+9NMO	the upper kept only	0.92	D:ILE 4935 CD1
+9NMN	as computed	4.17	D:ASP 4936 OD1
+9NMN	both kept	4.17	D:ASP 4936 OD1
+9NMN	both dropped	4.20	D:ASP 4936 OD1
+9NMN	the lower kept only	4.17	D:ASP 4936 OD1
+9NMN	the upper kept only	4.20	D:ASP 4936 OD1
+9NMQ	as computed	0.94	D:ILE 4935 CD1
+9NMQ	both kept	0.94	D:ILE 4935 CD1
+9NMQ	both dropped	0.94	D:ILE 4935 CD1
+9NMQ	the lower kept only	0.94	D:ILE 4935 CD1
+9NMQ	the upper kept only	0.94	D:ILE 4935 CD1
+9NMP	as computed	3.41	D:ASP 4936 OD1
+9NMP	both kept	3.41	D:ASP 4936 OD1
+9NMP	both dropped	3.44	D:ASP 4936 OD1
+9NMP	the lower kept only	3.44	D:ASP 4936 OD1
+9NMP	the upper kept only	3.41	D:ASP 4936 OD1
+8VJJ	as computed	0.86	C:ILE 4935 CD1
+8VJJ	both kept	0.86	C:ILE 4935 CD1
+8VJJ	both dropped	0.86	C:ILE 4935 CD1
+8VJJ	the lower kept only	0.86	C:ILE 4935 CD1
+8VJJ	the upper kept only	0.86	C:ILE 4935 CD1
+8VJK	as computed	0.85	D:ILE 4935 CD1
+8VJK	both kept	0.85	D:ILE 4935 CD1
+8VJK	both dropped	0.85	D:ILE 4935 CD1
+8VJK	the lower kept only	0.85	D:ILE 4935 CD1
+8VJK	the upper kept only	0.85	D:ILE 4935 CD1
+8X4A	as computed	1.30	C:ILE 4937 CD1
+8X4A	both kept	1.30	C:ILE 4937 CD1
+8X4A	both dropped	1.30	C:ILE 4937 CD1
+8X4A	the lower kept only	1.30	C:ILE 4937 CD1
+8X4A	the upper kept only	1.30	C:ILE 4937 CD1
+8X4B	as computed	4.35	B:GLN 4933 NE2
+8X4B	both kept	4.35	B:GLN 4933 NE2
+8X4B	both dropped	4.48	B:GLN 4933 NE2
+8X4B	the lower kept only	4.35	B:GLN 4933 NE2
+8X4B	the upper kept only	4.48	B:GLN 4933 NE2
+8X4C	as computed	1.40	D:ILE 4937 CG2
+8X4C	both kept	1.40	D:ILE 4937 CG2
+8X4C	both dropped	1.40	D:ILE 4937 CG2
+8X4C	the lower kept only	1.40	D:ILE 4937 CG2
+8X4C	the upper kept only	1.40	D:ILE 4937 CG2
+7M6A	as computed	1.53	A:ILE 4937 CG2
+7M6A	both kept	1.53	A:ILE 4937 CG2
+7M6A	both dropped	1.53	A:ILE 4937 CG2
+7M6A	the lower kept only	1.53	A:ILE 4937 CG2
+7M6A	the upper kept only	1.53	A:ILE 4937 CG2
+7M6L	as computed	3.80	G:GLN 4933 NE2
+7M6L	both kept	3.69	G:GLN 4933 NE2
+7M6L	both dropped	3.80	G:GLN 4933 NE2
+7M6L	the lower kept only	3.69	G:GLN 4933 NE2
+7M6L	the upper kept only	3.80	G:GLN 4933 NE2
+5TB0	as computed	1.01	G:ILE 4937 CG2
+5TB0	both kept	1.01	G:ILE 4937 CG2
+5TB0	both dropped	1.01	G:ILE 4937 CG2
+5TB0	the lower kept only	1.01	G:ILE 4937 CG2
+5TB0	the upper kept only	1.01	G:ILE 4937 CG2
+5T9V	as computed	3.51	E:GLN 4933 OE1
+5T9V	both kept	3.51	E:GLN 4933 OE1
+5T9V	both dropped	3.60	E:GLN 4933 OE1
+5T9V	the lower kept only	3.51	E:GLN 4933 OE1
+5T9V	the upper kept only	3.60	E:GLN 4933 OE1
+7T64	as computed	1.24	D:ILE 4937 CG2
+7T64	both kept	1.24	D:ILE 4937 CG2
+7T64	both dropped	1.24	D:ILE 4937 CG2
+7T64	the lower kept only	1.24	D:ILE 4937 CG2
+7T64	the upper kept only	1.24	D:ILE 4937 CG2
+7T65	as computed	4.06	B:GLN 4933 OE1
+7T65	both kept	4.06	B:GLN 4933 OE1
+7T65	both dropped	4.22	B:GLN 4933 OE1
+7T65	the lower kept only	4.06	B:GLN 4933 OE1
+7T65	the upper kept only	4.22	B:GLN 4933 OE1
+9CGP	as computed	0.83	A:ILE 4937 CD1
+9CGP	both kept	0.83	A:ILE 4937 CD1
+9CGP	both dropped	0.83	A:ILE 4937 CD1
+9CGP	the lower kept only	0.83	A:ILE 4937 CD1
+9CGP	the upper kept only	0.83	A:ILE 4937 CD1
+9CGQ	as computed	4.10	B:ASP 4938 OD1
+9CGQ	both kept	4.10	B:ASP 4938 OD1
+9CGQ	both dropped	4.15	B:ASP 4938 OD1
+9CGQ	the lower kept only	4.15	B:ASP 4938 OD1
+9CGQ	the upper kept only	4.10	B:ASP 4938 OD1
+6W1N	as computed	0.90	B:ILE 4935 CD1
+6W1N	both kept	0.90	B:ILE 4935 CD1
+6W1N	both dropped	0.90	B:ILE 4935 CD1
+6W1N	the lower kept only	0.90	B:ILE 4935 CD1
+6W1N	the upper kept only	0.90	B:ILE 4935 CD1
+6X32	as computed	0.86	K:ILE 4935 CD1
+6X32	both kept	0.86	K:ILE 4935 CD1
+6X32	both dropped	0.86	K:ILE 4935 CD1
+6X32	the lower kept only	0.86	K:ILE 4935 CD1
+6X32	the upper kept only	0.86	K:ILE 4935 CD1
+6X33	as computed	4.05	E:GLN 4931 NE2
+6X33	both kept	3.89	E:GLN 4931 NE2
+6X33	both dropped	4.05	E:GLN 4931 NE2
+6X33	the lower kept only	3.89	E:GLN 4931 NE2
+6X33	the upper kept only	4.05	E:GLN 4931 NE2
+6X34	as computed	3.20	H:ILE 4935 CD1
+6X34	both kept	3.20	H:ILE 4935 CD1
+6X34	both dropped	3.20	H:ILE 4935 CD1
+6X34	the lower kept only	3.20	H:ILE 4935 CD1
+6X34	the upper kept only	3.20	H:ILE 4935 CD1
+6X35	as computed	3.22	K:GLN 4931 NE2
+6X35	both kept	3.22	K:GLN 4931 NE2
+6X35	both dropped	3.38	K:GLN 4931 NE2
+6X35	the lower kept only	3.22	K:GLN 4931 NE2
+6X35	the upper kept only	3.38	K:GLN 4931 NE2
+6X36	as computed	0.92	K:ILE 4935 CD1
+6X36	both kept	0.92	K:ILE 4935 CD1
+6X36	both dropped	0.92	K:ILE 4935 CD1
+6X36	the lower kept only	0.92	K:ILE 4935 CD1
+6X36	the upper kept only	0.92	K:ILE 4935 CD1
+9PWO	as computed	4.77	A:GLN 4931 NE2
+9PWO	both kept	4.77	A:GLN 4931 NE2
+9PWO	both dropped	4.84	A:ASP 4936 OD1
+9PWO	the lower kept only	4.77	A:GLN 4931 NE2
+9PWO	the upper kept only	4.84	A:ASP 4936 OD1
+9ZO8	as computed	0.95	C:ILE 4937 CD1
+9ZO8	both kept	0.95	C:ILE 4937 CD1
+9ZO8	both dropped	0.95	C:ILE 4937 CD1
+9ZO8	the lower kept only	0.95	C:ILE 4937 CD1
+9ZO8	the upper kept only	0.95	C:ILE 4937 CD1
+9ZOE	as computed	4.07	A:GLN 4933 OE1
+9ZOE	both kept	4.07	A:GLN 4933 OE1
+9ZOE	both dropped	4.19	A:GLN 4933 OE1
+9ZOE	the lower kept only	4.07	A:GLN 4933 OE1
+9ZOE	the upper kept only	4.19	A:GLN 4933 OE1

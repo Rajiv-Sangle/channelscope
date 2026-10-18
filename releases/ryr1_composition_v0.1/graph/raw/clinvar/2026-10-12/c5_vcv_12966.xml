@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+                        
+<ClinVarResult-Set><VariationArchive VariationID="12966" VariationName="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His)" VariationType="single nucleotide variant" Accession="VCV000012966" Version="33" RecordType="classified" NumberOfSubmissions="19" NumberOfSubmitters="13" DateLastUpdated="2026-06-06" DateCreated="2013-04-04" MostRecentSubmission="2026-05-30">
+  <RecordStatus>current</RecordStatus>
+  <Species>Homo sapiens</Species>
+  <ClassifiedRecord>
+    <SimpleAllele AlleleID="28005" VariationID="12966">
+      <GeneList>
+        <Gene Symbol="RYR1" FullName="ryanodine receptor 1" GeneID="6261" HGNC_ID="HGNC:10483" Source="submitted" RelationshipType="within single gene">
+          <Location>
+            <CytogeneticLocation>19q13.2</CytogeneticLocation>
+            <SequenceLocation Assembly="GRCh38" AssemblyAccessionVersion="GCF_000001405.38" AssemblyStatus="current" Chr="19" Accession="NC_000019.10" start="38433691" stop="38587564" display_start="38433691" display_stop="38587564" Strand="+"/>
+            <SequenceLocation Assembly="GRCh37" AssemblyAccessionVersion="GCF_000001405.25" AssemblyStatus="previous" Chr="19" Accession="NC_000019.9" start="38924339" stop="39078203" display_start="38924339" display_stop="39078203" Strand="+"/>
+          </Location>
+          <OMIM>180901</OMIM>
+          <Haploinsufficiency last_evaluated="2026-05-28" ClinGen="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=RYR1">Gene associated with autosomal recessive phenotype</Haploinsufficiency>
+          <Triplosensitivity last_evaluated="2026-05-28" ClinGen="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=RYR1">No evidence available</Triplosensitivity>
+          <Property>gene_acmg_incidental_2013</Property>
+          <Property>gene_acmg_incidental_2016</Property>
+          <Property>gene_acmg_incidental_2021</Property>
+          <Property>gene_acmg_incidental_2022</Property>
+        </Gene>
+      </GeneList>
+      <Name>NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His)</Name>
+      <CanonicalSPDI>NC_000019.10:38499996:G:A</CanonicalSPDI>
+      <VariantType>single nucleotide variant</VariantType>
+      <Location>
+        <CytogeneticLocation>19q13.2</CytogeneticLocation>
+        <SequenceLocation Assembly="GRCh38" AssemblyAccessionVersion="GCF_000001405.38" forDisplay="true" AssemblyStatus="current" Chr="19" Accession="NC_000019.10" start="38499997" stop="38499997" display_start="38499997" display_stop="38499997" variantLength="1" positionVCF="38499997" referenceAlleleVCF="G" alternateAlleleVCF="A"/>
+        <SequenceLocation Assembly="GRCh37" AssemblyAccessionVersion="GCF_000001405.25" AssemblyStatus="previous" Chr="19" Accession="NC_000019.9" start="38990637" stop="38990637" display_start="38990637" display_stop="38990637" variantLength="1" positionVCF="38990637" referenceAlleleVCF="G" alternateAlleleVCF="A"/>
+      </Location>
+      <OtherNameList>
+        <Name>NM_000540.3(RYR1):c.7304G&gt;A</Name>
+      </OtherNameList>
+      <ProteinChange>R2435H</ProteinChange>
+      <HGVSlist>
+        <HGVS Type="protein">
+          <ProteinExpression sequenceAccessionVersion="P21817" sequenceAccession="P21817" change="p.Arg2435His">
+            <Expression>P21817:p.Arg2435His</Expression>
+          </ProteinExpression>
+        </HGVS>
+        <HGVS Type="genomic">
+          <NucleotideExpression sequenceAccessionVersion="LRG_766" sequenceAccession="LRG_766">
+            <Expression>LRG_766:g.71298G&gt;A</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="LRG_766t1" sequenceAccession="LRG_766t1">
+            <Expression>LRG_766t1:c.7304G&gt;A</Expression>
+          </NucleotideExpression>
+          <ProteinExpression change="p.Arg2435His">
+            <Expression>LRG_766p1:p.Arg2435His</Expression>
+          </ProteinExpression>
+        </HGVS>
+        <HGVS Assembly="GRCh38" Type="genomic, top-level">
+          <NucleotideExpression sequenceAccessionVersion="NC_000019.10" sequenceAccession="NC_000019" sequenceVersion="10" change="g.38499997G&gt;A" Assembly="GRCh38">
+            <Expression>NC_000019.10:g.38499997G&gt;A</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Assembly="GRCh37" Type="genomic, top-level">
+          <NucleotideExpression sequenceAccessionVersion="NC_000019.9" sequenceAccession="NC_000019" sequenceVersion="9" change="g.38990637G&gt;A" Assembly="GRCh37">
+            <Expression>NC_000019.9:g.38990637G&gt;A</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="genomic">
+          <NucleotideExpression sequenceAccessionVersion="NG_008866.1" sequenceAccession="NG_008866" sequenceVersion="1" change="g.71298G&gt;A">
+            <Expression>NG_008866.1:g.71298G&gt;A</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="NM_000540.3" sequenceAccession="NM_000540" sequenceVersion="3" change="c.7304G&gt;A" MANESelect="true">
+            <Expression>NM_000540.3:c.7304G&gt;A</Expression>
+          </NucleotideExpression>
+          <ProteinExpression sequenceAccessionVersion="NP_000531.2" sequenceAccession="NP_000531" sequenceVersion="2" change="p.Arg2435His" singleLetterProteinChange="R2435H">
+            <Expression>NP_000531.2:p.Arg2435His</Expression>
+          </ProteinExpression>
+          <MolecularConsequence ID="SO:0001583" Type="missense variant" DB="SO"/>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="NM_001042723.2" sequenceAccession="NM_001042723" sequenceVersion="2" change="c.7304G&gt;A">
+            <Expression>NM_001042723.2:c.7304G&gt;A</Expression>
+          </NucleotideExpression>
+          <ProteinExpression sequenceAccessionVersion="NP_001036188.1" sequenceAccession="NP_001036188" sequenceVersion="1" change="p.Arg2435His" singleLetterProteinChange="R2435H">
+            <Expression>NP_001036188.1:p.Arg2435His</Expression>
+          </ProteinExpression>
+          <MolecularConsequence ID="SO:0001583" Type="missense variant" DB="SO"/>
+        </HGVS>
+      </HGVSlist>
+      <XRefList>
+        <XRef ID="CA024750" DB="ClinGen"/>
+        <XRef ID="P21817#VAR_005606" DB="UniProtKB"/>
+        <XRef Type="Allelic variant" ID="180901.0003" DB="OMIM"/>
+        <XRef Type="rs" ID="28933396" DB="dbSNP"/>
+      </XRefList>
+    </SimpleAllele>
+    <RCVList>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND Central core myopathy" Accession="RCV000013832" Version="34">
+        <ClassifiedConditionList TraitSetID="3540">
+          <ClassifiedCondition DB="MedGen" ID="C5830701">Central core myopathy</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2021-12-09" SubmissionCount="2">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND not provided" Accession="RCV000119699" Version="21">
+        <ClassifiedConditionList TraitSetID="9460">
+          <ClassifiedCondition DB="MedGen" ID="C3661900">not provided</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, multiple submitters, no conflicts</ReviewStatus>
+            <Description DateLastEvaluated="2025-10-23" SubmissionCount="5">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND RYR1-related disorder" Accession="RCV000707405" Version="17">
+        <ClassifiedConditionList TraitSetID="33623">
+          <ClassifiedCondition DB="MedGen" ID="CN239331">RYR1-related disorder</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2024-11-27" SubmissionCount="1">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND isoflurane response - Toxicity" Accession="RCV001787398" Version="11">
+        <ClassifiedConditionList TraitSetID="69104">
+          <ClassifiedCondition>isoflurane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND methoxyflurane response - Toxicity" Accession="RCV001787399" Version="11">
+        <ClassifiedConditionList TraitSetID="69105">
+          <ClassifiedCondition>methoxyflurane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND sevoflurane response - Toxicity" Accession="RCV001787400" Version="11">
+        <ClassifiedConditionList TraitSetID="69106">
+          <ClassifiedCondition>sevoflurane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND succinylcholine response - Toxicity" Accession="RCV001787401" Version="11">
+        <ClassifiedConditionList TraitSetID="69107">
+          <ClassifiedCondition>succinylcholine response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND desflurane response - Toxicity" Accession="RCV001787395" Version="11">
+        <ClassifiedConditionList TraitSetID="69101">
+          <ClassifiedCondition>desflurane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND halothane response - Toxicity" Accession="RCV001787397" Version="11">
+        <ClassifiedConditionList TraitSetID="69103">
+          <ClassifiedCondition>halothane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND Malignant hyperthermia, susceptibility to, 1" Accession="RCV002281705" Version="9">
+        <ClassifiedConditionList TraitSetID="3539">
+          <ClassifiedCondition DB="MedGen" ID="C2930980">Malignant hyperthermia, susceptibility to, 1</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-19" SubmissionCount="2">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND enflurane response - Toxicity" Accession="RCV001787396" Version="11">
+        <ClassifiedConditionList TraitSetID="69102">
+          <ClassifiedCondition>enflurane response - Toxicity</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2021-03-24" SubmissionCount="1">drug response</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND Malignant hyperthermia of anesthesia" Accession="RCV004017238" Version="1">
+        <ClassifiedConditionList TraitSetID="13267">
+          <ClassifiedCondition DB="MedGen" ID="C0024591">Malignant hyperthermia of anesthesia</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2020-04-16" SubmissionCount="1">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) AND multiple conditions" Accession="RCV005409599" Version="1">
+        <ClassifiedConditionList TraitSetID="44381">
+          <ClassifiedCondition DB="MedGen" ID="C5830701">Central core myopathy</ClassifiedCondition>
+          <ClassifiedCondition DB="MedGen" ID="C2930980">Malignant hyperthermia, susceptibility to, 1</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2025-03-25" SubmissionCount="1">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+    </RCVList>
+    <Classifications>
+      <GermlineClassification DateLastEvaluated="2021-03-24" NumberOfSubmissions="19" NumberOfSubmitters="13" DateCreated="2013-04-04" MostRecentSubmission="2026-05-30">
+        <ReviewStatus>reviewed by expert panel</ReviewStatus>
+        <Description>Pathogenic; drug response</Description>
+        <Explanation DataSource="ClinVar" Type="public">Pathogenic (1)</Explanation>
+        <Citation Type="general">
+          <ID Source="PubMed">15108991</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">12059893</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">11524458</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">16732084</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">16917943</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">19648156</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">17710899</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">32919876</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">3626847</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">16835904</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">21118704</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">12124989</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">9334205</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">23842196</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">9873004</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">9030597</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">17081152</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">16163667</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">19658156</ID>
+        </Citation>
+        <Citation Type="general">
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">19513315</ID>
+        </Citation>
+        <Citation Type="general">
+          <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">20681998</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">25256590</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">28687594</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">8661021</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">21965348</ID>
+        </Citation>
+        <Citation Type="general">
+          <URL>https://erepo.clinicalgenome.org/evrepo/ui/interpretation/5a42695d-2628-48e3-9733-9c50063e0ed0</URL>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">25989378</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">27586648</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">30236257</ID>
+        </Citation>
+        <Citation Type="general">
+          <ID Source="PubMed">8220422</ID>
+        </Citation>
+        <Comment DataSource="ClinVar" Type="public">Pathogenic (1)</Comment>
+        <DescriptionHistory Dated="2022-09-14">
+          <Description>drug response</Description>
+        </DescriptionHistory>
+        <DescriptionHistory Dated="2019-06-29">
+          <Description>Pathogenic</Description>
+        </DescriptionHistory>
+        <ConditionList>
+          <TraitSet ID="44381" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="865" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0003" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0016" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0004" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0012" DB="OMIM"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Central core myopathy</ElementValue>
+                <XRef ID="MONDO:0007294" DB="MONDO"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Central core disease</ElementValue>
+                <XRef ID="43152001" DB="SNOMED CT"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Myopathy, central fibrillar</ElementValue>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">CMYO1A</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+              </Symbol>
+              <Symbol>
+                <ElementValue Type="Alternate">CCO</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="6014"/>
+                <XRef ID="6014" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGentest, 2011">
+                <ID Source="PubMed">21989361</ID>
+              </Citation>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGenetest, 2011">
+                <ID Source="PubMed">22009146</ID>
+              </Citation>
+              <XRef ID="597" DB="Orphanet"/>
+              <XRef ID="C5830701" DB="MedGen"/>
+              <XRef ID="MONDO:0007294" DB="MONDO"/>
+              <XRef Type="MIM" ID="117000" DB="OMIM"/>
+            </Trait>
+            <Trait ID="2639" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">RYR1-Related Malignant Hyperthermia Susceptibility</ElementValue>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Malignant hyperthermia, susceptibility to, 1</ElementValue>
+                <XRef ID="MONDO:0007783" DB="MONDO"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Anesthesia related hyperthermia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Fulminating hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Pharmacogenic myopathy</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperthermia suceptibility 1</ElementValue>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">MHS1</ElementValue>
+                <XRef Type="MIM" ID="145600" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="3363"/>
+                <XRef ID="3363" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="public definition">Malignant hyperthermia susceptibility (MHS) is a pharmacogenetic disorder of skeletal muscle calcium regulation associated with uncontrolled skeletal muscle hypermetabolism. Manifestations of malignant hyperthermia (MH) are precipitated by volatile anesthetics (i.e., halothane, isoflurane, sevoflurane, desflurane, enflurane), either alone or in conjunction with a depolarizing muscle relaxant (specifically, succinylcholine). The triggering substances cause uncontrolled release of calcium from the sarcoplasmic reticulum and may promote entry of extracellular calcium into the myoplasm, causing contracture of skeletal muscles, glycogenolysis, and increased cellular metabolism, resulting in production of heat and excess lactate. Affected individuals experience acidosis, hypercapnia, tachycardia, hyperthermia, muscle rigidity, compartment syndrome, rhabdomyolysis with subsequent increase in serum creatine kinase (CK) concentration, hyperkalemia with a risk for cardiac arrhythmia or even cardiac arrest, and myoglobinuria with a risk for kidney failure. In nearly all individuals, the first manifestations of MH (hypercapnia, tachycardia, and tachypnea) occur in the operating room; however, MH may also occur in the early postoperative period. There is mounting evidence that some individuals with MHS will also develop MH with exercise and/or on exposure to hot environments. Without proper and prompt treatment with dantrolene sodium, mortality can be over 80%.</Attribute>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </AttributeSet>
+              <Citation Type="general" Abbrev="EMHG, 2018">
+                <ID Source="PubMed">33131754</ID>
+              </Citation>
+              <Citation Type="review" Abbrev="GeneReviews">
+                <ID Source="PubMed">20301325</ID>
+                <ID Source="BookShelf">NBK1146</ID>
+              </Citation>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGenetest, 2011">
+                <ID Source="pmc">3110041</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2013">
+                <ID Source="PubMed">23788249</ID>
+              </Citation>
+              <Citation Type="Suggested Reading" Abbrev="Sei et al., 2004">
+                <ID Source="PubMed">14870754</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="Orphanet, 2013">
+                <URL>https://www.orpha.net/data/patho/Pro/en/Emergency_MalignantHyperthermia-enPro649.pdf</URL>
+                <CitationText>Orphanet Emergency Guidelines: Malignant hyperthermia</CitationText>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2015">
+                <ID Source="PubMed">25356965</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2016">
+                <ID Source="PubMed">27854360</ID>
+                <ID Source="DOI">10.1038/gim.2016.190</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.0, 2021">
+                <ID Source="PubMed">34012068</ID>
+                <ID Source="DOI">10.1038/s41436-021-01172-3</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.1, 2022">
+                <ID Source="PubMed">35802134</ID>
+                <ID Source="DOI">10.1016/j.gim.2022.04.006</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="ACMG ACT, 2019">
+                <URL>https://www.acmg.net/PDFLibrary/Malignant-Hyperthermia.pdf</URL>
+                <CitationText>American College of Medical Genetics and Genomics, Genomic Testing (Secondary Findings) ACT Sheet, RYR1 and CACNA1S Pathogenic Variants (Malignant Hyperthermia), 2019</CitationText>
+              </Citation>
+              <XRef ID="423" DB="Orphanet"/>
+              <XRef ID="C2930980" DB="MedGen"/>
+              <XRef ID="MONDO:0007783" DB="MONDO"/>
+              <XRef Type="MIM" ID="145600" DB="OMIM"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="33623" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="36528" Type="Disease">
+              <Name>
+                <ElementValue Type="Preferred">RYR1-related disorder</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">RYR1-related condition</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">RYR1-related disorders</ElementValue>
+              </Name>
+              <XRef ID="CN239331" DB="MedGen"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="13267" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="9525" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">Anesthesic-triggered malignant hyperthermia</ElementValue>
+                <XRef ID="HP:0034733" DB="Human Phenotype Ontology"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Malignant hyperthermia of anesthesia</ElementValue>
+                <XRef ID="MONDO:0018493" DB="MONDO"/>
+              </Name>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="6964"/>
+                <XRef ID="6964" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="public definition">Malignant hyperthermia susceptibility (MHS) is a pharmacogenetic disorder of skeletal muscle calcium regulation associated with uncontrolled skeletal muscle hypermetabolism. Manifestations of malignant hyperthermia (MH) are precipitated by volatile anesthetics (i.e., halothane, isoflurane, sevoflurane, desflurane, enflurane), either alone or in conjunction with a depolarizing muscle relaxant (specifically, succinylcholine). The triggering substances cause uncontrolled release of calcium from the sarcoplasmic reticulum and may promote entry of extracellular calcium into the myoplasm, causing contracture of skeletal muscles, glycogenolysis, and increased cellular metabolism, resulting in production of heat and excess lactate. Affected individuals experience acidosis, hypercapnia, tachycardia, hyperthermia, muscle rigidity, compartment syndrome, rhabdomyolysis with subsequent increase in serum creatine kinase (CK) concentration, hyperkalemia with a risk for cardiac arrhythmia or even cardiac arrest, and myoglobinuria with a risk for kidney failure. In nearly all individuals, the first manifestations of MH (hypercapnia, tachycardia, and tachypnea) occur in the operating room; however, MH may also occur in the early postoperative period. There is mounting evidence that some individuals with MHS will also develop MH with exercise and/or on exposure to hot environments. Without proper and prompt treatment with dantrolene sodium, mortality can be over 80%.</Attribute>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <Citation Type="general" Abbrev="EMHG, 2018">
+                <ID Source="PubMed">33131754</ID>
+              </Citation>
+              <Citation Type="review" Abbrev="GeneReviews">
+                <ID Source="PubMed">20301325</ID>
+                <ID Source="BookShelf">NBK1146</ID>
+              </Citation>
+              <Citation Type="Suggested Reading" Abbrev="Sei et al., 2004">
+                <ID Source="PubMed">14870754</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="Orphanet, 2013">
+                <URL>https://www.orpha.net/data/patho/Pro/en/Emergency_MalignantHyperthermia-enPro649.pdf</URL>
+                <CitationText>Orphanet Emergency Guidelines: Malignant hyperthermia</CitationText>
+              </Citation>
+              <Citation Type="general" Abbrev="CPIC, 2019">
+                <ID Source="PubMed">30499100</ID>
+                <ID Source="pmc">6513720</ID>
+                <ID Source="DOI">10.1002/cpt.1319</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="CPIC, 2019">
+                <ID Source="PubMed">31713238</ID>
+                <ID Source="DOI">10.1002/cpt.1670</ID>
+              </Citation>
+              <XRef ID="423" DB="Orphanet"/>
+              <XRef ID="C0024591" DB="MedGen"/>
+              <XRef ID="MONDO:0018493" DB="MONDO"/>
+              <XRef Type="primary" ID="HP:0034733" DB="Human Phenotype Ontology"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="9460" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="17556" Type="Disease">
+              <Name>
+                <ElementValue Type="Preferred">not provided</ElementValue>
+                <XRef ID="13DG0619" DB="Genomic Medicine Center of Excellence, King Faisal Specialist Hospital and Research Centre"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">none provided</ElementValue>
+              </Name>
+              <AttributeSet>
+                <Attribute Type="public definition">The term 'not provided' is registered in MedGen to support identification of submissions to ClinVar for which no condition was named when assessing the variant. 'not provided' differs from 'not specified', which is used when a variant is asserted to be benign, likely benign, or of uncertain significance for conditions that have not been specified.</Attribute>
+              </AttributeSet>
+              <XRef ID="C3661900" DB="MedGen"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="3540" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="865" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0003" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0016" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0004" DB="OMIM"/>
+                <XRef Type="Allelic variant" ID="180901.0012" DB="OMIM"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Central core myopathy</ElementValue>
+                <XRef ID="MONDO:0007294" DB="MONDO"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Central core disease</ElementValue>
+                <XRef ID="43152001" DB="SNOMED CT"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Myopathy, central fibrillar</ElementValue>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">CMYO1A</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+              </Symbol>
+              <Symbol>
+                <ElementValue Type="Alternate">CCO</ElementValue>
+                <XRef Type="MIM" ID="117000" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="6014"/>
+                <XRef ID="6014" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGentest, 2011">
+                <ID Source="PubMed">21989361</ID>
+              </Citation>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGenetest, 2011">
+                <ID Source="PubMed">22009146</ID>
+              </Citation>
+              <XRef ID="597" DB="Orphanet"/>
+              <XRef ID="C5830701" DB="MedGen"/>
+              <XRef ID="MONDO:0007294" DB="MONDO"/>
+              <XRef Type="MIM" ID="117000" DB="OMIM"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="3539" Type="Disease" ContributesToAggregateClassification="true">
+            <Trait ID="2639" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">RYR1-Related Malignant Hyperthermia Susceptibility</ElementValue>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Malignant hyperthermia, susceptibility to, 1</ElementValue>
+                <XRef ID="MONDO:0007783" DB="MONDO"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Anesthesia related hyperthermia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Fulminating hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Pharmacogenic myopathy</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperthermia suceptibility 1</ElementValue>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">MHS1</ElementValue>
+                <XRef Type="MIM" ID="145600" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="3363"/>
+                <XRef ID="3363" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="public definition">Malignant hyperthermia susceptibility (MHS) is a pharmacogenetic disorder of skeletal muscle calcium regulation associated with uncontrolled skeletal muscle hypermetabolism. Manifestations of malignant hyperthermia (MH) are precipitated by volatile anesthetics (i.e., halothane, isoflurane, sevoflurane, desflurane, enflurane), either alone or in conjunction with a depolarizing muscle relaxant (specifically, succinylcholine). The triggering substances cause uncontrolled release of calcium from the sarcoplasmic reticulum and may promote entry of extracellular calcium into the myoplasm, causing contracture of skeletal muscles, glycogenolysis, and increased cellular metabolism, resulting in production of heat and excess lactate. Affected individuals experience acidosis, hypercapnia, tachycardia, hyperthermia, muscle rigidity, compartment syndrome, rhabdomyolysis with subsequent increase in serum creatine kinase (CK) concentration, hyperkalemia with a risk for cardiac arrhythmia or even cardiac arrest, and myoglobinuria with a risk for kidney failure. In nearly all individuals, the first manifestations of MH (hypercapnia, tachycardia, and tachypnea) occur in the operating room; however, MH may also occur in the early postoperative period. There is mounting evidence that some individuals with MHS will also develop MH with exercise and/or on exposure to hot environments. Without proper and prompt treatment with dantrolene sodium, mortality can be over 80%.</Attribute>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </AttributeSet>
+              <Citation Type="general" Abbrev="EMHG, 2018">
+                <ID Source="PubMed">33131754</ID>
+              </Citation>
+              <Citation Type="review" Abbrev="GeneReviews">
+                <ID Source="PubMed">20301325</ID>
+                <ID Source="BookShelf">NBK1146</ID>
+              </Citation>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGenetest, 2011">
+                <ID Source="pmc">3110041</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2013">
+                <ID Source="PubMed">23788249</ID>
+              </Citation>
+              <Citation Type="Suggested Reading" Abbrev="Sei et al., 2004">
+                <ID Source="PubMed">14870754</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="Orphanet, 2013">
+                <URL>https://www.orpha.net/data/patho/Pro/en/Emergency_MalignantHyperthermia-enPro649.pdf</URL>
+                <CitationText>Orphanet Emergency Guidelines: Malignant hyperthermia</CitationText>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2015">
+                <ID Source="PubMed">25356965</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2016">
+                <ID Source="PubMed">27854360</ID>
+                <ID Source="DOI">10.1038/gim.2016.190</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.0, 2021">
+                <ID Source="PubMed">34012068</ID>
+                <ID Source="DOI">10.1038/s41436-021-01172-3</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.1, 2022">
+                <ID Source="PubMed">35802134</ID>
+                <ID Source="DOI">10.1016/j.gim.2022.04.006</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="ACMG ACT, 2019">
+                <URL>https://www.acmg.net/PDFLibrary/Malignant-Hyperthermia.pdf</URL>
+                <CitationText>American College of Medical Genetics and Genomics, Genomic Testing (Secondary Findings) ACT Sheet, RYR1 and CACNA1S Pathogenic Variants (Malignant Hyperthermia), 2019</CitationText>
+              </Citation>
+              <XRef ID="423" DB="Orphanet"/>
+              <XRef ID="C2930980" DB="MedGen"/>
+              <XRef ID="MONDO:0007783" DB="MONDO"/>
+              <XRef Type="MIM" ID="145600" DB="OMIM"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69107" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57156" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">succinylcholine response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69106" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57155" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">sevoflurane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69105" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57154" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">methoxyflurane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69104" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57153" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">isoflurane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69103" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57152" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">halothane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69102" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57151" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">enflurane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="69101" Type="DrugResponse" ContributesToAggregateClassification="true">
+            <Trait ID="57150" Type="DrugResponse">
+              <Name>
+                <ElementValue Type="Preferred">desflurane response - Toxicity</ElementValue>
+              </Name>
+            </Trait>
+          </TraitSet>
+        </ConditionList>
+      </GermlineClassification>
+    </Classifications>
+    <ClinicalAssertionList>
+      <ClinicalAssertion ID="34079" SubmissionDate="2021-09-27" ContributesToAggregateClassification="false" DateLastUpdated="2024-07-23" DateCreated="2013-04-04">
+        <ClinVarSubmissionID localKey="180901.0003_CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA" title="RYR1, ARG2435HIS_CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA"/>
+        <ClinVarAccession Accession="SCV000034079" DateUpdated="2024-07-23" DateCreated="2013-04-04" Type="SCV" Version="5" SubmitterName="OMIM" OrgID="3" OrganizationCategory="resource"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="1997-02-21">
+          <ReviewStatus>no assertion criteria provided</ReviewStatus>
+          <GermlineClassification>risk factor</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species>human</Species>
+              <AffectedStatus>not provided</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>literature only</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">In affected members of a large Canadian family with congenital myopathy-1A (CMYO1A; 117000) manifest as central core disease on skeletal muscle biopsy, Zhang et al. (1993) identified a heterozygous c.7301G-A transition in the RYR1 gene, resulting in an arg2434-to-his (ARG2434HIS) substitution. This appeared to be a 'private' mutation since it was restricted to this single large family among more than 100 Canadian CCD and MHS families tested. Some members of the family had previously been reported by Shuaib et al. (1987) as having mild myopathy, central cores on muscle biopsy, and susceptibility to malignant hyperthermia.</Attribute>
+              <Citation>
+                <ID Source="PubMed">8220422</ID>
+              </Citation>
+              <Citation>
+                <ID Source="PubMed">3626847</ID>
+              </Citation>
+              <XRef DB="OMIM" ID="117000" Type="MIM"/>
+            </ObservedData>
+            <ObservedData>
+              <Attribute Type="Description">Richter et al. (1997) referred to this mutation as arg2435-to- his (R2435H), according to the revised numbering of amino acids based on the corrected sequence data of Phillips et al. (1996).</Attribute>
+              <Citation>
+                <ID Source="PubMed">9030597</ID>
+              </Citation>
+              <Citation>
+                <ID Source="PubMed">8661021</ID>
+              </Citation>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <Name>RYR1, ARG2435HIS</Name>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name Type="NonHGVS">ARG2435HIS</Name>
+          </OtherNameList>
+          <XRefList>
+            <XRef DB="OMIM" ID="180901.0003" Type="Allelic variant"/>
+          </XRefList>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="11686224" SubmissionDate="2025-05-02" ContributesToAggregateClassification="false" DateLastUpdated="2025-05-15" DateCreated="2025-05-15">
+        <ClinVarSubmissionID localKey="NM_000540.3:c.7304G&gt;A" localKeyIsSubmitted="1" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV006076280" DateUpdated="2025-05-15" DateCreated="2025-05-15" Type="SCV" Version="1" SubmitterName="Institute of Immunology and Genetics Kaiserslautern" OrgID="508836" OrganizationCategory="laboratory" OrgAbbreviation="IIG"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2025-03-25">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Comment>ACMG Criteria: PP1, PP3, PP5_M, PM1, PM2_P, PM5, PS3 ; Variant was found in heterozygous state.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+            <TraitSet Type="Finding">
+              <Trait ClinicalFeaturesAffectedStatus="present" Type="Finding">
+                <XRef DB="HP" ID="HP:0003198"/>
+              </Trait>
+              <Trait ClinicalFeaturesAffectedStatus="present" Type="Finding">
+                <XRef DB="HP" ID="HP:0030234"/>
+              </Trait>
+              <Trait ClinicalFeaturesAffectedStatus="present" Type="Finding">
+                <XRef DB="HP" ID="HP:0007178"/>
+              </Trait>
+              <Trait ClinicalFeaturesAffectedStatus="present" Type="Finding">
+                <XRef DB="HP" ID="HP:0007911"/>
+              </Trait>
+            </TraitSet>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.3:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease" multipleConditionExplanation="Uncertain">
+          <Trait Type="Disease">
+            <XRef DB="OMIM" ID="117000" Type="MIM"/>
+          </Trait>
+          <Trait Type="Disease">
+            <XRef DB="OMIM" ID="145600" Type="MIM"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB15296980</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="3964224" SubmissionDate="2025-08-19" ContributesToAggregateClassification="false" DateLastUpdated="2025-09-06" DateCreated="2021-11-29">
+        <ClinVarSubmissionID localKey="651ea6972eb5bc3ab0fe2101bd908262be83c0801f5da46abbebfd6668b1bd95|not provided" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV002019934" DateUpdated="2025-09-06" DateCreated="2021-11-29" Type="SCV" Version="4" SubmitterName="Revvity Omics, Revvity" OrgID="167595" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2019-02-27">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">not provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB10694847</SubmissionName>
+          <SubmissionName>SUB12926214</SubmissionName>
+          <SubmissionName>SUB14173319</SubmissionName>
+          <SubmissionName>SUB15540076</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="280199" SubmissionDate="2011-12-01" ContributesToAggregateClassification="false" DateLastUpdated="2014-06-09" DateCreated="2014-06-09">
+        <ClinVarSubmissionID localKey="RYR1_00114"/>
+        <ClinVarAccession Accession="SCV000154606" DateUpdated="2014-06-09" DateCreated="2014-06-09" Type="SCV" Version="1" SubmitterName="RYR1 database" OrgID="500155" OrganizationCategory="locus-specific database (LSDB)"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification>
+          <ReviewStatus>no classification provided</ReviewStatus>
+          <GermlineClassification>not provided</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>unknown</Origin>
+              <Species>human</Species>
+              <AffectedStatus>not provided</AffectedStatus>
+              <NumberTested>1</NumberTested>
+            </Sample>
+            <Method>
+              <MethodType>not provided</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name>r.(?)</Name>
+            <Name>p.(Arg2435His)</Name>
+          </OtherNameList>
+          <XRefList>
+            <XRef DB="OMIM" ID="180901.0003" Type="Allelic variant"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">not provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>Jorge_Oliveira_2011-05-27_17.30.04</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1662435" SubmissionDate="2018-10-12" ContributesToAggregateClassification="false" DateLastUpdated="2014-06-09" DateCreated="2014-06-09">
+        <ClinVarSubmissionID localKey="NM_000540.2:c.7304G&gt;A|not provided" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV000852764" DateUpdated="2014-06-09" DateCreated="2014-06-09" Type="SCV" Version="1" SubmitterName="PreventionGenetics, part of Exact Sciences" OrgID="239772" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2017-10-20">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">not provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB4498512</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="4041628" SubmissionDate="2022-02-10" ContributesToAggregateClassification="false" DateLastUpdated="2022-02-13" DateCreated="2022-01-22">
+        <ClinVarSubmissionID localKey="53606592|OMIM:117000" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV002061749" DateUpdated="2022-02-13" DateCreated="2022-01-22" Type="SCV" Version="2" SubmitterName="Greenwood Genetic Center Diagnostic Laboratories, Greenwood Genetic Center" OrgID="1019" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-12-09">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Comment>PS3, PS4, PP3, PM2, PM5</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.3:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="OMIM" ID="117000" Type="MIM"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB10978824</SubmissionName>
+          <SubmissionName>SUB11067454</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion FDARecognizedDatabase="true" ID="5025888" SubmissionDate="2022-09-08" ContributesToAggregateClassification="true" DateLastUpdated="2022-09-17" DateCreated="2022-09-17">
+        <ClinVarSubmissionID localKey="5a42695d-2628-48e3-9733-9c50063e0ed0" localKeyIsSubmitted="1" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV002570135" DateUpdated="2022-09-17" DateCreated="2022-09-17" Type="SCV" Version="1" SubmitterName="ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel, ClinGen" OrgID="508072" OrganizationCategory="consortium"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-19">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Citation>
+            <URL>https://erepo.clinicalgenome.org/evrepo/ui/interpretation/5a42695d-2628-48e3-9733-9c50063e0ed0</URL>
+          </Citation>
+          <Comment>This pathogenicity assessment is relevant only for malignant hyperthermia susceptibility (MHS) inherited in an autosomal dominant pattern. Variants in RYR1 can also cause other myopathies inherited in an autosomal dominant pattern or in an autosomal recessive pattern. Some of these disorders may predispose individuals to malignant hyperthermia. RYR1 variants may also contribute to a malignant hyperthermia reaction in combination with other genetic and non-genetic factors and the clinician needs to consider such factors in making management decisions. This sequence variant predicts a substitution of arginine with histidine at codon 2435 of the RYR1 protein, p.(Arg2435His). This variant was not present in a large population database (gnomAD) at the time this variant was interpreted. This variant has been reported in 26 unrelated individuals who have a personal or family history of a malignant hyperthermia reaction, 24 of these individuals had a positive in vitro contracture test (IVCT) or caffeine halothane contracture test (CHCT) result (if the proband was unavailable for testing, a positive diagnostic test result in a mutation-positive relative was counted), PS4 (PMID: 30236257, 16163667, 21965348, 23842196, 12059893, 17081152, 17710899, 20681998, 31559918, 16732084, 19513315). Functional studies in HEK293 cells shows an increased sensitivity to RYR1 agonists, PS3_Moderate (PMID: 9334205, 27586648). This variant resides in a region of RYR1 considered to be a hotspot for pathogenic variants that contribute to MHS, PM1 (PMID: 21118704). This variant segregates with MHS in at least 10 families individuals, PP1_Strong (PMID: 12059893, 30236257, 32919876). A REVEL score &gt;0.85 (0.944) supports a pathogenic status for this variant, PP3_Moderate. This variant has been classified as Pathogenic. Criteria implemented: PS3_Moderate, PS4, PM1, PP1_Strong, PP3_Moderate.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="ModeOfInheritance">Autosomal dominant inheritance</Attribute>
+        </AttributeSet>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ClinGen MHS ACMG Specifications V2</Attribute>
+          <Citation>
+            <URL>https://submit.ncbi.nlm.nih.gov/ft/byid/j3hq3afs/clingen_mhs_acmg_specifications_v2.pdf</URL>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name>NM_000540.3(RYR1):c.7304G&gt;A</Name>
+            <Name>p.Arg2435His</Name>
+          </OtherNameList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="MONDO" ID="MONDO:0007783"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB12037505</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="9055796" SubmissionDate="2024-04-19" ContributesToAggregateClassification="false" DateLastUpdated="2024-04-20" DateCreated="2024-04-20">
+        <ClinVarSubmissionID localKey="98130713|Orphanet:ORPHA423" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV004847788" DateUpdated="2024-04-20" DateCreated="2024-04-20" Type="SCV" Version="1" SubmitterName="Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine" OrgID="21766" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2020-04-16">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Citation>
+            <ID Source="PubMed">23842196</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">9334205</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">27586648</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Comment>The p.Arg2435His variant in RYR1 has been reported in &gt;15 individuals with malignant hyperthermia and segregated with disease in multiple affected individuals from several families (Riazi 2014, Broman 2011, Carpenter 2009, Zhang 1993, Robinson 2002). This variant was absent from large population studies but has been reported in ClinVar (Variation ID 12966). Computational prediction tools and conservation analyses suggest that this variant may impact the protein, though this information is not predictive enough to determine pathogenicity. In vitro functional studies support an impact on protein function (Tong 1997, Carpenter 2009, Murayama 2016, Robinson 2002). In summary, this variant meets criteria to be classified as pathogenic for autosomal dominant malignant hyperthermia. ACMG/AMP Criteria applied: PS4, PM2, PS3_Moderate, PP1, PP3</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="ModeOfInheritance">Autosomal dominant inheritance</Attribute>
+        </AttributeSet>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <Location>
+            <GeneLocation>NM_000540.3:exon 45</GeneLocation>
+          </Location>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="Orphanet" ID="ORPHA423"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB14389831</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="10239346" SubmissionDate="2024-09-18" ContributesToAggregateClassification="false" DateLastUpdated="2024-09-29" DateCreated="2024-09-29">
+        <ClinVarSubmissionID localKey="GDXSV:524832" localKeyIsSubmitted="1"/>
+        <ClinVarAccession Accession="SCV005324905" DateUpdated="2024-09-29" DateCreated="2024-09-29" Type="SCV" Version="1" SubmitterName="GeneDx" OrgID="26957" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2024-02-28">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Comment>Published functional studies demonstrate a damaging effect: increased sensitivity to calcium- and halothane-induced intracellular calcium release when compared to the wild type channel (PMID: 11524458); Not observed at significant frequency in large population cohorts (gnomAD); This variant is associated with the following publications: (PMID: 21157159, 16835904, 9873004, 25256590, 21965348, 9334205, 8220422, 27586648, 28687594, 23842196, 12668474, 33767344, 19648156, 19513315, 30236257, 12124989, 17710899, 9497245, 35428369, 11524458, 32919876)</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">GeneDx Variant Classification Process June 2021</Attribute>
+          <Citation>
+            <URL>https://submit.ncbi.nlm.nih.gov/ft/byid/fc81e176/genedx_variant_classification_process_june_2021.pdf</URL>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name Type="SubmitterVariantId">GDX:742126</Name>
+          </OtherNameList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">Not Provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>GeneDX_Clinvar_Submission_340_20240918054205</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="14503260" SubmissionDate="2026-05-08" ContributesToAggregateClassification="false" DateLastUpdated="2026-05-16" DateCreated="2026-05-16">
+        <ClinVarSubmissionID localKey="NM_000540.3:c.7304G&gt;A|OMIM:145600" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV007595521" DateUpdated="2026-05-16" DateCreated="2026-05-16" Type="SCV" Version="1" SubmitterName="Variantyx, Inc." OrgID="506526" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2025-03-12">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">27586648</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">28687594</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">9334205</ID>
+          </Citation>
+          <Comment Type="public">This is a nonsynonymous variant in the RYR1 gene (OMIM: 180901). Pathogenic variants in this gene have been associated with autosomal dominant susceptibility to malignant hyperthermia 1. This variant has been reported in at least 4 unrelated affected individuals (PMID: 16163667) (PS4_Moderate). Functional studies have shown that this variant alters RYR1 protein function (PMID: 27586648, 28687594, 9334205) (PS3), and multiple computational algorithms predict a deleterious effect for this variant (REVEL score: 0.944) (PP3). Moreiver, the variant lies within a known hotspot for pathogenic variants or a well-established critical functional domain of the RYR1 protein (PMID: 27586648) (PM1) and has a 0.0001% maximum allele frequency in non-founder control populations (https://gnomad.broadinstitute.org/) (PM2). Based on the current evidence, this variant is classified as pathogenic for autosomal dominant susceptibility to malignant hyperthermia 1.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="ModeOfInheritance">Autosomal dominant inheritance</Attribute>
+        </AttributeSet>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Variantyx Assertion Criteria 2022</Attribute>
+          <Citation>
+            <URL>https://submit.ncbi.nlm.nih.gov/api/2.0/files/2zdwovk5/variantyx_assertion_criteria_2022.pdf/?format=attachment</URL>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>no</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.3:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="OMIM" ID="145600" Type="MIM"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB16175519</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="14509924" SubmissionDate="2026-05-16" ContributesToAggregateClassification="false" DateLastUpdated="2026-05-30" DateCreated="2026-05-30">
+        <ClinVarSubmissionID localKey="ClinDasa-1908|MedGen:C3661900" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV007599643" DateUpdated="2026-05-30" DateCreated="2026-05-30" Type="SCV" Version="1" SubmitterName="Dasa" OrgID="508087" OrganizationCategory="laboratory" OrgAbbreviation="DASA"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2025-10-23">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Citation>
+            <ID Source="PubMed">21118704</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">32919876</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">27586648</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">23842196</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">30236257</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Comment Type="public">NM_000540.3(RYR1):c.7304G&gt;A (p.Arg2435His) is a missense variant that results in the substitution of arginine with histidine. The affected residue or protein region has prior evidence supporting clinical relevance. Segregation evidence has been reported in affected families. Functional evidence supports a deleterious effect on the gene or gene product (PMID: 21118704; PMID: 12059893; PMID: 32919876; PMID: 27586648; PMID: 19648156). This variant has been recurrently observed in individuals with related phenotype (PMID: 21118704; PMID: 12059893; PMID: 32919876; PMID: 27586648; PMID: 19648156). Multiple computational predictions support a deleterious effect on the gene or gene product. The variant is present at low frequency in population datasets. Based on the available data, this variant is classified as pathogenic.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">DASA Assertion Criteria</Attribute>
+          <Citation>
+            <URL>https://submit.ncbi.nlm.nih.gov/api/2.0/files/qhkwunxtamw8cdqx/dasa_genomica_assertion_criteria.pdf/?format=attachment</URL>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.3:c.7304G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="MedGen" ID="C3661900" Type="CUI"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB16192999</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809143" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416455|desflurane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925439" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">desflurane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809144" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416456|enflurane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925440" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">enflurane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809145" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416457|halothane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925441" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">halothane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809146" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416458|isoflurane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925442" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">isoflurane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809203" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416459|methoxyflurane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925499" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">methoxyflurane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809204" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416460|sevoflurane response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925500" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">sevoflurane response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1809205" SubmissionDate="2021-11-18" ContributesToAggregateClassification="true" DateLastUpdated="2021-12-12" DateCreated="2019-06-30">
+        <ClinVarSubmissionID localKey="1450416461|succinylcholine response - Toxicity" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV000925501" DateUpdated="2021-12-12" DateCreated="2019-06-30" Type="SCV" Version="2" SubmitterName="ClinPGx" OrgID="500295" OrganizationCategory="resource" OrgAbbreviation="PharmGKB"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2021-03-24">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>drug response</GermlineClassification>
+          <ExplanationOfClassification>Drug-variant association: Toxicity</ExplanationOfClassification>
+          <Citation>
+            <ID Source="PubMed">12059893</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">12124989</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">15108991</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16163667</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16732084</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16835904</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">16917943</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17081152</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">17710899</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19513315</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19648156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">20681998</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25256590</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">25989378</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <URL>https://www.pharmgkb.org/clinicalAnnotation/1445400894</URL>
+          </Citation>
+          <Comment Type="public">PharmGKB Level of Evidence 1A: Level 1A clinical annotations describe variant-drug combinations that have variant-specific prescribing guidance available in a current clinical guideline annotation or an FDA-approved drug label annotation. Annotations of drug labels or clinical guidelines must give prescribing guidance for specific variants (e.g. CYP2C9*3, HLA-B*57:01) or provide mapping from defined allele functions to diplotypes and phenotypes to be used as supporting evidence for a level 1A clinical annotation. Level 1A clinical annotations must also be supported by at least one publication in addition to a clinical guideline or drug label with variant-specific prescribing guidance.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Pharmacogenomics knowledge for personalized medicine</Attribute>
+          <Citation>
+            <ID Source="PubMed">22992668</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>yes</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <XRefList>
+            <XRef DB="dbSNP" ID="28933396" Type="rsNumber"/>
+          </XRefList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38499997G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="DrugResponse">
+          <Trait Type="DrugResponse">
+            <Name>
+              <ElementValue Type="Preferred">succinylcholine response - Toxicity</ElementValue>
+            </Name>
+            <TraitRelationship Type="DrugResponseAndDisease">
+              <Name>
+                <ElementValue Type="Preferred">Malignant Hyperthermia</ElementValue>
+              </Name>
+            </TraitRelationship>
+          </Trait>
+        </TraitSet>
+        <Citation>
+          <URL>https://www.pharmgkb.org/variant/PA166155481</URL>
+        </Citation>
+        <Comment Type="public">Drug is not necessarily used to treat response condition</Comment>
+        <SubmissionNameList>
+          <SubmissionName>PharmGKB-ClinVar 2019-06</SubmissionName>
+          <SubmissionName>PharmGKB-SNP 2021-11</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="1608521" SubmissionDate="2026-02-05" ContributesToAggregateClassification="false" DateLastUpdated="2026-02-15" DateCreated="2018-10-10">
+        <ClinVarSubmissionID localKey="4341064|MedGen:CN239331" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV000836503" DateUpdated="2026-02-15" DateCreated="2018-10-10" Type="SCV" Version="8" SubmitterName="Labcorp Genetics (formerly Invitae), Labcorp" OrgID="500031" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2024-11-27">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+          <Citation>
+            <ID Source="PubMed">8220422</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">19658156</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">21965348</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">23842196</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">9334205</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">9873004</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">11524458</ID>
+          </Citation>
+          <Citation>
+            <ID Source="PubMed">27586648</ID>
+          </Citation>
+          <Comment Type="public">This sequence change replaces arginine, which is basic and polar, with histidine, which is basic and polar, at codon 2435 of the RYR1 protein (p.Arg2435His). This variant is not present in population databases (gnomAD no frequency). This missense change has been observed in individuals with autosomal dominant malignant hyperthermia and/or central core disease (PMID: 8220422, 19658156, 21965348, 23842196). It has also been observed to segregate with disease in related individuals. ClinVar contains an entry for this variant (Variation ID: 12966). Invitae Evidence Modeling of protein sequence and biophysical properties (such as structural, functional, and spatial information, amino acid conservation, physicochemical variation, residue mobility, and thermodynamic stability) indicates that this missense variant is expected to disrupt RYR1 protein function with a positive predictive value of 80%. Experimental studies have shown that this missense change affects RYR1 function (PMID: 9334205, 9873004, 11524458, 27586648). For these reasons, this variant has been classified as Pathogenic.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Invitae Variant Classification Sherloc (09022015)</Attribute>
+          <Citation>
+            <ID Source="PubMed">28492532</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.9:g.38990637G&gt;A</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="MedGen" ID="CN239331" Type="CUI"/>
+          </Trait>
+        </TraitSet>
+        <Citation Type="general">
+          <ID Source="PubMed">28492532</ID>
+        </Citation>
+        <SubmissionNameList>
+          <SubmissionName>SUB11431369</SubmissionName>
+          <SubmissionName>SUB12508014</SubmissionName>
+          <SubmissionName>SUB14200283</SubmissionName>
+          <SubmissionName>SUB15075422</SubmissionName>
+          <SubmissionName>SUB15990450</SubmissionName>
+          <SubmissionName>SUB8755776</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+    </ClinicalAssertionList>
+    <TraitMappingList>
+      <TraitMapping ClinicalAssertionID="34079" TraitType="Disease" MappingType="Name" MappingValue="CONGENITAL MYOPATHY 1A, AUTOSOMAL DOMINANT, WITH SUSCEPTIBILITY TO MALIGNANT HYPERTHERMIA" MappingRef="Preferred">
+        <MedGen CUI="C5830701" Name="Central core myopathy"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Finding" MappingType="XRef" MappingValue="HP:0003198" MappingRef="HP">
+        <MedGen CUI="C0026848" Name="Myopathy"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Finding" MappingType="XRef" MappingValue="HP:0030234" MappingRef="HP">
+        <MedGen CUI="C4022565" Name="Highly elevated creatine kinase"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Finding" MappingType="XRef" MappingValue="HP:0007178" MappingRef="HP">
+        <MedGen CUI="C0271683" Name="Motor polyneuropathy"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Finding" MappingType="XRef" MappingValue="HP:0007911" MappingRef="HP">
+        <MedGen CUI="C1836264" Name="Congenital bilateral ptosis"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Disease" MappingType="XRef" MappingValue="117000" MappingRef="OMIM">
+        <MedGen CUI="C5830701" Name="Central core myopathy"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="11686224" TraitType="Disease" MappingType="XRef" MappingValue="145600" MappingRef="OMIM">
+        <MedGen CUI="C2930980" Name="Malignant hyperthermia, susceptibility to, 1"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="3964224" TraitType="Disease" MappingType="Name" MappingValue="not provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="280199" TraitType="Disease" MappingType="Name" MappingValue="not provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1662435" TraitType="Disease" MappingType="Name" MappingValue="not provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="4041628" TraitType="Disease" MappingType="XRef" MappingValue="117000" MappingRef="OMIM">
+        <MedGen CUI="C5830701" Name="Central core myopathy"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="5025888" TraitType="Disease" MappingType="XRef" MappingValue="MONDO:0007783" MappingRef="MONDO">
+        <MedGen CUI="C2930980" Name="Malignant hyperthermia, susceptibility to, 1"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="9055796" TraitType="Disease" MappingType="XRef" MappingValue="ORPHA423" MappingRef="Orphanet">
+        <MedGen CUI="C0024591" Name="Malignant hyperthermia of anesthesia"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="10239346" TraitType="Disease" MappingType="Name" MappingValue="Not Provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="14503260" TraitType="Disease" MappingType="XRef" MappingValue="145600" MappingRef="OMIM">
+        <MedGen CUI="C2930980" Name="Malignant hyperthermia, susceptibility to, 1"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="14509924" TraitType="Disease" MappingType="XRef" MappingValue="C3661900" MappingRef="MedGen">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809143" TraitType="DrugResponse" MappingType="Name" MappingValue="desflurane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="desflurane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809144" TraitType="DrugResponse" MappingType="Name" MappingValue="enflurane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="enflurane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809145" TraitType="DrugResponse" MappingType="Name" MappingValue="halothane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="halothane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809146" TraitType="DrugResponse" MappingType="Name" MappingValue="isoflurane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="isoflurane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809203" TraitType="DrugResponse" MappingType="Name" MappingValue="methoxyflurane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="methoxyflurane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809204" TraitType="DrugResponse" MappingType="Name" MappingValue="sevoflurane response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="sevoflurane response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1809205" TraitType="DrugResponse" MappingType="Name" MappingValue="succinylcholine response - Toxicity" MappingRef="Preferred">
+        <MedGen CUI="None" Name="succinylcholine response - Toxicity"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="1608521" TraitType="Disease" MappingType="XRef" MappingValue="CN239331" MappingRef="MedGen">
+        <MedGen CUI="CN239331" Name="RYR1-related disorder"/>
+      </TraitMapping>
+    </TraitMappingList>
+  </ClassifiedRecord>
+</VariationArchive>
+</ClinVarResult-Set>

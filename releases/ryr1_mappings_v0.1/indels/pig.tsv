@@ -1,0 +1,12 @@
+side	human_position	human_residue	pig_position	pig_residue	ambiguous
+pig-only			5	G	true
+human-only	3481	A			false
+human-only	3482	G			false
+human-only	3483	D			false
+human-only	3484	I			false
+human-only	3485	Q			false
+human-only	4499	L			false
+human-only	4500	E			true
+pig-only			4534	G	false
+pig-only			4535	G	false
+pig-only			4536	L	false

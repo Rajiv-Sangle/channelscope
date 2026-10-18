@@ -1,0 +1,1 @@
+{"query": "{ variant(variantId: \"19-38543816-T-C\", dataset: gnomad_r4) { variant_id exome { ac an filters } genome { ac an filters } joint { ac an filters } } }"}

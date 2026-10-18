@@ -1,0 +1,9 @@
+# s2_gate_9zo8_9zoe.tsv: rabbit 9ZO8 and 9ZOE's pore radius at the gate (A), by O2's two implementations,
+# as how/runtime/channelscope/s2/gate_9zo8_9zoe.py measured it (code sha256:8711e75534d0fbcfb2961425feb1573e826289be0679d2c8be20f15cdf7a2600), importing o2/gate.py unchanged
+# (code sha256:d54a41599787f383d4612a404dd72928ac51afef84866ef1b8524db39b759ca2; criteria committed in b932329). Libraries: biopython 1.88, gemmi 0.7.5, numpy 2.5.3. Generated; never edited.
+# O2's committed run reproduced first: 24 of 24 structures equal to the hundredth by both implementations
+# Inputs (retrieval records): 9ZO8=cs:retrieval.0QHSHgEL8658y8NlPcrBv_WLvO6fGVcS; 9ZOE=cs:retrieval._Th9eJJCB7EPav9qbob_0WmgURPm9YyB; 5TB0=cs:retrieval.kVNCc55Vm9v8jvE7ELei45jDUCoLgF9G; 5T9V=cs:retrieval.FFdMFmwuUdG1m77On8tLnNe-nfngfTJK; 9NMO=cs:retrieval.EdoFVrww6tAVibr1OZS8mucjm99zjEi6
+# G1 FAIL: 9ZOE; G2 pass (re-measured); planted faults 9 of 10 caught (B: 5TB0 gate atoms moved 4 A outward reads open)
+entry	species	gate_residue	radius_A	radius_B	class_A	class_B	g1_agree	class_at_minus_0.5A	class_at_plus_0.5A	deposited_words	deposited_implies	measured_agrees
+9ZO8	Oryctolagus cuniculus	I4937	0.93	0.95	closed	closed	yes	closed/closed	closed/closed	closed pore	closed	yes
+9ZOE	Oryctolagus cuniculus	I4937	5.28	4.07	open	open	no	open/open	open/open	open pore	open	yes

@@ -1,0 +1,588 @@
+genome_pos	region	exon_number	intron_number	c_hgvs	c_pos	codon_number	codon_position	residue_number	genome_base	included_as	data_absent_reason
+38433691	5utr	1		c.-139					G	exon 1's first base; the 5' UTR's first base	not-applicable
+38433829	5utr	1		c.-1					C	the 5' UTR's last base	not-applicable
+38433874	cds	1		c.45	45	15	3	15	G	exon 1's last base	
+38433875	intron		1	c.45+1					G	intron 1's first base	not-applicable
+38437309	intron		1	c.45+3435					C	intron 1's last base named from exon 1 (6870 bases, even)	not-applicable
+38437310	intron		1	c.46-3435					C	intron 1's first base named from exon 2	not-applicable
+38440744	intron		1	c.46-1					G	intron 1's last base	not-applicable
+38440745	cds	2		c.46	46	16	1	16	G	exon 2's first base	
+38440864	cds	2		c.165	165	55	3	55	G	exon 2's last base	
+38440865	intron		2	c.165+1					G	intron 2's first base	not-applicable
+38441606	intron		2	c.165+742					A	intron 2's last base named from exon 2 (1484 bases, even)	not-applicable
+38441607	intron		2	c.166-742					G	intron 2's first base named from exon 3	not-applicable
+38442348	intron		2	c.166-1					G	intron 2's last base	not-applicable
+38442349	cds	3		c.166	166	56	1	56	A	exon 3's first base	
+38442453	cds	3		c.270	270	90	3	90	G	exon 3's last base	
+38442454	intron		3	c.270+1					G	intron 3's first base	not-applicable
+38443005	intron		3	c.270+552					C	intron 3's last base named from exon 3 (1104 bases, even)	not-applicable
+38443006	intron		3	c.271-552					A	intron 3's first base named from exon 4	not-applicable
+38443557	intron		3	c.271-1					G	intron 3's last base	not-applicable
+38443558	cds	4		c.271	271	91	1	91	T	exon 4's first base	
+38443632	cds	4		c.345	345	115	3	115	G	exon 4's last base	
+38443633	intron		4	c.345+1					G	intron 4's first base	not-applicable
+38443675	intron		4	c.345+43					T	intron 4's central base (85 bases, odd)	not-applicable
+38443717	intron		4	c.346-1					G	intron 4's last base	not-applicable
+38443718	cds	5		c.346	346	116	1	116	T	exon 5's first base	
+38443796	cds	5		c.424	424	142	1	142	G	exon 5's last base	
+38443797	intron		5	c.424+1					G	intron 5's first base	not-applicable
+38443972	intron		5	c.424+176					C	intron 5's last base named from exon 5 (352 bases, even)	not-applicable
+38443973	intron		5	c.425-176					C	intron 5's first base named from exon 6	not-applicable
+38444148	intron		5	c.425-1					G	intron 5's last base	not-applicable
+38444149	cds	6		c.425	425	142	2	142	G	exon 6's first base	
+38444261	cds	6		c.537	537	179	3	179	G	exon 6's last base	
+38444262	intron		6	c.537+1					G	intron 6's first base	not-applicable
+38444422	intron		6	c.537+161					T	intron 6's last base named from exon 6 (322 bases, even)	not-applicable
+38444423	intron		6	c.538-161					C	intron 6's first base named from exon 7	not-applicable
+38444583	intron		6	c.538-1					G	intron 6's last base	not-applicable
+38444584	cds	7		c.538	538	180	1	180	C	exon 7's first base	
+38444677	cds	7		c.631	631	211	1	211	G	exon 7's last base	
+38444678	intron		7	c.631+1					G	intron 7's first base	not-applicable
+38445574	intron		7	c.631+897					T	intron 7's last base named from exon 7 (1794 bases, even)	not-applicable
+38445575	intron		7	c.632-897					C	intron 7's first base named from exon 8	not-applicable
+38446471	intron		7	c.632-1					G	intron 7's last base	not-applicable
+38446472	cds	8		c.632	632	211	2	211	G	exon 8's first base	
+38446565	cds	8		c.725	725	242	2	242	G	exon 8's last base	
+38446566	intron		8	c.725+1					G	intron 8's first base	not-applicable
+38446629	intron		8	c.725+64					A	intron 8's last base named from exon 8 (128 bases, even)	not-applicable
+38446630	intron		8	c.726-64					G	intron 8's first base named from exon 9	not-applicable
+38446693	intron		8	c.726-1					G	intron 8's last base	not-applicable
+38446694	cds	9		c.726	726	242	3	242	A	exon 9's first base	
+38446768	cds	9		c.800	800	267	2	267	G	exon 9's last base	
+38446769	intron		9	c.800+1					G	intron 9's first base	not-applicable
+38447561	intron		9	c.800+793					G	intron 9's last base named from exon 9 (1586 bases, even)	not-applicable
+38447562	intron		9	c.801-793					C	intron 9's first base named from exon 10	not-applicable
+38448354	intron		9	c.801-1					G	intron 9's last base	not-applicable
+38448355	cds	10		c.801	801	267	3	267	C	exon 10's first base	
+38448511	cds	10		c.957	957	319	3	319	G	exon 10's last base	
+38448512	intron		10	c.957+1					G	intron 10's first base	not-applicable
+38448580	intron		10	c.957+69					T	intron 10's central base (137 bases, odd)	not-applicable
+38448648	intron		10	c.958-1					G	intron 10's last base	not-applicable
+38448649	cds	11		c.958	958	320	1	320	G	exon 11's first base	
+38448813	cds	11		c.1122	1122	374	3	374	G	exon 11's last base	
+38448814	intron		11	c.1122+1					G	intron 11's first base	not-applicable
+38450288	intron		11	c.1122+1475					C	intron 11's last base named from exon 11 (2950 bases, even)	not-applicable
+38450289	intron		11	c.1123-1475					C	intron 11's first base named from exon 12	not-applicable
+38451763	intron		11	c.1123-1					G	intron 11's last base	not-applicable
+38451764	cds	12		c.1123	1123	375	1	375	G	exon 12's first base	
+38451885	cds	12		c.1244	1244	415	2	415	A	exon 12's last base	
+38451886	intron		12	c.1244+1					G	intron 12's first base	not-applicable
+38452352	intron		12	c.1244+467					G	intron 12's central base (933 bases, odd)	not-applicable
+38452818	intron		12	c.1245-1					G	intron 12's last base	not-applicable
+38452819	cds	13		c.1245	1245	415	3	415	G	exon 13's first base	
+38453014	cds	13		c.1440	1440	480	3	480	G	exon 13's last base	
+38453015	intron		13	c.1440+1					G	intron 13's first base	not-applicable
+38454124	intron		13	c.1440+1110					C	intron 13's last base named from exon 13 (2220 bases, even)	not-applicable
+38454125	intron		13	c.1441-1110					C	intron 13's first base named from exon 14	not-applicable
+38455234	intron		13	c.1441-1					G	intron 13's last base	not-applicable
+38455235	cds	14		c.1441	1441	481	1	481	G	exon 14's first base	
+38455370	cds	14		c.1576	1576	526	1	526	G	exon 14's last base	
+38455371	intron		14	c.1576+1					G	intron 14's first base	not-applicable
+38455410	intron		14	c.1576+40					A	intron 14's last base named from exon 14 (80 bases, even)	not-applicable
+38455411	intron		14	c.1577-40					T	intron 14's first base named from exon 15	not-applicable
+38455450	intron		14	c.1577-1					G	intron 14's last base	not-applicable
+38455451	cds	15		c.1577	1577	526	2	526	C	exon 15's first base	
+38455546	cds	15		c.1672	1672	558	1	558	G	exon 15's last base	
+38455547	intron		15	c.1672+1					G	intron 15's first base	not-applicable
+38455589	intron		15	c.1672+43					G	intron 15's last base named from exon 15 (86 bases, even)	not-applicable
+38455590	intron		15	c.1673-43					A	intron 15's first base named from exon 16	not-applicable
+38455632	intron		15	c.1673-1					G	intron 15's last base	not-applicable
+38455633	cds	16		c.1673	1673	558	2	558	G	exon 16's first base	
+38455751	cds	16		c.1791	1791	597	3	597	G	exon 16's last base	
+38455752	intron		16	c.1791+1					G	intron 16's first base	not-applicable
+38456624	intron		16	c.1791+873					T	intron 16's central base (1745 bases, odd)	not-applicable
+38457496	intron		16	c.1792-1					G	intron 16's last base	not-applicable
+38457497	cds	17		c.1792	1792	598	1	598	G	exon 17's first base	
+38457630	cds	17		c.1925	1925	642	2	642	G	exon 17's last base	
+38457631	intron		17	c.1925+1					G	intron 17's first base	not-applicable
+38457840	intron		17	c.1925+210					T	intron 17's last base named from exon 17 (420 bases, even)	not-applicable
+38457841	intron		17	c.1926-210					T	intron 17's first base named from exon 18	not-applicable
+38458050	intron		17	c.1926-1					G	intron 17's last base	not-applicable
+38458051	cds	18		c.1926	1926	642	3	642	C	exon 18's first base	
+38458292	cds	18		c.2167	2167	723	1	723	G	exon 18's last base	
+38458293	intron		18	c.2167+1					G	intron 18's first base	not-applicable
+38458719	intron		18	c.2167+427					G	intron 18's central base (853 bases, odd)	not-applicable
+38459145	intron		18	c.2168-1					G	intron 18's last base	not-applicable
+38459146	cds	19		c.2168	2168	723	2	723	G	exon 19's first base	
+38459338	cds	19		c.2360	2360	787	2	787	A	exon 19's last base	
+38459339	intron		19	c.2360+1					G	intron 19's first base	not-applicable
+38459856	intron		19	c.2360+518					C	intron 19's last base named from exon 19 (1036 bases, even)	not-applicable
+38459857	intron		19	c.2361-518					A	intron 19's first base named from exon 20	not-applicable
+38460374	intron		19	c.2361-1					G	intron 19's last base	not-applicable
+38460375	cds	20		c.2361	2361	787	3	787	G	exon 20's first base	
+38460591	cds	20		c.2577	2577	859	3	859	G	exon 20's last base	
+38460592	intron		20	c.2577+1					G	intron 20's first base	not-applicable
+38462007	intron		20	c.2577+1416					A	intron 20's central base (2831 bases, odd)	not-applicable
+38463422	intron		20	c.2578-1					G	intron 20's last base	not-applicable
+38463423	cds	21		c.2578	2578	860	1	860	A	exon 21's first base	
+38463527	cds	21		c.2682	2682	894	3	894	G	exon 21's last base	
+38463528	intron		21	c.2682+1					G	intron 21's first base	not-applicable
+38463637	intron		21	c.2682+110					T	intron 21's central base (219 bases, odd)	not-applicable
+38463746	intron		21	c.2683-1					G	intron 21's last base	not-applicable
+38463747	cds	22		c.2683	2683	895	1	895	G	exon 22's first base	
+38463850	cds	22		c.2786	2786	929	2	929	A	exon 22's last base	
+38463851	intron		22	c.2786+1					G	intron 22's first base	not-applicable
+38464244	intron		22	c.2786+394					T	intron 22's last base named from exon 22 (788 bases, even)	not-applicable
+38464245	intron		22	c.2787-394					C	intron 22's first base named from exon 23	not-applicable
+38464638	intron		22	c.2787-1					G	intron 22's last base	not-applicable
+38464639	cds	23		c.2787	2787	929	3	929	G	exon 23's first base	
+38464722	cds	23		c.2870	2870	957	2	957	C	exon 23's last base	
+38464723	intron		23	c.2870+1					G	intron 23's first base	not-applicable
+38465406	intron		23	c.2870+684					T	intron 23's last base named from exon 23 (1368 bases, even)	not-applicable
+38465407	intron		23	c.2871-684					G	intron 23's first base named from exon 24	not-applicable
+38466090	intron		23	c.2871-1					G	intron 23's last base	not-applicable
+38466091	cds	24		c.2871	2871	957	3	957	G	exon 24's first base	
+38466398	cds	24		c.3178	3178	1060	1	1060	A	exon 24's last base	
+38466399	intron		24	c.3178+1					G	intron 24's first base	not-applicable
+38467004	intron		24	c.3178+606					T	intron 24's central base (1211 bases, odd)	not-applicable
+38467609	intron		24	c.3179-1					G	intron 24's last base	not-applicable
+38467610	cds	25		c.3179	3179	1060	2	1060	G	exon 25's first base	
+38467812	cds	25		c.3381	3381	1127	3	1127	C	exon 25's last base	
+38467813	intron		25	c.3381+1					G	intron 25's first base	not-applicable
+38468389	intron		25	c.3381+577					A	intron 25's central base (1153 bases, odd)	not-applicable
+38468965	intron		25	c.3382-1					G	intron 25's last base	not-applicable
+38468966	cds	26		c.3382	3382	1128	1	1128	G	exon 26's first base	
+38469140	cds	26		c.3556	3556	1186	1	1186	G	exon 26's last base	
+38469141	intron		26	c.3556+1					G	intron 26's first base	not-applicable
+38469222	intron		26	c.3556+82					T	intron 26's last base named from exon 26 (164 bases, even)	not-applicable
+38469223	intron		26	c.3557-82					C	intron 26's first base named from exon 27	not-applicable
+38469304	intron		26	c.3557-1					G	intron 26's last base	not-applicable
+38469305	cds	27		c.3557	3557	1186	2	1186	G	exon 27's first base	
+38469513	cds	27		c.3765	3765	1255	3	1255	G	exon 27's last base	
+38469514	intron		27	c.3765+1					G	intron 27's first base	not-applicable
+38471445	intron		27	c.3765+1932					G	intron 27's central base (3863 bases, odd)	not-applicable
+38473376	intron		27	c.3766-1					G	intron 27's last base	not-applicable
+38473377	cds	28		c.3766	3766	1256	1	1256	G	exon 28's first base	
+38473771	cds	28		c.4160	4160	1387	2	1387	G	exon 28's last base	
+38473772	intron		28	c.4160+1					G	intron 28's first base	not-applicable
+38474544	intron		28	c.4160+773					T	intron 28's last base named from exon 28 (1546 bases, even)	not-applicable
+38474545	intron		28	c.4161-773					G	intron 28's first base named from exon 29	not-applicable
+38475317	intron		28	c.4161-1					G	intron 28's last base	not-applicable
+38475318	cds	29		c.4161	4161	1387	3	1387	C	exon 29's first base	
+38475450	cds	29		c.4293	4293	1431	3	1431	G	exon 29's last base	
+38475451	intron		29	c.4293+1					G	intron 29's first base	not-applicable
+38476580	intron		29	c.4293+1130					G	intron 29's central base (2259 bases, odd)	not-applicable
+38477709	intron		29	c.4294-1					G	intron 29's last base	not-applicable
+38477710	cds	30		c.4294	4294	1432	1	1432	T	exon 30's first base	
+38477870	cds	30		c.4454	4454	1485	2	1485	G	exon 30's last base	
+38477871	intron		30	c.4454+1					G	intron 30's first base	not-applicable
+38478152	intron		30	c.4454+282					C	intron 30's last base named from exon 30 (564 bases, even)	not-applicable
+38478153	intron		30	c.4455-282					T	intron 30's first base named from exon 31	not-applicable
+38478434	intron		30	c.4455-1					G	intron 30's last base	not-applicable
+38478435	cds	31		c.4455	4455	1485	3	1485	C	exon 31's first base	
+38478600	cds	31		c.4620	4620	1540	3	1540	G	exon 31's last base	
+38478601	intron		31	c.4620+1					G	intron 31's first base	not-applicable
+38480813	intron		31	c.4620+2213					T	intron 31's last base named from exon 31 (4426 bases, even)	not-applicable
+38480814	intron		31	c.4621-2213					G	intron 31's first base named from exon 32	not-applicable
+38483026	intron		31	c.4621-1					G	intron 31's last base	not-applicable
+38483027	cds	32		c.4621	4621	1541	1	1541	G	exon 32's first base	
+38483113	cds	32		c.4707	4707	1569	3	1569	G	exon 32's last base	
+38483114	intron		32	c.4707+1					G	intron 32's first base	not-applicable
+38483201	intron		32	c.4707+88					G	intron 32's last base named from exon 32 (176 bases, even)	not-applicable
+38483202	intron		32	c.4708-88					G	intron 32's first base named from exon 33	not-applicable
+38483289	intron		32	c.4708-1					G	intron 32's last base	not-applicable
+38483290	cds	33		c.4708	4708	1570	1	1570	A	exon 33's first base	
+38483516	cds	33		c.4934	4934	1645	2	1645	G	exon 33's last base	
+38483517	intron		33	c.4934+1					G	intron 33's first base	not-applicable
+38484553	intron		33	c.4934+1037					A	intron 33's central base (2073 bases, odd)	not-applicable
+38485589	intron		33	c.4935-1					G	intron 33's last base	not-applicable
+38485590	cds	34		c.4935	4935	1645	3	1645	G	exon 34's first base	
+38486202	cds	34		c.5547	5547	1849	3	1849	G	exon 34's last base	
+38486203	intron		34	c.5547+1					G	intron 34's first base	not-applicable
+38487689	intron		34	c.5547+1487					A	intron 34's last base named from exon 34 (2974 bases, even)	not-applicable
+38487690	intron		34	c.5548-1487					A	intron 34's first base named from exon 35	not-applicable
+38489176	intron		34	c.5548-1					G	intron 34's last base	not-applicable
+38489177	cds	35		c.5548	5548	1850	1	1850	G	exon 35's first base	
+38489443	cds	35		c.5814	5814	1938	3	1938	G	exon 35's last base	
+38489444	intron		35	c.5814+1					G	intron 35's first base	not-applicable
+38489759	intron		35	c.5814+316					G	intron 35's last base named from exon 35 (632 bases, even)	not-applicable
+38489760	intron		35	c.5815-316					C	intron 35's first base named from exon 36	not-applicable
+38490075	intron		35	c.5815-1					G	intron 35's last base	not-applicable
+38490076	cds	36		c.5815	5815	1939	1	1939	A	exon 36's first base	
+38490276	cds	36		c.6015	6015	2005	3	2005	G	exon 36's last base	
+38490277	intron		36	c.6015+1					G	intron 36's first base	not-applicable
+38490448	intron		36	c.6015+172					C	intron 36's last base named from exon 36 (344 bases, even)	not-applicable
+38490449	intron		36	c.6016-172					T	intron 36's first base named from exon 37	not-applicable
+38490620	intron		36	c.6016-1					G	intron 36's last base	not-applicable
+38490621	cds	37		c.6016	6016	2006	1	2006	A	exon 37's first base	
+38490732	cds	37		c.6127	6127	2043	1	2043	G	exon 37's last base	
+38490733	intron		37	c.6127+1					G	intron 37's first base	not-applicable
+38491611	intron		37	c.6127+879					A	intron 37's central base (1757 bases, odd)	not-applicable
+38492489	intron		37	c.6128-1					G	intron 37's last base	not-applicable
+38492490	cds	38		c.6128	6128	2043	2	2043	G	exon 38's first base	
+38492636	cds	38		c.6274	6274	2092	1	2092	C	exon 38's last base	
+38492637	intron		38	c.6274+1					G	intron 38's first base	not-applicable
+38493494	intron		38	c.6274+858					A	intron 38's central base (1715 bases, odd)	not-applicable
+38494351	intron		38	c.6275-1					G	intron 38's last base	not-applicable
+38494352	cds	39		c.6275	6275	2092	2	2092	G	exon 39's first base	
+38494625	cds	39		c.6548	6548	2183	2	2183	G	exon 39's last base	
+38494626	intron		39	c.6548+1					G	intron 39's first base	not-applicable
+38495420	intron		39	c.6548+795					A	intron 39's central base (1589 bases, odd)	not-applicable
+38496214	intron		39	c.6549-1					G	intron 39's last base	not-applicable
+38496215	cds	40		c.6549	6549	2183	3	2183	G	exon 40's first base	
+38496329	cds	40		c.6663	6663	2221	3	2221	G	exon 40's last base	
+38496330	intron		40	c.6663+1					G	intron 40's first base	not-applicable
+38496369	intron		40	c.6663+40					A	intron 40's central base (79 bases, odd)	not-applicable
+38496408	intron		40	c.6664-1					G	intron 40's last base	not-applicable
+38496409	cds	41		c.6664	6664	2222	1	2222	G	exon 41's first base	
+38496541	cds	41		c.6796	6796	2266	1	2266	G	exon 41's last base	
+38496542	intron		41	c.6796+1					G	intron 41's first base	not-applicable
+38496700	intron		41	c.6796+159					C	intron 41's last base named from exon 41 (318 bases, even)	not-applicable
+38496701	intron		41	c.6797-159					C	intron 41's first base named from exon 42	not-applicable
+38496859	intron		41	c.6797-1					G	intron 41's last base	not-applicable
+38496860	cds	42		c.6797	6797	2266	2	2266	G	exon 42's first base	
+38496954	cds	42		c.6891	6891	2297	3	2297	G	exon 42's last base	
+38496955	intron		42	c.6891+1					G	intron 42's first base	not-applicable
+38498031	intron		42	c.6891+1077					A	intron 42's central base (2153 bases, odd)	not-applicable
+38499107	intron		42	c.6892-1					G	intron 42's last base	not-applicable
+38499108	cds	43		c.6892	6892	2298	1	2298	G	exon 43's first base	
+38499243	cds	43		c.7027	7027	2343	1	2343	G	exon 43's last base	
+38499244	intron		43	c.7027+1					G	intron 43's first base	not-applicable
+38499439	intron		43	c.7027+196					G	intron 43's central base (391 bases, odd)	not-applicable
+38499634	intron		43	c.7028-1					G	intron 43's last base	not-applicable
+38499635	cds	44		c.7028	7028	2343	2	2343	G	exon 44's first base	
+38499821	cds	44		c.7214	7214	2405	2	2405	A	exon 44's last base	
+38499822	intron		44	c.7214+1					G	intron 44's first base	not-applicable
+38499864	intron		44	c.7214+43					C	intron 44's last base named from exon 44 (86 bases, even)	not-applicable
+38499865	intron		44	c.7215-43					C	intron 44's first base named from exon 45	not-applicable
+38499907	intron		44	c.7215-1					G	intron 44's last base	not-applicable
+38499908	cds	45		c.7215	7215	2405	3	2405	C	exon 45's first base	
+38500016	cds	45		c.7323	7323	2441	3	2441	T	exon 45's last base	
+38500017	intron		45	c.7323+1					G	intron 45's first base	not-applicable
+38500311	intron		45	c.7323+295					G	intron 45's central base (589 bases, odd)	not-applicable
+38500605	intron		45	c.7324-1					G	intron 45's last base	not-applicable
+38500606	cds	46		c.7324	7324	2442	1	2442	C	exon 46's first base	
+38500726	cds	46		c.7444	7444	2482	1	2482	G	exon 46's last base	
+38500727	intron		46	c.7444+1					G	intron 46's first base	not-applicable
+38500773	intron		46	c.7444+47					G	intron 46's last base named from exon 46 (94 bases, even)	not-applicable
+38500774	intron		46	c.7445-47					C	intron 46's first base named from exon 47	not-applicable
+38500820	intron		46	c.7445-1					G	intron 46's last base	not-applicable
+38500821	cds	47		c.7445	7445	2482	2	2482	A	exon 47's first base	
+38500990	cds	47		c.7614	7614	2538	3	2538	G	exon 47's last base	
+38500991	intron		47	c.7614+1					G	intron 47's first base	not-applicable
+38501748	intron		47	c.7614+758					C	intron 47's last base named from exon 47 (1516 bases, even)	not-applicable
+38501749	intron		47	c.7615-758					C	intron 47's first base named from exon 48	not-applicable
+38502506	intron		47	c.7615-1					G	intron 47's last base	not-applicable
+38502507	cds	48		c.7615	7615	2539	1	2539	G	exon 48's first base	
+38502727	cds	48		c.7835	7835	2612	2	2612	G	exon 48's last base	
+38502728	intron		48	c.7835+1					G	intron 48's first base	not-applicable
+38502803	intron		48	c.7835+76					G	intron 48's last base named from exon 48 (152 bases, even)	not-applicable
+38502804	intron		48	c.7836-76					C	intron 48's first base named from exon 49	not-applicable
+38502879	intron		48	c.7836-1					G	intron 48's last base	not-applicable
+38502880	cds	49		c.7836	7836	2612	3	2612	G	exon 49's first base	
+38502970	cds	49		c.7926	7926	2642	3	2642	G	exon 49's last base	
+38502971	intron		49	c.7926+1					G	intron 49's first base	not-applicable
+38503595	intron		49	c.7926+625					A	intron 49's central base (1249 bases, odd)	not-applicable
+38504219	intron		49	c.7927-1					G	intron 49's last base	not-applicable
+38504220	cds	50		c.7927	7927	2643	1	2643	C	exon 50's first base	
+38504360	cds	50		c.8067	8067	2689	3	2689	G	exon 50's last base	
+38504361	intron		50	c.8067+1					G	intron 50's first base	not-applicable
+38504554	intron		50	c.8067+194					A	intron 50's central base (387 bases, odd)	not-applicable
+38504747	intron		50	c.8068-1					G	intron 50's last base	not-applicable
+38504748	cds	51		c.8068	8068	2690	1	2690	A	exon 51's first base	
+38504911	cds	51		c.8231	8231	2744	2	2744	A	exon 51's last base	
+38504912	intron		51	c.8231+1					G	intron 51's first base	not-applicable
+38504957	intron		51	c.8231+46					G	intron 51's central base (91 bases, odd)	not-applicable
+38505002	intron		51	c.8232-1					G	intron 51's last base	not-applicable
+38505003	cds	52		c.8232	8232	2744	3	2744	T	exon 52's first base	
+38505081	cds	52		c.8310	8310	2770	3	2770	G	exon 52's last base	
+38505082	intron		52	c.8310+1					G	intron 52's first base	not-applicable
+38505195	intron		52	c.8310+114					C	intron 52's central base (227 bases, odd)	not-applicable
+38505308	intron		52	c.8311-1					G	intron 52's last base	not-applicable
+38505309	cds	53		c.8311	8311	2771	1	2771	A	exon 53's first base	
+38505398	cds	53		c.8400	8400	2800	3	2800	G	exon 53's last base	
+38505399	intron		53	c.8400+1					G	intron 53's first base	not-applicable
+38505602	intron		53	c.8400+204					T	intron 53's central base (407 bases, odd)	not-applicable
+38505805	intron		53	c.8401-1					G	intron 53's last base	not-applicable
+38505806	cds	54		c.8401	8401	2801	1	2801	G	exon 54's first base	
+38505946	cds	54		c.8541	8541	2847	3	2847	G	exon 54's last base	
+38505947	intron		54	c.8541+1					G	intron 54's first base	not-applicable
+38506124	intron		54	c.8541+178					A	intron 54's last base named from exon 54 (356 bases, even)	not-applicable
+38506125	intron		54	c.8542-178					A	intron 54's first base named from exon 55	not-applicable
+38506302	intron		54	c.8542-1					G	intron 54's last base	not-applicable
+38506303	cds	55		c.8542	8542	2848	1	2848	A	exon 55's first base	
+38506377	cds	55		c.8616	8616	2872	3	2872	G	exon 55's last base	
+38506378	intron		55	c.8616+1					G	intron 55's first base	not-applicable
+38506424	intron		55	c.8616+47					G	intron 55's central base (93 bases, odd)	not-applicable
+38506470	intron		55	c.8617-1					G	intron 55's last base	not-applicable
+38506471	cds	56		c.8617	8617	2873	1	2873	G	exon 56's first base	
+38506546	cds	56		c.8692	8692	2898	1	2898	G	exon 56's last base	
+38506547	intron		56	c.8692+1					G	intron 56's first base	not-applicable
+38506687	intron		56	c.8692+141					A	intron 56's last base named from exon 56 (282 bases, even)	not-applicable
+38506688	intron		56	c.8693-141					T	intron 56's first base named from exon 57	not-applicable
+38506828	intron		56	c.8693-1					G	intron 56's last base	not-applicable
+38506829	cds	57		c.8693	8693	2898	2	2898	G	exon 57's first base	
+38506952	cds	57		c.8816	8816	2939	2	2939	G	exon 57's last base	
+38506953	intron		57	c.8816+1					G	intron 57's first base	not-applicable
+38507332	intron		57	c.8816+380					A	intron 57's central base (759 bases, odd)	not-applicable
+38507711	intron		57	c.8817-1					G	intron 57's last base	not-applicable
+38507712	cds	58		c.8817	8817	2939	3	2939	A	exon 58's first base	
+38507827	cds	58		c.8932	8932	2978	1	2978	G	exon 58's last base	
+38507828	intron		58	c.8932+1					G	intron 58's first base	not-applicable
+38509162	intron		58	c.8932+1335					C	intron 58's last base named from exon 58 (2670 bases, even)	not-applicable
+38509163	intron		58	c.8933-1335					T	intron 58's first base named from exon 59	not-applicable
+38510497	intron		58	c.8933-1					G	intron 58's last base	not-applicable
+38510498	cds	59		c.8933	8933	2978	2	2978	A	exon 59's first base	
+38510565	cds	59		c.9000	9000	3000	3	3000	G	exon 59's last base	
+38510566	intron		59	c.9000+1					G	intron 59's first base	not-applicable
+38510612	intron		59	c.9000+47					T	intron 59's last base named from exon 59 (94 bases, even)	not-applicable
+38510613	intron		59	c.9001-47					C	intron 59's first base named from exon 60	not-applicable
+38510659	intron		59	c.9001-1					G	intron 59's last base	not-applicable
+38510660	cds	60		c.9001	9001	3001	1	3001	A	exon 60's first base	
+38510781	cds	60		c.9122	9122	3041	2	3041	G	exon 60's last base	
+38510782	intron		60	c.9122+1					G	intron 60's first base	not-applicable
+38511171	intron		60	c.9122+390					C	intron 60's central base (779 bases, odd)	not-applicable
+38511560	intron		60	c.9123-1					G	intron 60's last base	not-applicable
+38511561	cds	61		c.9123	9123	3041	3	3041	C	exon 61's first base	
+38511610	cds	61		c.9172	9172	3058	1	3058	G	exon 61's last base	
+38511611	intron		61	c.9172+1					G	intron 61's first base	not-applicable
+38511841	intron		61	c.9172+231					A	intron 61's central base (461 bases, odd)	not-applicable
+38512071	intron		61	c.9173-1					G	intron 61's last base	not-applicable
+38512072	cds	62		c.9173	9173	3058	2	3058	G	exon 62's first base	
+38512132	cds	62		c.9233	9233	3078	2	3078	G	exon 62's last base	
+38512133	intron		62	c.9233+1					G	intron 62's first base	not-applicable
+38512188	intron		62	c.9233+56					C	intron 62's last base named from exon 62 (112 bases, even)	not-applicable
+38512189	intron		62	c.9234-56					C	intron 62's first base named from exon 63	not-applicable
+38512244	intron		62	c.9234-1					G	intron 62's last base	not-applicable
+38512245	cds	63		c.9234	9234	3078	3	3078	G	exon 63's first base	
+38512483	cds	63		c.9472	9472	3158	1	3158	C	exon 63's last base	
+38512484	intron		63	c.9472+1					G	intron 63's first base	not-applicable
+38513754	intron		63	c.9472+1271					T	intron 63's last base named from exon 63 (2542 bases, even)	not-applicable
+38513755	intron		63	c.9473-1271					T	intron 63's first base named from exon 64	not-applicable
+38515025	intron		63	c.9473-1					G	intron 63's last base	not-applicable
+38515026	cds	64		c.9473	9473	3158	2	3158	T	exon 64's first base	
+38515107	cds	64		c.9554	9554	3185	2	3185	A	exon 64's last base	
+38515108	intron		64	c.9554+1					G	intron 64's first base	not-applicable
+38515597	intron		64	c.9554+490					C	intron 64's central base (979 bases, odd)	not-applicable
+38516086	intron		64	c.9555-1					G	intron 64's last base	not-applicable
+38516087	cds	65		c.9555	9555	3185	3	3185	G	exon 65's first base	
+38516217	cds	65		c.9685	9685	3229	1	3229	A	exon 65's last base	
+38516218	intron		65	c.9685+1					G	intron 65's first base	not-applicable
+38516788	intron		65	c.9685+571					A	intron 65's central base (1141 bases, odd)	not-applicable
+38517358	intron		65	c.9686-1					G	intron 65's last base	not-applicable
+38517359	cds	66		c.9686	9686	3229	2	3229	T	exon 66's first base	
+38517691	cds	66		c.10018	10018	3340	1	3340	G	exon 66's last base	
+38517692	intron		66	c.10018+1					G	intron 66's first base	not-applicable
+38518452	intron		66	c.10018+761					A	intron 66's last base named from exon 66 (1522 bases, even)	not-applicable
+38518453	intron		66	c.10019-761					G	intron 66's first base named from exon 67	not-applicable
+38519213	intron		66	c.10019-1					G	intron 66's last base	not-applicable
+38519214	cds	67		c.10019	10019	3340	2	3340	T	exon 67's first base	
+38519454	cds	67		c.10259	10259	3420	2	3420	G	exon 67's last base	
+38519455	intron		67	c.10259+1					G	intron 67's first base	not-applicable
+38521241	intron		67	c.10259+1787					C	intron 67's central base (3573 bases, odd)	not-applicable
+38523027	intron		67	c.10260-1					G	intron 67's last base	not-applicable
+38523028	cds	68		c.10260	10260	3420	3	3420	G	exon 68's first base	
+38523115	cds	68		c.10347	10347	3449	3	3449	C	exon 68's last base	
+38523116	intron		68	c.10347+1					G	intron 68's first base	not-applicable
+38523166	intron		68	c.10347+51					A	intron 68's central base (101 bases, odd)	not-applicable
+38523216	intron		68	c.10348-1					G	intron 68's last base	not-applicable
+38523217	cds	69		c.10348	10348	3450	1	3450	A	exon 69's first base	
+38523309	cds	69		c.10440	10440	3480	3	3480	G	exon 69's last base	
+38523310	intron		69	c.10440+1					G	intron 69's first base	not-applicable
+38523612	intron		69	c.10440+303					C	intron 69's central base (605 bases, odd)	not-applicable
+38523914	intron		69	c.10441-1					G	intron 69's last base	not-applicable
+38523915	cds	70		c.10441	10441	3481	1	3481	G	exon 70's first base	
+38523929	cds	70		c.10455	10455	3485	3	3485	G	exon 70's last base	
+38523930	intron		70	c.10455+1					G	intron 70's first base	not-applicable
+38524630	intron		70	c.10455+701					G	intron 70's last base named from exon 70 (1402 bases, even)	not-applicable
+38524631	intron		70	c.10456-701					A	intron 70's first base named from exon 71	not-applicable
+38525331	intron		70	c.10456-1					G	intron 70's last base	not-applicable
+38525332	cds	71		c.10456	10456	3486	1	3486	T	exon 71's first base	
+38525502	cds	71		c.10626	10626	3542	3	3542	G	exon 71's last base	
+38525503	intron		71	c.10626+1					G	intron 71's first base	not-applicable
+38526247	intron		71	c.10626+745					A	intron 71's last base named from exon 71 (1490 bases, even)	not-applicable
+38526248	intron		71	c.10627-745					C	intron 71's first base named from exon 72	not-applicable
+38526992	intron		71	c.10627-1					G	intron 71's last base	not-applicable
+38526993	cds	72		c.10627	10627	3543	1	3543	A	exon 72's first base	
+38527052	cds	72		c.10686	10686	3562	3	3562	G	exon 72's last base	
+38527053	intron		72	c.10686+1					G	intron 72's first base	not-applicable
+38527349	intron		72	c.10686+297					A	intron 72's last base named from exon 72 (594 bases, even)	not-applicable
+38527350	intron		72	c.10687-297					A	intron 72's first base named from exon 73	not-applicable
+38527646	intron		72	c.10687-1					G	intron 72's last base	not-applicable
+38527647	cds	73		c.10687	10687	3563	1	3563	G	exon 73's first base	
+38527784	cds	73		c.10824	10824	3608	3	3608	G	exon 73's last base	
+38527785	intron		73	c.10824+1					G	intron 73's first base	not-applicable
+38528045	intron		73	c.10824+261					T	intron 73's central base (521 bases, odd)	not-applicable
+38528305	intron		73	c.10825-1					G	intron 73's last base	not-applicable
+38528306	cds	74		c.10825	10825	3609	1	3609	A	exon 74's first base	
+38528418	cds	74		c.10937	10937	3646	2	3646	C	exon 74's last base	
+38528419	intron		74	c.10937+1					G	intron 74's first base	not-applicable
+38528508	intron		74	c.10937+90					C	intron 74's last base named from exon 74 (180 bases, even)	not-applicable
+38528509	intron		74	c.10938-90					C	intron 74's first base named from exon 75	not-applicable
+38528598	intron		74	c.10938-1					G	intron 74's last base	not-applicable
+38528599	cds	75		c.10938	10938	3646	3	3646	G	exon 75's first base	
+38528695	cds	75		c.11034	11034	3678	3	3678	A	exon 75's last base	
+38528696	intron		75	c.11034+1					G	intron 75's first base	not-applicable
+38528823	intron		75	c.11034+128					G	intron 75's central base (255 bases, odd)	not-applicable
+38528950	intron		75	c.11035-1					G	intron 75's last base	not-applicable
+38528951	cds	76		c.11035	11035	3679	1	3679	A	exon 76's first base	
+38529057	cds	76		c.11141	11141	3714	2	3714	G	exon 76's last base	
+38529058	intron		76	c.11141+1					G	intron 76's first base	not-applicable
+38530773	intron		76	c.11141+1716					A	intron 76's last base named from exon 76 (3432 bases, even)	not-applicable
+38530774	intron		76	c.11142-1716					C	intron 76's first base named from exon 77	not-applicable
+38532489	intron		76	c.11142-1					G	intron 76's last base	not-applicable
+38532490	cds	77		c.11142	11142	3714	3	3714	C	exon 77's first base	
+38532541	cds	77		c.11193	11193	3731	3	3731	G	exon 77's last base	
+38532542	intron		77	c.11193+1					G	intron 77's first base	not-applicable
+38532606	intron		77	c.11193+65					A	intron 77's central base (129 bases, odd)	not-applicable
+38532670	intron		77	c.11194-1					G	intron 77's last base	not-applicable
+38532671	cds	78		c.11194	11194	3732	1	3732	A	exon 78's first base	
+38532736	cds	78		c.11259	11259	3753	3	3753	G	exon 78's last base	
+38532737	intron		78	c.11259+1					G	intron 78's first base	not-applicable
+38533728	intron		78	c.11259+992					G	intron 78's central base (1983 bases, odd)	not-applicable
+38534719	intron		78	c.11260-1					G	intron 78's last base	not-applicable
+38534720	cds	79		c.11260	11260	3754	1	3754	G	exon 79's first base	
+38534819	cds	79		c.11359	11359	3787	1	3787	G	exon 79's last base	
+38534820	intron		79	c.11359+1					G	intron 79's first base	not-applicable
+38534980	intron		79	c.11359+161					A	intron 79's central base (321 bases, odd)	not-applicable
+38535140	intron		79	c.11360-1					G	intron 79's last base	not-applicable
+38535141	cds	80		c.11360	11360	3787	2	3787	G	exon 80's first base	
+38535220	cds	80		c.11439	11439	3813	3	3813	G	exon 80's last base	
+38535221	intron		80	c.11439+1					G	intron 80's first base	not-applicable
+38535268	intron		80	c.11439+48					G	intron 80's central base (95 bases, odd)	not-applicable
+38535315	intron		80	c.11440-1					G	intron 80's last base	not-applicable
+38535316	cds	81		c.11440	11440	3814	1	3814	A	exon 81's first base	
+38535392	cds	81		c.11516	11516	3839	2	3839	G	exon 81's last base	
+38535393	intron		81	c.11516+1					G	intron 81's first base	not-applicable
+38535694	intron		81	c.11516+302					T	intron 81's last base named from exon 81 (604 bases, even)	not-applicable
+38535695	intron		81	c.11517-302					G	intron 81's first base named from exon 82	not-applicable
+38535996	intron		81	c.11517-1					G	intron 81's last base	not-applicable
+38535997	cds	82		c.11517	11517	3839	3	3839	C	exon 82's first base	
+38536070	cds	82		c.11590	11590	3864	1	3864	G	exon 82's last base	
+38536071	intron		82	c.11590+1					G	intron 82's first base	not-applicable
+38536410	intron		82	c.11590+340					A	intron 82's central base (679 bases, odd)	not-applicable
+38536749	intron		82	c.11591-1					G	intron 82's last base	not-applicable
+38536750	cds	83		c.11591	11591	3864	2	3864	T	exon 83's first base	
+38536767	cds	83		c.11608	11608	3870	1	3870	G	exon 83's last base	
+38536768	intron		83	c.11608+1					G	intron 83's first base	not-applicable
+38537323	intron		83	c.11608+556					T	intron 83's last base named from exon 83 (1112 bases, even)	not-applicable
+38537324	intron		83	c.11609-556					T	intron 83's first base named from exon 84	not-applicable
+38537879	intron		83	c.11609-1					G	intron 83's last base	not-applicable
+38537880	cds	84		c.11609	11609	3870	2	3870	G	exon 84's first base	
+38537960	cds	84		c.11689	11689	3897	1	3897	G	exon 84's last base	
+38537961	intron		84	c.11689+1					G	intron 84's first base	not-applicable
+38540653	intron		84	c.11689+2693					C	intron 84's last base named from exon 84 (5386 bases, even)	not-applicable
+38540654	intron		84	c.11690-2693					T	intron 84's first base named from exon 85	not-applicable
+38543346	intron		84	c.11690-1					G	intron 84's last base	not-applicable
+38543347	cds	85		c.11690	11690	3897	2	3897	A	exon 85's first base	
+38543435	cds	85		c.11778	11778	3926	3	3926	G	exon 85's last base	
+38543436	intron		85	c.11778+1					G	intron 85's first base	not-applicable
+38543483	intron		85	c.11778+48					G	intron 85's last base named from exon 85 (96 bases, even)	not-applicable
+38543484	intron		85	c.11779-48					G	intron 85's first base named from exon 86	not-applicable
+38543531	intron		85	c.11779-1					G	intron 85's last base	not-applicable
+38543532	cds	86		c.11779	11779	3927	1	3927	G	exon 86's first base	
+38543660	cds	86		c.11907	11907	3969	3	3969	G	exon 86's last base	
+38543661	intron		86	c.11907+1					G	intron 86's first base	not-applicable
+38543715	intron		86	c.11907+55					T	intron 86's last base named from exon 86 (110 bases, even)	not-applicable
+38543716	intron		86	c.11908-55					C	intron 86's first base named from exon 87	not-applicable
+38543770	intron		86	c.11908-1					G	intron 86's last base	not-applicable
+38543771	cds	87		c.11908	11908	3970	1	3970	G	exon 87's first base	
+38543875	cds	87		c.12012	12012	4004	3	4004	G	exon 87's last base	
+38543876	intron		87	c.12012+1					G	intron 87's first base	not-applicable
+38545160	intron		87	c.12012+1285					A	intron 87's central base (2569 bases, odd)	not-applicable
+38546444	intron		87	c.12013-1					G	intron 87's last base	not-applicable
+38546445	cds	88		c.12013	12013	4005	1	4005	G	exon 88's first base	
+38546526	cds	88		c.12094	12094	4032	1	4032	G	exon 88's last base	
+38546527	intron		88	c.12094+1					G	intron 88's first base	not-applicable
+38547379	intron		88	c.12094+853					A	intron 88's last base named from exon 88 (1706 bases, even)	not-applicable
+38547380	intron		88	c.12095-853					A	intron 88's first base named from exon 89	not-applicable
+38548232	intron		88	c.12095-1					G	intron 88's last base	not-applicable
+38548233	cds	89		c.12095	12095	4032	2	4032	G	exon 89's first base	
+38548420	cds	89		c.12282	12282	4094	3	4094	G	exon 89's last base	
+38548421	intron		89	c.12282+1					G	intron 89's first base	not-applicable
+38554766	intron		89	c.12282+6346					C	intron 89's last base named from exon 89 (12692 bases, even)	not-applicable
+38554767	intron		89	c.12283-6346					C	intron 89's first base named from exon 90	not-applicable
+38561112	intron		89	c.12283-1					G	intron 89's last base	not-applicable
+38561113	cds	90		c.12283	12283	4095	1	4095	G	exon 90's first base	
+38561454	cds	90		c.12624	12624	4208	3	4208	G	exon 90's last base	
+38561455	intron		90	c.12624+1					G	intron 90's first base	not-applicable
+38563206	intron		90	c.12624+1752					C	intron 90's last base named from exon 90 (3504 bases, even)	not-applicable
+38563207	intron		90	c.12625-1752					C	intron 90's first base named from exon 91	not-applicable
+38564958	intron		90	c.12625-1					G	intron 90's last base	not-applicable
+38564959	cds	91		c.12625	12625	4209	1	4209	G	exon 91's first base	
+38565771	cds	91		c.13437	13437	4479	3	4479	G	exon 91's last base	
+38565772	intron		91	c.13437+1					G	intron 91's first base	not-applicable
+38566341	intron		91	c.13437+570					C	intron 91's central base (1139 bases, odd)	not-applicable
+38566910	intron		91	c.13438-1					G	intron 91's last base	not-applicable
+38566911	cds	92		c.13438	13438	4480	1	4480	G	exon 92's first base	
+38566987	cds	92		c.13514	13514	4505	2	4505	A	exon 92's last base	
+38566988	intron		92	c.13514+1					G	intron 92's first base	not-applicable
+38567380	intron		92	c.13514+393					C	intron 92's central base (785 bases, odd)	not-applicable
+38567772	intron		92	c.13515-1					G	intron 92's last base	not-applicable
+38567773	cds	93		c.13515	13515	4505	3	4505	T	exon 93's first base	
+38567917	cds	93		c.13659	13659	4553	3	4553	G	exon 93's last base	
+38567918	intron		93	c.13659+1					G	intron 93's first base	not-applicable
+38569262	intron		93	c.13659+1345					C	intron 93's central base (2689 bases, odd)	not-applicable
+38570606	intron		93	c.13660-1					G	intron 93's last base	not-applicable
+38570607	cds	94		c.13660	13660	4554	1	4554	A	exon 94's first base	
+38570693	cds	94		c.13746	13746	4582	3	4582	G	exon 94's last base	
+38570694	intron		94	c.13746+1					G	intron 94's first base	not-applicable
+38571356	intron		94	c.13746+663					A	intron 94's central base (1325 bases, odd)	not-applicable
+38572018	intron		94	c.13747-1					G	intron 94's last base	not-applicable
+38572019	cds	95		c.13747	13747	4583	1	4583	G	exon 95's first base	
+38572270	cds	95		c.13998	13998	4666	3	4666	G	exon 95's last base	
+38572271	intron		95	c.13998+1					G	intron 95's first base	not-applicable
+38572723	intron		95	c.13998+453					T	intron 95's last base named from exon 95 (906 bases, even)	not-applicable
+38572724	intron		95	c.13999-453					C	intron 95's first base named from exon 96	not-applicable
+38573176	intron		95	c.13999-1					G	intron 95's last base	not-applicable
+38573177	cds	96		c.13999	13999	4667	1	4667	G	exon 96's first base	
+38573307	cds	96		c.14129	14129	4710	2	4710	C	exon 96's last base	
+38573308	intron		96	c.14129+1					G	intron 96's first base	not-applicable
+38574613	intron		96	c.14129+1306					C	intron 96's central base (2611 bases, odd)	not-applicable
+38575918	intron		96	c.14130-1					G	intron 96's last base	not-applicable
+38575919	cds	97		c.14130	14130	4710	3	4710	G	exon 97's first base	
+38575961	cds	97		c.14172	14172	4724	3	4724	G	exon 97's last base	
+38575962	intron		97	c.14172+1					G	intron 97's first base	not-applicable
+38576939	intron		97	c.14172+978					G	intron 97's last base named from exon 97 (1956 bases, even)	not-applicable
+38576940	intron		97	c.14173-978					C	intron 97's first base named from exon 98	not-applicable
+38577917	intron		97	c.14173-1					G	intron 97's last base	not-applicable
+38577918	cds	98		c.14173	14173	4725	1	4725	G	exon 98's first base	
+38578048	cds	98		c.14303	14303	4768	2	4768	G	exon 98's last base	
+38578049	intron		98	c.14303+1					G	intron 98's first base	not-applicable
+38578096	intron		98	c.14303+48					G	intron 98's central base (95 bases, odd)	not-applicable
+38578143	intron		98	c.14304-1					G	intron 98's last base	not-applicable
+38578144	cds	99		c.14304	14304	4768	3	4768	G	exon 99's first base	
+38578204	cds	99		c.14364	14364	4788	3	4788	C	exon 99's last base	
+38578205	intron		99	c.14364+1					G	intron 99's first base	not-applicable
+38579093	intron		99	c.14364+889					C	intron 99's central base (1777 bases, odd)	not-applicable
+38579981	intron		99	c.14365-1					G	intron 99's last base	not-applicable
+38579982	cds	100		c.14365	14365	4789	1	4789	T	exon 100's first base	
+38580128	cds	100		c.14511	14511	4837	3	4837	G	exon 100's last base	
+38580129	intron		100	c.14511+1					G	intron 100's first base	not-applicable
+38580249	intron		100	c.14511+121					G	intron 100's central base (241 bases, odd)	not-applicable
+38580369	intron		100	c.14512-1					G	intron 100's last base	not-applicable
+38580370	cds	101		c.14512	14512	4838	1	4838	C	exon 101's first base	
+38580504	cds	101		c.14646	14646	4882	3	4882	G	exon 101's last base	
+38580505	intron		101	c.14646+1					G	intron 101's first base	not-applicable
+38582723	intron		101	c.14646+2219					A	intron 101's last base named from exon 101 (4438 bases, even)	not-applicable
+38582724	intron		101	c.14647-2219					T	intron 101's first base named from exon 102	not-applicable
+38584942	intron		101	c.14647-1					G	intron 101's last base	not-applicable
+38584943	cds	102		c.14647	14647	4883	1	4883	T	exon 102's first base	
+38585099	cds	102		c.14803	14803	4935	1	4935	G	exon 102's last base	
+38585100	intron		102	c.14803+1					G	intron 102's first base	not-applicable
+38585518	intron		102	c.14803+419					G	intron 102's last base named from exon 102 (838 bases, even)	not-applicable
+38585519	intron		102	c.14804-419					G	intron 102's first base named from exon 103	not-applicable
+38585937	intron		102	c.14804-1					G	intron 102's last base	not-applicable
+38585938	cds	103		c.14804	14804	4935	2	4935	G	exon 103's first base	
+38586002	cds	103		c.14868	14868	4956	3	4956	G	exon 103's last base	
+38586003	intron		103	c.14868+1					G	intron 103's first base	not-applicable
+38586046	intron		103	c.14868+44					G	intron 103's last base named from exon 103 (88 bases, even)	not-applicable
+38586047	intron		103	c.14869-44					G	intron 103's first base named from exon 104	not-applicable
+38586090	intron		103	c.14869-1					G	intron 103's last base	not-applicable
+38586091	cds	104		c.14869	14869	4957	1	4957	A	exon 104's first base	
+38586191	cds	104		c.14969	14969	4990	2	4990	T	exon 104's last base	
+38586192	intron		104	c.14969+1					G	intron 104's first base	not-applicable
+38586358	intron		104	c.14969+167					C	intron 104's central base (333 bases, odd)	not-applicable
+38586524	intron		104	c.14970-1					G	intron 104's last base	not-applicable
+38586525	cds	105		c.14970	14970	4990	3	4990	G	exon 105's first base	
+38586576	cds	105		c.15021	15021	5007	3	5007	G	exon 105's last base	
+38586577	intron		105	c.15021+1					G	intron 105's first base	not-applicable
+38586950	intron		105	c.15021+374					G	intron 105's last base named from exon 105 (748 bases, even)	not-applicable
+38586951	intron		105	c.15022-374					A	intron 105's first base named from exon 106	not-applicable
+38587324	intron		105	c.15022-1					G	intron 105's last base	not-applicable
+38587325	cds	106		c.15022	15022	5008	1	5008	G	exon 106's first base	
+38587418	cds	106		c.15115	15115	5039	1		T	the stop codon's first base	not-applicable
+38587419	cds	106		c.15116	15116	5039	2		G	the stop codon's second base	not-applicable
+38587420	cds	106		c.15117	15117	5039	3		A	the stop codon's third base	not-applicable
+38587421	3utr	106		c.*1					C	the 3' UTR's first base	not-applicable
+38587564	3utr	106		c.*144					A	exon 106's last base; the 3' UTR's last base	not-applicable

@@ -1,0 +1,53 @@
+# s13_gate_remeasurement.tsv: the pore at the gate (A), by O2's A and by B fixed to the gate's own height (a 2.5 A
+# slab at the height of the gate residues' narrowest atoms), with O2's window as a second value, as
+# how/runtime/channelscope/s13/gate_b_fixed.py measured it (code sha256:83795142c575dcfe1c7402db6590eb9be47846bb521b2d9952c140543425e5a0) at commit b8b2e54a3b15a49ba8b4388e1fef8f5d4aa8d7a9,
+# where its criteria, its checks and every input it names are committed. Generated; never edited.
+# Check S: 16 tests, 16 pass; 16 controls caught. Libraries: biopython 1.88, gemmi 0.7.5, numpy 2.5.3.
+# Inputs (retrieval records): 9NMO=cs:retrieval.EdoFVrww6tAVibr1OZS8mucjm99zjEi6; 9NMN=cs:retrieval.1ybavGMPb12UGnQ1TiWryGZCKQx6f9-L; 9NMQ=cs:retrieval.brtXcnLAUeOKfrZLEg-LYTbxSYIr1hsp; 9NMP=cs:retrieval.pL8dLF2aEnR7vHINcVG8nD619NH1kF_o; 8VJJ=cs:retrieval.VuK5f1VVVw_n-OHB2EBpIy3N8oj73Frj; 8VJK=cs:retrieval.xan-CXGwaKVJrqjrxeLx34xm6YCVAD5B; 8X4A=cs:retrieval.pR25iS9lE-23CSsQVl8uiE8VQ41q6i6U; 8X4B=cs:retrieval.hOTbhuj-tLLL7b1awE30J4kCmDULAmLY; 8X4C=cs:retrieval.qG50QkT1_4YOQstb-hi1B8zhH_zRMJAk; 7M6A=cs:retrieval.UtWHU7YIgjcb_-L8Rw7XlxuD3juAKmwO; 7M6L=cs:retrieval.eyyFPqvSLlHhVFK2C2F6tKS-2vRj1QPt; 5TB0=cs:retrieval.kVNCc55Vm9v8jvE7ELei45jDUCoLgF9G; 5T9V=cs:retrieval.FFdMFmwuUdG1m77On8tLnNe-nfngfTJK; 7T64=cs:retrieval.04xVf3fCplTGFedJsjq-A_wGGdDNgP3P; 7T65=cs:retrieval.tb9pyvPRj2KRBABhs0rCC9VdzSHSbRp8; 9CGP=cs:retrieval.jdUfAytotCsBJsiSg8bpSyvDpErFj6eq; 9CGQ=cs:retrieval.YyxAiTPiCN0MmKogYh9lDIB4xPQKbfwH; 6W1N=cs:retrieval.1XRUbjABhW0MF6EHNm_VLM83bEZtvISV; 6X32=cs:retrieval.NBuU4cG1bcHhTYOT98DeQQh-585wWSbA; 6X33=cs:retrieval.gPcFrmgLGcGT_T16U9C0zHpB53PpawSi; 6X34=cs:retrieval.FK9F6oiM_gU2sHRdw8XJ_WEu-PeYlioG; 6X35=cs:retrieval.Jpdu7nKydO2iNY_R8vgPXQ64Tx-wI90X; 6X36=cs:retrieval.YHrzzOqwSEUL78Kc6NOusKJMZHcbJbUw; 9PWO=cs:retrieval.84uiQB1owJUZmB_Y9jAW4OaDiu9O2Lw_; 9ZO8=cs:retrieval.0QHSHgEL8658y8NlPcrBv_WLvO6fGVcS; 9ZOE=cs:retrieval._Th9eJJCB7EPav9qbob_0WmgURPm9YyB
+# Run: complete
+# R0: pass (A and O2's window equal the committed radii, to the hundredth, for all 26)
+# G1' (A and the fixed B: the same class, radii within 1.0 A): pass
+# G2' (5TB0 closed, 5T9V open, by both; its live part is 5TB0's fixed B): pass. 5TB0: A 1.01, fixed B 1.01 (set by G:ILE 4937 CG2); 5T9V: A 4.16, fixed B 4.15 (set by B:ILE 4937 CG2)
+# P1-A [arithmetic] caught: 5TB0's gate atoms 4 A outward: A 5.01 (unmoved 1.01), open
+# P1-B [seen in O2's diagnosis] caught: 5TB0's gate atoms 4 A outward: the fixed B 4.85, set by G:ASP 4938 N, open
+# P2-A [live] caught: 5T9V with chain B's atoms removed from the text: A refused (A: chain B missing)
+# P2-B [live] caught: 5T9V with chain B's atoms removed from the text: the fixed B refused (B: a chain among the four longest has no isoleucine at 4937)
+# P3-A [live] caught: 9NMO with its gate residues renamed valine in the text: A refused (A: chain A has no isoleucine at 4935)
+# P3-B [live] caught: 9NMO with its gate residues renamed valine in the text: the fixed B refused (B: a chain among the four longest has no isoleucine at 4935)
+# P4 [by construction] caught: 5T9V: the fixed B 4.155 without the planted ring (set by B:ILE 4937 CG2), 4.155 with it (set by B:ILE 4937 CG2)
+# P4's ring and O2's window: 1.95, set by planted ring
+# P5 +2 A [live] caught: 5TB0 read +2 A from the gate's height: the fixed B 3.92, set by G:ILE 4937 O, against A 1.01 (set by G:ILE 4937 CG2); G1' fails
+# P5 -2 A [live] NOT CAUGHT: 5TB0 read -2 A from the gate's height: the fixed B 1.71, set by G:ILE 4937 CG1, against A 1.01 (set by G:ILE 4937 CG2); G1' passes
+# P6-A [arithmetic] caught: 5T9V's gate atoms 3 A inward: A 1.16 (unmoved 4.16), closed
+# P6-B [by construction] caught: 5T9V's gate atoms 3 A inward: the fixed B 1.15, set by B:ILE 4937 CG2, closed
+# L1 [live] caught: 5TB0 with each gate side chain turned 120 degrees about CA-CB in the text: A 1.64 (unturned 1.01), set by G:ILE 4937 CG2; the fixed B 1.64, set by G:ILE 4937 CG2; G1' passes; the turn moved A by 0.63 A
+# L2 7M6L [live] caught: 7M6L: O2's window 3.80, set by G:GLN 4933 NE2; the fixed B 4.96, set by A:ILE 4937 CG2
+# L2 7T65 [live] caught: 7T65: O2's window 4.06, set by B:GLN 4933 OE1; the fixed B 5.55, set by D:ILE 4937 CG2
+# L2 6X35 [live] caught: 6X35: O2's window 3.22, set by K:GLN 4931 NE2; the fixed B 4.24, set by K:ILE 4935 CG2
+entry	species	gate_residue	radius_A	a_set_by	radius_B_fixed	b_fixed_set_by	class_A	class_B_fixed	g1_prime_agree	class_at_minus_0.5A	class_at_plus_0.5A	radius_B_o2_window	o2_window_set_by	zg_star_minus_zg	deposited_words	deposited_implies
+9NMO	Mus musculus	I4935	0.92	D:ILE 4935 CD1	0.92	D:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.92	D:ILE 4935 CD1	2.46	closed pore	closed
+9NMN	Mus musculus	I4935	4.84	A:ILE 4935 CG2	4.84	A:ILE 4935 CG2	open	open	yes	open/open	open/open	4.17	D:ASP 4936 OD1	-0.16	open pore	open
+9NMQ	Mus musculus	I4935	0.94	D:ILE 4935 CD1	0.94	D:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.94	D:ILE 4935 CD1	-2.52	closed pore	closed
+9NMP	Mus musculus	I4935	4.38	D:ILE 4935 CG2	4.38	D:ILE 4935 CG2	open	open	yes	open/open	open/open	3.41	D:ASP 4936 OD1	0.09	open pore	open
+8VJJ	Mus musculus	I4935	0.86	D:ILE 4935 CD1	0.86	C:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.86	C:ILE 4935 CD1	-2.51	EGTA-only dataset (no state word)	-
+8VJK	Mus musculus	I4935	0.85	D:ILE 4935 CD1	0.85	D:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.85	D:ILE 4935 CD1	-2.39	high-Ca2+/CFF/ATP dataset (no state word)	-
+8X4A	Oryctolagus cuniculus	I4937	1.30	A:ILE 4937 CD1	1.30	C:ILE 4937 CD1	closed	closed	yes	closed/closed	closed/closed	1.30	C:ILE 4937 CD1	2.50	closed state	closed
+8X4B	Oryctolagus cuniculus	I4937	5.23	A:ILE 4937 CG2	5.23	B:ILE 4937 CG2	open	open	yes	open/open	open/open	4.35	B:GLN 4933 NE2	0.27	open state	open
+8X4C	Oryctolagus cuniculus	I4937	1.40	A:ILE 4937 CG2	1.40	D:ILE 4937 CG2	closed	closed	yes	closed/closed	closed/closed	1.40	D:ILE 4937 CG2	-0.39	20 uM Ca2+, 2 mM ATP (no state word)	-
+7M6A	Oryctolagus cuniculus	I4937	1.52	A:ILE 4937 CG2	1.52	A:ILE 4937 CG2	closed	closed	yes	indeterminate/indeterminate	closed/closed	1.53	A:ILE 4937 CG2	0.36	primed model (paper); Closed state model (7M6L's record)	closed
+7M6L	Oryctolagus cuniculus	I4937	4.96	A:ILE 4937 CG2	4.96	A:ILE 4937 CG2	open	open	yes	open/open	open/open	3.80	G:GLN 4933 NE2	0.09	open model (paper)	open
+5TB0	Oryctolagus cuniculus	I4937	1.01	G:ILE 4937 CG2	1.01	G:ILE 4937 CG2	closed	closed	yes	closed/closed	closed/closed	1.01	G:ILE 4937 CG2	0.70	a closed RyR1 pore (Woll and Van Petegem 2022): positive control	closed
+5T9V	Oryctolagus cuniculus	I4937	4.16	B:ILE 4937 CG2	4.15	B:ILE 4937 CG2	open	open	yes	open/open	open/open	3.51	E:GLN 4933 OE1	0.42	an open RyR1 (Woll and Van Petegem 2022): positive control	open
+7T64	Oryctolagus cuniculus	I4937	1.24	D:ILE 4937 CG2	1.24	D:ILE 4937 CG2	closed	closed	yes	closed/closed	closed/closed	1.24	D:ILE 4937 CG2	-0.71	closed state	closed
+7T65	Oryctolagus cuniculus	I4937	5.55	C:ILE 4937 CG2	5.55	D:ILE 4937 CG2	open	open	yes	open/open	open/open	4.06	B:GLN 4933 OE1	-0.21	open state	open
+9CGP	Oryctolagus cuniculus	I4937	0.83	A:ILE 4937 CD1	0.83	A:ILE 4937 CD1	closed	closed	yes	closed/closed	closed/closed	0.83	A:ILE 4937 CD1	-2.43	the closed state without Ca (paper)	closed
+9CGQ	Oryctolagus cuniculus	I4937	5.01	A:ILE 4937 CG2	5.00	A:ILE 4937 CG2	open	open	yes	open/open	open/open	4.10	B:ASP 4938 OD1	0.21	the open state with Ca (paper)	open
+6W1N	Sus scrofa	I4935	0.90	F:ILE 4935 CD1	0.90	B:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.90	B:ILE 4935 CD1	2.45	WT, 5 mM EGTA (no state word)	-
+6X32	Sus scrofa	I4935	0.86	K:ILE 4935 CD1	0.86	K:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.86	K:ILE 4935 CD1	-2.42	closed	closed
+6X33	Sus scrofa	I4935	4.71	K:ILE 4935 CG2	4.71	E:ILE 4935 CG2	open	open	yes	open/open	open/open	4.05	E:GLN 4931 NE2	0.46	open	open
+6X34	Sus scrofa	I4935	3.20	B:ILE 4935 CD1	3.20	H:ILE 4935 CD1	open	open	yes	open/open	indeterminate/indeterminate	3.20	H:ILE 4935 CD1	-0.43	open (title); intermediate (paper)	open
+6X35	Sus scrofa	I4935	4.24	E:ILE 4935 CG2	4.24	K:ILE 4935 CG2	open	open	yes	open/open	open/open	3.22	K:GLN 4931 NE2	0.66	open	open
+6X36	Sus scrofa	I4935	0.92	K:ILE 4935 CD1	0.92	K:ILE 4935 CD1	closed	closed	yes	closed/closed	closed/closed	0.92	K:ILE 4935 CD1	-0.67	closed	closed
+9PWO	Sus scrofa	I4935	5.27	A:ILE 4935 CG2	5.27	A:ILE 4935 CG2	open	open	yes	open/open	open/open	4.77	A:GLN 4931 NE2	0.18	Open Conformation	open
+9ZO8	Oryctolagus cuniculus	I4937	0.93	A:ILE 4937 CD1	0.95	C:ILE 4937 CD1	closed	closed	yes	closed/closed	closed/closed	0.95	C:ILE 4937 CD1	-2.50	closed pore	closed
+9ZOE	Oryctolagus cuniculus	I4937	5.28	A:ILE 4937 CG2	5.28	A:ILE 4937 CG2	open	open	yes	open/open	open/open	4.07	A:GLN 4933 OE1	0.03	open pore	open

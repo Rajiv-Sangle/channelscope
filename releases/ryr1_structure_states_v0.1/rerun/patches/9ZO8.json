@@ -1,0 +1,91 @@
+{
+ "patch": "PDB entry 9ZO8: from the file of revision 1.1 to the file of revision 1.0",
+ "entry": "9ZO8",
+ "from": {
+  "revision": "1.1",
+  "retrieval": "cs:retrieval.dWBEVHDoftBNdPWUt4HVJ8GfFeE7_s3L",
+  "text_sha256": "sha256:d0208dd784628bbfb0e33c17f196e39f3677ade5b114d2583be63f699b36eea7",
+  "text_bytes": 15625588
+ },
+ "to": {
+  "revision": "1.0",
+  "retrieval": "cs:retrieval.0QHSHgEL8658y8NlPcrBv_WLvO6fGVcS",
+  "text_sha256": "sha256:68de6d11e98a56bebbb2e60baca028a29e21edcabac4002940d6235cc8ba9be1",
+  "text_bytes": 15623803
+ },
+ "lines": {
+  "measured_restored": 13,
+  "later_replaced": 13,
+  "later_removed": 40,
+  "places": 7
+ },
+ "gzip_header_hex": "1f8b0808ca05b36a02ff397a6f382e63696600",
+ "compression": {
+  "library": "zlib",
+  "level": 9,
+  "wbits": -15,
+  "memlevel": 8
+ },
+ "hunks": [
+  {
+   "at": 26,
+   "remove": 2,
+   "insert": []
+  },
+  {
+   "at": 39,
+   "remove": 38,
+   "insert": []
+  },
+  {
+   "at": 141,
+   "remove": 1,
+   "insert": [
+    "_citation.journal_volume            ? "
+   ]
+  },
+  {
+   "at": 145,
+   "remove": 1,
+   "insert": [
+    "_citation.title                     'Structural basis for rosuvastatin-induced activation of skeletal muscle ryanodine receptor 1' "
+   ]
+  },
+  {
+   "at": 149,
+   "remove": 1,
+   "insert": [
+    "_citation.pdbx_database_id_PubMed   ? "
+   ]
+  },
+  {
+   "at": 158,
+   "remove": 9,
+   "insert": [
+    "primary 'Weninger, G.' 1 ? ",
+    "primary 'Reiken, S.'   2 ? ",
+    "primary 'Yuan, Q.'     3 ? ",
+    "primary 'Miotto, M.C.' 4 ? ",
+    "primary 'Chang, A.'    5 ? ",
+    "primary 'Liu, Y.'      6 ? ",
+    "primary 'Wronska, A.'  7 ? ",
+    "primary 'Dridi, H.'    8 ? ",
+    "primary 'Marks, A.R.'  9 ? "
+   ]
+  },
+  {
+   "at": 33334,
+   "remove": 1,
+   "insert": [
+    "_em_admin.last_update        2026-09-30 "
+   ]
+  }
+ ],
+ "made_by": {
+  "script": "how/runtime/channelscope/cl3/make_revision_patch.py",
+  "sha256": "sha256:92dca51552dbc3346bf14778ef468336a7c1a5c889a147573c152337468e7f84",
+  "commit": "fc5cfe928b195f749df953727f10626d5e8237a8"
+ },
+ "made_with": "zlib 1.3.2",
+ "note": "The guard that reads a rebuilt file takes the SHA-256 it expects from the measured file's retrieval record, never from this patch."
+}

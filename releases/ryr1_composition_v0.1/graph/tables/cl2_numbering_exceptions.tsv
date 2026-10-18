@@ -1,0 +1,486 @@
+entry	chain	kind	author_first	author_last	ins_code	label_seq_id	residue	n_residues	category	m_s	path_s	m_a	path_a	path_a_partners	reference_at_m_s	reference_at_m_a	species_position	offset_s	offset_a	sifts_uniprot_name	sifts_annotations	declared	joined	segment	o2_read	note
+5TB0	B	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5TB0	B	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5TB0	B	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5TB0	B	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5TB0	E	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5TB0	E	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5TB0	E	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5TB0	E	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5TB0	G	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5TB0	G	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5TB0	G	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5TB0	G	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5TB0	I	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5TB0	I	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5TB0	I	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5TB0	I	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5T9V	B	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5T9V	B	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5T9V	B	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5T9V	B	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5T9V	E	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5T9V	E	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5T9V	E	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5T9V	E	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5T9V	G	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5T9V	G	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5T9V	G	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5T9V	G	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+5T9V	I	UNK	1276	1564			UNK	157	UNK																	SIFTS gives a position for 157 (1276-1572); not used
+5T9V	I	UNK	2487	2703			UNK	217	UNK																	SIFTS gives a position for 217 (2480-2733); not used
+5T9V	I	UNK	2942	3613			UNK	526	UNK																	SIFTS gives a position for 526 (2940-3638); not used
+5T9V	I	UNK	4320	4345			UNK	26	UNK																	SIFTS gives a position for 26 (4254-4279); not used
+7T64	A	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T64	B	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T64	C	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T64	D	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T65	A	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T65	B	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T65	C	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+7T65	D	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGP	A	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGP	B	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGP	C	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGP	D	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGQ	A	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGQ	B	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGQ	C	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+9CGQ	D	declared difference	523	523		523	SER	1	agree	523	mapped	523	ok		Y	Y	523	0	0	Y	Engineered mutation	engineered mutation	true	0	Y523S	
+6W1N	B	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	B	UNK	2956	3385			UNK	219	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	B	UNK	3509	3555			UNK	37	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	B	UNK	3586	3606			UNK	21	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	B	undeclared difference	2092	2092		2092	LEU	1	undeclared difference		none: chain not mapped to UniProt	2092	ok			A	2092		0				false	0	-	
+6W1N	D	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	D	UNK	2956	3385			UNK	219	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	D	UNK	3509	3555			UNK	37	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	D	UNK	3586	3606			UNK	21	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	D	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	D	undeclared difference	2092	2092		2092	LEU	1	undeclared difference		none: chain not mapped to UniProt	2092	ok			A	2092		0				false	0	-	
+6W1N	F	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	F	UNK	2956	3385			UNK	219	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	F	UNK	3509	3555			UNK	37	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	F	UNK	3586	3606			UNK	21	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	F	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	F	undeclared difference	2092	2092		2092	LEU	1	undeclared difference		none: chain not mapped to UniProt	2092	ok			A	2092		0				false	0	-	
+6W1N	H	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	H	UNK	2956	3385			UNK	219	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	H	UNK	3509	3555			UNK	37	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	H	UNK	3586	3606			UNK	21	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6W1N	H	undeclared difference	2092	2092		2092	LEU	1	undeclared difference		none: chain not mapped to UniProt	2092	ok			A	2092		0				false	0	-	
+6X32	B	UNK	2638	2702			UNK	48	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	B	UNK	2956	3385			UNK	216	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	B	UNK	3509	3606			UNK	66	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	B	UNK	4317	4333			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	B	neither path	97	97		78	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X32	B	neither path	1510	1510		1305	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X32	B	neither path	1750	1750		1545	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X32	B	short departing run, path A only (R11c): not joined	2092	2092		1769	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	7	-	
+6X32	B	neither path	2489	2489		2111	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	9	-	
+6X32	B	identity low	2490	2490		2112	LYS	1	path A only		none: chain not mapped to UniProt	2490	ok			K	2490		0				false	10	-	
+6X32	B	identity low	2491	2491		2113	MET	1	path A only		none: chain not mapped to UniProt	2491	ok			M	2491		0				false	10	-	
+6X32	B	identity low	2492	2492		2114	SER	1	path A only		none: chain not mapped to UniProt	2492	ok			S	2492		0				false	10	-	
+6X32	B	identity low	2493	2493		2115	ALA	1	path A only		none: chain not mapped to UniProt	2493	ok			A	2493		0				false	10	-	
+6X32	B	identity low	2494	2494		2116	SER	1	path A only		none: chain not mapped to UniProt	2494	ok			S	2494		0				false	10	-	
+6X32	B	identity low	2495	2495		2117	PHE	1	path A only		none: chain not mapped to UniProt	2495	ok			F	2495		0				false	10	-	
+6X32	B	identity low	2496	2496		2118	VAL	1	path A only		none: chain not mapped to UniProt	2496	ok			V	2496		0				false	10	-	
+6X32	B	identity low	2497	2497		2119	PRO	1	path A only		none: chain not mapped to UniProt	2497	ok			P	2497		0				false	10	-	
+6X32	B	identity low	2498	2498		2120	ASP	1	path A only		none: chain not mapped to UniProt	2498	ok			D	2498		0				false	10	-	
+6X32	B	identity low	2499	2499		2121	HIS	1	path A only		none: chain not mapped to UniProt	2499	ok			H	2499		0				false	10	-	
+6X32	B	identity low	2500	2500		2122	LYS	1	path A only		none: chain not mapped to UniProt	2500	ok			K	2500		0				false	10	-	
+6X32	B	identity low	2501	2501		2123	ALA	1	path A only		none: chain not mapped to UniProt	2501	ok			A	2501		0				false	10	-	
+6X32	B	identity low	2502	2502		2124	SER	1	path A only		none: chain not mapped to UniProt	2502	ok			S	2502		0				false	10	-	
+6X32	B	identity low	2503	2503		2125	MET	1	path A only		none: chain not mapped to UniProt	2503	ok			M	2503		0				false	10	-	
+6X32	B	identity low	2504	2504		2126	VAL	1	path A only		none: chain not mapped to UniProt	2504	ok			V	2504		0				false	10	-	
+6X32	B	identity low	2505	2505		2127	LEU	1	path A only		none: chain not mapped to UniProt	2505	ok			L	2505		0				false	10	-	
+6X32	B	identity low	2506	2506		2128	PHE	1	path A only		none: chain not mapped to UniProt	2506	ok			F	2506		0				false	10	-	
+6X32	B	identity low	2507	2507		2129	LEU	1	path A only		none: chain not mapped to UniProt	2507	ok			L	2507		0				false	10	-	
+6X32	B	identity low	2508	2508		2130	ASP	1	path A only		none: chain not mapped to UniProt	2508	ok			D	2508		0				false	10	-	
+6X32	B	identity low	2509	2509		2131	ARG	1	path A only		none: chain not mapped to UniProt	2509	ok			R	2509		0				false	10	-	
+6X32	B	identity low	2510	2510		2132	VAL	1	path A only		none: chain not mapped to UniProt	2510	ok			V	2510		0				false	10	-	
+6X32	B	identity low	2511	2511		2133	TYR	1	path A only		none: chain not mapped to UniProt	2511	ok			Y	2511		0				false	10	-	
+6X32	B	identity low	2512	2512		2134	GLY	1	path A only		none: chain not mapped to UniProt	2512	ok			G	2512		0				false	10	-	
+6X32	B	identity low	2513	2513		2135	ILE	1	path A only		none: chain not mapped to UniProt	2513	ok			I	2513		0				false	10	-	
+6X32	B	identity low	2514	2514		2136	GLU	1	path A only		none: chain not mapped to UniProt	2514	ok			E	2514		0				false	10	-	
+6X32	B	identity low	2515	2515		2137	ASN	1	path A only		none: chain not mapped to UniProt	2515	ok			N	2515		0				false	10	-	
+6X32	B	undeclared difference	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	B	identity low	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	B	undeclared difference	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	B	identity low	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	B	identity low	2518	2518		2140	PHE	1	path A only		none: chain not mapped to UniProt	2518	ok			F	2518		0				false	10	-	
+6X32	B	identity low	2519	2519		2141	LEU	1	path A only		none: chain not mapped to UniProt	2519	ok			L	2519		0				false	10	-	
+6X32	B	identity low	2520	2520		2142	LEU	1	path A only		none: chain not mapped to UniProt	2520	ok			L	2520		0				false	10	-	
+6X32	B	identity low	2521	2521		2143	HIS	1	path A only		none: chain not mapped to UniProt	2521	ok			H	2521		0				false	10	-	
+6X32	B	identity low	2522	2522		2144	VAL	1	path A only		none: chain not mapped to UniProt	2522	ok			V	2522		0				false	10	-	
+6X32	B	identity low	2523	2523		2145	LEU	1	path A only		none: chain not mapped to UniProt	2523	ok			L	2523		0				false	10	-	
+6X32	B	identity low	2524	2524		2146	ASP	1	path A only		none: chain not mapped to UniProt	2524	ok			D	2524		0				false	10	-	
+6X32	B	identity low	2525	2525		2147	VAL	1	path A only		none: chain not mapped to UniProt	2525	ok			V	2525		0				false	10	-	
+6X32	B	identity low	2526	2526		2148	GLY	1	path A only		none: chain not mapped to UniProt	2526	ok			G	2526		0				false	10	-	
+6X32	B	identity low	2527	2527		2149	PHE	1	path A only		none: chain not mapped to UniProt	2527	ok			F	2527		0				false	10	-	
+6X32	B	identity low	2528	2528		2150	LEU	1	path A only		none: chain not mapped to UniProt	2528	ok			L	2528		0				false	10	-	
+6X32	B	identity low	2529	2529		2151	PRO	1	path A only		none: chain not mapped to UniProt	2529	ok			P	2529		0				false	10	-	
+6X32	B	identity low	2530	2530		2152	ASP	1	path A only		none: chain not mapped to UniProt	2530	ok			D	2530		0				false	10	-	
+6X32	B	identity low	2531	2531		2153	MET	1	path A only		none: chain not mapped to UniProt	2531	ok			M	2531		0				false	10	-	
+6X32	B	identity low	2532	2532		2154	ARG	1	path A only		none: chain not mapped to UniProt	2532	ok			R	2532		0				false	10	-	
+6X32	B	identity low	2533	2533		2155	ALA	1	path A only		none: chain not mapped to UniProt	2533	ok			A	2533		0				false	10	-	
+6X32	B	identity low	2534	2534		2156	ALA	1	path A only		none: chain not mapped to UniProt	2534	ok			A	2534		0				false	10	-	
+6X32	B	neither path	2535	2535		2157	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	11	-	
+6X32	E	UNK	2638	2702			UNK	48	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	E	UNK	2956	3385			UNK	216	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	E	UNK	3509	3606			UNK	66	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	E	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	E	UNK	4317	4333			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	E	neither path	97	97		78	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X32	E	neither path	1510	1510		1305	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X32	E	neither path	1750	1750		1545	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X32	E	short departing run, path A only (R11c): not joined	2092	2092		1769	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	7	-	
+6X32	E	neither path	2489	2489		2111	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	9	-	
+6X32	E	identity low	2490	2490		2112	LYS	1	path A only		none: chain not mapped to UniProt	2490	ok			K	2490		0				false	10	-	
+6X32	E	identity low	2491	2491		2113	MET	1	path A only		none: chain not mapped to UniProt	2491	ok			M	2491		0				false	10	-	
+6X32	E	identity low	2492	2492		2114	SER	1	path A only		none: chain not mapped to UniProt	2492	ok			S	2492		0				false	10	-	
+6X32	E	identity low	2493	2493		2115	ALA	1	path A only		none: chain not mapped to UniProt	2493	ok			A	2493		0				false	10	-	
+6X32	E	identity low	2494	2494		2116	SER	1	path A only		none: chain not mapped to UniProt	2494	ok			S	2494		0				false	10	-	
+6X32	E	identity low	2495	2495		2117	PHE	1	path A only		none: chain not mapped to UniProt	2495	ok			F	2495		0				false	10	-	
+6X32	E	identity low	2496	2496		2118	VAL	1	path A only		none: chain not mapped to UniProt	2496	ok			V	2496		0				false	10	-	
+6X32	E	identity low	2497	2497		2119	PRO	1	path A only		none: chain not mapped to UniProt	2497	ok			P	2497		0				false	10	-	
+6X32	E	identity low	2498	2498		2120	ASP	1	path A only		none: chain not mapped to UniProt	2498	ok			D	2498		0				false	10	-	
+6X32	E	identity low	2499	2499		2121	HIS	1	path A only		none: chain not mapped to UniProt	2499	ok			H	2499		0				false	10	-	
+6X32	E	identity low	2500	2500		2122	LYS	1	path A only		none: chain not mapped to UniProt	2500	ok			K	2500		0				false	10	-	
+6X32	E	identity low	2501	2501		2123	ALA	1	path A only		none: chain not mapped to UniProt	2501	ok			A	2501		0				false	10	-	
+6X32	E	identity low	2502	2502		2124	SER	1	path A only		none: chain not mapped to UniProt	2502	ok			S	2502		0				false	10	-	
+6X32	E	identity low	2503	2503		2125	MET	1	path A only		none: chain not mapped to UniProt	2503	ok			M	2503		0				false	10	-	
+6X32	E	identity low	2504	2504		2126	VAL	1	path A only		none: chain not mapped to UniProt	2504	ok			V	2504		0				false	10	-	
+6X32	E	identity low	2505	2505		2127	LEU	1	path A only		none: chain not mapped to UniProt	2505	ok			L	2505		0				false	10	-	
+6X32	E	identity low	2506	2506		2128	PHE	1	path A only		none: chain not mapped to UniProt	2506	ok			F	2506		0				false	10	-	
+6X32	E	identity low	2507	2507		2129	LEU	1	path A only		none: chain not mapped to UniProt	2507	ok			L	2507		0				false	10	-	
+6X32	E	identity low	2508	2508		2130	ASP	1	path A only		none: chain not mapped to UniProt	2508	ok			D	2508		0				false	10	-	
+6X32	E	identity low	2509	2509		2131	ARG	1	path A only		none: chain not mapped to UniProt	2509	ok			R	2509		0				false	10	-	
+6X32	E	identity low	2510	2510		2132	VAL	1	path A only		none: chain not mapped to UniProt	2510	ok			V	2510		0				false	10	-	
+6X32	E	identity low	2511	2511		2133	TYR	1	path A only		none: chain not mapped to UniProt	2511	ok			Y	2511		0				false	10	-	
+6X32	E	identity low	2512	2512		2134	GLY	1	path A only		none: chain not mapped to UniProt	2512	ok			G	2512		0				false	10	-	
+6X32	E	identity low	2513	2513		2135	ILE	1	path A only		none: chain not mapped to UniProt	2513	ok			I	2513		0				false	10	-	
+6X32	E	identity low	2514	2514		2136	GLU	1	path A only		none: chain not mapped to UniProt	2514	ok			E	2514		0				false	10	-	
+6X32	E	identity low	2515	2515		2137	ASN	1	path A only		none: chain not mapped to UniProt	2515	ok			N	2515		0				false	10	-	
+6X32	E	undeclared difference	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	E	identity low	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	E	undeclared difference	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	E	identity low	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	E	identity low	2518	2518		2140	PHE	1	path A only		none: chain not mapped to UniProt	2518	ok			F	2518		0				false	10	-	
+6X32	E	identity low	2519	2519		2141	LEU	1	path A only		none: chain not mapped to UniProt	2519	ok			L	2519		0				false	10	-	
+6X32	E	identity low	2520	2520		2142	LEU	1	path A only		none: chain not mapped to UniProt	2520	ok			L	2520		0				false	10	-	
+6X32	E	identity low	2521	2521		2143	HIS	1	path A only		none: chain not mapped to UniProt	2521	ok			H	2521		0				false	10	-	
+6X32	E	identity low	2522	2522		2144	VAL	1	path A only		none: chain not mapped to UniProt	2522	ok			V	2522		0				false	10	-	
+6X32	E	identity low	2523	2523		2145	LEU	1	path A only		none: chain not mapped to UniProt	2523	ok			L	2523		0				false	10	-	
+6X32	E	identity low	2524	2524		2146	ASP	1	path A only		none: chain not mapped to UniProt	2524	ok			D	2524		0				false	10	-	
+6X32	E	identity low	2525	2525		2147	VAL	1	path A only		none: chain not mapped to UniProt	2525	ok			V	2525		0				false	10	-	
+6X32	E	identity low	2526	2526		2148	GLY	1	path A only		none: chain not mapped to UniProt	2526	ok			G	2526		0				false	10	-	
+6X32	E	identity low	2527	2527		2149	PHE	1	path A only		none: chain not mapped to UniProt	2527	ok			F	2527		0				false	10	-	
+6X32	E	identity low	2528	2528		2150	LEU	1	path A only		none: chain not mapped to UniProt	2528	ok			L	2528		0				false	10	-	
+6X32	E	identity low	2529	2529		2151	PRO	1	path A only		none: chain not mapped to UniProt	2529	ok			P	2529		0				false	10	-	
+6X32	E	identity low	2530	2530		2152	ASP	1	path A only		none: chain not mapped to UniProt	2530	ok			D	2530		0				false	10	-	
+6X32	E	identity low	2531	2531		2153	MET	1	path A only		none: chain not mapped to UniProt	2531	ok			M	2531		0				false	10	-	
+6X32	E	identity low	2532	2532		2154	ARG	1	path A only		none: chain not mapped to UniProt	2532	ok			R	2532		0				false	10	-	
+6X32	E	identity low	2533	2533		2155	ALA	1	path A only		none: chain not mapped to UniProt	2533	ok			A	2533		0				false	10	-	
+6X32	E	identity low	2534	2534		2156	ALA	1	path A only		none: chain not mapped to UniProt	2534	ok			A	2534		0				false	10	-	
+6X32	E	neither path	2535	2535		2157	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	11	-	
+6X32	H	UNK	2638	2702			UNK	48	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	H	UNK	2956	3385			UNK	216	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	H	UNK	3509	3606			UNK	66	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	H	UNK	4317	4333			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	H	neither path	97	97		78	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X32	H	neither path	1510	1510		1305	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X32	H	neither path	1750	1750		1545	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X32	H	short departing run, path A only (R11c): not joined	2092	2092		1769	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	7	-	
+6X32	H	neither path	2489	2489		2111	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	9	-	
+6X32	H	identity low	2490	2490		2112	LYS	1	path A only		none: chain not mapped to UniProt	2490	ok			K	2490		0				false	10	-	
+6X32	H	identity low	2491	2491		2113	MET	1	path A only		none: chain not mapped to UniProt	2491	ok			M	2491		0				false	10	-	
+6X32	H	identity low	2492	2492		2114	SER	1	path A only		none: chain not mapped to UniProt	2492	ok			S	2492		0				false	10	-	
+6X32	H	identity low	2493	2493		2115	ALA	1	path A only		none: chain not mapped to UniProt	2493	ok			A	2493		0				false	10	-	
+6X32	H	identity low	2494	2494		2116	SER	1	path A only		none: chain not mapped to UniProt	2494	ok			S	2494		0				false	10	-	
+6X32	H	identity low	2495	2495		2117	PHE	1	path A only		none: chain not mapped to UniProt	2495	ok			F	2495		0				false	10	-	
+6X32	H	identity low	2496	2496		2118	VAL	1	path A only		none: chain not mapped to UniProt	2496	ok			V	2496		0				false	10	-	
+6X32	H	identity low	2497	2497		2119	PRO	1	path A only		none: chain not mapped to UniProt	2497	ok			P	2497		0				false	10	-	
+6X32	H	identity low	2498	2498		2120	ASP	1	path A only		none: chain not mapped to UniProt	2498	ok			D	2498		0				false	10	-	
+6X32	H	identity low	2499	2499		2121	HIS	1	path A only		none: chain not mapped to UniProt	2499	ok			H	2499		0				false	10	-	
+6X32	H	identity low	2500	2500		2122	LYS	1	path A only		none: chain not mapped to UniProt	2500	ok			K	2500		0				false	10	-	
+6X32	H	identity low	2501	2501		2123	ALA	1	path A only		none: chain not mapped to UniProt	2501	ok			A	2501		0				false	10	-	
+6X32	H	identity low	2502	2502		2124	SER	1	path A only		none: chain not mapped to UniProt	2502	ok			S	2502		0				false	10	-	
+6X32	H	identity low	2503	2503		2125	MET	1	path A only		none: chain not mapped to UniProt	2503	ok			M	2503		0				false	10	-	
+6X32	H	identity low	2504	2504		2126	VAL	1	path A only		none: chain not mapped to UniProt	2504	ok			V	2504		0				false	10	-	
+6X32	H	identity low	2505	2505		2127	LEU	1	path A only		none: chain not mapped to UniProt	2505	ok			L	2505		0				false	10	-	
+6X32	H	identity low	2506	2506		2128	PHE	1	path A only		none: chain not mapped to UniProt	2506	ok			F	2506		0				false	10	-	
+6X32	H	identity low	2507	2507		2129	LEU	1	path A only		none: chain not mapped to UniProt	2507	ok			L	2507		0				false	10	-	
+6X32	H	identity low	2508	2508		2130	ASP	1	path A only		none: chain not mapped to UniProt	2508	ok			D	2508		0				false	10	-	
+6X32	H	identity low	2509	2509		2131	ARG	1	path A only		none: chain not mapped to UniProt	2509	ok			R	2509		0				false	10	-	
+6X32	H	identity low	2510	2510		2132	VAL	1	path A only		none: chain not mapped to UniProt	2510	ok			V	2510		0				false	10	-	
+6X32	H	identity low	2511	2511		2133	TYR	1	path A only		none: chain not mapped to UniProt	2511	ok			Y	2511		0				false	10	-	
+6X32	H	identity low	2512	2512		2134	GLY	1	path A only		none: chain not mapped to UniProt	2512	ok			G	2512		0				false	10	-	
+6X32	H	identity low	2513	2513		2135	ILE	1	path A only		none: chain not mapped to UniProt	2513	ok			I	2513		0				false	10	-	
+6X32	H	identity low	2514	2514		2136	GLU	1	path A only		none: chain not mapped to UniProt	2514	ok			E	2514		0				false	10	-	
+6X32	H	identity low	2515	2515		2137	ASN	1	path A only		none: chain not mapped to UniProt	2515	ok			N	2515		0				false	10	-	
+6X32	H	undeclared difference	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	H	identity low	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	H	undeclared difference	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	H	identity low	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	H	identity low	2518	2518		2140	PHE	1	path A only		none: chain not mapped to UniProt	2518	ok			F	2518		0				false	10	-	
+6X32	H	identity low	2519	2519		2141	LEU	1	path A only		none: chain not mapped to UniProt	2519	ok			L	2519		0				false	10	-	
+6X32	H	identity low	2520	2520		2142	LEU	1	path A only		none: chain not mapped to UniProt	2520	ok			L	2520		0				false	10	-	
+6X32	H	identity low	2521	2521		2143	HIS	1	path A only		none: chain not mapped to UniProt	2521	ok			H	2521		0				false	10	-	
+6X32	H	identity low	2522	2522		2144	VAL	1	path A only		none: chain not mapped to UniProt	2522	ok			V	2522		0				false	10	-	
+6X32	H	identity low	2523	2523		2145	LEU	1	path A only		none: chain not mapped to UniProt	2523	ok			L	2523		0				false	10	-	
+6X32	H	identity low	2524	2524		2146	ASP	1	path A only		none: chain not mapped to UniProt	2524	ok			D	2524		0				false	10	-	
+6X32	H	identity low	2525	2525		2147	VAL	1	path A only		none: chain not mapped to UniProt	2525	ok			V	2525		0				false	10	-	
+6X32	H	identity low	2526	2526		2148	GLY	1	path A only		none: chain not mapped to UniProt	2526	ok			G	2526		0				false	10	-	
+6X32	H	identity low	2527	2527		2149	PHE	1	path A only		none: chain not mapped to UniProt	2527	ok			F	2527		0				false	10	-	
+6X32	H	identity low	2528	2528		2150	LEU	1	path A only		none: chain not mapped to UniProt	2528	ok			L	2528		0				false	10	-	
+6X32	H	identity low	2529	2529		2151	PRO	1	path A only		none: chain not mapped to UniProt	2529	ok			P	2529		0				false	10	-	
+6X32	H	identity low	2530	2530		2152	ASP	1	path A only		none: chain not mapped to UniProt	2530	ok			D	2530		0				false	10	-	
+6X32	H	identity low	2531	2531		2153	MET	1	path A only		none: chain not mapped to UniProt	2531	ok			M	2531		0				false	10	-	
+6X32	H	identity low	2532	2532		2154	ARG	1	path A only		none: chain not mapped to UniProt	2532	ok			R	2532		0				false	10	-	
+6X32	H	identity low	2533	2533		2155	ALA	1	path A only		none: chain not mapped to UniProt	2533	ok			A	2533		0				false	10	-	
+6X32	H	identity low	2534	2534		2156	ALA	1	path A only		none: chain not mapped to UniProt	2534	ok			A	2534		0				false	10	-	
+6X32	H	neither path	2535	2535		2157	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	11	-	
+6X32	K	UNK	2638	2702			UNK	48	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	K	UNK	2956	3385			UNK	216	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	K	UNK	3509	3606			UNK	66	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	K	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	K	UNK	4317	4333			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X32	K	neither path	97	97		78	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X32	K	neither path	1510	1510		1305	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X32	K	neither path	1750	1750		1545	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X32	K	short departing run, path A only (R11c): not joined	2092	2092		1769	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	7	-	
+6X32	K	neither path	2489	2489		2111	PRO	1	neither path		none: chain not mapped to UniProt		ambiguous										false	9	-	
+6X32	K	identity low	2490	2490		2112	LYS	1	path A only		none: chain not mapped to UniProt	2490	ok			K	2490		0				false	10	-	
+6X32	K	identity low	2491	2491		2113	MET	1	path A only		none: chain not mapped to UniProt	2491	ok			M	2491		0				false	10	-	
+6X32	K	identity low	2492	2492		2114	SER	1	path A only		none: chain not mapped to UniProt	2492	ok			S	2492		0				false	10	-	
+6X32	K	identity low	2493	2493		2115	ALA	1	path A only		none: chain not mapped to UniProt	2493	ok			A	2493		0				false	10	-	
+6X32	K	identity low	2494	2494		2116	SER	1	path A only		none: chain not mapped to UniProt	2494	ok			S	2494		0				false	10	-	
+6X32	K	identity low	2495	2495		2117	PHE	1	path A only		none: chain not mapped to UniProt	2495	ok			F	2495		0				false	10	-	
+6X32	K	identity low	2496	2496		2118	VAL	1	path A only		none: chain not mapped to UniProt	2496	ok			V	2496		0				false	10	-	
+6X32	K	identity low	2497	2497		2119	PRO	1	path A only		none: chain not mapped to UniProt	2497	ok			P	2497		0				false	10	-	
+6X32	K	identity low	2498	2498		2120	ASP	1	path A only		none: chain not mapped to UniProt	2498	ok			D	2498		0				false	10	-	
+6X32	K	identity low	2499	2499		2121	HIS	1	path A only		none: chain not mapped to UniProt	2499	ok			H	2499		0				false	10	-	
+6X32	K	identity low	2500	2500		2122	LYS	1	path A only		none: chain not mapped to UniProt	2500	ok			K	2500		0				false	10	-	
+6X32	K	identity low	2501	2501		2123	ALA	1	path A only		none: chain not mapped to UniProt	2501	ok			A	2501		0				false	10	-	
+6X32	K	identity low	2502	2502		2124	SER	1	path A only		none: chain not mapped to UniProt	2502	ok			S	2502		0				false	10	-	
+6X32	K	identity low	2503	2503		2125	MET	1	path A only		none: chain not mapped to UniProt	2503	ok			M	2503		0				false	10	-	
+6X32	K	identity low	2504	2504		2126	VAL	1	path A only		none: chain not mapped to UniProt	2504	ok			V	2504		0				false	10	-	
+6X32	K	identity low	2505	2505		2127	LEU	1	path A only		none: chain not mapped to UniProt	2505	ok			L	2505		0				false	10	-	
+6X32	K	identity low	2506	2506		2128	PHE	1	path A only		none: chain not mapped to UniProt	2506	ok			F	2506		0				false	10	-	
+6X32	K	identity low	2507	2507		2129	LEU	1	path A only		none: chain not mapped to UniProt	2507	ok			L	2507		0				false	10	-	
+6X32	K	identity low	2508	2508		2130	ASP	1	path A only		none: chain not mapped to UniProt	2508	ok			D	2508		0				false	10	-	
+6X32	K	identity low	2509	2509		2131	ARG	1	path A only		none: chain not mapped to UniProt	2509	ok			R	2509		0				false	10	-	
+6X32	K	identity low	2510	2510		2132	VAL	1	path A only		none: chain not mapped to UniProt	2510	ok			V	2510		0				false	10	-	
+6X32	K	identity low	2511	2511		2133	TYR	1	path A only		none: chain not mapped to UniProt	2511	ok			Y	2511		0				false	10	-	
+6X32	K	identity low	2512	2512		2134	GLY	1	path A only		none: chain not mapped to UniProt	2512	ok			G	2512		0				false	10	-	
+6X32	K	identity low	2513	2513		2135	ILE	1	path A only		none: chain not mapped to UniProt	2513	ok			I	2513		0				false	10	-	
+6X32	K	identity low	2514	2514		2136	GLU	1	path A only		none: chain not mapped to UniProt	2514	ok			E	2514		0				false	10	-	
+6X32	K	identity low	2515	2515		2137	ASN	1	path A only		none: chain not mapped to UniProt	2515	ok			N	2515		0				false	10	-	
+6X32	K	undeclared difference	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	K	identity low	2516	2516		2138	ALA	1	undeclared difference		none: chain not mapped to UniProt	2516	ok			Q	2516		0				false	10	-	
+6X32	K	undeclared difference	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	K	identity low	2517	2517		2139	ALA	1	undeclared difference		none: chain not mapped to UniProt	2517	ok			D	2517		0				false	10	-	
+6X32	K	identity low	2518	2518		2140	PHE	1	path A only		none: chain not mapped to UniProt	2518	ok			F	2518		0				false	10	-	
+6X32	K	identity low	2519	2519		2141	LEU	1	path A only		none: chain not mapped to UniProt	2519	ok			L	2519		0				false	10	-	
+6X32	K	identity low	2520	2520		2142	LEU	1	path A only		none: chain not mapped to UniProt	2520	ok			L	2520		0				false	10	-	
+6X32	K	identity low	2521	2521		2143	HIS	1	path A only		none: chain not mapped to UniProt	2521	ok			H	2521		0				false	10	-	
+6X32	K	identity low	2522	2522		2144	VAL	1	path A only		none: chain not mapped to UniProt	2522	ok			V	2522		0				false	10	-	
+6X32	K	identity low	2523	2523		2145	LEU	1	path A only		none: chain not mapped to UniProt	2523	ok			L	2523		0				false	10	-	
+6X32	K	identity low	2524	2524		2146	ASP	1	path A only		none: chain not mapped to UniProt	2524	ok			D	2524		0				false	10	-	
+6X32	K	identity low	2525	2525		2147	VAL	1	path A only		none: chain not mapped to UniProt	2525	ok			V	2525		0				false	10	-	
+6X32	K	identity low	2526	2526		2148	GLY	1	path A only		none: chain not mapped to UniProt	2526	ok			G	2526		0				false	10	-	
+6X32	K	identity low	2527	2527		2149	PHE	1	path A only		none: chain not mapped to UniProt	2527	ok			F	2527		0				false	10	-	
+6X32	K	identity low	2528	2528		2150	LEU	1	path A only		none: chain not mapped to UniProt	2528	ok			L	2528		0				false	10	-	
+6X32	K	identity low	2529	2529		2151	PRO	1	path A only		none: chain not mapped to UniProt	2529	ok			P	2529		0				false	10	-	
+6X32	K	identity low	2530	2530		2152	ASP	1	path A only		none: chain not mapped to UniProt	2530	ok			D	2530		0				false	10	-	
+6X32	K	identity low	2531	2531		2153	MET	1	path A only		none: chain not mapped to UniProt	2531	ok			M	2531		0				false	10	-	
+6X32	K	identity low	2532	2532		2154	ARG	1	path A only		none: chain not mapped to UniProt	2532	ok			R	2532		0				false	10	-	
+6X32	K	identity low	2533	2533		2155	ALA	1	path A only		none: chain not mapped to UniProt	2533	ok			A	2533		0				false	10	-	
+6X32	K	identity low	2534	2534		2156	ALA	1	path A only		none: chain not mapped to UniProt	2534	ok			A	2534		0				false	10	-	
+6X32	K	neither path	2535	2535		2157	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	11	-	
+6X33	B	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	B	UNK	2956	3385			UNK	221	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	B	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	B	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	B	neither path	1510	1510		1301	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X33	B	short departing run, path A only (R11c): not joined	2092	2092		1764	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	3	-	
+6X33	B	neither path	2535	2535		2152	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X33	B	neither path	4219	4219		3365	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X33	E	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	E	UNK	2956	3385			UNK	221	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	E	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	E	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	E	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	E	neither path	1510	1510		1301	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X33	E	short departing run, path A only (R11c): not joined	2092	2092		1764	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	3	-	
+6X33	E	neither path	2535	2535		2152	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X33	E	neither path	4219	4219		3365	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X33	H	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	H	UNK	2956	3385			UNK	221	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	H	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	H	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	H	neither path	1510	1510		1301	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X33	H	short departing run, path A only (R11c): not joined	2092	2092		1764	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	3	-	
+6X33	H	neither path	2535	2535		2152	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X33	H	neither path	4219	4219		3365	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X33	K	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	K	UNK	2956	3385			UNK	221	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	K	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	K	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	K	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X33	K	neither path	1510	1510		1301	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X33	K	short departing run, path A only (R11c): not joined	2092	2092		1764	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	3	-	
+6X33	K	neither path	2535	2535		2152	ALA	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X33	K	neither path	4219	4219		3365	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X34	B	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	B	UNK	2956	3385			UNK	209	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	B	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	B	neither path	301	301		276	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	B	neither path	302	302		277	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	B	undeclared difference	615	615		576	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X34	B	neither path	1510	1510		1295	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X34	B	short departing run, path A only (R11c): not joined	2092	2092		1754	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X34	B	neither path	2263	2263		1917	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X34	B	neither path	3866	3866		2949	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X34	D	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	D	UNK	2956	3385			UNK	209	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	D	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	D	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	D	neither path	301	301		276	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	D	neither path	302	302		277	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	D	undeclared difference	615	615		576	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X34	D	neither path	1510	1510		1295	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X34	D	short departing run, path A only (R11c): not joined	2092	2092		1754	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X34	D	neither path	2263	2263		1917	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X34	D	neither path	3866	3866		2949	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X34	F	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	F	UNK	2956	3385			UNK	209	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	F	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	F	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	F	neither path	301	301		276	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	F	neither path	302	302		277	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	F	undeclared difference	615	615		576	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X34	F	neither path	1510	1510		1295	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X34	F	short departing run, path A only (R11c): not joined	2092	2092		1754	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X34	F	neither path	2263	2263		1917	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X34	F	neither path	3449	3449		2679	LYS	1	neither path		none: chain not mapped to UniProt		gap										false	13	-	
+6X34	F	neither path	3866	3866		2949	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	17	-	
+6X34	H	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	H	UNK	2956	3385			UNK	209	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	H	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X34	H	neither path	301	301		276	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	H	neither path	302	302		277	VAL	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X34	H	undeclared difference	615	615		576	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X34	H	neither path	1510	1510		1295	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X34	H	short departing run, path A only (R11c): not joined	2092	2092		1754	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X34	H	neither path	2263	2263		1917	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X34	H	neither path	3866	3866		2949	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X35	B	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	B	UNK	2956	3385			UNK	220	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	B	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	B	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	B	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous	237,240									false	1	-	
+6X35	B	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X35	B	neither path	1510	1510		1294	SER	1	neither path		none: chain not mapped to UniProt		ambiguous	1502,1510									false	3	-	
+6X35	B	short departing run, path A only (R11c): not joined	2092	2092		1757	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X35	B	neither path	2263	2263		1921	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous	2263,2270									false	7	-	
+6X35	B	undeclared difference	2479	2479		2090	LEU	1	undeclared difference		none: chain not mapped to UniProt	2479	ok			T	2479		0				false	8	-	
+6X35	E	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	E	UNK	2956	3385			UNK	220	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	E	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	E	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	E	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	E	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous	237,240									false	1	-	
+6X35	E	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X35	E	neither path	1510	1510		1294	SER	1	neither path		none: chain not mapped to UniProt		ambiguous	1502,1510									false	3	-	
+6X35	E	short departing run, path A only (R11c): not joined	2092	2092		1757	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X35	E	neither path	2263	2263		1921	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous	2263,2270									false	7	-	
+6X35	E	undeclared difference	2479	2479		2090	LEU	1	undeclared difference		none: chain not mapped to UniProt	2479	ok			T	2479		0				false	8	-	
+6X35	H	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	H	UNK	2956	3385			UNK	220	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	H	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	H	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	H	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous	237,240									false	1	-	
+6X35	H	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X35	H	neither path	1510	1510		1294	SER	1	neither path		none: chain not mapped to UniProt		ambiguous	1502,1510									false	3	-	
+6X35	H	short departing run, path A only (R11c): not joined	2092	2092		1757	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X35	H	neither path	2263	2263		1921	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous	2263,2270									false	7	-	
+6X35	H	undeclared difference	2479	2479		2090	LEU	1	undeclared difference		none: chain not mapped to UniProt	2479	ok			T	2479		0				false	8	-	
+6X35	K	UNK	2641	2700			UNK	46	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	K	UNK	2956	3385			UNK	220	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	K	UNK	3509	3606			UNK	68	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	K	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	K	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X35	K	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous	237,240									false	1	-	
+6X35	K	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X35	K	neither path	1510	1510		1294	SER	1	neither path		none: chain not mapped to UniProt		ambiguous	1502,1510									false	3	-	
+6X35	K	short departing run, path A only (R11c): not joined	2092	2092		1757	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	5	-	
+6X35	K	neither path	2263	2263		1921	GLY	1	neither path		none: chain not mapped to UniProt		ambiguous	2263,2270									false	7	-	
+6X35	K	undeclared difference	2479	2479		2090	LEU	1	undeclared difference		none: chain not mapped to UniProt	2479	ok			T	2479		0				false	8	-	
+6X36	B	UNK	2641	3384			UNK	256	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	B	UNK	3509	3603			UNK	65	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	B	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	B	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	B	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X36	B	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X36	B	neither path	1510	1510		1282	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X36	B	neither path	1570	1570		1340	LYS	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X36	B	neither path	2021	2021		1719	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X36	B	short departing run, path A only (R11c): not joined	2092	2092		1745	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	9	-	
+6X36	B	neither path	3678	3678		2590	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X36	B	neither path	4763	4763		3268	LEU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	21	-	
+6X36	E	UNK	2641	3384			UNK	256	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	E	UNK	3509	3603			UNK	65	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	E	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	E	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	E	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X36	E	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X36	E	neither path	1510	1510		1282	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X36	E	neither path	1570	1570		1340	LYS	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X36	E	neither path	2021	2021		1719	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X36	E	short departing run, path A only (R11c): not joined	2092	2092		1745	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	9	-	
+6X36	E	neither path	3678	3678		2590	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X36	E	neither path	4763	4763		3268	LEU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	21	-	
+6X36	H	UNK	2641	3384			UNK	256	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	H	UNK	3509	3603			UNK	65	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	H	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	H	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	H	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X36	H	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X36	H	neither path	1510	1510		1282	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X36	H	neither path	1570	1570		1340	LYS	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X36	H	neither path	2021	2021		1719	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X36	H	short departing run, path A only (R11c): not joined	2092	2092		1745	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	9	-	
+6X36	H	neither path	3678	3678		2590	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X36	H	neither path	4763	4763		3268	LEU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	21	-	
+6X36	K	UNK	2641	3384			UNK	256	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	K	UNK	3509	3603			UNK	65	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	K	UNK	4109	4114			UNK	6	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	K	UNK	4315	4331			UNK	17	UNK																	SIFTS gives a position for 0 (-); not used
+6X36	K	neither path	240	240		214	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	1	-	
+6X36	K	undeclared difference	615	615		571	CYS	1	undeclared difference		none: chain not mapped to UniProt	615	ok			R	615		0				false	2	R615C	
+6X36	K	neither path	1510	1510		1282	SER	1	neither path		none: chain not mapped to UniProt		ambiguous										false	3	-	
+6X36	K	neither path	1570	1570		1340	LYS	1	neither path		none: chain not mapped to UniProt		ambiguous										false	5	-	
+6X36	K	neither path	2021	2021		1719	ASP	1	neither path		none: chain not mapped to UniProt		ambiguous										false	7	-	
+6X36	K	short departing run, path A only (R11c): not joined	2092	2092		1745	LEU	1	path A only		none: chain not mapped to UniProt	2047	ok			L	2047		-45				false	9	-	
+6X36	K	neither path	3678	3678		2590	GLU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	15	-	
+6X36	K	neither path	4763	4763		3268	LEU	1	neither path		none: chain not mapped to UniProt		ambiguous										false	21	-	
+9PWO	A	declared difference	615	615		615	CYS	1	agree	615	mapped	615	ok		R	R	615	0	0	R	Variant	variant	true	0	R615C	
+9PWO	G	declared difference	615	615		615	CYS	1	agree	615	mapped	615	ok		R	R	615	0	0	R	Variant	variant	true	0	R615C	
+9PWO	M	declared difference	615	615		615	CYS	1	agree	615	mapped	615	ok		R	R	615	0	0	R	Variant	variant	true	0	R615C	
+9PWO	S	declared difference	615	615		615	CYS	1	agree	615	mapped	615	ok		R	R	615	0	0	R	Variant	variant	true	0	R615C	
+9ZO8	A	UNK	4279	4343			UNK	50	UNK																	SIFTS gives a position for 50 (4279-4343); not used
+9ZO8	B	UNK	4279	4343			UNK	50	UNK																	SIFTS gives a position for 50 (4279-4343); not used
+9ZO8	C	UNK	4279	4343			UNK	50	UNK																	SIFTS gives a position for 50 (4279-4343); not used
+9ZO8	D	UNK	4279	4343			UNK	50	UNK																	SIFTS gives a position for 50 (4279-4343); not used

@@ -1,0 +1,17 @@
+entry	quote_id	status	work
+A6-01	iyer2022_y522s	not carried	iyer_y522s_cryoem_pnas_2022
+A6-01	iyer2022_y522s_discussion	not carried	iyer_y522s_cryoem_pnas_2022
+A6-01	iyer2025_y522s	not carried	iyer_y522s_dantrolene_structure_2025
+A6-02	iyer2020_r163c	carried	iyer_r164c_equivalent_site_sciadv_2020
+A6-02	iyer2022_r163c	carried	iyer_y522s_cryoem_pnas_2022
+A6-03	iyer2020_r164c_methods	carried	iyer_r164c_equivalent_site_sciadv_2020
+A6-04	iyer2020_r156	not carried	iyer_r164c_equivalent_site_sciadv_2020
+A6-05	xu2008_corr_g4898	not carried	xu_heterotetrameric_ryr1_2008
+A6-06	xu2008_corr_delv	not carried	xu_heterotetrameric_ryr1_2008
+A6-07	xu2008_corr_r110	not carried	xu_heterotetrameric_ryr1_2008
+A6-08	xu2008_corr_r110	not carried	xu_heterotetrameric_ryr1_2008
+A6-08	xu2008_nonconserved	not carried	xu_heterotetrameric_ryr1_2008
+A6-09	rossi2007_rabbit	not carried	rossi_ryr1_truncation_central_core_2007
+A6-09	rossi2007_rabbit_nt	not carried	rossi_ryr1_truncation_central_core_2007
+A6-09	rossi2007_arg_trp	not carried	rossi_ryr1_truncation_central_core_2007
+A6-10	nayak2022_human_rabbit_ff	not carried	nayak_samso_ryr1_ca_inactivation_2022

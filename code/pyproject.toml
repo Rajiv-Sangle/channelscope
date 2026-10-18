@@ -1,0 +1,43 @@
+# ChannelScope's tool: it fills, validates and queries the evidence graph in what/evidence_graph/.
+#
+# A uv project laid out like the core's runtimes. `uv sync` materialises .venv (git-ignored) from uv.lock, which is
+# committed, so a re-run uses the same versions. The package keeps the archive's practice of a pure core with a
+# separate network layer: only channelscope.net imports an HTTP client, and every test runs offline unless it is
+# marked `network` (ADR-001 §10; the archive crosswalk, section J).
+[project]
+name = "channelscope"
+version = "0.1.0"
+description = "Fill, validate and query ChannelScope's evidence graph: typed records with provenance, for variant-to-structure reasoning on ion channels (RYR1 first)."
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.9",   # the record types; JSON Schema is generated from them (ADR-001 §7)
+    "rfc8785>=0.1.4",  # RFC 8785 canonical JSON, the serialisation behind content-digest IDs (ADR-001 §3; VRS)
+    "duckdb>=1.1",     # queries over the JSONL records and TSV tables where they lie (ADR-001 §8)
+    "httpx>=0.27",     # the network layer only (channelscope.net)
+    "pyyaml>=6.0",     # fetch plans and the per-protein curation file
+    "biopython>=1.88",
+    "parasail>=1.3.4",
+]
+
+[project.scripts]
+channelscope = "channelscope.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "jsonschema>=4.23",  # proves the emitted JSON Schema works for a consumer that is not pydantic
+]
+
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/channelscope"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = [
+    "network: calls a public service; skipped unless CHANNELSCOPE_NETWORK_TESTS=1",
+]

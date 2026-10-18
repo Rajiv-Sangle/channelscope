@@ -1,0 +1,4631 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.3/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.3"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "ChannelScope release ryr1_composition_v0.1",
+      "description": "For a residue set of human RyR1 fixed in advance, the partners in rabbit, mouse and pig, the structures that model them by measured state, gnomAD's missense variants and ClinVar's expert-panel classifications, side by side, with the checks and the records.",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "checks.tsv"
+        },
+        {
+          "@id": "code/cl4/c5cg.py"
+        },
+        {
+          "@id": "code/cl4/c5n.py"
+        },
+        {
+          "@id": "code/cl4/c5s.py"
+        },
+        {
+          "@id": "code/cl4/columns.py"
+        },
+        {
+          "@id": "code/cl4/common.py"
+        },
+        {
+          "@id": "code/cl4/compose.py"
+        },
+        {
+          "@id": "code/cl4/extract_rows.py"
+        },
+        {
+          "@id": "code/cl4/faults.py"
+        },
+        {
+          "@id": "code/cl4/l2.py"
+        },
+        {
+          "@id": "code/cl4/layers.py"
+        },
+        {
+          "@id": "code/cl4/make_c5_plans.py"
+        },
+        {
+          "@id": "code/cl4/recount.py"
+        },
+        {
+          "@id": "code/cl4/sample.py"
+        },
+        {
+          "@id": "code/cl4/synthetic.py"
+        },
+        {
+          "@id": "code/digests.tsv"
+        },
+        {
+          "@id": "criteria/cl4_composition_criteria_v3.md"
+        },
+        {
+          "@id": "criteria/replacements.json"
+        },
+        {
+          "@id": "graph/cache/gnomad/2026-10-06/ryr1_variants_gnomad_r4.json.request"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esearch_RYR1_expert_panel.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_1.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_2.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1010267.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1120228.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1210301.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12964.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12965.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12966.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12967.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12971.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12972.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12993.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133025.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330360.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330361.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330362.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330365.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330369.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330371.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133042.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133058.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133077.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133100.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133108.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133133.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133137.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133147.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133158.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133173.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133179.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133196.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133203.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133221.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133223.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133226.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133230.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133232.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_159865.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_197946.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_224387.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_329032.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_329088.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_42098.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_433176.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_478260.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_478267.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_55831.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_571399.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_590492.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_590585.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_635269.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_65941.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_65993.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_93265.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_93279.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1010267.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1120228.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1210301.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12964.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12965.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12966.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12967.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12971.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12972.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12993.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133025.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330360.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330361.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330362.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330365.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330369.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330371.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133042.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133058.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133077.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133100.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133108.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133133.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133137.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133147.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133158.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133173.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133179.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133196.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133203.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133221.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133223.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133226.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133230.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133232.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_159865.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_197946.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_224387.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_329032.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_329088.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_42098.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_433176.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_478260.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_478267.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_55831.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_571399.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_590492.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_590585.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_635269.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_65941.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_65993.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_93265.xml"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_93279.xml"
+        },
+        {
+          "@id": "graph/raw/ensembl/2026-09-29/lookup_ENST00000359596_expand.json"
+        },
+        {
+          "@id": "graph/raw/ensembl/2026-09-30/archive_jun2026_legal_disclaimer.html"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-06/browser_dataset_metadata_528b499.ts"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-06/browser_terms_528b499.md"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_browser_dataset_metadata_main.ts"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38440798-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38440798-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38442373-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38442373-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444211-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444211-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444212-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444212-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444253-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444253-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444254-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444254-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444256-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444256-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467654-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467654-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467655-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467655-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473635-A-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473635-A-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473637-C-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473637-C-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38492540-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38492540-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496415-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496415-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499177-A-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499177-A-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499643-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499643-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499694-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499694-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499695-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499695-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499996-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499996-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500654-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500654-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505061-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505061-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505062-A-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505062-A-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505324-T-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505324-T-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505325-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505325-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505357-A-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505357-A-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505932-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505932-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505933-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505933-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506361-T-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506361-T-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506492-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506492-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512363-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512363-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512364-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512364-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516181-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516181-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517430-A-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517430-A-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517431-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517431-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519401-C-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519401-C-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38543816-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38543816-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-G.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-G.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565183-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565183-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572185-G-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572185-G-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572262-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572262-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572263-G-T.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572263-G-T.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577918-G-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577918-G-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-A.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-A.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-C.json.request"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577943-A-C.json"
+        },
+        {
+          "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577943-A-C.json.request"
+        },
+        {
+          "@id": "graph/raw/hgnc/2026-09-29/hgnc_10483.json"
+        },
+        {
+          "@id": "graph/raw/hgnc/2026-09-30/about_license.html"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/about_policies.html"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/datasets_gene_6261_product_report.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P11716.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817-2.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817-3.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817_with_isoforms.fasta"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-06/E9PZQ0.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-06/P16960.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-11/P21817.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-11/help_license.json"
+        },
+        {
+          "@id": "graph/records/alignment.jsonl"
+        },
+        {
+          "@id": "graph/records/check_result.jsonl"
+        },
+        {
+          "@id": "graph/records/gene.jsonl"
+        },
+        {
+          "@id": "graph/records/method.jsonl"
+        },
+        {
+          "@id": "graph/records/numbering.jsonl"
+        },
+        {
+          "@id": "graph/records/protein.jsonl"
+        },
+        {
+          "@id": "graph/records/residue_mapping.jsonl"
+        },
+        {
+          "@id": "graph/records/retrieval.jsonl"
+        },
+        {
+          "@id": "graph/records/run.jsonl"
+        },
+        {
+          "@id": "graph/records/source.jsonl"
+        },
+        {
+          "@id": "graph/records/table.jsonl"
+        },
+        {
+          "@id": "graph/records/transcript.jsonl"
+        },
+        {
+          "@id": "graph/tables/cl2_numbering_entries.tsv"
+        },
+        {
+          "@id": "graph/tables/cl2_numbering_exceptions.tsv"
+        },
+        {
+          "@id": "graph/tables/cl2_numbering_segments.tsv"
+        },
+        {
+          "@id": "graph/tables/cl3_gate_cases.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_clinvar.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_clinvar_conditions.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_exclusions.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_gnomad.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_partners.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_set.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_structure_counts.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_structures.tsv"
+        },
+        {
+          "@id": "graph/tables/cl4/51539fd/full_set/cl4_vus_counts.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_E9PZQ0.sv1.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_P16960.sv2.tsv"
+        },
+        {
+          "@id": "graph/tables/s13_gate_remeasurement.tsv"
+        },
+        {
+          "@id": "graph/tables/s2_gnomad_ryr1_missense.tsv"
+        },
+        {
+          "@id": "inputs/a6_stated_correspondences.tsv"
+        },
+        {
+          "@id": "ledger.md"
+        },
+        {
+          "@id": "licences/gnomad_browser_LICENSE.txt"
+        },
+        {
+          "@id": "manifest.json"
+        },
+        {
+          "@id": "rerun/patches/9ZO8.json"
+        },
+        {
+          "@id": "rerun/patches/9ZOE.json"
+        },
+        {
+          "@id": "rerun/rebuild_revision.py"
+        },
+        {
+          "@id": "rerun/recount_from_release.py"
+        },
+        {
+          "@id": "rerun/rerun_compose.py"
+        },
+        {
+          "@id": "withheld.tsv"
+        },
+        {
+          "@id": "withheld_records.json"
+        }
+      ]
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "sha256": "66fab44793e90d658a340a6be7be5ef583b04815ba011c386b09b021a30377f6",
+      "contentSize": 19741,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "checks.tsv",
+      "@type": "File",
+      "sha256": "6371b841a803ed417af85df7792b4e463ede0669126e177c3fd02ff0ee7a3305",
+      "contentSize": 4281,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "code/cl4/c5cg.py",
+      "@type": "File",
+      "sha256": "d4a8ea10382bd466c09fb23d6760ebcccbabe656f6e0a409d7e656d0afce72e6",
+      "contentSize": 6219,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/c5n.py",
+      "@type": "File",
+      "sha256": "6d33ff810b81e5dea6c148762b25c50243bfa43a46bf6245c9d3c6a0bec99952",
+      "contentSize": 3050,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/c5s.py",
+      "@type": "File",
+      "sha256": "6fffb67d0c951a9769385f033963c0c77c2900ecf24baf976b801b0efdecab0a",
+      "contentSize": 6123,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/columns.py",
+      "@type": "File",
+      "sha256": "e5116acf5cc85900fc7d9322b0268ae0934eb8fcbcdd98fd6ddf98397b184787",
+      "contentSize": 18207,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/common.py",
+      "@type": "File",
+      "sha256": "7fb500a4cf74b5876d1d64cb5aecabbfd22e18f61ab2b9e067eb42a1477b8e70",
+      "contentSize": 7999,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/compose.py",
+      "@type": "File",
+      "sha256": "2875ffd727bc7d245bbe10516505cde554aaebac97970fd55b4b3d37c4b4f642",
+      "contentSize": 48064,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/extract_rows.py",
+      "@type": "File",
+      "sha256": "d7c121153f846608cb34490b43d00bb4416056e656ec38b91891cf80127d69da",
+      "contentSize": 3778,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/faults.py",
+      "@type": "File",
+      "sha256": "e1eb9cfbde84a914b18b5afec944bd5b8241b1ee3adae5573508ecf20645a7ba",
+      "contentSize": 13646,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/l2.py",
+      "@type": "File",
+      "sha256": "d635ed21f19a3e7ad09f9f1446b8d5d395cf7bb95d425b05885075849d6a82ea",
+      "contentSize": 14456,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/layers.py",
+      "@type": "File",
+      "sha256": "357d3bb2e75ead0e7aac3e79590b9c969a1929dc58463acabebe20b55c4a37cb",
+      "contentSize": 10741,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/make_c5_plans.py",
+      "@type": "File",
+      "sha256": "0b92f1c9a83c5e72b24c5993bdc7c2490e94652e1051d2715550cf1901b23aa9",
+      "contentSize": 5997,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/recount.py",
+      "@type": "File",
+      "sha256": "e0485d8d44585a6c927c97b42520c7b9a92323f30e676b447b503fbb88e422b2",
+      "contentSize": 17072,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/sample.py",
+      "@type": "File",
+      "sha256": "8c70e583037980b3ddfc709a7876d1b8d2c1af45b93b800ac56b93288e72894e",
+      "contentSize": 2304,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/cl4/synthetic.py",
+      "@type": "File",
+      "sha256": "93f5852c547481fb7b4d5ed5c8e2fd7f94df686308bf9e6227ce65f6978fe4ca",
+      "contentSize": 6643,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "code/digests.tsv",
+      "@type": "File",
+      "sha256": "31f812f54fc86a2c87f8a843fe062d103d8acf001ec4416f596aa399233ec35d",
+      "contentSize": 3172,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "criteria/cl4_composition_criteria_v3.md",
+      "@type": "File",
+      "sha256": "a9532201f59cd66973e7563035749c495e4ce62c4adb92d7987b27aa42492f3a",
+      "contentSize": 136688,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "criteria/replacements.json",
+      "@type": "File",
+      "sha256": "63b406ea569e8e2e433400e0cc5b161c7a371f516d2f2a7024a8f6a51884ff94",
+      "contentSize": 1387,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/cache/gnomad/2026-10-06/ryr1_variants_gnomad_r4.json.request",
+      "@type": "File",
+      "sha256": "2f3e3b8e075c545d2598f33364a96149c66760ae6dc3f39018eb8991d10e5d12",
+      "contentSize": 971,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esearch_RYR1_expert_panel.json",
+      "@type": "File",
+      "sha256": "b541cd3668e8ad31ed9482c1a1469e8b699048d1ff03ef6aa4dcdb3a2e761136",
+      "contentSize": 3854,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_1.json",
+      "@type": "File",
+      "sha256": "8abb07cdf7fbe06128e474998d01446ae854ab0866a7b9849089d89538d845a3",
+      "contentSize": 539760,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_2.json",
+      "@type": "File",
+      "sha256": "692842083c593cc0548ea8d7dc3af2ff7e6480022492deee23a7d8e0b927abb5",
+      "contentSize": 524488,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1010267.json",
+      "@type": "File",
+      "sha256": "c60fc0b6965041018d448592b8fd2748d94250901624ce33a7a5ed484509d7af",
+      "contentSize": 2905,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1120228.json",
+      "@type": "File",
+      "sha256": "f4edeaae7997e86fcbaa652292be2c889edcc891a60f7da447fdc8e4c37dc3a2",
+      "contentSize": 2808,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1210301.json",
+      "@type": "File",
+      "sha256": "235c021e765ecbdafb74aa6a1ead3ae6c817a218c408ae42435af48a2a3ee9fb",
+      "contentSize": 2400,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12964.json",
+      "@type": "File",
+      "sha256": "8b12d581a306db2b2319ded2fb440d1bfbbeeff5c1a0577fd5c61c5a1f0be122",
+      "contentSize": 4308,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12965.json",
+      "@type": "File",
+      "sha256": "cc9243d8af8ef1ac3e5ff2edc2c9cd00fe94cc4c0131142d0a3d4402f50b2528",
+      "contentSize": 2688,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12966.json",
+      "@type": "File",
+      "sha256": "7550df01ab007ea462083339b9f1368581a1ed4dd0a8160e4165d43a9a2d65c9",
+      "contentSize": 3437,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12967.json",
+      "@type": "File",
+      "sha256": "ff93c125abb0e9ef7ebaa6ece25af8c41c648e484df06b482dec15067853e699",
+      "contentSize": 3947,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12971.json",
+      "@type": "File",
+      "sha256": "5430a023370845af6b94e1600c87ad0ae5d6cf925f910fa388f96819ac2f403c",
+      "contentSize": 3754,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12972.json",
+      "@type": "File",
+      "sha256": "4e1205f57cd738ac0c7839d958c35c6580a4522d76ee907a78f92d8328776908",
+      "contentSize": 3313,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_12993.json",
+      "@type": "File",
+      "sha256": "64d734bcb9ff4d1b4e10ced53c295094622fd27fd31377612cc3beb64498eab1",
+      "contentSize": 3239,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133025.json",
+      "@type": "File",
+      "sha256": "62acee35fbda690418a9c95fafd98c6c2de86f0a6aa2bd72849a953ae39e3d6c",
+      "contentSize": 2455,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330360.json",
+      "@type": "File",
+      "sha256": "4b7a7a4940e626ddbb500eddc8d51774e28ca3c48ad65e785ba3915dc9167904",
+      "contentSize": 2891,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330361.json",
+      "@type": "File",
+      "sha256": "4db3fdbbf3bca112736e7a083d5304dd2d367bf5fe4a362d2dac2d0b0415c41b",
+      "contentSize": 2496,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330362.json",
+      "@type": "File",
+      "sha256": "1c0c934f540233a5e71cbf051e813c391876f063f327b3ccae1e957c2bd80e38",
+      "contentSize": 2623,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330365.json",
+      "@type": "File",
+      "sha256": "48f680272cb4385f72c60c3cfb1e15e36517e83bbdb04f95f7f81f96eb41e20e",
+      "contentSize": 2652,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330369.json",
+      "@type": "File",
+      "sha256": "88eb88dd923f7f614894d02110f14a86ff15673600986786b33869b6bea1eb7d",
+      "contentSize": 2682,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_1330371.json",
+      "@type": "File",
+      "sha256": "408e3f876e523926a9397179b6246176492efb8f6b771d6da3176f7668deb45e",
+      "contentSize": 2481,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133042.json",
+      "@type": "File",
+      "sha256": "8da25d6d655560513c36e010831b953c75815b8787691fa77ca4d9e8743df9b7",
+      "contentSize": 2643,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133058.json",
+      "@type": "File",
+      "sha256": "b8bf6e45505c7092ab592ae1fe3c18edc4c06ac6f773f198d37e67c841af6bf4",
+      "contentSize": 2501,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133077.json",
+      "@type": "File",
+      "sha256": "d76df88bc2bb383851ed5ab203f277976b83f7e9155a9c6603e39d01fa3e6cfe",
+      "contentSize": 2486,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133100.json",
+      "@type": "File",
+      "sha256": "d97793ae67ec5010e271cd666f29b516a1d8e3ff658f61f93a7816f61c44bfb7",
+      "contentSize": 2464,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133108.json",
+      "@type": "File",
+      "sha256": "7bebdf8e47480e0ad704fc82298af984dd8b1a3ad4871feb7adb0402a2e504dd",
+      "contentSize": 3321,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133133.json",
+      "@type": "File",
+      "sha256": "35f0473df8649503c97e6f9c7f86df4f5e2af3ca08f694ba5ab69333bd4d4937",
+      "contentSize": 2510,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133137.json",
+      "@type": "File",
+      "sha256": "b4555ba31d02d5fb1b9a2a700ee877313883f64093446806763487028b1f5a88",
+      "contentSize": 3181,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133147.json",
+      "@type": "File",
+      "sha256": "d0b0875aed36a251a07633a60c7b41ee7c1ad8bf69d78e1dee2fb98071e423ce",
+      "contentSize": 2949,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133158.json",
+      "@type": "File",
+      "sha256": "808f08a75b2ab84ea9bdd6cb53633492a0e4e5c9718c579ac6540d22a88eb6e9",
+      "contentSize": 2694,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133173.json",
+      "@type": "File",
+      "sha256": "6533ff4f914885268d67abbc91ad32eb477731e9726fe50f6b2ec79de59b0b07",
+      "contentSize": 3557,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133179.json",
+      "@type": "File",
+      "sha256": "178678b75e1db7c02d29686c82533e21d9fa7cd778a1358d6806c77faa83358e",
+      "contentSize": 3029,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133196.json",
+      "@type": "File",
+      "sha256": "c1c82ebee1aff23b515609257253dfaddb04e6fbecb32feca6aa7e4e3fdbe59b",
+      "contentSize": 2689,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133203.json",
+      "@type": "File",
+      "sha256": "613ad424714b97c6b80b3279d009ababa28bd4e65ffb2158af8096c86c646cfb",
+      "contentSize": 2747,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133221.json",
+      "@type": "File",
+      "sha256": "82ce7ba95f1f5da2c75868e1e21f32df8e069918f76bbbbb32cb7ae1e8a59064",
+      "contentSize": 2885,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133223.json",
+      "@type": "File",
+      "sha256": "4632055364280da0ec8108e263c0cfcbf8c90441693275a8b24d9c178db67fe9",
+      "contentSize": 3434,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133226.json",
+      "@type": "File",
+      "sha256": "fdc20a406e93d616cb442c061d6fe17ab0e4294f04be9a46c58a07cc47447875",
+      "contentSize": 3199,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133230.json",
+      "@type": "File",
+      "sha256": "f2465cc9275deb1ce71f0c03b3d1cb9490fa70cbefbbf3cc68769b5de68a2d2f",
+      "contentSize": 2578,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_133232.json",
+      "@type": "File",
+      "sha256": "846e10030e1a6f233b393c384c5e53c86378f38c1c4de61c0d69c116f0616453",
+      "contentSize": 2929,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_159865.json",
+      "@type": "File",
+      "sha256": "8545dc30b674cea4d627a700321a9682bc639021e092ac6544b99a72ade691e2",
+      "contentSize": 3734,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_197946.json",
+      "@type": "File",
+      "sha256": "70e1a7c423072e44127300a515599b8a94cd498104619a460407fa02d69a62d1",
+      "contentSize": 3544,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_224387.json",
+      "@type": "File",
+      "sha256": "c83059bf427eaf4a39ed047b1665047907feef88d97052cc5f1244483360079a",
+      "contentSize": 3224,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_329032.json",
+      "@type": "File",
+      "sha256": "d18a35376dd8f0dbf24593497c5b7dc91596a5dca0b1af4bc838e8e9201cc64f",
+      "contentSize": 3110,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_329088.json",
+      "@type": "File",
+      "sha256": "59170629e0ffe5c3a5a4fb1ad0c2e8357d918a23b1a5cb9b6c7eed35e3f76b83",
+      "contentSize": 3436,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_42098.json",
+      "@type": "File",
+      "sha256": "7923d6ecc6e88a5e231188605569651904ba3122dc77328a6ea3929258ce81fd",
+      "contentSize": 3107,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_433176.json",
+      "@type": "File",
+      "sha256": "617ce01d96edb219dfede56e5e9c5b71af4f9d6c18961f218470b219809b1135",
+      "contentSize": 2966,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_478260.json",
+      "@type": "File",
+      "sha256": "b87dd66f5171e766c780d329fa85537e9dd3c967ff8fd19f2cdc0fcfc789083c",
+      "contentSize": 3023,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_478267.json",
+      "@type": "File",
+      "sha256": "65298d92a4c5200fe55c84803e73b840ba7cea26f7cce89a1530c63af904bbbc",
+      "contentSize": 2545,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_55831.json",
+      "@type": "File",
+      "sha256": "68ee595af54448a074551c54bb03bb1da34892433a80fa52415ced0d61aaa33d",
+      "contentSize": 2567,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_571399.json",
+      "@type": "File",
+      "sha256": "b7c80749af8b6f82bbbe38b16284658e7fc23d174560ab619895527bcd51698e",
+      "contentSize": 2633,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_590492.json",
+      "@type": "File",
+      "sha256": "b91ece75920a0f0d04b24f51c1ef46ca0ca211893dc712470dfb76a606bf8ad7",
+      "contentSize": 2577,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_590585.json",
+      "@type": "File",
+      "sha256": "3e2872fba4e0ca39d3983b9a3ad46fb17b5bfc4f5c5671bf72c5bad284fe532a",
+      "contentSize": 2471,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_635269.json",
+      "@type": "File",
+      "sha256": "16b5654ca46a7bd7c9a3452ea625e915cda1b106c61ce748ea81a79c06241845",
+      "contentSize": 2936,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_65941.json",
+      "@type": "File",
+      "sha256": "866ff937d633b58f6dcb24b2ec20363e53627d39018e8160fc983f7bbb5af784",
+      "contentSize": 2627,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_65993.json",
+      "@type": "File",
+      "sha256": "bea5d4da2651378017efdb95b2d321940043b738ffeb105ff17717c3b56a4ff5",
+      "contentSize": 2624,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_93265.json",
+      "@type": "File",
+      "sha256": "c5e24c25da4c65defe67b02587bdc4c96f1ed1910808bbc21310fbf3cbddb2f4",
+      "contentSize": 3538,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_esummary_93279.json",
+      "@type": "File",
+      "sha256": "65c5b93fb86e4343c2e4557a0127131d533c7db6b3a2ef0469c723f1bdbcc7d9",
+      "contentSize": 3538,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1010267.xml",
+      "@type": "File",
+      "sha256": "1b412f89ff8aa0ea0b7d91ca0e1d287ec18110894fc9bb853ada3d6da9f44d2f",
+      "contentSize": 35156,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1120228.xml",
+      "@type": "File",
+      "sha256": "3f09a5ec81001c6c2cc858856c5bf69ec8a4783f177aee57b1e02ba226c71669",
+      "contentSize": 47742,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1210301.xml",
+      "@type": "File",
+      "sha256": "1429b5e9662cd0d83f8638b3e2f21ab38676e550a1758ada53738a7feadafe06",
+      "contentSize": 17675,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12964.xml",
+      "@type": "File",
+      "sha256": "bf6f00eb33c271108d7ae938af8480615e157c8f3bf7e27f166392046a5d1af2",
+      "contentSize": 247348,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12965.xml",
+      "@type": "File",
+      "sha256": "83e3a4b51d19d4ce8045788c08579f4c15e87e37e0410f4a776d784c234a8f87",
+      "contentSize": 68405,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12966.xml",
+      "@type": "File",
+      "sha256": "beb36bc9d62a6d96043a0e6750d512885ef679262c92cfd555c50c32b03992eb",
+      "contentSize": 125464,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12967.xml",
+      "@type": "File",
+      "sha256": "b2e16b89f60aaae031265bb1fd68bcdbd8ced6a098984493cf7374fb6a274dc5",
+      "contentSize": 134512,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12971.xml",
+      "@type": "File",
+      "sha256": "4bc42b125358b5a5d5b3fd703fcdd501518787cc787a5bd04b3ad5ffa01cc805",
+      "contentSize": 135899,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12972.xml",
+      "@type": "File",
+      "sha256": "d3f167f7cd388e1c7cf94492ca95d9c37578a2cdbe5a15f8dd3944c76cac5dd5",
+      "contentSize": 108744,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_12993.xml",
+      "@type": "File",
+      "sha256": "84142917d275a54d4a04c6cd52db2f5753f4c4e75937ccfc235459af9962db7c",
+      "contentSize": 64856,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133025.xml",
+      "@type": "File",
+      "sha256": "460cd9f21d0a773cabb77f5e48cc45aeaaa502a0c6ebc1c1cd6ef6080e3f35bf",
+      "contentSize": 26919,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330360.xml",
+      "@type": "File",
+      "sha256": "f14cfd49ca8494c8d147196862b99521831da2f30c658a5a27cde1898278a0a4",
+      "contentSize": 22118,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330361.xml",
+      "@type": "File",
+      "sha256": "305d534f2fd2bf905614451791781795b1bd9a6f3b36c16e9c43880ef4461eba",
+      "contentSize": 16045,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330362.xml",
+      "@type": "File",
+      "sha256": "3a7ab9ae685ae41146e060e7db842df70d08b76d93791485c6c3eb2b74aab5ed",
+      "contentSize": 20888,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330365.xml",
+      "@type": "File",
+      "sha256": "0420bcbe6e9144853527ceb34bda4f21c82ed3d5940f1fdec77b6445cdd77e19",
+      "contentSize": 26686,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330369.xml",
+      "@type": "File",
+      "sha256": "129083bcfb913775167503d3cc4e2e5785211dc14e59cc1450997d2fc0c35d7b",
+      "contentSize": 48882,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_1330371.xml",
+      "@type": "File",
+      "sha256": "1fb1b272e3249009a2c8c6dc30f77f606eaa34cf727f34e99d79242b92233d6e",
+      "contentSize": 16217,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133042.xml",
+      "@type": "File",
+      "sha256": "e68f8d0467de2f84d3141fab53cae4cd945986663d6e9a5c79e910bca4049f2b",
+      "contentSize": 20833,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133058.xml",
+      "@type": "File",
+      "sha256": "f09f4efaed24f7d81594be9b2b7e8601dd59ad4f8dc8265c2fa0366f63f2b45a",
+      "contentSize": 20611,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133077.xml",
+      "@type": "File",
+      "sha256": "4629eaae551b1e32ed00a7d832eae65a89328e90c184e12fba6b280eb6badbc8",
+      "contentSize": 20330,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133100.xml",
+      "@type": "File",
+      "sha256": "d1ccb8c1ceb9607069074a0b92d4ee24d21a0e6a7e71a98e44785263825cff06",
+      "contentSize": 22516,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133108.xml",
+      "@type": "File",
+      "sha256": "032ac729865dd60afd2aec890b06d631f4e51bc7dff51b255a3353df4f834bbc",
+      "contentSize": 107633,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133133.xml",
+      "@type": "File",
+      "sha256": "92978ecb5ff5c43e6168ccdb361427a341eeca703a1c65d7a857c38ec98aa49c",
+      "contentSize": 30494,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133137.xml",
+      "@type": "File",
+      "sha256": "b6ef91722cc60bc545bfe74f37d1bbb96862cacd4f0a4e6ae0be05f9a634c3e4",
+      "contentSize": 60281,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133147.xml",
+      "@type": "File",
+      "sha256": "096dad8a0722a12a708ffb9c74a3717a8214bc35df1942d0fd68e6ad518ac3b4",
+      "contentSize": 44335,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133158.xml",
+      "@type": "File",
+      "sha256": "59242add56079192ec51179abfab85e2f50b391b525e5edbc4e30e8ea48c06ba",
+      "contentSize": 48759,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133173.xml",
+      "@type": "File",
+      "sha256": "b78dbd485e47109f896ec5ef317438cc4aac0552bf03efefd4e2fd36106843c0",
+      "contentSize": 103875,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133179.xml",
+      "@type": "File",
+      "sha256": "7a78e58ae5ca148b32c95b78ef9c486b8c88ce31e635d46c5fb39a2c49fe87db",
+      "contentSize": 57236,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133196.xml",
+      "@type": "File",
+      "sha256": "41e359d0907a24f481bd9fff00b77710b544a009c313a923ec77c6252a1bf586",
+      "contentSize": 47856,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133203.xml",
+      "@type": "File",
+      "sha256": "0cbe6d39ca098fcb064ae8d435dd567f9be4d2fe1266548682b413cd0c47c9d5",
+      "contentSize": 80418,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133221.xml",
+      "@type": "File",
+      "sha256": "94a692d6499e439f9865fc8fa94bf58e43dec925a3ea0627afdfb8a4f3336fdd",
+      "contentSize": 54583,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133223.xml",
+      "@type": "File",
+      "sha256": "8e9240fc214fc8afae772888020110f2d84ca8fcdf293834ddb03650135a4211",
+      "contentSize": 110677,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133226.xml",
+      "@type": "File",
+      "sha256": "60fa74d69f1b099f161a696542857beeef6c4c66c0ee3a9b16884a6c9d65bf7d",
+      "contentSize": 72636,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133230.xml",
+      "@type": "File",
+      "sha256": "094ee73e04fda4b3508f52dcbf32cb8f14ba053062c064b47877728c451ea089",
+      "contentSize": 20822,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_133232.xml",
+      "@type": "File",
+      "sha256": "df4f4fb932f305b0d6ef07de963d29aafdf1cf20ec71f8f86f077141a0be2741",
+      "contentSize": 50442,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_159865.xml",
+      "@type": "File",
+      "sha256": "28b34b74fed283692b5db84f7e8754543c3fe0a6469469165e974b07ba339b23",
+      "contentSize": 88324,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_197946.xml",
+      "@type": "File",
+      "sha256": "16779cde79935dc06a7af61ed5e516719c53800594815f8fb95dbb0fa80e6d2d",
+      "contentSize": 83446,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_224387.xml",
+      "@type": "File",
+      "sha256": "5b3638d06746f97fad27733e57a5ed48cfeb345718755adf4bb839617de3c375",
+      "contentSize": 50263,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_329032.xml",
+      "@type": "File",
+      "sha256": "7f52c8dafd26ff3ad1bddb7a88f0f9e8c28a7fd7c73d1766aec79185c01efd42",
+      "contentSize": 67771,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_329088.xml",
+      "@type": "File",
+      "sha256": "0f85416449a9a0cd8799420a67dd42c0bb551dc4ba7b115b70801ed197156a89",
+      "contentSize": 69140,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_42098.xml",
+      "@type": "File",
+      "sha256": "854fea52cdbfbb93590ff4580b83670813acae5c5c7b9290e85f222aea8686e1",
+      "contentSize": 96584,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_433176.xml",
+      "@type": "File",
+      "sha256": "7672e7cbab7d3bee22528a330eb75c681ce247b086ba0f7292f37e1370a9c4bf",
+      "contentSize": 50292,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_478260.xml",
+      "@type": "File",
+      "sha256": "8977e6bd652e624e06c407e6d97e0798b3dbbc1a00a1264c2d8c532c7b770532",
+      "contentSize": 45446,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_478267.xml",
+      "@type": "File",
+      "sha256": "e90b986ea75a19e4c1ea3a66d9dfb70572e997e6b3a81f669e507898e63e6d1b",
+      "contentSize": 23439,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_55831.xml",
+      "@type": "File",
+      "sha256": "2b17b0afdf67dc94d795b86ed2dba8dd5e862659a1f1c50594ab4a87557d296f",
+      "contentSize": 34773,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_571399.xml",
+      "@type": "File",
+      "sha256": "7288750bd0feccf273fbf8d1e6c2d36136ba6cfff24a052a8173fa36baf3741f",
+      "contentSize": 52276,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_590492.xml",
+      "@type": "File",
+      "sha256": "33975da9d43181c7dac86ee93d5465d4802fd7e21208a9894fd7ba6f67b9e2e0",
+      "contentSize": 20616,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_590585.xml",
+      "@type": "File",
+      "sha256": "97b7e3e6eabfccb92c51e86a85f1efdd0789652ea1e5f83e29206c521ba3665e",
+      "contentSize": 22844,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_635269.xml",
+      "@type": "File",
+      "sha256": "405ca2a78a503f3ba7da36c0218227770e6fdf9ab5012f8577932e042b0d65e2",
+      "contentSize": 58074,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_65941.xml",
+      "@type": "File",
+      "sha256": "7fe8c4b05a631304064045fc97faf88c3642e0c19ecf41dbc6c8f090148e1781",
+      "contentSize": 42531,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_65993.xml",
+      "@type": "File",
+      "sha256": "4395eef111304ab7961304306e2c7b7291f4a26e0b6e090a53848cdfaa76287d",
+      "contentSize": 48690,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_93265.xml",
+      "@type": "File",
+      "sha256": "88bbfbc4417e711de3a1ef3f19ddf84a0e8dfc561781fe41023811e1b823af33",
+      "contentSize": 80575,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-10-12/c5_vcv_93279.xml",
+      "@type": "File",
+      "sha256": "daf4df59e62f08e95592c76c7dde0c1739c8cb683f49a1319a3a3ef7c76fa11a",
+      "contentSize": 80064,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ensembl/2026-09-29/lookup_ENST00000359596_expand.json",
+      "@type": "File",
+      "sha256": "6c3c8b22ca87a6beaf33743dd153ba7a8e0d554f2b4c69bfb3724492662a1fe7",
+      "contentSize": 20880,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ensembl/2026-09-30/archive_jun2026_legal_disclaimer.html",
+      "@type": "File",
+      "sha256": "3f3bcb56720c2f66421276b39284f57208d441f34b224810fd909371be44b0bf",
+      "contentSize": 24845,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-06/browser_dataset_metadata_528b499.ts",
+      "@type": "File",
+      "sha256": "66106f3a55aa1894be713d512aee6140c32b93e2620d9f4fbf03a2f217081485",
+      "contentSize": 38332,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-06/browser_terms_528b499.md",
+      "@type": "File",
+      "sha256": "d04bcf050eed4f4d78c571b59670d446bdae793c2d14d269dd6030ffba5e27ec",
+      "contentSize": 3011,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_browser_dataset_metadata_main.ts",
+      "@type": "File",
+      "sha256": "66106f3a55aa1894be713d512aee6140c32b93e2620d9f4fbf03a2f217081485",
+      "contentSize": 38332,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38440798-G-C.json",
+      "@type": "File",
+      "sha256": "960bc8137d45bae10d4d7108409279c1571e5c4c5a26834310c806b7d5d0619f",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38440798-G-C.json.request",
+      "@type": "File",
+      "sha256": "f7734023ab394f9cec4da4adb8e34804b7b651fc34a5d40c14fb0b77106f6d8f",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38442373-T-C.json",
+      "@type": "File",
+      "sha256": "d542516414240bf93c235d07258c7914d0c6225c75b599f5e112e691d3141bfc",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38442373-T-C.json.request",
+      "@type": "File",
+      "sha256": "3bcfd5fba106ab237a35f6148bf922603a7aef293012bda7d17b3c0f803fef69",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444211-C-T.json",
+      "@type": "File",
+      "sha256": "350dc1fc1c42bb6d75a9dd1340634928910cd88619186d88407528d2ece68326",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444211-C-T.json.request",
+      "@type": "File",
+      "sha256": "46021f095f5ee7c6c09a553b77a99611e22b561c990945ea2ca3bc5986d4ab13",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444212-G-A.json",
+      "@type": "File",
+      "sha256": "438e8f84d98e1d56758c792cc3d8ac88fef49117aaa8cc29ade24120d7a6f40e",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444212-G-A.json.request",
+      "@type": "File",
+      "sha256": "11e6c4573623e47860db97b7480070e2da7943e7d19a09dc52df1a169f39404e",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444253-C-T.json",
+      "@type": "File",
+      "sha256": "b6078bc879697212567d738d0b90fade8d1476ce0a086c0cc24cb416101d30d6",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444253-C-T.json.request",
+      "@type": "File",
+      "sha256": "cda8fd81ad70d55d695dce94721c58843f501d6bf012c955a474084bdaa553c8",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444254-G-A.json",
+      "@type": "File",
+      "sha256": "80e77d75b6345c7408623d8ea339d027b3979330b722cdd822483aa1aaf86a42",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444254-G-A.json.request",
+      "@type": "File",
+      "sha256": "33cdfebf5e5ceca64915faf29efaba837b8519c03c34c4dbc5de86f2dbc27b9b",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444256-T-C.json",
+      "@type": "File",
+      "sha256": "91a8d50b17ca862104f1453cfc6f9e0f226a3455381e7ec9a864f45555a3dfe7",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38444256-T-C.json.request",
+      "@type": "File",
+      "sha256": "9446ce97555f465edaace80fed750d6ec55000ba00760f1565df3b3973a4faa4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-A.json",
+      "@type": "File",
+      "sha256": "db6b9a48c1fba718e66bda257e7482cb815930e628f545255c0db3ca1490b87d",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-A.json.request",
+      "@type": "File",
+      "sha256": "ae292ed44789899a97d02dccf3a9ea350575e226eb655c3b9aff9c1eaf0d9f12",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-C.json",
+      "@type": "File",
+      "sha256": "7ee6b96ba582fbc00af5c91bb8db4cb2dc29f4069045a1ee279a8829fc2952f1",
+      "contentSize": 183,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-C.json.request",
+      "@type": "File",
+      "sha256": "0211dbdb52bc54ae2a2bb0dbcf0011b9ff87af9819f687a5106f0eeba2ccb90a",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-T.json",
+      "@type": "File",
+      "sha256": "a03366f356b14c6d54c51719ca63c4d35a5208a6bbf583c51b70b00c34e1fa0b",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446710-G-T.json.request",
+      "@type": "File",
+      "sha256": "0e2d1514249216247444e79ee41d3057430c7b00fafc978da6eaf1d5a6546040",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-A.json",
+      "@type": "File",
+      "sha256": "b60b232642d563ae436b8dee2bdcf2be9484670fe955e840ffab4b3f9b696e08",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-A.json.request",
+      "@type": "File",
+      "sha256": "520aa4e741cec67ad1b663757266a606fc9de985831de46192bd2120eff87d01",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-T.json",
+      "@type": "File",
+      "sha256": "f0179dffbfe191a78bb2d07a757ede26de8c7c49b8da31056ae53a690094b514",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38446711-G-T.json.request",
+      "@type": "File",
+      "sha256": "f7563c90d36f3774191ff41f7a5150312318812db6b4e418f8ca58ac6c4800e0",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-A.json",
+      "@type": "File",
+      "sha256": "5892a528fab4eecb038f46f50bd6927e1ab076e546534bfd707b4260cb20fd8f",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-A.json.request",
+      "@type": "File",
+      "sha256": "a254121d133d6663f90313a99701b56fc37cfa46c50cda029c88d0f28fcbd9df",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-T.json",
+      "@type": "File",
+      "sha256": "cad8049acc28736682629680a5f59123d84d576f47cb93c38d431a140fcf29fb",
+      "contentSize": 187,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457545-C-T.json.request",
+      "@type": "File",
+      "sha256": "fb3970b0b8ed204dd4e41c3ec46a10bded2fe3364e61cbcecd93f122f803a9ea",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-A.json",
+      "@type": "File",
+      "sha256": "66316733e4d7e58c4cdffa933238a0f69ed0b50403a6b2a7259e90ce1a179bf6",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-A.json.request",
+      "@type": "File",
+      "sha256": "6f203e8bb75756be90a74dd9c4490beb58cf5488e238936d7c394b4764f64a73",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-T.json",
+      "@type": "File",
+      "sha256": "f188831a6efb8ee7da0c09b4e948cf7c50607eb4cd52863dbdfc816d807990f2",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38457546-G-T.json.request",
+      "@type": "File",
+      "sha256": "7d764f9b4ef795d99c9d09e9ef10ed1018f1a0162471b60243d27385965729dc",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467654-C-T.json",
+      "@type": "File",
+      "sha256": "67b63cc3ddca1de7a07ee7ccdd4a3c7df0347c546f829a4d4bc5eb6cdadd3bde",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467654-C-T.json.request",
+      "@type": "File",
+      "sha256": "ca5a863c985d573ecdb9ce7008a1fdb966cac63e9a2ed2b0bef009db6d775b26",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467655-G-A.json",
+      "@type": "File",
+      "sha256": "44a02a8e43a36414407993467ead28007742874d4537ea2b182e08e78e9d2c59",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38467655-G-A.json.request",
+      "@type": "File",
+      "sha256": "30094080892e28f6617c0c6152cab67f778b7224994a254ec5cf43cde6643365",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473635-A-G.json",
+      "@type": "File",
+      "sha256": "7e19d49694e56786ffa8c795fa0be9bcb5e267de9fdf501220418a488591eafe",
+      "contentSize": 192,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473635-A-G.json.request",
+      "@type": "File",
+      "sha256": "109d6fdbcbe6d0bdbef541a07bd4b9c118a67bfb9e7ccc82977b8e9d8795d509",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-A.json",
+      "@type": "File",
+      "sha256": "e4c4f341b832429833afbf492889fb861f8ae75dc33068d588a1080ca758c27a",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-A.json.request",
+      "@type": "File",
+      "sha256": "4f7301f75feca3fbf37105234bdff8f424904e0d9cfa83e349715360944a60fa",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-T.json",
+      "@type": "File",
+      "sha256": "7b033ed775415525acc393e6067a1e80083f3cdbd7e5bf924df284f4c90e33d4",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473636-G-T.json.request",
+      "@type": "File",
+      "sha256": "1860dac4d0a4346670d8b9771e19429bda4395b1b2604405c5644bc083d88932",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473637-C-A.json",
+      "@type": "File",
+      "sha256": "cf29d643aad475528613f233894bfb0dc4112632a65560a35e0ee802df9ef86a",
+      "contentSize": 187,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38473637-C-A.json.request",
+      "@type": "File",
+      "sha256": "d9ad6de741cf55bb48aa64ed31389f02db4460537d856c86739731c53a0ad4a4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-A.json",
+      "@type": "File",
+      "sha256": "14c8d37a54a2b5d6c03a0e23975c49035e09708f52990d55a587456622946862",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-A.json.request",
+      "@type": "File",
+      "sha256": "7f8bd93306c2df9cdcf7f4a12a602aa2babae30ff7c27efd7c59022ff5f313db",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-T.json",
+      "@type": "File",
+      "sha256": "a4b318d90355eaacac34a04ec9941a7056ba7ae86bb636e6a4872f474dd65dbf",
+      "contentSize": 187,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483329-C-T.json.request",
+      "@type": "File",
+      "sha256": "ae8b36cab37135655cc20e3839e00302dc71b63bd0d09292815a67c3e4315013",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-A.json",
+      "@type": "File",
+      "sha256": "98279e2107c84d5c8f488658c46942e09dffed9e6dc526d82516a8145def3bc8",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-A.json.request",
+      "@type": "File",
+      "sha256": "080bf08ad26bdd89f12ac02c33444a5032d5279e8842bd7fce06d6fddd72c3f2",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-C.json",
+      "@type": "File",
+      "sha256": "d47f1da33c252e2d10df59fe4e385cd35f3792c203ca18f4d47f5ab853083ecf",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-C.json.request",
+      "@type": "File",
+      "sha256": "8b890641fb78a86bc4119dfd2163a654907c479898108c34e554a67b9cea01eb",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-T.json",
+      "@type": "File",
+      "sha256": "ea2c48b47796c37db4e4a0ecfbf1567f5a9aad21c714df4a201ab0fde6fc19ed",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38483330-G-T.json.request",
+      "@type": "File",
+      "sha256": "045c37cbcf7d261240ba5e9322439efb3dd0245846fba01b60d6b29d4ddc97f4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38492540-G-T.json",
+      "@type": "File",
+      "sha256": "18fc8cdaa13c16229cd0f6216df38e5695031d27a104fd0a0b1a13de8e18fa2a",
+      "contentSize": 218,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38492540-G-T.json.request",
+      "@type": "File",
+      "sha256": "9fc92e6fff94929b0b9a44b7b0c5703b37221aa9999339c093bdfa38595c57e5",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-A.json",
+      "@type": "File",
+      "sha256": "5f9bb46f5d71c0915b2415ffaad77750fcce9cbf885b9836e46f4332696164dd",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-A.json.request",
+      "@type": "File",
+      "sha256": "d476ad9655ed8e20ed161b893a0939f7c89e18ef2d5f243b0b1aed6330ac6daf",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-T.json",
+      "@type": "File",
+      "sha256": "2f3c1a41a43ec321cb9d797a6f79d327744412f31efca1eddd1e2f7b84c8b970",
+      "contentSize": 152,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38494465-G-T.json.request",
+      "@type": "File",
+      "sha256": "25db0120d2163105c3d372e25d5cfb879884d1e01b4a92a13761a0620b0868b4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496415-C-T.json",
+      "@type": "File",
+      "sha256": "7c63e38f498a8196fa4c67685a5f9ca9fbe833ea22005aa2fe82305f13c788e7",
+      "contentSize": 187,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496415-C-T.json.request",
+      "@type": "File",
+      "sha256": "8d38e11088333ddbe2975e4c4444baa7928111f1af88a7f8051cabb23305849b",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-A.json",
+      "@type": "File",
+      "sha256": "d681c4fe9a6c3d182f0ed43c0264af7d2c50ed99851d0c0075ac2c2e12a74826",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-A.json.request",
+      "@type": "File",
+      "sha256": "87100ff4d0be938a8cc82867da8af2156f60cfe7b5bb248c29ef8881bd57b78c",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-T.json",
+      "@type": "File",
+      "sha256": "7567ff1bcb1c22444a6215d51dcaee5af7874d49f6a9cb54a404daf70bed7b27",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38496416-G-T.json.request",
+      "@type": "File",
+      "sha256": "39ebfe1a59304b1d8c8ff699509f78d78f01696c2bfaeb2e8dcd30298967a86f",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499177-A-G.json",
+      "@type": "File",
+      "sha256": "02f0a4fe57a82725df8ca2e02642723c879d6937f8b76149e21b804e39ff5e51",
+      "contentSize": 213,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499177-A-G.json.request",
+      "@type": "File",
+      "sha256": "6a9cc739f314d7e5bd44cc0407b4bcdba6230eb367f5cda061e63c07ed2e1238",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-A.json",
+      "@type": "File",
+      "sha256": "eea2115cbc09295d87a969adbe83eb66d6bd60bf174830cdac73ef870c91872f",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-A.json.request",
+      "@type": "File",
+      "sha256": "1fc5d8d79afa8dcae115552f3d1b4380d090946b97c4e7f91cbd9287dcae78dc",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-C.json",
+      "@type": "File",
+      "sha256": "93e8ef33b46d2b43b31e645f319b5abb75ebc9ff470e03da3b0f70fbd81a5494",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499178-T-C.json.request",
+      "@type": "File",
+      "sha256": "c9246100ba380bc6cef98b344e4d73e65fdda227fa8929b2ffd37bf1a4e87139",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499643-G-A.json",
+      "@type": "File",
+      "sha256": "b285378df9c2919d07546960484ee973e3e455488bd2df2b51b2738687c850a6",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499643-G-A.json.request",
+      "@type": "File",
+      "sha256": "b96d5279daf253dfd6a7094bf920d5eac8fd11b18bac9889f023fb7b35df00ae",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499694-T-C.json",
+      "@type": "File",
+      "sha256": "2524a6595aad2d9f8f7c570bf5d6173fbfac393f89c2804efdda8f685c10a1a3",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499694-T-C.json.request",
+      "@type": "File",
+      "sha256": "65f58d0dcf5da0793e975b0be777e1bbf28b3018377cb2409f535dfe0ecc0a46",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499695-G-T.json",
+      "@type": "File",
+      "sha256": "b0f9c04793fa85e664db4abb8545e6cf53bacbc817610e49bc24854cd63d80be",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499695-G-T.json.request",
+      "@type": "File",
+      "sha256": "e00f3e0b2e6467fc9b59f7d2d1fa3a589aaac26cb74617cae8b47ab8e628c45c",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499996-C-T.json",
+      "@type": "File",
+      "sha256": "1ec514099fffd4b90bebb4e0ecdb0b6063ca71e1456285205b89a3f7b908585e",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499996-C-T.json.request",
+      "@type": "File",
+      "sha256": "488dc1f30c409b0996a86cec58bc39d035b27003cf00d553d8b5f04350769de4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-A.json",
+      "@type": "File",
+      "sha256": "9620e2ba83adc2de9343aaac60fc4ef85ac6c2f139426da869a5606497305b3d",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-A.json.request",
+      "@type": "File",
+      "sha256": "75559fa6e783ec6782e954c82e42309c3ba9668aae5b0d99ab18806fa1661724",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-T.json",
+      "@type": "File",
+      "sha256": "defa1adae19fac42732ab3e937a676dc60db72af73a8831202d21dd0c91e2096",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38499997-G-T.json.request",
+      "@type": "File",
+      "sha256": "5114d769d28c402788998af56f5e71fba85f39e23f2d3f9374fee94e0132a3e5",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500654-C-T.json",
+      "@type": "File",
+      "sha256": "14c6f026419e0d95eb3cf2a718d3d3d538944301a477b8ebb6c4fbd0418946c1",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500654-C-T.json.request",
+      "@type": "File",
+      "sha256": "9e59a73c1e4ff5b474276087c3cff447e199bb9db73a4cd521c24c175c621cb6",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-A.json",
+      "@type": "File",
+      "sha256": "5027b1d7a2efef49287210b24474d17be208897014385074838f6eaa6b5c166a",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-A.json.request",
+      "@type": "File",
+      "sha256": "18aa0d278776a7d4c54736124e98643bfbfc1dad7d8f4954bd6d80cbbb63d653",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-T.json",
+      "@type": "File",
+      "sha256": "554ac901b2e2d2b446382b0e5f6b39cab722a6d0375577088463cc2389f28079",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38500655-G-T.json.request",
+      "@type": "File",
+      "sha256": "0f6c4244de4882915afe47779d723bdc21bfd7553710bded1eedc1c8cc51d3cd",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505061-G-A.json",
+      "@type": "File",
+      "sha256": "84ed7a1ce7887a469295965e367cd948098dd1c8d7cce4c8199ac30cd727410f",
+      "contentSize": 155,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505061-G-A.json.request",
+      "@type": "File",
+      "sha256": "d3dc43c1d6c775afae57a09017e158a9e9c2692029ecf5107a92e52e7c28e172",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505062-A-G.json",
+      "@type": "File",
+      "sha256": "41c6dc6efa981a27a935f5597cb02704520a2f114737ba1d32b18676462a0ab4",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505062-A-G.json.request",
+      "@type": "File",
+      "sha256": "296a5bc15baf5d011212a9e41decb67722a7e023bf89588787470b93505feff3",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505324-T-G.json",
+      "@type": "File",
+      "sha256": "4df87b7967f0d9bf44957de71ad3b573072f1c128b4d53ffe850765f613fc07d",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505324-T-G.json.request",
+      "@type": "File",
+      "sha256": "2f5883801a61948ca88434d05400ead1c608b4d0b4b94ebaa27060ff4d69dc4f",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505325-C-T.json",
+      "@type": "File",
+      "sha256": "c9ec5c6d97761fbbb0cbbacd7a19414bf9d95a68701607779f2699d1d789f0bd",
+      "contentSize": 190,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505325-C-T.json.request",
+      "@type": "File",
+      "sha256": "7a24be1668966e82c8dd121b11fd954cdcbeb527ba70cc4802cf5ec722cc916b",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505357-A-C.json",
+      "@type": "File",
+      "sha256": "2f42d30f8af895bb3a614ab4013b6483cfec0da00aded2a021858b2ce0e39074",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505357-A-C.json.request",
+      "@type": "File",
+      "sha256": "bbeec05da3da098205746472f2689a63140d147c16ec5b435fb4830461d1ce09",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-G.json",
+      "@type": "File",
+      "sha256": "9698ac4b181b04c8864bca5d820f8a6e2d23764a83cc9833455b239b3179440e",
+      "contentSize": 191,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-G.json.request",
+      "@type": "File",
+      "sha256": "99d7920e2d180c2118df86be33447f494364affb8d1f2ee36dba288bf0a8fe76",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-T.json",
+      "@type": "File",
+      "sha256": "1fd6fc7c68eb389447d4765820b907ad6b9c69d413588c0a21a7247447cc87ce",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505358-C-T.json.request",
+      "@type": "File",
+      "sha256": "f35ea2f256182ba2079ebdf9e026ecd5b735af583bacedf7314f8e5c60a21f9d",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-G.json",
+      "@type": "File",
+      "sha256": "89eb391ca930163b8259a53ac54fe2561b36aa02592bf8820d8882111ae5e2eb",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-G.json.request",
+      "@type": "File",
+      "sha256": "2905b65e8d245615afd07f68ef4ec0cc4a6aeef1c78bc6da42ba03c184f28219",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-T.json",
+      "@type": "File",
+      "sha256": "56c16c75986aeb6908fdeb56b9ec1ece3c21ee0a1b34d8d2473c02c1460fb02d",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505923-C-T.json.request",
+      "@type": "File",
+      "sha256": "862f93f7a8a93c4978ddc0bbd90d4d94963ad9b6be440f89d425b999e568bf4b",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-A.json",
+      "@type": "File",
+      "sha256": "a0697662226044243a708627f8f1a234ea4d9d3c58b7c79e62f17366409e4ea5",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-A.json.request",
+      "@type": "File",
+      "sha256": "db73a97bb61ab6b41e810530e70f1f9431316dcd7096447e8f64ca827fe2baa1",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-T.json",
+      "@type": "File",
+      "sha256": "6eead135312a0ca2613ff41825ffa2da0e00d46a6342cf4e9dee7b2fc7ae7dc3",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505924-G-T.json.request",
+      "@type": "File",
+      "sha256": "a77476812f94235b4b58d9e63ea1b54fe34e36e5f67423f2c52e61e89e90c428",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505932-T-C.json",
+      "@type": "File",
+      "sha256": "f49c079d3207ff701077a5670abb6b8035d2a175bcd0cfc9139c8d828b588c29",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505932-T-C.json.request",
+      "@type": "File",
+      "sha256": "5def3b58a17094d9ff3c75ed46f0695d29c5831ec32253f127dd1308aec7741e",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505933-C-T.json",
+      "@type": "File",
+      "sha256": "24f832553632d382a221910d4f411331748c712acd78f69bde376c8cd50bcd36",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38505933-C-T.json.request",
+      "@type": "File",
+      "sha256": "d38d5b7ed48676328082c24f277d245fd62b667f3f4a045ed61d38e81fd7336c",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506361-T-G.json",
+      "@type": "File",
+      "sha256": "9dfb2ff480452cdb0b44598d0eaa3de8dda5cfd2d1abb728f9343468e3806524",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506361-T-G.json.request",
+      "@type": "File",
+      "sha256": "eb75ae1ad05b75caac396d64e191bfc64a3e2ab89cc8768ed4cea11c3d6650ea",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506492-G-A.json",
+      "@type": "File",
+      "sha256": "5eecd7880e6d09be2391f169f7aae311df64bcb49e39d55a49860e433d9a06b5",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506492-G-A.json.request",
+      "@type": "File",
+      "sha256": "fc15875162d625a8c3d3be3c2da3dc1413c52560c900339fff826d859efee7bb",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-G.json",
+      "@type": "File",
+      "sha256": "0ebdf22a7049ab501493b9911817dd1d995a51251a0b44887898871b675c1745",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-G.json.request",
+      "@type": "File",
+      "sha256": "1aa5adffd622720cc080aa502c7f752120b005dabf2375b6910d2489d609ad76",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-T.json",
+      "@type": "File",
+      "sha256": "df46d14bc8cad78658116c9e5bea61e2fb48a79e7d438c6c0885db2b26a619c0",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506508-C-T.json.request",
+      "@type": "File",
+      "sha256": "a477bce51dc9af3e0eb651d32647f1a4050a913c046bb70f86928d10523a7b9d",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-A.json",
+      "@type": "File",
+      "sha256": "96ce618d7c722582384ac14e08d2f2215b2fa9735f295e65752e7a25c49c846a",
+      "contentSize": 152,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-A.json.request",
+      "@type": "File",
+      "sha256": "bf2e4772b958c3cb5bf422adf64edbd971564c4c8d01d844d2a8b485c7824962",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-T.json",
+      "@type": "File",
+      "sha256": "46b7f67c41718fb7c9de70fc9bd96f0e18bc1cd9cb82f5ee86dcef690f710d25",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38506865-C-T.json.request",
+      "@type": "File",
+      "sha256": "e7f700554f53a391c3e19bdac8a2770a087303099dd0aa7bbd8b50cab1b4541e",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512363-G-A.json",
+      "@type": "File",
+      "sha256": "f1dd981deef3c89d15245f760e0478dcf015ee5cd1996512de63402f0c5ef966",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512363-G-A.json.request",
+      "@type": "File",
+      "sha256": "389ecf1d1f71d88904491379861ff82af2923064ed5438aaa5e227329fbd4d7f",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512364-C-T.json",
+      "@type": "File",
+      "sha256": "6656524f39136bd6660e41483f07056457f056117cef3623442b88b1b041e074",
+      "contentSize": 188,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38512364-C-T.json.request",
+      "@type": "File",
+      "sha256": "d88163f236a439ae96482e8b159a61efbf5b91c76fe5318755471282e95e49a8",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516181-T-C.json",
+      "@type": "File",
+      "sha256": "6d57218230b7f0af7f69613d90ba19e839090a219cf05cb453761147a0fcfe7c",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516181-T-C.json.request",
+      "@type": "File",
+      "sha256": "8360d7f6349fe66e415ba4db13d44e83e9b0ad4bde513aa38607b404e0cd3356",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-A.json",
+      "@type": "File",
+      "sha256": "5f4bb4a3a3320bb2f688462383f2cc47d758ec3ec1bcb36b90cdfd8aacd24bcf",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-A.json.request",
+      "@type": "File",
+      "sha256": "7ab9e6997941c25f3bc0d3c84e8303240bf24796aff6f97d22d4646fab376852",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-G.json",
+      "@type": "File",
+      "sha256": "7097d50e2f53aa30593eb59a810c1b537af6ec4ded65677d25c6653773e30eca",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-G.json.request",
+      "@type": "File",
+      "sha256": "6b0a85691ac3c9a0e967bcd5bcb96312c909c6b813695c5d71327e7958185f95",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-T.json",
+      "@type": "File",
+      "sha256": "19e272a048420f5243ab6c4739de5a1c51c173e2d01b818509648e740faf52a5",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516182-C-T.json.request",
+      "@type": "File",
+      "sha256": "92e2e87c96a365babfe3fe8dacdf7ad8dc1dc3d1f86dd5412fadad4fd0de7f1f",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-A.json",
+      "@type": "File",
+      "sha256": "5c25a34acf0cb0d3c7a146c2262cc8b8ecbef7d1eead4176c43093d2f493d40f",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-A.json.request",
+      "@type": "File",
+      "sha256": "e1b8818d6684aaf5fd8c9240132de39447d283885163fe5f9e52e2919a2d3d23",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-C.json",
+      "@type": "File",
+      "sha256": "4e017a7b05165f0fdbdaad5794cbbae155c28fb139c0ad31df14622ff35bb290",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-C.json.request",
+      "@type": "File",
+      "sha256": "2e47a30cd76b52e88080428b847917da2e0b12c92ea2453bfd800edff67f3507",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-T.json",
+      "@type": "File",
+      "sha256": "57b509aa4987e13c9fc022bb391927c83da4d4d4d3668465375b1ab86b30c8da",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516184-G-T.json.request",
+      "@type": "File",
+      "sha256": "322a7a13bb2f6068e99e363b867260f5c120e7e5a235a6d5c347de7bd080dafc",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-C.json",
+      "@type": "File",
+      "sha256": "a946f4086217a5e044789b6cbb812b3cbfe7db9d2d26e0e2935888e2ad97653f",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-C.json.request",
+      "@type": "File",
+      "sha256": "29c898fbe1a478503d386fecd45f386c139e4415d656b48d631915fff5af4a17",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-G.json",
+      "@type": "File",
+      "sha256": "b52ac4e285d26e64a3fae866bce5066a4ca75d1b6d7ab9dcc779a513aff121bd",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38516185-T-G.json.request",
+      "@type": "File",
+      "sha256": "c14745c5953594d0050728a39f6de7111246f33685ed2c9796e96fed5a5d21c6",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517430-A-G.json",
+      "@type": "File",
+      "sha256": "86fa7133d7927d60708fac4eb3843a724fa810b953f5e38e650a78c789f14bbe",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517430-A-G.json.request",
+      "@type": "File",
+      "sha256": "70ec2b556a686c48ba670493a7715135c4d325524fda2b6591c043650e796b56",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517431-T-C.json",
+      "@type": "File",
+      "sha256": "a5ef13598d5e6cd81900f005da194a354d34836f7659f6bd73dad1669ba86d29",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517431-T-C.json.request",
+      "@type": "File",
+      "sha256": "8564fe00a9f81969b51ce433f2338e3ab4a0a422d21dd0c4003654743bef7935",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-A.json",
+      "@type": "File",
+      "sha256": "060e61f7e29ce85d1daf7dbf90318cb6391cda2ffc6ea33984ddc48fd483a67d",
+      "contentSize": 184,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-A.json.request",
+      "@type": "File",
+      "sha256": "e502e4cc5f01dbb24acfbf4e938ed03b03a984bdc27c034b787ca68e1323267d",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-C.json",
+      "@type": "File",
+      "sha256": "2bb55c7d09d7767fcd77b8c436fc6b50c50926f834336ad805f415219ac360cd",
+      "contentSize": 152,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38517541-G-C.json.request",
+      "@type": "File",
+      "sha256": "cea505f30960ef303e4361806bead5d37ccf073263687455646753d6116fa597",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-C.json",
+      "@type": "File",
+      "sha256": "80810a545e5043f354ec5d82d54cc1e09707636f2e21c3371c9ff556a2dd603b",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-C.json.request",
+      "@type": "File",
+      "sha256": "944078c0896f504873a64c19929b4a143366046ab43a97a2167983e21c1dd9de",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-G.json",
+      "@type": "File",
+      "sha256": "b6e2b21df90cb80e46b6b7980c853f9469c69945e3f98998deb02f1ae9f5c06c",
+      "contentSize": 186,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519399-T-G.json.request",
+      "@type": "File",
+      "sha256": "459a4d1947fbb4bd5881c2224ff72a505cca59e5d592a6855bda543f17e36ba4",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-A.json",
+      "@type": "File",
+      "sha256": "18a952648d3ff113ba7f0e78abeee1145a373d66ed50ea57a519e12688622433",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-A.json.request",
+      "@type": "File",
+      "sha256": "b241f8f4bc09bb726bd51b40afeb69457f8f8036a082d89f7da1e7b1f31b9e0a",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-T.json",
+      "@type": "File",
+      "sha256": "16234f11c68f127fc7824a4ba64ee93f38d933022a2f3090aaca88468de7b10c",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519400-G-T.json.request",
+      "@type": "File",
+      "sha256": "2af96caeabc6c2ca8e3343fa5c7f958c661777ecfc9abdb8bd06758297b4f6c1",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519401-C-G.json",
+      "@type": "File",
+      "sha256": "f92e799aa3db95bcd6c4642dd82f7ee40dddbf99b719f9ba18fc3a8aff5f72e5",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38519401-C-G.json.request",
+      "@type": "File",
+      "sha256": "7825ce2abc73513173a9247dc93d2600cdbb89f1d7427ece6471dab57b3801f8",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38543816-T-C.json",
+      "@type": "File",
+      "sha256": "11164ee7a848d2bf0ad52937a673a7dcb409ba4250f81d4851108a43fb445ed5",
+      "contentSize": 158,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38543816-T-C.json.request",
+      "@type": "File",
+      "sha256": "9cce49f1c187648e27da56ce66ead82a839c58465efd147bef5aea2634b209df",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-A.json",
+      "@type": "File",
+      "sha256": "18cc4a95631ef91821dde8e1502e6253c94651034b11d9b35a908ff94cb7e8cf",
+      "contentSize": 208,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-A.json.request",
+      "@type": "File",
+      "sha256": "53efee971a2e1178f0ae1bf1230a2dfa9476c9ff02559726edf908bafc30d932",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-C.json",
+      "@type": "File",
+      "sha256": "2dbb4c014f5c292a3c76d415de62c2ad5b95cf312e811a5d11a3b3b3ed8e2509",
+      "contentSize": 162,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565181-G-C.json.request",
+      "@type": "File",
+      "sha256": "a4792f9c7c0ca36438e494a4a9f2ca02258e152f20ce9259a79d8fe8b9819298",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-G.json",
+      "@type": "File",
+      "sha256": "53af0350aa2af46ac817fed0c751757e14fe77a3997087aa571cc336b0c57e23",
+      "contentSize": 167,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-G.json.request",
+      "@type": "File",
+      "sha256": "87a2e3fbead8b16009c7c1260e03dbd038a29186048fa3141b8628f694736924",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-T.json",
+      "@type": "File",
+      "sha256": "3378e95229ad61ef7b93053cbbe114bd3af4c775b0afdd0ea922f8364c58c779",
+      "contentSize": 181,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565182-A-T.json.request",
+      "@type": "File",
+      "sha256": "01c9951c013a1a3067354b9fe2c59ce6385fd408e2023a5afe99548b51791752",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565183-G-T.json",
+      "@type": "File",
+      "sha256": "b3d57ab39e9237d3db76da370270b01a9c730abe853a3f8b7cdc0035223a6ae7",
+      "contentSize": 167,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38565183-G-T.json.request",
+      "@type": "File",
+      "sha256": "5cb7c381d7a477dd3cbc1e4c7c9cb171387d7f23e92a4aa3158a12fb890b9548",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572185-G-A.json",
+      "@type": "File",
+      "sha256": "247e7139c3e244e836121962eac42da4e956a09e53a819a43b6769741d79b94e",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572185-G-A.json.request",
+      "@type": "File",
+      "sha256": "0009425115eba46932c365a64749cb90c086d53d4fde34337dbfdb7acd8923ba",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572262-T-C.json",
+      "@type": "File",
+      "sha256": "ef1cf75843cafef04687786b2da6010d48a1345f54092ab853fffa80c0bd63d6",
+      "contentSize": 182,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572262-T-C.json.request",
+      "@type": "File",
+      "sha256": "2408268312694ded405edb88c81f6d455df6ce81a0eba3ba4e3b5bd9eee47c42",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572263-G-T.json",
+      "@type": "File",
+      "sha256": "d34e3e8744766f3cba2ed6aa9467324aafc7b2a89d998441cae2c72e001eb0a6",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38572263-G-T.json.request",
+      "@type": "File",
+      "sha256": "d82609d22f1463c202778980c199f8ad3efd376c4b498b7841bdbefd7a4664a6",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577918-G-C.json",
+      "@type": "File",
+      "sha256": "efdc9cc10c4971c961f8662dd05e183ee91bf16a6e682e6108fc4f4c01aa2243",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577918-G-C.json.request",
+      "@type": "File",
+      "sha256": "8a470862cfc52189ff5c0eb244f0aee59e0c4e6890bd98ff3c9a5d29b7d9428c",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-A.json",
+      "@type": "File",
+      "sha256": "b1df671c19bb99210457b6420073f51a86611f5139fe273a42b7715a25eb2485",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-A.json.request",
+      "@type": "File",
+      "sha256": "f7bf4db7ea24e5364684ae5fa13fcd0b94f93155728c4bd2c791c03a37fb055a",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-C.json",
+      "@type": "File",
+      "sha256": "c29eaf98022397989d6faaeb228bc35e4a6798ddb73c4a20c9d47fba8cec954a",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577942-T-C.json.request",
+      "@type": "File",
+      "sha256": "d68d6ad5f21d2aa9b3fc630401bed28847f63694fefc9fd4bf7324e42cc314b2",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577943-A-C.json",
+      "@type": "File",
+      "sha256": "1d8cf0e26d1596fcfb080c2ec76f8968d2d99819699b442f62fb2dda973a31b8",
+      "contentSize": 153,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/gnomad/2026-10-12/c5_variant_19-38577943-A-C.json.request",
+      "@type": "File",
+      "sha256": "945b42d0ea58fc02fee26844abe3b3e1f88ebe6274d6fe74209d7d8f6a0d429c",
+      "contentSize": 164,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/hgnc/2026-09-29/hgnc_10483.json",
+      "@type": "File",
+      "sha256": "ee0a6d6835b67b2fab114964db51ab0b10d193e34305058e34093d1e0c2732e2",
+      "contentSize": 1397,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/hgnc/2026-09-30/about_license.html",
+      "@type": "File",
+      "sha256": "d3748ba7b790ca6cc8c978fd418a0402cd42faa59dc7131c90e7d9fe529fc468",
+      "contentSize": 6073,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/about_policies.html",
+      "@type": "File",
+      "sha256": "8ad8f6f186ca51ec73a5fb8935ecfa17b8cbaad300b7025b381898ab72621869",
+      "contentSize": 38936,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/datasets_gene_6261_product_report.json",
+      "@type": "File",
+      "sha256": "72d160e6f034744c93ed9410f070ad1abb6e2ed110468824c5dddcdb132a0ec4",
+      "contentSize": 88780,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P11716.json",
+      "@type": "File",
+      "sha256": "020be0bc0aa1eeadf11a48af2810ebbf79334d6c2073aa880fe7231fb0012983",
+      "contentSize": 235320,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817-2.json",
+      "@type": "File",
+      "sha256": "b53e16d58d7a07e1e311394597ef9a5edd87b08fe77bd5bc7d5ab1a390f7eba5",
+      "contentSize": 64770,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817-3.json",
+      "@type": "File",
+      "sha256": "c46eb082b3df1032cb2e4f407a6091a3b08cab1a83509d20827bb78721eab3e2",
+      "contentSize": 64410,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817.json",
+      "@type": "File",
+      "sha256": "1af73b671497038c47015589030e2caa31858e1619e25ec56f4d6951a888e17e",
+      "contentSize": 238629,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817_with_isoforms.fasta",
+      "@type": "File",
+      "sha256": "8207849361d1e10029a6551b931e387419b31c24cbe5f48c83c02a84673dd19e",
+      "contentSize": 15621,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-06/E9PZQ0.json",
+      "@type": "File",
+      "sha256": "5a34aac6be6939f3e1bb23d2c1f91f22c31630ae02f879fe2c3e8e246d6c614f",
+      "contentSize": 155259,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-06/P16960.json",
+      "@type": "File",
+      "sha256": "e99b7084fd37452b1a95e56deae3563427e77285d99588b7ecacb0f1e296d038",
+      "contentSize": 46451,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-11/P21817.json",
+      "@type": "File",
+      "sha256": "1af73b671497038c47015589030e2caa31858e1619e25ec56f4d6951a888e17e",
+      "contentSize": 238629,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-11/help_license.json",
+      "@type": "File",
+      "sha256": "5960c22bf17f22286504b927dbb3ca41713c571ed91a10fe7a88ddd964b416ce",
+      "contentSize": 914,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/alignment.jsonl",
+      "@type": "File",
+      "sha256": "d8bf11a2ff6bdd2443ef3d9147f01d99179635a29e73c836c75c546dc96a1f1e",
+      "contentSize": 4826,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/check_result.jsonl",
+      "@type": "File",
+      "sha256": "394d20edc95508c4c51bfcaf6e5d36f1ee8e4dca854817c915d2d9f95fbb7c90",
+      "contentSize": 93210,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/gene.jsonl",
+      "@type": "File",
+      "sha256": "acba0ecb1ab828432671003ffc2359345ff5e2c47684a18bc423728029ab6fbb",
+      "contentSize": 544,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/method.jsonl",
+      "@type": "File",
+      "sha256": "eab6c724ca8a7fea1bcdf68fbb68d2e04d58b28c7f33e0a452ea869a120b0158",
+      "contentSize": 16957,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/numbering.jsonl",
+      "@type": "File",
+      "sha256": "69e2f3806a840a243b092d731b8d52e57cad75d25f4e400ea6d0e3dd0b835d94",
+      "contentSize": 34416,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/protein.jsonl",
+      "@type": "File",
+      "sha256": "fec8148cca9b98914608dd9643553df5ccb6bc421c302f27f2c1877cde6d2ce5",
+      "contentSize": 2484,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/residue_mapping.jsonl",
+      "@type": "File",
+      "sha256": "6fb2f27d5c8040cd4ea0b788439312135da37a06f37675d4d618c64c4b54b8be",
+      "contentSize": 1530,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/retrieval.jsonl",
+      "@type": "File",
+      "sha256": "b9e7c7ceccc3ddabc0485aadfe38db812c78eda3da4ba4b4e4ec12314a1a81f2",
+      "contentSize": 249485,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/run.jsonl",
+      "@type": "File",
+      "sha256": "74485132068e1d8df5fe823d2d7e96fabd1cabaab971d31f46b2e3c70e6b05ca",
+      "contentSize": 58257,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/source.jsonl",
+      "@type": "File",
+      "sha256": "6829f601f9dd7091866c721a9eaee75dcff0c3faa93fbe824d98bf1315827767",
+      "contentSize": 4254,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/table.jsonl",
+      "@type": "File",
+      "sha256": "edcb1eb9ddd5322543f8589c51b0af1892e457c3b93f9e84ec57013e1a28d773",
+      "contentSize": 83791,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/transcript.jsonl",
+      "@type": "File",
+      "sha256": "11e3f63d693ceedfa1de350928a453014f1e740edca9abaa8f11ad863c04e065",
+      "contentSize": 1863,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl2_numbering_entries.tsv",
+      "@type": "File",
+      "sha256": "b01b6e68994b1aa5500200eea5f847d5a44cb3306a5d2651ef23249c5284277f",
+      "contentSize": 47123,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl2_numbering_exceptions.tsv",
+      "@type": "File",
+      "sha256": "1266eface2908a9fa9c366a1492d1b1464e891a3f7ca16ff882e74bbff2dc4f0",
+      "contentSize": 57557,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl2_numbering_segments.tsv",
+      "@type": "File",
+      "sha256": "c25743367a6157a35c652cfa798d0ae1a16947a4ff06bc3cf824c6e3980822d3",
+      "contentSize": 102732,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl3_gate_cases.tsv",
+      "@type": "File",
+      "sha256": "997a7974dd11e9fb1ba1823bbbada253e809b7b71577ff405600b465319f349f",
+      "contentSize": 1287,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_clinvar.tsv",
+      "@type": "File",
+      "sha256": "899d72cf9076382cc2bb7e479e8ee396b143d594fb28593205977b6953b400dc",
+      "contentSize": 103738,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_clinvar_conditions.tsv",
+      "@type": "File",
+      "sha256": "564f353c24ef943994dcd58afd88f4afa508831a38f58c99edf23d0c99fae7c3",
+      "contentSize": 74673,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_exclusions.tsv",
+      "@type": "File",
+      "sha256": "c3b42bc3948e3954539b597f34a7cd6be8a2e30326f176b19d2501bd8c832a42",
+      "contentSize": 3397,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_gnomad.tsv",
+      "@type": "File",
+      "sha256": "679eeccaf57d784ee4186924989f9896964dea37861fd5b8992833e1877ab695",
+      "contentSize": 205365,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_partners.tsv",
+      "@type": "File",
+      "sha256": "717663a5b1b8e9b453c22ccf034b34df9a34e676ca48b3d42928be7e01fd958a",
+      "contentSize": 158995,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_set.tsv",
+      "@type": "File",
+      "sha256": "8f07436d68819ae69415b4cfd68862b3c7005e7ba1227d3be7f8db939626bd14",
+      "contentSize": 46590,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_structure_counts.tsv",
+      "@type": "File",
+      "sha256": "8b1f4de80cf54a3323f94bd0b97439e3a1854a65862de5415d3fb9215b13a019",
+      "contentSize": 81513,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_structures.tsv",
+      "@type": "File",
+      "sha256": "ffcdd4699d339269fef45193be2cf60a39feab744431bf276d657f87473f14c0",
+      "contentSize": 13780009,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/cl4/51539fd/full_set/cl4_vus_counts.tsv",
+      "@type": "File",
+      "sha256": "97c8eba46c78ef9c8a3ed325304778c4c38f293c71e8e36e23c6fa0726a40759",
+      "contentSize": 4844,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_E9PZQ0.sv1.tsv",
+      "@type": "File",
+      "sha256": "91c5eec4b14986c5c4a155cd2193da3affab03245c5bad90146c73321dcd3a7a",
+      "contentSize": 302595,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv",
+      "@type": "File",
+      "sha256": "5145632836c4a8abe61253846a3184c8d387a9440a75d306ca83afb85b06ef1f",
+      "contentSize": 301447,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_P16960.sv2.tsv",
+      "@type": "File",
+      "sha256": "9f74e9c222e76daa08fa1d8b8934cbb506371c33880c61384d2260e548aba985",
+      "contentSize": 302286,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/s13_gate_remeasurement.tsv",
+      "@type": "File",
+      "sha256": "8e7c67728a42bb2bf98a0edceab633c6073f9d8d655e47a85ed3aaa17eee1876",
+      "contentSize": 4488,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/s2_gnomad_ryr1_missense.tsv",
+      "@type": "File",
+      "sha256": "ba4d27b2e841e1b4e53cd88b6630576ec2cc24f23791ea614e80fd4b18b9f29d",
+      "contentSize": 1287282,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "inputs/a6_stated_correspondences.tsv",
+      "@type": "File",
+      "sha256": "9c26f62fc31d6e61d8dae4efd8cf69e5f785e19e9dad8a3c77048ec30f53fa98",
+      "contentSize": 3392,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "ledger.md",
+      "@type": "File",
+      "sha256": "00bb57220447df24a3d5f2a75e85003914b70e38c3d4e1480fd3d9f2d41ec8a1",
+      "contentSize": 2088,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "licences/gnomad_browser_LICENSE.txt",
+      "@type": "File",
+      "sha256": "87dd1e46095fbf7ebce20876c8244bc3f1ec84b3b7d5cf29ea27a9f6250f6f19",
+      "contentSize": 1402,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "manifest.json",
+      "@type": "File",
+      "sha256": "2111b2137fd0f4d48a7ca0c68e445faa429ccd7fc730bacb50c409d75e9ea2bb",
+      "contentSize": 52368,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "rerun/patches/9ZO8.json",
+      "@type": "File",
+      "sha256": "274db6cb45b5761625b46b79467b645fb9b75ea88eecac9213809f0db41d538c",
+      "contentSize": 2203,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "rerun/patches/9ZOE.json",
+      "@type": "File",
+      "sha256": "6aa021ffe8fad90eabdcf3ab7a6f78f8d660cb8b26b00a7b96489501b0aafad0",
+      "contentSize": 2203,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "rerun/rebuild_revision.py",
+      "@type": "File",
+      "sha256": "a0361af117822813c599ab14af0fd7ac5ecadfc77171781e788a023e8b17fa70",
+      "contentSize": 5170,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "rerun/recount_from_release.py",
+      "@type": "File",
+      "sha256": "29a603bd73fd2570ee005ec099f1fa5780c725eba86a1767f8305dfc9c65941b",
+      "contentSize": 5782,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "rerun/rerun_compose.py",
+      "@type": "File",
+      "sha256": "4d813501438f9c863820bdbb8511fef4421b2ada2d7a257d63fd16aa8e759d09",
+      "contentSize": 11314,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "withheld.tsv",
+      "@type": "File",
+      "sha256": "6d09039e90329fa7a4a135dddd0114a1a4247630be4e620f4f6b6eacc125ec6f",
+      "contentSize": 23240,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "withheld_records.json",
+      "@type": "File",
+      "sha256": "1e03d781e69b6187d6bf9ce62b0fdb8a6f8508cdc2f8ce289a27d3d6b6795825",
+      "contentSize": 19928,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "https://creativecommons.org/licenses/by/4.0/",
+      "@type": "CreativeWork",
+      "name": "Creative Commons Attribution 4.0 International"
+    },
+    {
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@type": "CreativeWork",
+      "name": "CC0 1.0 Universal"
+    },
+    {
+      "@id": "https://spdx.org/licenses/MIT.html",
+      "@type": "CreativeWork",
+      "name": "MIT License"
+    },
+    {
+      "@id": "#each-source-terms",
+      "@type": "CreativeWork",
+      "name": "Each source's own terms",
+      "description": "A file that a source served, or that quotes a source, stays under that source's terms; the release's README.md quotes them from each source's page and says where the page is carried."
+    }
+  ]
+}

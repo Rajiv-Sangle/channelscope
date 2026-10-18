@@ -1,0 +1,48 @@
+rerun	The gate's radius in the 26 structures	﻿2026-10-14T20:34:35.0672849Z ##[group]Run uv run --project code --with gemmi==0.7.5 python releases/ryr1_structure_states_v0.1/rerun/rerun_gate.py
+rerun	The gate's radius in the 26 structures	2026-10-14T20:34:35.0673645Z ^[[36;1muv run --project code --with gemmi==0.7.5 python releases/ryr1_structure_states_v0.1/rerun/rerun_gate.py^[[0m
+rerun	The gate's radius in the 26 structures	2026-10-14T20:34:35.0735671Z shell: /usr/bin/bash -e {0}
+rerun	The gate's radius in the 26 structures	2026-10-14T20:34:35.0735955Z ##[endgroup]
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5460666Z check S: F1 O2's window reproduces O2's B: pass; control (the fixed B in its place): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5462294Z check S: F2 accuracy at 1.0, 2.5, 4.5, 5.5 A: pass; control (pointed at alanine 4936): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5465699Z check S: F3 open gates over a closed ring: pass; control (the first draft's point probe): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5466583Z check S: F4 CD1 1 to 2 A from O2's zg: pass; control (slab centred on O2's zg): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5467365Z check S: F5 O2's missed planted fault: pass; control (O2's B in its place): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5468488Z check S: F6 refusals by faults in the text: pass; control (the unfaulted text): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5471222Z check S: F7 P4: a ring one turn below changes nothing: pass; control (the ring 1.0 A below zg*): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5472170Z check S: F8 P5: read 2 A off zg*, G1' fails: pass; control (read at zg*): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5473003Z check S: F9 P6: gate atoms 3 A inward read closed: pass; control (B read 3 A from zg*): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5474051Z check S: F10 the hash pin: not run here: it pins the bytes that ran, which carry a session id; the code digest stands in for it
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5475190Z check S: F11 the run guard: not run here: it tests the run guard against a commit of this project's private history
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5476238Z check S: F12 L1: gate side chains turned, A and B agree: pass; control (B read 3 A from zg*): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5477394Z check S: F13 L2: the ring sets O2's window, not the fixed B: pass; control (the first draft's point probe): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5478958Z check S: F14 A's atom equals gate_a and is CD1: pass; control (C's radius 1.60 A in the replica): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5480324Z check S: F15 the run's record, end to end (dry run): pass; control (a wrong committed radius (R0 stops)): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5481533Z check S: F16 a stop after R0 is recorded: pass; control (nothing stops it): caught
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5482635Z 9NMO: same (A 0.92, fixed B 0.92, O2's window 0.92; cs:retrieval.EdoFVrww6tAVibr1OZS8mucjm99zjEi6)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5483866Z 9NMN: same (A 4.84, fixed B 4.84, O2's window 4.17; cs:retrieval.1ybavGMPb12UGnQ1TiWryGZCKQx6f9-L)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5485087Z 9NMQ: same (A 0.94, fixed B 0.94, O2's window 0.94; cs:retrieval.brtXcnLAUeOKfrZLEg-LYTbxSYIr1hsp)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5486294Z 9NMP: same (A 4.38, fixed B 4.38, O2's window 3.41; cs:retrieval.pL8dLF2aEnR7vHINcVG8nD619NH1kF_o)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5487495Z 8VJJ: same (A 0.86, fixed B 0.86, O2's window 0.86; cs:retrieval.VuK5f1VVVw_n-OHB2EBpIy3N8oj73Frj)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5509184Z 8VJK: same (A 0.85, fixed B 0.85, O2's window 0.85; cs:retrieval.xan-CXGwaKVJrqjrxeLx34xm6YCVAD5B)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5510784Z 8X4A: DIFFERS: zg_star_minus_zg '-2.50' against '2.50' (A 1.30, fixed B 1.30, O2's window 1.30; cs:retrieval.pR25iS9lE-23CSsQVl8uiE8VQ41q6i6U)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5512286Z 8X4B: same (A 5.23, fixed B 5.23, O2's window 4.35; cs:retrieval.hOTbhuj-tLLL7b1awE30J4kCmDULAmLY)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5513401Z 8X4C: DIFFERS: zg_star_minus_zg '0.39' against '-0.39' (A 1.40, fixed B 1.40, O2's window 1.40; cs:retrieval.qG50QkT1_4YOQstb-hi1B8zhH_zRMJAk)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5514494Z 7M6A: same (A 1.52, fixed B 1.52, O2's window 1.53; cs:retrieval.UtWHU7YIgjcb_-L8Rw7XlxuD3juAKmwO)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5515416Z 7M6L: same (A 4.96, fixed B 4.96, O2's window 3.80; cs:retrieval.eyyFPqvSLlHhVFK2C2F6tKS-2vRj1QPt)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5516354Z 5TB0: same (A 1.01, fixed B 1.01, O2's window 1.01; cs:retrieval.kVNCc55Vm9v8jvE7ELei45jDUCoLgF9G)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5517264Z 5T9V: same (A 4.16, fixed B 4.15, O2's window 3.51; cs:retrieval.FFdMFmwuUdG1m77On8tLnNe-nfngfTJK)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5521087Z 7T64: same (A 1.24, fixed B 1.24, O2's window 1.24; cs:retrieval.04xVf3fCplTGFedJsjq-A_wGGdDNgP3P)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5522057Z 7T65: same (A 5.55, fixed B 5.55, O2's window 4.06; cs:retrieval.tb9pyvPRj2KRBABhs0rCC9VdzSHSbRp8)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5523012Z 9CGP: same (A 0.83, fixed B 0.83, O2's window 0.83; cs:retrieval.jdUfAytotCsBJsiSg8bpSyvDpErFj6eq)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5523970Z 9CGQ: same (A 5.01, fixed B 5.00, O2's window 4.10; cs:retrieval.YyxAiTPiCN0MmKogYh9lDIB4xPQKbfwH)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5524896Z 6W1N: same (A 0.90, fixed B 0.90, O2's window 0.90; cs:retrieval.1XRUbjABhW0MF6EHNm_VLM83bEZtvISV)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5526017Z 6X32: same (A 0.86, fixed B 0.86, O2's window 0.86; cs:retrieval.NBuU4cG1bcHhTYOT98DeQQh-585wWSbA)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5527141Z 6X33: DIFFERS: radius_b_o2_window '3.89' against '4.05' (A 4.71, fixed B 4.71, O2's window 3.89; cs:retrieval.gPcFrmgLGcGT_T16U9C0zHpB53PpawSi)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5545844Z 6X34: same (A 3.20, fixed B 3.20, O2's window 3.20; cs:retrieval.FK9F6oiM_gU2sHRdw8XJ_WEu-PeYlioG)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5546768Z 6X35: same (A 4.24, fixed B 4.24, O2's window 3.22; cs:retrieval.Jpdu7nKydO2iNY_R8vgPXQ64Tx-wI90X)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5547648Z 6X36: same (A 0.92, fixed B 0.92, O2's window 0.92; cs:retrieval.YHrzzOqwSEUL78Kc6NOusKJMZHcbJbUw)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5548794Z 9PWO: same (A 5.27, fixed B 5.27, O2's window 4.77; cs:retrieval.84uiQB1owJUZmB_Y9jAW4OaDiu9O2Lw_)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5549953Z 9ZO8: same (A 0.93, fixed B 0.95, O2's window 0.95; cs:retrieval.0QHSHgEL8658y8NlPcrBv_WLvO6fGVcS, rebuilt from revision 1.1 with patches/9ZO8.json)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5551486Z 9ZOE: same (A 5.28, fixed B 5.28, O2's window 4.07; cs:retrieval._Th9eJJCB7EPav9qbob_0WmgURPm9YyB, rebuilt from revision 1.1 with patches/9ZOE.json)
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.5552403Z rerun: 23 entries the same; 3 failures
+rerun	The gate's radius in the 26 structures	2026-10-14T20:39:14.7628757Z ##[error]Process completed with exit code 1.

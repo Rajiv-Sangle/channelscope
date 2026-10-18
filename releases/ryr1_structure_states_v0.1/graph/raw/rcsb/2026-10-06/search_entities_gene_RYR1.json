@@ -1,0 +1,126 @@
+{
+  "query_id" : "e7a89cf1-f55d-4418-bd25-6c8c2d7d7602",
+  "result_type" : "polymer_entity",
+  "total_count" : 40,
+  "result_set" : [ {
+    "identifier" : "2BCX_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "2K2F_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "3HSM_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "3ILA_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "3RQR_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4ERT_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4ESU_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4ETT_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4ETU_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I0Y_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I1E_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I2S_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I37_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I3N_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I6I_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I7I_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I8M_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4I96_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4P9J_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "5C30_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6UHI_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6UHS_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6WOT_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7T64_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7T65_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X48_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X49_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X4A_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X4B_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X4C_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X4D_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8X4E_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8XJI_3",
+    "score" : 1.0
+  }, {
+    "identifier" : "8XKH_3",
+    "score" : 1.0
+  }, {
+    "identifier" : "8XLF_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8XLH_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8Y40_3",
+    "score" : 1.0
+  }, {
+    "identifier" : "9CGP_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "9CGQ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "9HEO_1",
+    "score" : 1.0
+  } ]
+}

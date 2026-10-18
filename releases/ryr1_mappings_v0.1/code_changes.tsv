@@ -1,0 +1,4 @@
+public_path	line	removed_line_sha256	new_line	reason
+code/src/channelscope/m01_mapping_checks.py	6	aca2d480c3b7449f79444c3a7c549183b86ccc94d7ba2f414c7be8081cea43b4	(a working record, not public). Results are recorded as `check_result` records, as they	a session's name in a docstring
+code/src/channelscope/m01_mapping_checks.py	256	withheld: the removed line is this one with a short name in place of one word, so its SHA-256 would let anyone confirm the name by guessing	        "comparator": {"pairs": inp["their_pairs"], "percent": inp["their_percent"], "method": inp["their_method"]},	a peer's name as check A7's output key (A7 cannot be re-run from public sources; its record is withheld)
+code/src/channelscope/o4.py	18	f4b931afe60f44b54692040c7a8a65662654044fc7ea5fba1a9c271a57fdc428	for a scratch graph. Written 2026-10-06 from O4's trial (a working record, not public).	a session's name in a docstring

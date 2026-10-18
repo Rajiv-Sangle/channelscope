@@ -1,0 +1,89 @@
+{
+  "release": "ryr1_structure_states_v0.1",
+  "records": [
+    {
+      "id": "cs:method.R39WpIKpmqC40Qey0z8BFLUxVT7sjfxR",
+      "type": "method",
+      "name": "channelscope.cl2.numbering",
+      "version": "2.2",
+      "description": "CL-2: the residue numbering of the 26 RyR1 structures of S13's table, by the rules of what/context/context_channelscope_cl2_numbering_criteria.md, version 2.2 (where it differs from 2.1; 2.1 where it differs from 2; version 2's amendments where they differ from the original rules). Each modelled residue's author number n is compared with SIFTS's UniProt position m_S (path S) and with the position m_A that this project's own alignment of the deposited sequence to the species' reference gives it (path A, M01's method A unchanged). Entities are kept as RyR1 by description and by sequence (R1a, R7, R1b); residues are classed (R3 to R10); runs of one status and offset are formed, with their identity at the species position (R11, R11c); chains and entries are labelled (R12); each departing run's boundary is read (R13); the gate residue S13 measured is read at its author number (R14); O2's reads are compared (R15). Where the criteria are silent or ambiguous, the code takes the readings GAP-01 to GAP-29, which the tables' headers print. The run refuses unless every file the script names in its run guard (DEPENDS) is in the commit and unchanged since, every input matches its retrieval record (K1) and the synthetic tests pass; the tables say that no outcome may be used if a planted fault is missed or K8 or K9 fails. The header lines record each check. Recorded after the run by how/runtime/channelscope/record_tables/record_table.py, from committed specs named after their tables (what/evidence_graph/curation/record_<table name>.yaml, each with its SHA-256 in recorded_tables): the run wrote its output to curation/ and no graph record, and its code, command, times and environment were read from the records this method's parameters name. The Claude Code transcript records they cite by uuid are this vault's local working records, not public. Limits: modules imported by name at run time (importlib, __import__) are not found; only the run's own session and its subagents' transcripts are read, so an edit or a run made from another session is not seen; commit times are git's, from the committer's clock.",
+      "implementation": {
+        "code_digest": "sha256:cbf4d28ab94425f3c24933b2190ec53ca6bdb72181d4d682164366c012904e90",
+        "software": "how/runtime/channelscope/cl2/numbering.py",
+        "version": "e88835977b33ffb6599b12a5c873cb39dcd51326"
+      },
+      "parameters": {
+        "code_commit": "e88835977b33ffb6599b12a5c873cb39dcd51326",
+        "code_files": "cl2/numbering.py;cl2/check_numbering.py;cl2/test_numbering_synthetic.py;src/channelscope/align.py;src/channelscope/mapping.py",
+        "criteria": "what/context/context_channelscope_cl2_numbering_criteria.md",
+        "criteria_sha256": "sha256:2371491a9ae8f22137e6e1d18ff2f2c63e4a6695e186a121ee803a8b5b942c4e",
+        "criteria_version": "2.2",
+        "method_a": "M01's method A (channelscope.align.method_a): global, BLOSUM62, gap open -10.0, gap extend -0.5, end gaps scored as internal gaps; refused above 100000 optimal alignments (R9)",
+        "path_s_absence_allowed": "6W1N, 6X32, 6X33, 6X34, 6X35, 6X36",
+        "r11_floor": 0.98,
+        "r11c_fewest_residues": 10,
+        "r1a_floor": 0.8,
+        "r1b_floor": 0.98,
+        "recorded_after_the_run": true,
+        "recorded_by": "how/runtime/channelscope/record_tables/record_table.py",
+        "recorded_by_version": "sha256:7d3578c8c2e064bdef8a963563d660842052494e559e7b79e22f03ff6d547d0e, committed in 9d82f1cd2d3b",
+        "recorded_code_not_pinned": "how/runtime/channelscope/src/channelscope/__init__.py: the package's own module, run by any import of the package; the run guard's list (DEPENDS) does not name it (imported by how/runtime/channelscope/cl2/numbering.py; no record of the run pins it, so the code digest leaves it out; at e88835977b33 its SHA-256 is 42faa9b45fdfd1b4f360a5d49dc781fd103a0c5613e2531df7ecbe5fd40a0cfc, unchanged through the curation commit c4e8b66a64fc); how/runtime/channelscope/src/channelscope/ids.py: the run guard's list (DEPENDS) does not name it (imported by how/runtime/channelscope/src/channelscope/models.py; no record of the run pins it, so the code digest leaves it out; at e88835977b33 its SHA-256 is 74936fa81194934c16dc5ca0c54742a1c53754be1da50bb3c0a0917ed52dad62, unchanged through the curation commit c4e8b66a64fc); how/runtime/channelscope/src/channelscope/models.py: the run guard's list (DEPENDS) does not name it (imported by how/runtime/channelscope/src/channelscope/mapping.py; no record of the run pins it, so the code digest leaves it out; at e88835977b33 its SHA-256 is 35e7791d226c7a4db80fb03ed495881541c251128bb9f592bc7e76741aba86fa, unchanged through the curation commit c4e8b66a64fc)",
+        "recorded_environment_basis": "the header the run wrote into its table",
+        "recorded_files_not_listed": "what/context/context_channelscope_cl2_numbering_criteria.md: the criteria, read for their SHA-256, which the header records; outside the graph, so not a used file",
+        "recorded_inputs_basis": "57 of the inputs are files the run read (used_files); the header's list (55) is wholly among them",
+        "recorded_script_basis": "the header the run wrote into its table records code sha256:b36612ce544ab320ca243fa9536f9bf1d15964cd20ccec9345932a541805b494, the script's blob at e88835977b33, the commit the header names; how/runtime/channelscope/cl2/check_numbering.py: its SHA-256 is in the header, beside its name; how/runtime/channelscope/cl2/test_numbering_synthetic.py: its SHA-256 is in the header, beside its name; how/runtime/channelscope/src/channelscope/align.py: covered by the script's run guard at the header's commit, and unchanged through the curation commit; how/runtime/channelscope/src/channelscope/mapping.py: covered by the script's run guard at the header's commit, and unchanged through the curation commit",
+        "recorded_tables": "cl2_numbering_entries: curation/cl2_run_e888359/cl2_numbering_entries.tsv (sha256:825ab2dba315566ca17b9ad11c84842c8ab6cfa3256c2d88383be1a47f87ef06, at commit c4e8b66a64fc), from the spec what/evidence_graph/curation/record_cl2_numbering_entries.yaml (sha256:04ab2c311f0922fdd967e1833bd3f0af39dac1827c185fe2b25282fa52a19f6e, committed in 6a3a96db3323); its rows not checked against a count, since no record of the run states one (the run's header states no count of rows, and what the run printed went to a log, not to the transcript (it ran in the background)); cl2_numbering_exceptions: curation/cl2_run_e888359/cl2_numbering_exceptions.tsv (sha256:b9e7b7311987db10294e161696aede92cb62ab5bf68937e8330b0e1834289d2c, at commit c4e8b66a64fc), from the spec what/evidence_graph/curation/record_cl2_numbering_exceptions.yaml (sha256:33381d7feb4342f679905b8b194ea2cb552fba69613fbd68224f2fa9210d7d3c, committed in 6a3a96db3323); its rows not checked against a count, since no record of the run states one (the run's header states no count of rows, and what the run printed went to a log, not to the transcript (it ran in the background)); cl2_numbering_segments: curation/cl2_run_e888359/cl2_numbering_segments.tsv (sha256:fab446bc34790ccaedb94d97a1dbde3c14f2d5d37ed0c2dec4b1f118ac155e3c, at commit c4e8b66a64fc), from the spec what/evidence_graph/curation/record_cl2_numbering_segments.yaml (sha256:b29d07bc8d56d76bea4327d072f1204dfec4ee3cfaa58af706d131f0b151bcee, committed in 6a3a96db3323); its rows not checked against a count, since no record of the run states one (the run's header states no count of rows, and what the run printed went to a log, not to the transcript (it ran in the background))",
+        "references": "E9PZQ0 (Mus musculus, sequence version 1), P11716 (Oryctolagus cuniculus, sequence version 1), P16960 (Sus scrofa, sequence version 2); UniProt release 2026_03",
+        "script_sha256": "sha256:b36612ce544ab320ca243fa9536f9bf1d15964cd20ccec9345932a541805b494"
+      },
+      "parameters_left_out": [
+        "recorded_command_basis",
+        "recorded_command_record",
+        "recorded_time_basis"
+      ],
+      "record_line_sha256": "sha256:9fc39f9e6c26b28003a4509ae03d963db4ff9807ae3cfed1cea58909e19bea5e"
+    },
+    {
+      "id": "cs:method.iIR4Mf2ExpWIERzw8ed4reH6jaJGkaly",
+      "type": "method",
+      "name": "channelscope.s13.gate_b_fixed",
+      "version": "b8b2e54",
+      "description": "S13: the pore at the gate of the 26 RyR1 structures of O2's run and the 9ZO8/9ZOE run, measured again under criteria committed before the run (what/context/context_channelscope_s13_remeasurement_criteria.md, commit b8b2e54), by implementation A unchanged and by implementation B fixed to the gate's own height. A is O2's (`o2/gate.py`, imported by path and refused unless it hashes to the SHA-256 the script pins and O2's table's header names): its axis is the line through the centroid of the four gate residues' CA atoms, normal to their best-fit plane, and its radius the least distance from that axis to a heavy atom of the four gate residues, less the atom's radius. The fixed B keeps O2's B's parser (gemmi), chain choice (the four longest polymer chains) and axis, and reads a probe at zg*, the mean height of each chain's gate-residue heavy atom nearest the axis, over the heavy atoms within a slab 2.5 Å deep centred there. O2's B with its 3 Å window is recomputed as a second value. A radius is classed closed below 2.0 Å, open above 3.0 Å and indeterminate between. The run refuses unless every file its run guard names (DEPENDS) is in the commit it is given and unchanged since, and each coordinate file matches its retrieval record. Check S, the synthetic tests of `s13/check_gate_b_fixed.py`, runs first, and the run refuses if any fails; check R0 requires A and O2's window to equal the committed radii; check G1' compares A and the fixed B (the same class, radii within 1.0 Å); check G2' classes the two positive controls, 5TB0 closed and 5T9V open; fifteen planted faults follow, each labelled with its kind before the run. The header records each outcome. Recorded after the run by how/runtime/channelscope/record_tables/record_table.py, from committed specs named after their tables (what/evidence_graph/curation/record_<table name>.yaml, each with its SHA-256 in recorded_tables): the run wrote its output to curation/ and no graph record, and its code, command, times and environment were read from the records this method's parameters name. The Claude Code transcript records they cite by uuid are this vault's local working records, not public. Limits: modules imported by name at run time (importlib, __import__) are not found; only the run's own session and its subagents' transcripts are read, so an edit or a run made from another session is not seen; commit times are git's, from the committer's clock.",
+      "implementation": {
+        "code_digest": "sha256:06330774ce58e569e2b877b365a163ed454a6506f8fd89dd8ac0b88ccc0d5aeb",
+        "software": "how/runtime/channelscope/s13/gate_b_fixed.py",
+        "version": "b8b2e54a3b15a49ba8b4388e1fef8f5d4aa8d7a9"
+      },
+      "parameters": {
+        "closed_below_angstrom": 2,
+        "code_commit": "b8b2e54a3b15a49ba8b4388e1fef8f5d4aa8d7a9",
+        "code_files": "s13/gate_b_fixed.py;o2/gate.py;s13/check_gate_b_fixed.py",
+        "criteria": "what/context/context_channelscope_s13_remeasurement_criteria.md",
+        "criteria_commit": "b8b2e54a3b15a49ba8b4388e1fef8f5d4aa8d7a9",
+        "criteria_sha256": "sha256:49bb7902df70823d99c026f7aa0515a8f0f9a4f26a12806c37356472b4c9f5b7",
+        "g1_prime_tolerance_angstrom": 1,
+        "gate_author_numbers": "Oryctolagus cuniculus 4937; Mus musculus 4935; Sus scrofa 4935",
+        "libraries": "biopython 1.88, gemmi 0.7.5, numpy 2.5.3, as the header's fifth line states them; the command pins gemmi 0.7.5 and biopython 1.88",
+        "o2_window_half_angstrom": 3,
+        "open_above_angstrom": 3,
+        "recorded_after_the_run": true,
+        "recorded_by": "how/runtime/channelscope/record_tables/record_table.py",
+        "recorded_by_version": "sha256:656aada5f9c30c5bff1b1248adc1a4755f5d95cf59b98be2d5d05c69296f39f4, committed in ac6d7aa26843",
+        "recorded_environment_basis": "the run records cs:run.1yTUjV_7nydWMQlWqVgFOCap1qFPoN35 (ended 2026-10-06T14:12:38.578Z) and cs:run.9V7FVCtRPKXxKtxUbPDgSdhAOOMCgqZE (started 2026-10-06T20:15:44.873Z), each within 24 hours of the run, state this environment, and no run record between them states another",
+        "recorded_files_not_listed": "what/context/context_channelscope_s13_remeasurement_criteria.md: outside the graph's root; the run guard (DEPENDS, `gate_b_fixed.py`, line 60) required the file in commit b8b2e54 and unchanged since (sha256:49bb7902df70823d99c026f7aa0515a8f0f9a4f26a12806c37356472b4c9f5b7 there); git compared it, the script did not read it",
+        "recorded_inputs_basis": "26 of the inputs are files the run read (used_files)",
+        "recorded_script_basis": "the header the run wrote into its table records code sha256:83795142c575dcfe1c7402db6590eb9be47846bb521b2d9952c140543425e5a0, the script's blob at b8b2e54a3b15, the commit the header names; how/runtime/channelscope/o2/gate.py: its SHA-256 is pinned in the script; how/runtime/channelscope/s13/check_gate_b_fixed.py: covered by the script's run guard at the header's commit, and unchanged through the curation commit",
+        "recorded_tables": "s13_gate_remeasurement: curation/s13_gate_remeasurement.tsv (sha256:649f365d9f43bad77996b81377c3d20a3bc6e72c6724f62e9015bccd259962d6, at commit d5ea7694a0ac), from the spec what/evidence_graph/curation/record_s13_gate_remeasurement.yaml (sha256:044cc6aa54a7afc8a4e59b9666b5eaaad4f3e08cd77f15ffefabdf4d65d52c2b, committed in aeff9b1622a5); its rows checked against the header's statement, by \"R0: pass \\\\(A and O2's window equal the committed radii, to the hundredth, for all (\\\\d+)\\\\)\"",
+        "script_sha256": "sha256:83795142c575dcfe1c7402db6590eb9be47846bb521b2d9952c140543425e5a0",
+        "slab_depth_angstrom": 2.5
+      },
+      "parameters_left_out": [
+        "recorded_command_basis",
+        "recorded_command_record",
+        "recorded_exported_variables",
+        "recorded_time_basis"
+      ],
+      "record_line_sha256": "sha256:dd626d2033a0b219c7b5a6fba62295d41fc247b32a69138880927a4366a221ef"
+    }
+  ]
+}

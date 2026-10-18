@@ -1,0 +1,33 @@
+{
+  "query_id" : "04ff037d-a7a0-48d8-94be-1c0b9e74512e",
+  "result_type" : "entry",
+  "total_count" : 9,
+  "result_set" : [ {
+    "identifier" : "8VJJ",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VJK",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VK3",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VK4",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMN",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMO",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMP",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMQ",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMR",
+    "score" : 1.0
+  } ]
+}

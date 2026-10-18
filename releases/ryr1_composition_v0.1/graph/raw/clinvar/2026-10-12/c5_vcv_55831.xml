@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+                        
+<ClinVarResult-Set><VariationArchive VariationID="55831" VariationName="NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu)" VariationType="single nucleotide variant" Accession="VCV000055831" Version="10" RecordType="classified" NumberOfSubmissions="5" NumberOfSubmitters="5" DateLastUpdated="2026-04-13" DateCreated="2014-06-09" MostRecentSubmission="2026-02-23">
+  <RecordStatus>current</RecordStatus>
+  <Species>Homo sapiens</Species>
+  <ClassifiedRecord>
+    <SimpleAllele AlleleID="70489" VariationID="55831">
+      <GeneList>
+        <Gene Symbol="RYR1" FullName="ryanodine receptor 1" GeneID="6261" HGNC_ID="HGNC:10483" Source="submitted" RelationshipType="within single gene">
+          <Location>
+            <CytogeneticLocation>19q13.2</CytogeneticLocation>
+            <SequenceLocation Assembly="GRCh38" AssemblyAccessionVersion="GCF_000001405.38" AssemblyStatus="current" Chr="19" Accession="NC_000019.10" start="38433691" stop="38587564" display_start="38433691" display_stop="38587564" Strand="+"/>
+            <SequenceLocation Assembly="GRCh37" AssemblyAccessionVersion="GCF_000001405.25" AssemblyStatus="previous" Chr="19" Accession="NC_000019.9" start="38924339" stop="39078203" display_start="38924339" display_stop="39078203" Strand="+"/>
+          </Location>
+          <OMIM>180901</OMIM>
+          <Haploinsufficiency last_evaluated="2015-11-12" ClinGen="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=RYR1">No evidence available</Haploinsufficiency>
+          <Triplosensitivity last_evaluated="2015-11-12" ClinGen="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=RYR1">No evidence available</Triplosensitivity>
+          <Property>gene_acmg_incidental_2013</Property>
+          <Property>gene_acmg_incidental_2016</Property>
+          <Property>gene_acmg_incidental_2021</Property>
+          <Property>gene_acmg_incidental_2022</Property>
+        </Gene>
+      </GeneList>
+      <Name>NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu)</Name>
+      <CanonicalSPDI>NC_000019.10:38440795:A:G</CanonicalSPDI>
+      <VariantType>single nucleotide variant</VariantType>
+      <Location>
+        <CytogeneticLocation>19q13.2</CytogeneticLocation>
+        <SequenceLocation Assembly="GRCh38" AssemblyAccessionVersion="GCF_000001405.38" forDisplay="true" AssemblyStatus="current" Chr="19" Accession="NC_000019.10" start="38440796" stop="38440796" display_start="38440796" display_stop="38440796" variantLength="1" positionVCF="38440796" referenceAlleleVCF="A" alternateAlleleVCF="G"/>
+        <SequenceLocation Assembly="GRCh37" AssemblyAccessionVersion="GCF_000001405.25" AssemblyStatus="previous" Chr="19" Accession="NC_000019.9" start="38931436" stop="38931436" display_start="38931436" display_stop="38931436" variantLength="1" positionVCF="38931436" referenceAlleleVCF="A" alternateAlleleVCF="G"/>
+      </Location>
+      <OtherNameList>
+        <Name>NM_000540.2(RYR1):c.97A&gt;G</Name>
+        <Name>p.Lys33Glu</Name>
+      </OtherNameList>
+      <ProteinChange>K33E</ProteinChange>
+      <HGVSlist>
+        <HGVS Type="genomic">
+          <NucleotideExpression sequenceAccessionVersion="LRG_766" sequenceAccession="LRG_766">
+            <Expression>LRG_766:g.12097A&gt;G</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="LRG_766t1" sequenceAccession="LRG_766t1">
+            <Expression>LRG_766t1:c.97A&gt;G</Expression>
+          </NucleotideExpression>
+          <ProteinExpression sequenceAccessionVersion="LRG_766p1" sequenceAccession="LRG_766p1" change="p.Lys33Glu">
+            <Expression>LRG_766p1:p.Lys33Glu</Expression>
+          </ProteinExpression>
+        </HGVS>
+        <HGVS Assembly="GRCh38" Type="genomic, top-level">
+          <NucleotideExpression sequenceAccessionVersion="NC_000019.10" sequenceAccession="NC_000019" sequenceVersion="10" change="g.38440796A&gt;G" Assembly="GRCh38">
+            <Expression>NC_000019.10:g.38440796A&gt;G</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Assembly="GRCh37" Type="genomic, top-level">
+          <NucleotideExpression sequenceAccessionVersion="NC_000019.9" sequenceAccession="NC_000019" sequenceVersion="9" change="g.38931436A&gt;G" Assembly="GRCh37">
+            <Expression>NC_000019.9:g.38931436A&gt;G</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="genomic">
+          <NucleotideExpression sequenceAccessionVersion="NG_008866.1" sequenceAccession="NG_008866" sequenceVersion="1" change="g.12097A&gt;G">
+            <Expression>NG_008866.1:g.12097A&gt;G</Expression>
+          </NucleotideExpression>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="NM_000540.3" sequenceAccession="NM_000540" sequenceVersion="3" change="c.97A&gt;G" MANESelect="true">
+            <Expression>NM_000540.3:c.97A&gt;G</Expression>
+          </NucleotideExpression>
+          <ProteinExpression sequenceAccessionVersion="NP_000531.2" sequenceAccession="NP_000531" sequenceVersion="2" change="p.Lys33Glu" singleLetterProteinChange="K33E">
+            <Expression>NP_000531.2:p.Lys33Glu</Expression>
+          </ProteinExpression>
+          <MolecularConsequence ID="SO:0001583" Type="missense variant" DB="SO"/>
+        </HGVS>
+        <HGVS Type="coding">
+          <NucleotideExpression sequenceAccessionVersion="NM_001042723.2" sequenceAccession="NM_001042723" sequenceVersion="2" change="c.97A&gt;G">
+            <Expression>NM_001042723.2:c.97A&gt;G</Expression>
+          </NucleotideExpression>
+          <ProteinExpression sequenceAccessionVersion="NP_001036188.1" sequenceAccession="NP_001036188" sequenceVersion="1" change="p.Lys33Glu" singleLetterProteinChange="K33E">
+            <Expression>NP_001036188.1:p.Lys33Glu</Expression>
+          </ProteinExpression>
+          <MolecularConsequence ID="SO:0001583" Type="missense variant" DB="SO"/>
+        </HGVS>
+      </HGVSlist>
+      <XRefList>
+        <XRef ID="CA025005" DB="ClinGen"/>
+        <XRef Type="Allelic variant" ID="180901.0038" DB="OMIM"/>
+        <XRef Type="rs" ID="193922746" DB="dbSNP"/>
+      </XRefList>
+    </SimpleAllele>
+    <RCVList>
+      <RCVAccession Title="NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu) AND King Denborough syndrome" Accession="RCV000049252" Version="26">
+        <ClassifiedConditionList TraitSetID="10617">
+          <ClassifiedCondition DB="MedGen" ID="C1840365">King Denborough syndrome</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>no assertion criteria provided</ReviewStatus>
+            <Description DateLastEvaluated="2008-09-02" SubmissionCount="1">Pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu) AND not provided" Accession="RCV000119774" Version="6">
+        <ClassifiedConditionList TraitSetID="9460">
+          <ClassifiedCondition DB="MedGen" ID="C3661900">not provided</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2013-11-19" SubmissionCount="2">Uncertain significance</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu) AND Malignant hyperthermia, susceptibility to, 1" Accession="RCV001588881" Version="3">
+        <ClassifiedConditionList TraitSetID="3539">
+          <ClassifiedCondition DB="MedGen" ID="C2930980">Malignant hyperthermia, susceptibility to, 1</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>reviewed by expert panel</ReviewStatus>
+            <Description DateLastEvaluated="2025-08-01" SubmissionCount="1">Likely pathogenic</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+      <RCVAccession Title="NM_000540.3(RYR1):c.97A&gt;G (p.Lys33Glu) AND RYR1-related disorder" Accession="RCV003591651" Version="4">
+        <ClassifiedConditionList TraitSetID="33623">
+          <ClassifiedCondition DB="MedGen" ID="CN239331">RYR1-related disorder</ClassifiedCondition>
+        </ClassifiedConditionList>
+        <RCVClassifications>
+          <GermlineClassification>
+            <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+            <Description DateLastEvaluated="2023-04-11" SubmissionCount="1">Uncertain significance</Description>
+          </GermlineClassification>
+        </RCVClassifications>
+      </RCVAccession>
+    </RCVList>
+    <Classifications>
+      <GermlineClassification DateLastEvaluated="2025-08-01" NumberOfSubmissions="5" NumberOfSubmitters="5" DateCreated="2014-06-09" MostRecentSubmission="2026-02-23">
+        <ReviewStatus>reviewed by expert panel</ReviewStatus>
+        <Description>Likely pathogenic</Description>
+        <Explanation DataSource="ClinVar" Type="public">Likely pathogenic (1)</Explanation>
+        <Citation Type="general">
+          <ID Source="PubMed">18765655</ID>
+        </Citation>
+        <Citation Type="general">
+          <URL>https://erepo.clinicalgenome.org/evrepo/ui/interpretation/a6daba6f-71fc-4f66-9bff-f6aa46d85f00</URL>
+        </Citation>
+        <DescriptionHistory Dated="2021-09-03">
+          <Description>Uncertain significance</Description>
+        </DescriptionHistory>
+        <DescriptionHistory Dated="2018-11-16">
+          <Description>Pathogenic</Description>
+        </DescriptionHistory>
+        <ConditionList>
+          <TraitSet ID="33623" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="36528" Type="Disease">
+              <Name>
+                <ElementValue Type="Preferred">RYR1-related disorder</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">RYR1-related condition</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">RYR1-related disorders</ElementValue>
+              </Name>
+              <XRef ID="CN239331" DB="MedGen"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="9460" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="17556" Type="Disease">
+              <Name>
+                <ElementValue Type="Preferred">not provided</ElementValue>
+                <XRef ID="13DG0619" DB="Genomic Medicine Center of Excellence, King Faisal Specialist Hospital and Research Centre"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">none provided</ElementValue>
+              </Name>
+              <AttributeSet>
+                <Attribute Type="public definition">The term 'not provided' is registered in MedGen to support identification of submissions to ClinVar for which no condition was named when assessing the variant. 'not provided' differs from 'not specified', which is used when a variant is asserted to be benign, likely benign, or of uncertain significance for conditions that have not been specified.</Attribute>
+              </AttributeSet>
+              <XRef ID="C3661900" DB="MedGen"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="3539" Type="Disease" ContributesToAggregateClassification="true">
+            <Trait ID="2639" Type="Disease">
+              <Name>
+                <ElementValue Type="Alternate">Anesthesia related hyperthermia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Fulminating hyperpyrexia</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Pharmacogenic myopathy</ElementValue>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">RYR1-Related Malignant Hyperthermia Susceptibility</ElementValue>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Preferred">Malignant hyperthermia, susceptibility to, 1</ElementValue>
+                <XRef ID="MONDO:0007783" DB="MONDO"/>
+              </Name>
+              <Name>
+                <ElementValue Type="Alternate">Malignant hyperthermia suceptibility 1</ElementValue>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">MHS1</ElementValue>
+                <XRef Type="MIM" ID="145600" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="public definition">Malignant hyperthermia susceptibility (MHS) is a pharmacogenetic disorder of skeletal muscle calcium regulation associated with uncontrolled skeletal muscle hypermetabolism. Manifestations of malignant hyperthermia (MH) are precipitated by volatile anesthetics (i.e., halothane, isoflurane, sevoflurane, desflurane, enflurane), either alone or in conjunction with a depolarizing muscle relaxant (specifically, succinylcholine). The triggering substances cause uncontrolled release of calcium from the sarcoplasmic reticulum and may promote entry of extracellular calcium into the myoplasm, causing contracture of skeletal muscles, glycogenolysis, and increased cellular metabolism, resulting in production of heat and excess lactate. Affected individuals experience acidosis, hypercapnia, tachycardia, hyperthermia, muscle rigidity, compartment syndrome, rhabdomyolysis with subsequent increase in serum creatine kinase (CK) concentration, hyperkalemia with a risk for cardiac arrhythmia or even cardiac arrest, and myoglobinuria with a risk for kidney failure. In nearly all individuals, the first manifestations of MH (hypercapnia, tachycardia, and tachypnea) occur in the operating room; however, MH may also occur in the early postoperative period. There is mounting evidence that some individuals with MHS will also develop MH with exercise and/or on exposure to hot environments. Without proper and prompt treatment with dantrolene sodium, mortality can be over 80%.</Attribute>
+                <XRef ID="NBK1146" DB="GeneReviews"/>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="keyword">Pharmacogenetic</Attribute>
+              </AttributeSet>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="3363"/>
+                <XRef ID="3363" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <Citation Type="general" Abbrev="EMHG, 2018">
+                <ID Source="PubMed">33131754</ID>
+              </Citation>
+              <Citation Type="review" Abbrev="GeneReviews">
+                <ID Source="PubMed">20301325</ID>
+                <ID Source="BookShelf">NBK1146</ID>
+              </Citation>
+              <Citation Type="Translational/Evidence-based" Abbrev="EuroGenetest, 2011">
+                <ID Source="pmc">3110041</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2013">
+                <ID Source="PubMed">23788249</ID>
+              </Citation>
+              <Citation Type="Suggested Reading" Abbrev="Sei et al., 2004">
+                <ID Source="PubMed">14870754</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="Orphanet, 2013">
+                <URL>https://www.orpha.net/data/patho/Pro/en/Emergency_MalignantHyperthermia-enPro649.pdf</URL>
+                <CitationText>Orphanet Emergency Guidelines: Malignant hyperthermia</CitationText>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2015">
+                <ID Source="PubMed">25356965</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG, 2016">
+                <ID Source="PubMed">27854360</ID>
+                <ID Source="DOI">10.1038/gim.2016.190</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.0, 2021">
+                <ID Source="PubMed">34012068</ID>
+                <ID Source="DOI">10.1038/s41436-021-01172-3</ID>
+              </Citation>
+              <Citation Type="general" Abbrev="ACMG SF v3.1, 2022">
+                <ID Source="PubMed">35802134</ID>
+                <ID Source="DOI">10.1016/j.gim.2022.04.006</ID>
+              </Citation>
+              <Citation Type="practice guideline" Abbrev="ACMG ACT, 2019">
+                <URL>https://www.acmg.net/PDFLibrary/Malignant-Hyperthermia.pdf</URL>
+                <CitationText>American College of Medical Genetics and Genomics, Genomic Testing (Secondary Findings) ACT Sheet, RYR1 and CACNA1S Pathogenic Variants (Malignant Hyperthermia), 2019</CitationText>
+              </Citation>
+              <XRef ID="423" DB="Orphanet"/>
+              <XRef ID="C2930980" DB="MedGen"/>
+              <XRef ID="MONDO:0007783" DB="MONDO"/>
+              <XRef Type="MIM" ID="145600" DB="OMIM"/>
+            </Trait>
+          </TraitSet>
+          <TraitSet ID="10617" Type="Disease" ContributesToAggregateClassification="false">
+            <Trait ID="6212" Type="Disease">
+              <Name>
+                <ElementValue Type="Preferred">King Denborough syndrome</ElementValue>
+                <XRef ID="764957003" DB="SNOMED CT"/>
+              </Name>
+              <Symbol>
+                <ElementValue Type="Preferred">KDS</ElementValue>
+                <XRef Type="MIM" ID="619542" DB="OMIM"/>
+              </Symbol>
+              <AttributeSet>
+                <Attribute Type="GARD id" integerValue="8433"/>
+                <XRef ID="8433" DB="Office of Rare Diseases"/>
+              </AttributeSet>
+              <XRef ID="C1840365" DB="MedGen"/>
+              <XRef ID="MONDO:0020485" DB="MONDO"/>
+              <XRef Type="MIM" ID="619542" DB="OMIM"/>
+            </Trait>
+          </TraitSet>
+        </ConditionList>
+      </GermlineClassification>
+    </Classifications>
+    <ClinicalAssertionList>
+      <ClinicalAssertion ID="1662562" SubmissionDate="2018-10-12" ContributesToAggregateClassification="false" DateLastUpdated="2014-06-09" DateCreated="2014-06-09">
+        <ClinVarSubmissionID localKey="NM_000540.2:c.97A&gt;G|not provided" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV000852891" DateUpdated="2014-06-09" DateCreated="2014-06-09" Type="SCV" Version="1" SubmitterName="PreventionGenetics, part of Exact Sciences" OrgID="239772" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2013-11-19">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Uncertain significance</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ACMG Guidelines, 2015</Attribute>
+          <Citation>
+            <ID Source="PubMed">25741868</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.97A&gt;G</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">not provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB4498512</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="280274" SubmissionDate="2011-12-01" ContributesToAggregateClassification="false" DateLastUpdated="2014-06-09" DateCreated="2014-06-09">
+        <ClinVarSubmissionID localKey="RYR1_00300"/>
+        <ClinVarAccession Accession="SCV000154681" DateUpdated="2014-06-09" DateCreated="2014-06-09" Type="SCV" Version="1" SubmitterName="RYR1 database" OrgID="500155" OrganizationCategory="locus-specific database (LSDB)"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification>
+          <ReviewStatus>no classification provided</ReviewStatus>
+          <GermlineClassification>not provided</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>unknown</Origin>
+              <Species>human</Species>
+              <AffectedStatus>not provided</AffectedStatus>
+              <NumberTested>1</NumberTested>
+            </Sample>
+            <Method>
+              <MethodType>not provided</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name>r.(?)</Name>
+            <Name>p.(Lys33Glu)</Name>
+          </OtherNameList>
+          <AttributeSet>
+            <Attribute Type="HGVS">NM_000540.2:c.97A&gt;G</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">not provided</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>Jorge_Oliveira_2011-05-27_17.30.04</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="130781" SubmissionDate="2021-10-11" ContributesToAggregateClassification="false" DateLastUpdated="2021-10-16" DateCreated="2013-07-05">
+        <ClinVarSubmissionID localKey="180901.0038_KING-DENBOROUGH SYNDROME" title="RYR1, LYS33GLU_KING-DENBOROUGH SYNDROME"/>
+        <ClinVarAccession Accession="SCV000077505" DateUpdated="2021-10-16" DateCreated="2013-07-05" Type="SCV" Version="4" SubmitterName="OMIM" OrgID="3" OrganizationCategory="resource"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2008-09-02">
+          <ReviewStatus>no assertion criteria provided</ReviewStatus>
+          <GermlineClassification>Pathogenic</GermlineClassification>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species>human</Species>
+              <AffectedStatus>not provided</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>literature only</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">In a 27-year-old woman with King-Denborough syndrome (KDS; 619542), D'Arcy et al. (2008) identified a heterozygous c.97A-G transition in exon 2 of the RYR1 gene, resulting in a lys33-to-glu (K33E) substitution at a highly conserved residue. The mutation was not present in other family members or in 200 normal controls. She was born at term after a pregnancy complicated by decreased fetal movements and breech presentation. At birth, she was noted to have hypotonia, ptosis, high-arched palate, prominent philtrum, and scaphocephaly. The father and paternal grandfather had congenital ptosis, but no other signs of neuromuscular disease. She underwent surgery for ptosis at ages 2 and 9 years without complications. Facial and proximal limb weakness became more apparent with age, and she developed kyphoscoliosis, myopathic facies with flat midface, prominent columella, and webbed neck. An EMG was myopathic and serum creatine kinase was increased. At age 15 years, she developed hyperthermia during surgery for scoliosis repair, and subsequent muscle testing confirmed susceptibility to malignant hyperthermia.</Attribute>
+              <Citation>
+                <ID Source="PubMed">18765655</ID>
+              </Citation>
+              <XRef DB="OMIM" ID="619542" Type="MIM"/>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <Name>RYR1, LYS33GLU</Name>
+          <VariantType>Variation</VariantType>
+          <OtherNameList>
+            <Name Type="NonHGVS">LYS33GLU</Name>
+          </OtherNameList>
+          <XRefList>
+            <XRef DB="OMIM" ID="180901.0038" Type="Allelic variant"/>
+          </XRefList>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <Name>
+              <ElementValue Type="Preferred">KING-DENBOROUGH SYNDROME</ElementValue>
+            </Name>
+          </Trait>
+        </TraitSet>
+      </ClinicalAssertion>
+      <ClinicalAssertion ID="7983667" SubmissionDate="2026-02-10" ContributesToAggregateClassification="false" DateLastUpdated="2026-02-23" DateCreated="2024-02-14">
+        <ClinVarSubmissionID localKey="4955899|MedGen:CN239331" submittedAssembly="GRCh37"/>
+        <ClinVarAccession Accession="SCV004297322" DateUpdated="2026-02-23" DateCreated="2024-02-14" Type="SCV" Version="3" SubmitterName="Labcorp Genetics (formerly Invitae), Labcorp" OrgID="500031" OrganizationCategory="laboratory"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2023-04-11">
+          <ReviewStatus>criteria provided, single submitter</ReviewStatus>
+          <GermlineClassification>Uncertain significance</GermlineClassification>
+          <Citation>
+            <ID Source="PubMed">18765655</ID>
+          </Citation>
+          <Comment Type="public">ClinVar contains an entry for this variant (Variation ID: 55831). In summary, the available evidence is currently insufficient to determine the role of this variant in disease. Therefore, it has been classified as a Variant of Uncertain Significance. Advanced modeling of protein sequence and biophysical properties (such as structural, functional, and spatial information, amino acid conservation, physicochemical variation, residue mobility, and thermodynamic stability) performed at Invitae indicates that this missense variant is expected to disrupt RYR1 protein function. This missense change has been observed in individual(s) with autosomal dominant RYR1-related conditions (PMID: 18765655). This variant is not present in population databases (gnomAD no frequency). This sequence change replaces lysine, which is basic and polar, with glutamic acid, which is acidic and polar, at codon 33 of the RYR1 protein (p.Lys33Glu).</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">Invitae Variant Classification Sherloc (09022015)</Attribute>
+          <Citation>
+            <ID Source="PubMed">28492532</ID>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>clinical testing</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.9:g.38931436A&gt;G</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="MedGen" ID="CN239331" Type="CUI"/>
+          </Trait>
+        </TraitSet>
+        <SubmissionNameList>
+          <SubmissionName>SUB14200283</SubmissionName>
+          <SubmissionName>SUB15089977</SubmissionName>
+          <SubmissionName>SUB15998985</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+      <ClinicalAssertion FDARecognizedDatabase="true" ID="3557218" SubmissionDate="2025-09-23" ContributesToAggregateClassification="true" DateLastUpdated="2025-09-27" DateCreated="2021-09-08">
+        <ClinVarSubmissionID localKey="a6daba6f-71fc-4f66-9bff-f6aa46d85f00" localKeyIsSubmitted="1" submittedAssembly="GRCh38"/>
+        <ClinVarAccession Accession="SCV001816139" DateUpdated="2025-09-27" DateCreated="2021-09-08" Type="SCV" Version="3" SubmitterName="ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel, ClinGen" OrgID="508072" OrganizationCategory="consortium"/>
+        <RecordStatus>current</RecordStatus>
+        <Classification DateLastEvaluated="2025-08-01">
+          <ReviewStatus>reviewed by expert panel</ReviewStatus>
+          <GermlineClassification>Likely Pathogenic</GermlineClassification>
+          <Citation>
+            <URL>https://erepo.clinicalgenome.org/evrepo/ui/interpretation/a6daba6f-71fc-4f66-9bff-f6aa46d85f00</URL>
+          </Citation>
+          <Comment Type="public">This pathogenicity assessment is relevant only for malignant hyperthermia susceptibility (MHS) inherited in an autosomal dominant pattern. Variants in RYR1 can also cause other myopathies inherited in an autosomal dominant pattern or in an autosomal recessive pattern. Some of these disorders may predispose individuals to malignant hyperthermia. RYR1 variants may also contribute to a malignant hyperthermia reaction in combination with other genetic and non-genetic factors and the clinician needs to consider such factors in making management decisions. This sequence variant predicts a substitution of lysine with glutamic acid at codon 33 of the RYR1 protein, p.(Lys33Glu). This variant was not present in a large population database (gnomAD) at the time this variant was interpreted. This variant has been reported in an individual diagnosed with King-Denborough syndrome with a personal history of an MH episode and a positive caffeine halothane contracture test (CHCT) result, PS4_Supporting (PMID:18765655). In this individual the variant was determined to be de novo without confirmed parentage PM6_Supporting. No functional studies were identified for this variant. This variant resides in a region of RYR1 considered to be a hotspot for pathogenic variants that contribute to MHS, PM1 (PMID: 21118704). A REVEL score &gt;0.85 (0.92) supports a pathogenic status for this variant, PP3_Moderate. This variant has been classified as Likely Pathogenic: PM6_Supporting, PS4_Supporting, PM1, PP3_Moderate.</Comment>
+        </Classification>
+        <Assertion>variation to disease</Assertion>
+        <AttributeSet>
+          <Attribute Type="ModeOfInheritance">Autosomal dominant inheritance</Attribute>
+        </AttributeSet>
+        <AttributeSet>
+          <Attribute Type="AssertionMethod">ClinGen MHS ACMG Specifications V2</Attribute>
+          <Citation>
+            <URL>https://submit.ncbi.nlm.nih.gov/api/2.0/files/j3hq3afs/clingen_mhs_acmg_specifications_v2.pdf/?format=attachment</URL>
+          </Citation>
+        </AttributeSet>
+        <ObservedInList>
+          <ObservedIn>
+            <Sample>
+              <Origin>germline</Origin>
+              <Species TaxonomyId="9606">human</Species>
+              <AffectedStatus>unknown</AffectedStatus>
+            </Sample>
+            <Method>
+              <MethodType>curation</MethodType>
+            </Method>
+            <ObservedData>
+              <Attribute Type="Description">not provided</Attribute>
+            </ObservedData>
+          </ObservedIn>
+        </ObservedInList>
+        <SimpleAllele>
+          <GeneList>
+            <Gene Symbol="RYR1"/>
+          </GeneList>
+          <VariantType>Variation</VariantType>
+          <AttributeSet>
+            <Attribute Type="HGVS">NC_000019.10:g.38440796A&gt;G</Attribute>
+          </AttributeSet>
+        </SimpleAllele>
+        <TraitSet Type="Disease">
+          <Trait Type="Disease">
+            <XRef DB="MONDO" ID="MONDO:0007783"/>
+          </Trait>
+        </TraitSet>
+        <StudyName>ClinGen</StudyName>
+        <SubmissionNameList>
+          <SubmissionName>SUB13063628</SubmissionName>
+          <SubmissionName>SUB15661098</SubmissionName>
+          <SubmissionName>SUB9674354</SubmissionName>
+        </SubmissionNameList>
+      </ClinicalAssertion>
+    </ClinicalAssertionList>
+    <TraitMappingList>
+      <TraitMapping ClinicalAssertionID="1662562" TraitType="Disease" MappingType="Name" MappingValue="not provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="280274" TraitType="Disease" MappingType="Name" MappingValue="not provided" MappingRef="Preferred">
+        <MedGen CUI="C3661900" Name="not provided"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="130781" TraitType="Disease" MappingType="Name" MappingValue="KING-DENBOROUGH SYNDROME" MappingRef="Preferred">
+        <MedGen CUI="C1840365" Name="King Denborough syndrome"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="7983667" TraitType="Disease" MappingType="XRef" MappingValue="CN239331" MappingRef="MedGen">
+        <MedGen CUI="CN239331" Name="RYR1-related disorder"/>
+      </TraitMapping>
+      <TraitMapping ClinicalAssertionID="3557218" TraitType="Disease" MappingType="XRef" MappingValue="MONDO:0007783" MappingRef="MONDO">
+        <MedGen CUI="C2930980" Name="Malignant hyperthermia, susceptibility to, 1"/>
+      </TraitMapping>
+    </TraitMappingList>
+  </ClassifiedRecord>
+</VariationArchive>
+</ClinVarResult-Set>

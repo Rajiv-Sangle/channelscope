@@ -1,0 +1,26 @@
+run	check	kind	word	row	outcome	revises	limit	source
+S13's run	S	check			pass	cs:check_result.PBSxFV4ZSTE_qj_VnCE6nvk9035MUKMd		check record cs:check_result.7cO75PJqCTgIr7OBhMpL3L3kZqPGDrim
+S13's run	R0	check			pass	cs:check_result.GqTVNzEBpIxnDKt1ltK9MbFe-7UfH_wD		check record cs:check_result.rP1JALHj9WjW_3Ri-sntD76QwA3eJ3jQ
+S13's run	G1-prime	check			pass	cs:check_result.4TEJnACkYVGQBYPSvACW0jSt0dDP4luD	G1′ cannot detect a reading 2 Å off the gate's height in a closed pore	check record cs:check_result.J_6a2-FBDNLHpGTo7zWlIA5qaPNQpwH4
+S13's run	G2-prime	check			pass	cs:check_result.NcQkvK2qHsuFmsgjE54tvPLamy75MllC		check record cs:check_result.Fg9bnZxDsRNoY1pT48WyiAJRlDWxZPS_
+S13's run	P1-A	arithmetic	caught		pass	cs:check_result.Oc6wRF91XfxhIosfMLctIls5dfZHoC3H		check record cs:check_result.6qYJ3-3cNoxhlqPfFGOwFQyAfPfJQH_4
+S13's run	P1-B	seen in O2's diagnosis	caught		pass	cs:check_result.fPzMdr-rr0-AIJ2-QsLa6bElFfdVr7LF		check record cs:check_result.1KrwqNTFimRbkq7Hd_VW88b658bhszcM
+S13's run	P2-A	live	caught	P2	pass	cs:check_result.SqTo3iLlwA4j0SwxezZoq7ECQ63gEtql		check record cs:check_result.gGpOkvfMi9bLdblzhWJYwLYpzGzfMTPE
+S13's run	P2-B	live	caught	P2	pass	cs:check_result.OHJkCnte6tmBji2mUgbu3n46_LXuYRfJ		check record cs:check_result.hnUnFjy1JRltygynm86892jurfnVOIuj
+S13's run	P3-A	live	caught	P3	pass	cs:check_result.rcXrQIHSQhnsf6BrTsusDwpu7vc3sUE3		check record cs:check_result._ntjsqVbwsjjU7nX4z4ZNyn6_GB1A_U6
+S13's run	P3-B	live	caught	P3	pass	cs:check_result.bQkaXyl2dXIqdlqvNPXdhO2y81RFbedP		check record cs:check_result.l9ILiZ6fGBUvaOlQ0a6WjilsJ7ktsdux
+S13's run	P4	by construction	caught		pass	cs:check_result.PRN8cb3lkhyk0ztWwy9J3h2GBETP5I7-		check record cs:check_result.bpCapP17erWRZ--FeiOSDIp7kioQo8_-
+S13's run	P5-plus-2A	live	caught	P5	fail	cs:check_result.mlyr12JHOINGZe3ukSVk6pLCI5x-tfgo		check record cs:check_result._M2g6ToQcAqCcunGW7Cl_DblWSf8OzGk
+S13's run	P5-minus-2A	live	NOT CAUGHT	P5	fail	cs:check_result.OfXBy7ugeqLBhhw71NvycFcfWDs5qCJM		check record cs:check_result.c7twIdjljLjd-Vd9f6QYDbI-jep8HLRL
+S13's run	P6-A	arithmetic	caught		pass	cs:check_result.Np6DBa6fC30Y-GLC3dO1iJWsXXFWXmD9		check record cs:check_result.Sy2yRqNdFADy0g0TKA7QPS07uH8_GdUU
+S13's run	P6-B	by construction	caught		pass	cs:check_result.qc2FwI7ROW3KfK5CCI4cSuzVmUmrjEE_		check record cs:check_result.manSsKwPK8tItGam7t4JlvDN0K4WgFzR
+S13's run	L1	live	caught		pass	cs:check_result.-h3mwNPxsobaB3mSBZk94CTZ-j1JYkpg		check record cs:check_result.OxIG2ufwpwzf_ayAgcxmENBj1rLhxmOe
+S13's run	L2-7M6L	live	caught		pass	cs:check_result.Fnf7UvE8b2qxvA1QMaGCy4uvJ4ASaFcI		check record cs:check_result.9CIxH55rGgt156l1gtRfn5IMT3FKNoBb
+S13's run	L2-7T65	live	caught		pass	cs:check_result.RUoi9YwfFc5udR6MrQcKMGqsQv0ZPQV2		check record cs:check_result.w66ADlMz38Cahy2VkiKB9PZj3zTRdWft
+S13's run	L2-6X35	live	caught		pass	cs:check_result.-AmU8GbiFRjXBnLVLwL3k47-b-Sszq6U		check record cs:check_result.CaP8IZfCL5z0sCwFoJVLkNWiDKSJ_FSK
+O2's run	G1	check			fail			curation/o2_gate_measurements.tsv, its line 'G1 FAIL; G2 pass; planted faults 5 of 6 caught'
+O2's run	G2	check			pass			curation/o2_gate_measurements.tsv, its line 'G1 FAIL; G2 pass; planted faults 5 of 6 caught'
+O2's run	planted faults: 5 of 6 caught	faults			fail			curation/o2_gate_measurements.tsv, its line 'G1 FAIL; G2 pass; planted faults 5 of 6 caught'
+the 9ZO8/9ZOE run	G1	check			fail			curation/s2_gate_9zo8_9zoe.tsv, its line 'G1 FAIL: 9ZOE; G2 pass (re-measured); planted faults 9 of 10 caught (B: 5TB0 gate atoms moved 4 A outward reads open)'
+the 9ZO8/9ZOE run	G2	check			pass			curation/s2_gate_9zo8_9zoe.tsv, its line 'G1 FAIL: 9ZOE; G2 pass (re-measured); planted faults 9 of 10 caught (B: 5TB0 gate atoms moved 4 A outward reads open)'
+the 9ZO8/9ZOE run	planted faults: 9 of 10 caught	faults			fail			curation/s2_gate_9zo8_9zoe.tsv, its line 'G1 FAIL: 9ZOE; G2 pass (re-measured); planted faults 9 of 10 caught (B: 5TB0 gate atoms moved 4 A outward reads open)'

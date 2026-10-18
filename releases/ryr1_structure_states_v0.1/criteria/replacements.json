@@ -1,0 +1,43 @@
+{
+  "release": "ryr1_structure_states_v0.1",
+  "extracts": [
+    {
+      "file": "criteria/o2_criteria.md",
+      "source": "context_channelscope_o2_survey_by_condition.md",
+      "commit": "b9323291dd69625d6b498139cb3b669fdbec3196",
+      "source_sha256": "sha256:546fa91a7c606063821c0c3112d2050f2c894e862e8fb14966dcfd855ab64260",
+      "replacements": [
+        {
+          "kind": "a working note's link",
+          "replaced_by": "[a working note, not public]",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "file": "criteria/s13_criteria.md",
+      "source": "context_channelscope_s13_remeasurement_criteria.md",
+      "commit": "b8b2e54a3b15a49ba8b4388e1fef8f5d4aa8d7a9",
+      "source_sha256": "sha256:49bb7902df70823d99c026f7aa0515a8f0f9a4f26a12806c37356472b4c9f5b7",
+      "replacements": [
+        {
+          "kind": "a session's name",
+          "replaced_by": "[a working record, not public]",
+          "count": 1
+        },
+        {
+          "kind": "a working note's link",
+          "replaced_by": "[a working note, not public]",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "file": "criteria/cl2_gate_rule.md",
+      "source": "context_channelscope_cl2_numbering_criteria.md",
+      "commit": "125f89f9de4f3535727e96ab6ceb6444f9fdaa38",
+      "source_sha256": "sha256:5359c2b60a8b2dfc7759ad3e7d179b1e5a463829e67ca72e2e1b0ba9f431d9f2",
+      "replacements": []
+    }
+  ]
+}

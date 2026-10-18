@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 384" width="920" height="384" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">From public source to release</title>
+  <desc id="d">A flow from public sources, through logged retrievals, to typed records, to releases, which three re-runs read. Checks stand beside the flow, between the records and the releases: their criteria come from the project's working records, drawn as a band above, and planted faults test whether a check can fail. A dashed line traces a record in a release back, through its run or retrieval, to its source.</desc>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666"/></marker>
+    <marker id="ao" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d4661c"/></marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="919" height="383" rx="10" fill="#fbfaf7" stroke="#dcdad3"/>
+  <text x="24" y="31" font-size="15" font-weight="600" fill="#333">From public source to release</text>
+
+  <!-- the working records band -->
+  <rect x="20" y="44" width="880" height="62" rx="8" fill="#efeee9"/>
+  <text x="36" y="65" font-size="13" font-weight="600" fill="#333">the project's working records</text>
+  <text x="36" y="82" font-size="12" fill="#666">notes, decisions and each check's criteria, committed before the run they judge</text>
+  <text x="36" y="98" font-size="12" fill="#666">kept in a private history; the ledgers of the mappings, states and composition releases attest the order</text>
+  <line x1="575" y1="106" x2="575" y2="118" stroke="#9a9a9a" stroke-width="1.3" stroke-dasharray="3 3" marker-end="url(#ar)"/>
+  <text x="540" y="117" font-size="11" fill="#777" text-anchor="end">criteria</text>
+
+  <!-- checks, beside the flow -->
+  <g fill="none" stroke="#666" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M557,124 v32 M593,124 v32" stroke-width="3"/>
+    <rect x="563" y="131" width="24" height="18" fill="#fff"/>
+    <path d="M564,148 L586,132"/>
+  </g>
+  <circle cx="549" cy="128" r="8" fill="#fff" stroke="#1f9d6a" stroke-width="1.6"/>
+  <path d="M545,128 l2.7,2.7 l5,-5.4" fill="none" stroke="#1f9d6a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="608" y="133" font-size="13.5" font-weight="600" fill="#333">checks</text>
+  <text x="608" y="150" font-size="12" fill="#666">criteria fixed first; planted faults test</text>
+  <text x="608" y="165" font-size="12" fill="#666">whether a check can fail</text>
+  <line x1="575" y1="158" x2="575" y2="200" stroke="#9a9a9a" stroke-width="1.3" stroke-dasharray="3 3"/>
+  <circle cx="575" cy="203" r="3" fill="#9a9a9a"/>
+  <text x="581" y="185" font-size="11" fill="#777">tests</text>
+
+  <g fill="none" stroke="#666" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1 public sources: a database -->
+    <ellipse cx="100" cy="186" rx="22" ry="7" fill="#fff"/>
+    <path d="M78,186 v34 a22,7 0 0 0 44,0 v-34"/>
+    <path d="M78,198 a22,7 0 0 0 44,0 M78,210 a22,7 0 0 0 44,0"/>
+    <!-- 2 logged retrievals: a page with a clock -->
+    <rect x="274" y="180" width="32" height="42" rx="3" fill="#fff"/>
+    <path d="M281,191 h18 M281,199 h18 M281,207 h11"/>
+    <circle cx="306" cy="222" r="9" fill="#fff"/>
+    <path d="M306,217 v5 h4"/>
+    <!-- 3 typed records: a graph, the hero -->
+    <rect x="448" y="172" width="64" height="62" rx="8" fill="#fff" stroke="#d4661c" stroke-width="2"/>
+    <path d="M465,190 L478,202 L494,190 M478,202 L469,220 M478,202 L492,218"/>
+    <circle cx="465" cy="190" r="6" fill="#fff"/>
+    <rect x="488" y="184" width="12" height="12" fill="#fff"/>
+    <circle cx="478" cy="202" r="4" fill="#fff"/>
+    <circle cx="469" cy="220" r="5" fill="#fff"/>
+    <path d="M492,212 l6,6 l-6,6 l-6,-6 z" fill="#fff"/>
+    <!-- 4 releases: a table with a checksum -->
+    <rect x="646" y="184" width="48" height="38" rx="3" fill="#fff"/>
+    <path d="M646,194 h48 M646,204 h48 M646,213 h48 M662,184 v38 M678,184 v38"/>
+    <!-- 5 re-runs: a terminal -->
+    <rect x="824" y="184" width="52" height="38" rx="4" fill="#fff"/>
+    <path d="M824,193 h52"/>
+    <path d="M832,202 l6,5 l-6,5 M842,214 h10"/>
+  </g>
+  <rect x="646.8" y="184.8" width="46.4" height="8.4" fill="#e6e5e0"/>
+  <circle cx="698" cy="224" r="9" fill="#fff" stroke="#666" stroke-width="1.4"/>
+  <text x="698" y="228" font-size="11" fill="#555" text-anchor="middle" font-weight="600">#</text>
+  <rect x="664" y="206" width="12" height="5" rx="2" fill="#d4661c"/>
+
+  <!-- arrows along the flow -->
+  <g stroke="#666" stroke-width="1.4" fill="none" marker-end="url(#ar)">
+    <line x1="130" y1="203" x2="264" y2="203"/>
+    <line x1="318" y1="203" x2="440" y2="203"/>
+    <line x1="520" y1="203" x2="638" y2="203"/>
+    <line x1="712" y1="203" x2="816" y2="203"/>
+  </g>
+
+  <!-- labels -->
+  <g text-anchor="middle" fill="#333">
+    <g font-size="13.5" font-weight="600">
+      <text x="100" y="262">public sources</text>
+      <text x="290" y="262">logged retrievals</text>
+      <text x="480" y="262">typed records</text>
+      <text x="670" y="262">releases</text>
+      <text x="850" y="262">re-runs</text>
+    </g>
+    <g font-size="12" fill="#666">
+      <text x="100" y="280">UniProt, PDB, SIFTS,</text>
+      <text x="100" y="296">RefSeq, Ensembl,</text>
+      <text x="100" y="312">ClinVar, gnomAD</text>
+      <text x="290" y="280">the URL, the time</text>
+      <text x="290" y="296">and the SHA-256</text>
+      <text x="290" y="312">of what came back</text>
+      <text x="480" y="280">each names its origin:</text>
+      <text x="480" y="296">a retrieval, or a run</text>
+      <text x="480" y="312">and its inputs</text>
+      <text x="670" y="280">files, a README and</text>
+      <text x="670" y="296">a manifest of each</text>
+      <text x="670" y="312">file's SHA-256</text>
+      <text x="850" y="280">three parts re-run</text>
+      <text x="850" y="296">from this repository</text>
+    </g>
+  </g>
+
+  <!-- the provenance trace -->
+  <path d="M707,224 H760 V334 H26 V203 H70" fill="none" stroke="#d4661c" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#ao)"/>
+  <text x="393" y="358" font-size="12.5" font-style="italic" fill="#555" text-anchor="middle">each record traces back, through its run or retrieval, to its source</text>
+</svg>

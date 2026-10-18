@@ -1,0 +1,37 @@
+# Re-runs the results on Linux, as README.md's "Re-running the results" gives them, on a second platform.
+# It runs only when started by hand (workflow_dispatch). Each step's log is the record of its outcome.
+name: Re-run the results
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  rerun:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+      - name: uv, at the version the results were made with
+        run: pipx install uv==0.12.19 && uv --version
+      - name: The Python and the zlib the commands run with (code/.python-version pins CPython 3.12)
+        run: uv run --project code python -c "import sys, zlib; print(sys.version.split()[0], sys.executable, 'zlib', zlib.ZLIB_RUNTIME_VERSION, getattr(zlib, 'ZLIBNG_VERSION', 'not zlib-ng'))"
+      - name: Every file's SHA-256
+        run: |
+          sha256sum --quiet -c SHA256SUMS && echo "SHA256SUMS: every file OK"
+      - name: Each release's records, by the validator (only the withheld items CLAUDE.md lists may be reported)
+        run: |
+          declare -A want=([ryr1_mappings_v0.1]=1 [ryr1_structure_states_v0.1]=43 [ryr1_composition_v0.1]=13)
+          for r in "${!want[@]}"; do
+            out=$(uv run --project code channelscope --graph "releases/$r/graph" validate || true)
+            echo "== $r"; echo "$out" | tail -3
+            n=$(echo "$out" | sed -n 's/.*; \([0-9]*\) finding(s).*/\1/p' | tail -1)
+            [ "$n" = "${want[$r]}" ] || { echo "$r: $n findings, ${want[$r]} expected"; exit 1; }
+          done
+      - name: Check A6 of the mappings release
+        run: uv run --project code python releases/ryr1_mappings_v0.1/a6/run_a6.py
+      - name: The composition's statuses and counts, by the second script
+        run: python3 releases/ryr1_composition_v0.1/rerun/recount_from_release.py
+      - name: The composition, in full
+        run: uv run --project code --with gemmi==0.7.5 python releases/ryr1_composition_v0.1/rerun/rerun_compose.py
+      - name: The gate's radius in the 26 structures
+        run: uv run --project code --with gemmi==0.7.5 python releases/ryr1_structure_states_v0.1/rerun/rerun_gate.py

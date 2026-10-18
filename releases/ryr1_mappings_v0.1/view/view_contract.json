@@ -1,0 +1,88 @@
+{
+  "release": "ryr1_mappings_v0.1",
+  "files": {
+    "rabbit": "view/rabbit.tsv",
+    "mouse": "view/mouse.tsv",
+    "pig": "view/pig.tsv"
+  },
+  "fields": [
+    {
+      "name": "human_position",
+      "values": "integer or empty",
+      "meaning": "position in human RyR1, UniProt P21817-1, sequence version 3; empty where the partner has no human residue"
+    },
+    {
+      "name": "human_residue",
+      "values": "one-letter amino acid or empty",
+      "meaning": "the human residue at that position"
+    },
+    {
+      "name": "partner_position",
+      "values": "integer or empty",
+      "meaning": "position in the partner's UniProt sequence (rabbit P11716 version 1, mouse E9PZQ0 version 1, pig P16960 version 2); empty where the human residue has no partner"
+    },
+    {
+      "name": "partner_residue",
+      "values": "one-letter amino acid or empty",
+      "meaning": "the partner's residue at that position"
+    },
+    {
+      "name": "correspondence",
+      "values": "pair | no-correspondence",
+      "meaning": "whether the two residues are paired by the alignment"
+    },
+    {
+      "name": "indel",
+      "values": "none | subject-only | object-only",
+      "meaning": "subject-only: a human residue with no partner; object-only: a partner residue with no human residue"
+    },
+    {
+      "name": "ambiguous",
+      "values": "true | false",
+      "meaning": "true where another alignment of equal score pairs this residue differently, or with nothing"
+    },
+    {
+      "name": "reliability",
+      "values": "standard | lowered",
+      "meaning": "lowered near an insertion or deletion, in repeats, in disordered or compositionally biased stretches; the reasons are in the mapping table's reliability_reasons"
+    }
+  ],
+  "rules": [
+    "A row whose correspondence is no-correspondence is drawn as a gap, never as a pair.",
+    "A residue flagged ambiguous is drawn as such: another alignment of equal score pairs it otherwise.",
+    "Reliability is encoded; lowered rows are not hidden.",
+    "The caption below is used verbatim."
+  ],
+  "gaps": {
+    "rabbit": {
+      "no_correspondence": 17,
+      "ambiguous": 26,
+      "lowered": 952
+    },
+    "mouse": {
+      "no_correspondence": 23,
+      "ambiguous": 12,
+      "lowered": 938
+    },
+    "pig": {
+      "no_correspondence": 11,
+      "ambiguous": 4,
+      "lowered": 930
+    }
+  },
+  "caption": "Human RyR1 residues (UniProt P21817-1, sequence version 3) matched to their partners in rabbit (UniProt P11716, version 1), mouse (E9PZQ0, version 1) and pig (P16960, version 2) RyR1, from ChannelScope's release ryr1_mappings_v0.1. A gap marks a residue with no partner; a residue flagged ambiguous could be paired otherwise by another alignment of equal score; reliability is lowered near insertions and deletions, in repeats, and in disordered or compositionally biased stretches.",
+  "records_behind_the_margin_note": {
+    "identity": [
+      "cs:alignment.VCVsrA2ltdXgELsuKWjRchehvYzrQG6m",
+      "cs:alignment.uurk3b_YjCuHV0WxOjpWAC_DSV5WzqEN",
+      "cs:alignment.cdqS24wufXhNsa9PPgidjCbtb2GuFyQI",
+      "cs:alignment.e0p_Fb8v0AltDupwvs9A6mLklErn1dPP",
+      "cs:alignment.YqdbuyzpS4HhwsqPcSiYFbCwFnRaN4xk",
+      "cs:alignment.Fw2aviumRQqBwwYwIiuk8Q4mAN-FIh29"
+    ],
+    "human_structures": [
+      "cs:search_result.CCbhs_G_aUFG224qFwjFhn9T1Py1u1R3",
+      "cs:search_result.I3FDGBpGhqTrTHCIoGHmVNz-m0y9xsh4"
+    ]
+  }
+}

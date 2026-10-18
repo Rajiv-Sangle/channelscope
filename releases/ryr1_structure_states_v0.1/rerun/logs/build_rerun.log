@@ -1,0 +1,84 @@
+# The re-run of rerun/rerun_gate.py --readings as this release's build ran it (Windows AMD64, CPython 3.12.14, zlib 1.3.2, numpy 2.5.3); exit 0. Its report follows.
+check S: F1 O2's window reproduces O2's B: pass; control (the fixed B in its place): caught
+check S: F2 accuracy at 1.0, 2.5, 4.5, 5.5 A: pass; control (pointed at alanine 4936): caught
+check S: F3 open gates over a closed ring: pass; control (the first draft's point probe): caught
+check S: F4 CD1 1 to 2 A from O2's zg: pass; control (slab centred on O2's zg): caught
+check S: F5 O2's missed planted fault: pass; control (O2's B in its place): caught
+check S: F6 refusals by faults in the text: pass; control (the unfaulted text): caught
+check S: F7 P4: a ring one turn below changes nothing: pass; control (the ring 1.0 A below zg*): caught
+check S: F8 P5: read 2 A off zg*, G1' fails: pass; control (read at zg*): caught
+check S: F9 P6: gate atoms 3 A inward read closed: pass; control (B read 3 A from zg*): caught
+check S: F10 the hash pin: not run here: it pins the bytes that ran, which carry a session id; the code digest stands in for it
+check S: F11 the run guard: not run here: it tests the run guard against a commit of this project's private history
+check S: F12 L1: gate side chains turned, A and B agree: pass; control (B read 3 A from zg*): caught
+check S: F13 L2: the ring sets O2's window, not the fixed B: pass; control (the first draft's point probe): caught
+check S: F14 A's atom equals gate_a and is CD1: pass; control (C's radius 1.60 A in the replica): caught
+check S: F15 the run's record, end to end (dry run): pass; control (a wrong committed radius (R0 stops)): caught
+check S: F16 a stop after R0 is recorded: pass; control (nothing stops it): caught
+9NMO: same (A 0.92, fixed B 0.92, O2's window 0.92; cs:retrieval.EdoFVrww6tAVibr1OZS8mucjm99zjEi6)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9NMN: same (A 4.84, fixed B 4.84, O2's window 4.17; cs:retrieval.1ybavGMPb12UGnQ1TiWryGZCKQx6f9-L)
+  O2's window by its two samples at exactly 3 A: both kept 4.17; both dropped 4.20; the lower kept and the upper dropped 4.17; the upper kept and the lower dropped 4.20
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9NMQ: same (A 0.94, fixed B 0.94, O2's window 0.94; cs:retrieval.brtXcnLAUeOKfrZLEg-LYTbxSYIr1hsp)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9NMP: same (A 4.38, fixed B 4.38, O2's window 3.41; cs:retrieval.pL8dLF2aEnR7vHINcVG8nD619NH1kF_o)
+  O2's window by its two samples at exactly 3 A: both kept 3.41; both dropped 3.44; the lower kept and the upper dropped 3.44; the upper kept and the lower dropped 3.41
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+8VJJ: same (A 0.86, fixed B 0.86, O2's window 0.86; cs:retrieval.VuK5f1VVVw_n-OHB2EBpIy3N8oj73Frj)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+8VJK: same (A 0.85, fixed B 0.85, O2's window 0.85; cs:retrieval.xan-CXGwaKVJrqjrxeLx34xm6YCVAD5B)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+8X4A: same (A 1.30, fixed B 1.30, O2's window 1.30; cs:retrieval.pR25iS9lE-23CSsQVl8uiE8VQ41q6i6U)
+  ties on this platform: A's atom: A:ILE 4937 CD1, D:ILE 4937 CD1; the fixed B's atom: A:ILE 4937 CD1, B:ILE 4937 CD1, C:ILE 4937 CD1, D:ILE 4937 CD1; O2's window's atom: A:ILE 4937 CD1, B:ILE 4937 CD1, C:ILE 4937 CD1, D:ILE 4937 CD1
+  control not made: the fixed B's atom in a chain whose copy does not tie: every chain's copy ties
+8X4B: same (A 5.23, fixed B 5.23, O2's window 4.35; cs:retrieval.hOTbhuj-tLLL7b1awE30J4kCmDULAmLY)
+  O2's window by its two samples at exactly 3 A: both kept 4.35; both dropped 4.48; the lower kept and the upper dropped 4.35; the upper kept and the lower dropped 4.48
+  ties on this platform: the fixed B's atom: A:ILE 4937 CG2, B:ILE 4937 CG2, C:ILE 4937 CG2, D:ILE 4937 CG2; O2's window's atom: A:GLN 4933 NE2, B:GLN 4933 NE2, C:GLN 4933 NE2, D:GLN 4933 NE2
+  control not made: the fixed B's atom in a chain whose copy does not tie: every chain's copy ties
+8X4C: same (A 1.40, fixed B 1.40, O2's window 1.40; cs:retrieval.qG50QkT1_4YOQstb-hi1B8zhH_zRMJAk)
+  ties on this platform: A's atom: A:ILE 4937 CG2, D:ILE 4937 CG2; the fixed B's atom: A:ILE 4937 CG2, B:ILE 4937 CG2, C:ILE 4937 CG2, D:ILE 4937 CG2; O2's window's atom: A:ILE 4937 CG2, B:ILE 4937 CG2, C:ILE 4937 CG2, D:ILE 4937 CG2
+  control not made: the fixed B's atom in a chain whose copy does not tie: every chain's copy ties
+7M6A: same (A 1.52, fixed B 1.52, O2's window 1.53; cs:retrieval.UtWHU7YIgjcb_-L8Rw7XlxuD3juAKmwO)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+7M6L: same (A 4.96, fixed B 4.96, O2's window 3.80; cs:retrieval.eyyFPqvSLlHhVFK2C2F6tKS-2vRj1QPt)
+  O2's window by its two samples at exactly 3 A: both kept 3.69; both dropped 3.80; the lower kept and the upper dropped 3.69; the upper kept and the lower dropped 3.80
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+5TB0: same (A 1.01, fixed B 1.01, O2's window 1.01; cs:retrieval.kVNCc55Vm9v8jvE7ELei45jDUCoLgF9G)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+5T9V: same (A 4.16, fixed B 4.15, O2's window 3.51; cs:retrieval.FFdMFmwuUdG1m77On8tLnNe-nfngfTJK)
+  O2's window by its two samples at exactly 3 A: both kept 3.51; both dropped 3.60; the lower kept and the upper dropped 3.51; the upper kept and the lower dropped 3.60
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+7T64: same (A 1.24, fixed B 1.24, O2's window 1.24; cs:retrieval.04xVf3fCplTGFedJsjq-A_wGGdDNgP3P)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+7T65: same (A 5.55, fixed B 5.55, O2's window 4.06; cs:retrieval.tb9pyvPRj2KRBABhs0rCC9VdzSHSbRp8)
+  O2's window by its two samples at exactly 3 A: both kept 4.06; both dropped 4.22; the lower kept and the upper dropped 4.06; the upper kept and the lower dropped 4.22
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9CGP: same (A 0.83, fixed B 0.83, O2's window 0.83; cs:retrieval.jdUfAytotCsBJsiSg8bpSyvDpErFj6eq)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9CGQ: same (A 5.01, fixed B 5.00, O2's window 4.10; cs:retrieval.YyxAiTPiCN0MmKogYh9lDIB4xPQKbfwH)
+  O2's window by its two samples at exactly 3 A: both kept 4.10; both dropped 4.15; the lower kept and the upper dropped 4.15; the upper kept and the lower dropped 4.10
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+6W1N: same (A 0.90, fixed B 0.90, O2's window 0.90; cs:retrieval.1XRUbjABhW0MF6EHNm_VLM83bEZtvISV)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+6X32: same (A 0.86, fixed B 0.86, O2's window 0.86; cs:retrieval.NBuU4cG1bcHhTYOT98DeQQh-585wWSbA)
+  ties on this platform: the fixed B's atom: E:ILE 4935 CD1, K:ILE 4935 CD1; O2's window's atom: E:ILE 4935 CD1, K:ILE 4935 CD1
+6X33: same (A 4.71, fixed B 4.71, O2's window 4.05; cs:retrieval.gPcFrmgLGcGT_T16U9C0zHpB53PpawSi)
+  O2's window by its two samples at exactly 3 A: both kept 3.89; both dropped 4.05; the lower kept and the upper dropped 3.89; the upper kept and the lower dropped 4.05
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+6X34: same (A 3.20, fixed B 3.20, O2's window 3.20; cs:retrieval.FK9F6oiM_gU2sHRdw8XJ_WEu-PeYlioG)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+6X35: same (A 4.24, fixed B 4.24, O2's window 3.22; cs:retrieval.Jpdu7nKydO2iNY_R8vgPXQ64Tx-wI90X)
+  O2's window by its two samples at exactly 3 A: both kept 3.22; both dropped 3.38; the lower kept and the upper dropped 3.22; the upper kept and the lower dropped 3.38
+  ties on this platform: the fixed B's atom: E:ILE 4935 CG2, K:ILE 4935 CG2; O2's window's atom: E:GLN 4931 NE2, K:GLN 4931 NE2
+6X36: same (A 0.92, fixed B 0.92, O2's window 0.92; cs:retrieval.YHrzzOqwSEUL78Kc6NOusKJMZHcbJbUw)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9PWO: same (A 5.27, fixed B 5.27, O2's window 4.77; cs:retrieval.84uiQB1owJUZmB_Y9jAW4OaDiu9O2Lw_)
+  O2's window by its two samples at exactly 3 A: both kept 4.77; both dropped 4.84; the lower kept and the upper dropped 4.77; the upper kept and the lower dropped 4.84
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9ZO8: same (A 0.93, fixed B 0.95, O2's window 0.95; cs:retrieval.0QHSHgEL8658y8NlPcrBv_WLvO6fGVcS, rebuilt from revision 1.1 with patches/9ZO8.json)
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+9ZOE: same (A 5.28, fixed B 5.28, O2's window 4.07; cs:retrieval._Th9eJJCB7EPav9qbob_0WmgURPm9YyB, rebuilt from revision 1.1 with patches/9ZOE.json)
+  O2's window by its two samples at exactly 3 A: both kept 4.07; both dropped 4.19; the lower kept and the upper dropped 4.07; the upper kept and the lower dropped 4.19
+  control not made: the fixed B's atom in a chain whose copy ties: no other chain's copy ties
+rerun: 26 entries the same (0 of them with admitted readings, each named above); O2's window differs by its edge in 11; atoms tie in 5; controls: 404 plants, all as stated; 0 failures

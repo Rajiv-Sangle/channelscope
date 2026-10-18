@@ -1,0 +1,26 @@
+quote_id	work	locator	words
+yan2015_constriction_lt1	yan_rabbit_ryr1_near_atomic_2015	Results, "A closed channel"	The pore radius at the constriction point is less than 1 Å, impermeable to a completely dehydrated Ca 2+ ion.
+zalk2015_nonconducting	zalk_mammalian_ryr_structure_2015	Results, "RyR1 is a 6TM ion channel"	and the diameter of hydrated Ca 2+ (8.2 Å 27 ) we conclude that the pore is in a non-conducting state.
+desgeorges2016_constricted	des_georges_ryr1_gating_activation_2016	Results	The pore remains constricted at I4937 to an aperture insufficient to allow passage of a hydrated monovalent or divalent cation.
+nayak2022_closed_1A	nayak_samso_ryr1_ca_inactivation_2022	Results, "Classification of the high Ca2+ dataset reveals an open conformation and a closed-inactivated conformation"	indicated a closed pore with a radius constricting to 1 Å at the known hydrophobic gate Ile4937
+nayak2022_inactivated_2A	nayak_samso_ryr1_ca_inactivation_2022	Results, "Classification of the high Ca2+ dataset reveals an open conformation and a closed-inactivated conformation"	displayed a pore diameter at the Ile4937 gate of ~2 Å when considering the side chains
+iyer2020_dilated_1_2A	iyer_r164c_equivalent_site_sciadv_2020	Results, "Mutant RyR1 exhibits a closed-dilated pore under closed-state conditions"	an increased radius from 0.8 Å (PDB: 5TB0) to ~1.2 Å at the gating residue, I4937
+iyer2022_closed_1A	iyer_y522s_cryoem_pnas_2022	Results, "The Pore Is Marginally Affected by the Mutation."	remained closed, with a radius of 1.0 Å at the gating residue Ile4937
+weninger2026_hole_minimum	weninger_rosuvastatin_ryr1_ncomms_2026	Results, "Structure of RyR1 in complex with rosuvastatin"	(calculated using HOLE) confirmed the closed and open conformations (minimum pore radius: ~0.8 versus ~3.0 Å, respectively)
+melville2022_open_estimate_4A	melville_ryr1_membrane_embedded_2022	Results, the text after Figure 4's caption (its nearest heading)	the radius of the pore residue could not be measured at I4937 ( Smart et al., 1993 ), though by estimation it remains at approximately 4 Å
+wei2025_open_diameter	wei_ryr1_s0_gating_2025	Results, "S0 facilitates the RyR1 channel gating in response to Ca2+ and ATP"	The pore diameter expands from 6.2 to 13.8 Å, which indicates the channel is in the open state
+wei2025_condition4_gate	wei_ryr1_s0_gating_2025	Results, "S0 facilitates the RyR1 channel gating in response to Ca2+ and ATP"	However, the gate remains the same size (6.2 Å)
+melville2022_primed	melville_ryr1_membrane_embedded_2022	Key resources table	Proteoliposomal RyR1 primed model This paper PDB ID: 7M6A
+rcsb7m6l_closed_model	rcsb_entry_7M6L	pdbx_database_related	"db_id":"7M6A","db_name":"PDB","details":"Closed state model"
+melville2022_open	melville_ryr1_membrane_embedded_2022	Key resources table	Proteoliposomal RyR1 open model This paper PDB ID: 7M6L
+woll2022_5tb0_closed	woll_ip3r_ryr_structure_function_review_2022	manuscript p. 82, line 3300	Three different views of a closed RyR1 pore (PDB ID 5TB0)
+woll2022_5tb0_5t9v	woll_ip3r_ryr_structure_function_review_2022	manuscript p. 84, lines 3368-3370	resting RyR1, obtained in excess EGTA (PDB ID 5TB0, colors) and an open RyR1 in the presence of the activators Ca2+, ATP and caffeine (PDB ID 5T9V, gray)
+iyer2025_states	iyer_y522s_dantrolene_structure_2025	Results	Here we determined the structure of RyR1 Y523S-FKBP12.6-dantrolene complex in the closed state without Ca
+iyer2025_pdb_ids	iyer_y522s_dantrolene_structure_2025	Data and Code Availability	9CGP for the RyR1 YS –closed–DAN and 9CGQ for the RyR1 YS –open–DAN datasets
+iyer2025_open_with_ca	iyer_y522s_dantrolene_structure_2025	RESULTS	and in the open state with Ca 2+ present (50 μM free Ca 2+ )
+woll2021_intermediate_open	woll_pig_ryr1_r615c_cryoem_2021	Results	As the ‘intermediate’ conformation for the R615C pRyR1 without apoCaM corresponds to an open channel
+wei2025_condition4	wei_ryr1_s0_gating_2025	Results, "S0 facilitates the RyR1 channel gating in response to Ca2+ and ATP"	In condition 4 (20 μM[Ca 2+ ]/ATP), where S0 is decoupled
+wei2025_condition4_primed	wei_ryr1_s0_gating_2025	Results, "S0 facilitates the RyR1 channel gating in response to Ca2+ and ATP"	as in 100 nM[Ca 2+ ](condition 2) (Fig. 2d and S1 b, i, o ) and the structure remains in the primed state
+wei2025_8x4c_condition	wei_ryr1_s0_gating_2025	Data Availability Statement	EMD-38042 / 8X48 (EGTA), EMD-38043 / 8X49 (100 nM[Ca 2+ ]) and EMD-38046 / 8X4C (20 μM[Ca 2+ ]/ATP)
+wei2025_resting_primed	wei_ryr1_s0_gating_2025	Results, "S0 is a transmembrane helix of RyR1", para 3	the channel is closed in the absence of Ca2+, termed the resting (closed) state. With the nM concentration of Ca2+, the cytoplasmic RyR is activated but the channel remains closed, named as primed (pre-open) state.
+woll2021_mostly_open	woll_pig_ryr1_r615c_cryoem_2021	Results, 'The R615C mutation in porcine RyR1 affects inter-domain interactions that facilitate channel opening'	For wild-type pRyR1, the major class still represents closed channels, but for R615C pRyR1 the combination of cryo-EM condition and mutation results in mostly open channels.

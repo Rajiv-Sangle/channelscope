@@ -1,0 +1,21 @@
+check	outcome	planted_fault	planted_fault_outcome	fails_if_first_committed	check_row_final_in	fault_row_final_in	record
+P0	pass	One cell of one data row of the `tables/` copy of CL-2's segments table changed in memory	detected	2039346	e05184e	2039346	cs:check_result.-qBk7dMMgTMtcvIbkAiCgSOipUqNyZaF
+C1	pass	One byte of 9PWO's mmCIF changed in memory, in the bytes the guard compares	detected	2039346	2039346	2039346	cs:check_result.ADARzC2TdA8vAUodNaXUDfrekWbeplaC
+C2	pass	VCV000012964.91's consequence list changed in memory to `["nonsense"]`	detected	2039346	2039346	2039346	cs:check_result.2RRkUl9zPlBxxsTAqQ0lFKwS_svuerFC
+C3	pass	VCV000012964.91's title changed in memory from p.Arg614Cys to p.Gly614Cys	detected	2039346	2039346	2039346	cs:check_result.vmpfP0woQk7zvWnWt_uUlxumI7T_B7w1
+C4	pass	In memory: (i) residue 163's first ClinVar row's `clinvar_retrieval` set to `cs:retrieval.` followed by 32 `A`, a well-formed identifier of no record; (ii) a gnomAD row added at residue 163 with an empty `gnomad_table`	detected	2039346	2039346	2039346	cs:check_result.sqe_UzZoym_CoUVL7ZbAVShcMmfUXCOK
+C5-C	pass	In the build's L4 rows, before C5-C compares: one character appended to the `description` of the first sampled record (by `uid`, ascending) that came back at the same version	detected	2039346	2039346	2039346	cs:check_result.Eg9GJNyycK8yjkISpLMQOOB0M41T2Jbo
+C5-G	pass	In the build's L3 rows: `exome_ac` increased by 1 for the first sampled variant (by `variant_id`, ascending) whose exome data are present	detected	2039346	2039346	2039346	cs:check_result.6iCcqn3npv5PY92IXfNsPSQlJR-_t18V
+C5-S	fail	Every label of 6X32 chain B moved +1 in memory, and the join at P16960 950 tested; 940 if 950 is not joined (both are, v3_04)	detected	2039346	2039346	2039346	cs:check_result.bmRiY9KEGSTkS_JvRJ4_FezH0tw8d90-
+C5-S-W-P	pass	none: this record reports a planted fault itself	not-run	2039346	e05184e	-	cs:check_result.AYGJiS8g_ncPNfodt3FdofaHNeZ37MpK
+C5-N	pass	In the build's copy of CL-2's segments table: the segment holding the first sampled `agree` join (by entry, chain and residue) given `offset_s`, `offset_a`, `species_first` and `species_last` one higher	detected	2039346	2039346	2039346	cs:check_result.2xTJVnVVYd4Vh9MTRV9IR0ndpzFnLihv
+C7	pass	A join moved by one: human 163's joins to rabbit 164 in 7M6A chain A, mouse 165 in 9NMO chain A and pig 164 in 9PWO chain A, each moved in memory to the partner's next position (165, 166 and 165: valine in all three)	detected	2039346	2039346	2039346	cs:check_result.qVO86A9Yt72yA29rMsMJ287DVUHDO0N0
+C7-R	not-run	none: a report	not-run	2039346	2039346	-	cs:check_result.VDautpHvDtuSbEdX45T50dEqIS_vO_pL
+C8	pass	Human 163's pig partner (P16960 164) joined in memory to 7M6A chain A (rabbit)	detected	2039346	2039346	2039346	cs:check_result.P1DCN8nA5wJxkYdEaA9UMtXyEDFfbuo4
+C9	pass	In the build's L3 rows: full set, residue 35's row 19-38440803-G-T given an empty exome filter (S2: `AC0`); four residues, residue 614's row 19-38457545-C-T given the exome filter `AC0` (S2: none)	detected	2039346	2039346	2039346	cs:check_result.VxRIKkWy-favi5rPV-E7izV2Q4No3kYs
+C10	pass	In memory: (i) one cell of the build's VUS counts increased by 1; (ii) the row of 6X34 chain B at human 614 (`not joined`, an undeclared difference, in both builds) given `joined` before counting	detected	2039346	e05184e	e05184e	cs:check_result.UouDI2seakL81HXU6KrKE1ub4CArtd8Q
+C10-G-P	pass	none: this record reports a planted fault itself	not-run	2039346	2039346	-	cs:check_result.YSkP8wLze9gieGaSGjFrfWkoSs3yrfja
+C10-W-P	pass	none: this record reports a planted fault itself	not-run	2039346	2039346	-	cs:check_result.YJAVBj0RDUFsVhoHStjG7NRzTdUbJxGJ
+C11-U	pass	The build's status function replaced in memory by version 3's first rule (a residue placed at author number p − d when both flanks share an offset)	detected	e05184e	e05184e	e05184e	cs:check_result.yGNCCV7rNEem9ia0EW1rryrGoDbLfZoZ
+C11-S	pass	none: no planted fault is listed for it in the criteria	not-run	e05184e	e05184e	-	cs:check_result.mWsag1nWyofnuunLhLuHVSyenI5l-etF
+C11	pass	In the build's copy of CL-2's exceptions table: the row of 6X34 chain B, author 615 (`undeclared difference`) given `joined` true	detected	2039346	2039346	2039346	cs:check_result.y3omS0P5s0lvKjL7oJssuovVBAB66KYo

@@ -1,0 +1,6 @@
+file	line	what_was_replaced	as_shipped
+o2/gate.py	5	the agent's name and a working session's name, in a docstring or comment	commit b932329). ChannelScope's agent, [a working record, not public], 2026-10-06.
+o2/survey_entries.js	5	the agent's name and a working session's name, in a docstring or comment	* ChannelScope's agent, [a working record, not public] (2026-10-06). Node, no dependencies.
+s2/gate_9zo8_9zoe.py	9	the agent's name and a working session's name, in a docstring or comment	ChannelScope's agent, [a working record, not public], 2026-10-06.
+s13/gate_b_fixed.py	34	the agent's name and a working session's name, in a docstring or comment	ChannelScope's agent (a fork of [a working record, not public]), 2026-10-06.
+s13/check_gate_b_fixed.py	5	the agent's name and a working session's name, in a docstring or comment	record. ChannelScope's agent (a fork of [a working record, not public]), 2026-10-06.

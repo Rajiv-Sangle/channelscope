@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 476" width="920" height="476" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">What version 0.1 shows, and the premises above it</title>
+  <desc id="d">At the base, what version 0.1 shows: provenance, and four parts built on it, the mappings between species, the residue numbering, the gate's state and the evidence side by side. Above them, seven premises, drawn dashed because none is shown here: a new source or method is added without rewriting what exists; the same holds for every residue and for further sources; Kimlicka et al. (2013) propose that contacts between subunits in the N-terminal region are disrupted when the channel opens, and that a random disease mutation there is much more likely to weaken them than to strengthen them; evidence gathered for RyR1 transfers to RyR2; laying the evidence side by side helps choose variants of uncertain significance for laboratory tests; the tables can serve as training data for models; and the same records serve other genes.</desc>
+  <rect x="0.5" y="0.5" width="919" height="475" rx="10" fill="#fbfaf7" stroke="#dcdad3"/>
+  <text x="24" y="31" font-size="15" font-weight="600" fill="#333">What version 0.1 shows, and the premises above it</text>
+
+  <text x="24" y="56" font-size="12" font-weight="700" fill="#d4661c">premises: none is shown here</text>
+  <g fill="#fff" stroke="#d4661c" stroke-width="1.4" stroke-dasharray="6 4">
+    <rect x="20" y="64" width="212.5" height="116" rx="8"/>
+    <rect x="242.5" y="64" width="212.5" height="116" rx="8"/>
+    <rect x="465" y="64" width="212.5" height="116" rx="8"/>
+    <rect x="687.5" y="64" width="212.5" height="116" rx="8"/>
+    <rect x="20" y="190" width="286.7" height="92" rx="8"/>
+    <rect x="316.7" y="190" width="286.7" height="92" rx="8"/>
+    <rect x="613.3" y="190" width="286.7" height="92" rx="8"/>
+  </g>
+  <g font-size="12" fill="#333">
+    <text x="34" y="86">A new source or method</text>
+    <text x="34" y="102">is added without rewriting</text>
+    <text x="34" y="118">what exists</text>
+    <text x="256.5" y="86">The same holds for every</text>
+    <text x="256.5" y="102">residue and for further sources</text>
+    <text x="479" y="86">Kimlicka et al. (2013) propose</text>
+    <text x="479" y="102">that subunit contacts in the</text>
+    <text x="479" y="118">N-terminal region are disrupted</text>
+    <text x="479" y="134">when the channel opens</text>
+    <text x="701.5" y="86">Evidence gathered for RyR1</text>
+    <text x="701.5" y="102">transfers to its paralogue RyR2</text>
+    <text x="34" y="212">Laying the evidence side by side helps choose</text>
+    <text x="34" y="228">variants of uncertain significance for</text>
+    <text x="34" y="244">laboratory tests</text>
+    <text x="330.7" y="212">The tables can serve as training data</text>
+    <text x="330.7" y="228">for models</text>
+    <text x="627.3" y="212">The same records serve other genes</text>
+  </g>
+  <g font-size="11" font-style="italic" fill="#a0521d">
+    <text x="34" y="168">adding evidence</text>
+    <text x="256.5" y="168">composing evidence</text>
+    <text x="479" y="168">structure, by state</text>
+    <text x="701.5" y="168">transfer</text>
+    <text x="34" y="270">downstream value</text>
+    <text x="330.7" y="270">value for models</text>
+    <text x="627.3" y="270">other genes</text>
+  </g>
+  <text x="460" y="302" font-size="12" font-style="italic" fill="#777" text-anchor="middle">The table below names what would count against each.</text>
+
+  <text x="24" y="328" font-size="12" font-weight="700" fill="#1f7a55">shown in version 0.1</text>
+  <g fill="#fff" stroke="#9fc9b6" stroke-width="1.4">
+    <rect x="20" y="336" width="212.5" height="58" rx="8"/>
+    <rect x="242.5" y="336" width="212.5" height="58" rx="8"/>
+    <rect x="465" y="336" width="212.5" height="58" rx="8"/>
+    <rect x="687.5" y="336" width="212.5" height="58" rx="8"/>
+  </g>
+  <g font-size="13" font-weight="600" fill="#333">
+    <text x="36" y="360">1 Mappings</text>
+    <text x="258.5" y="360">2 Residue numbering</text>
+    <text x="481" y="360">3 The gate's state</text>
+    <text x="703.5" y="360">4 Evidence side by side</text>
+  </g>
+  <g font-size="12" fill="#555">
+    <text x="36" y="380">human to rabbit, mouse, pig</text>
+    <text x="258.5" y="380">26 structures, checked</text>
+    <text x="481" y="380">26 structures, measured</text>
+    <text x="703.5" y="380">299 residues, no verdict</text>
+  </g>
+  <rect x="20" y="404" width="880" height="56" rx="8" fill="#e5f1eb" stroke="#9fc9b6" stroke-width="1.4"/>
+  <text x="36" y="427" font-size="13" font-weight="600" fill="#333">Provenance</text>
+  <text x="36" y="446" font-size="12" fill="#555">logged retrievals and typed records in three releases, checks whose criteria came first, and a SHA-256 for every file</text>
+</svg>

@@ -1,0 +1,767 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.3/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.3"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "ChannelScope release ryr1_mappings_v0.1",
+      "description": "Residue mappings from human RyR1 to rabbit, mouse and pig RyR1, the human codon map, their checks and the graph records they rest on.",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "a6/a6_stated_correspondences.tsv"
+        },
+        {
+          "@id": "a6/quotation_references.tsv"
+        },
+        {
+          "@id": "a6/quotations.tsv"
+        },
+        {
+          "@id": "a6/run_a6.py"
+        },
+        {
+          "@id": "citations.tsv"
+        },
+        {
+          "@id": "code_changes.tsv"
+        },
+        {
+          "@id": "criteria/criteria.json"
+        },
+        {
+          "@id": "criteria/criteria.md"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esearch_RYR1_expert_panel.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_1.json"
+        },
+        {
+          "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_2.json"
+        },
+        {
+          "@id": "graph/raw/ensembl/2026-09-29/lookup_ENST00000359596_expand.json"
+        },
+        {
+          "@id": "graph/raw/ensembl/2026-09-30/archive_jun2026_legal_disclaimer.html"
+        },
+        {
+          "@id": "graph/raw/hgnc/2026-09-29/hgnc_10483.json"
+        },
+        {
+          "@id": "graph/raw/hgnc/2026-09-30/about_license.html"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/NC_000019.10_38433691-38587564.fasta"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/NP_000531.2.fasta"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/about_policies.html"
+        },
+        {
+          "@id": "graph/raw/ncbi/2026-09-29/datasets_gene_6261_product_report.json"
+        },
+        {
+          "@id": "graph/raw/rcsb/2026-09-29/search_entities_human_RYR1.json"
+        },
+        {
+          "@id": "graph/raw/rcsb/2026-10-12/usage_policy.html"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P11716.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817-2.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817-3.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-09-29/P21817_with_isoforms.fasta"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-06/E9PZQ0.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-06/P16960.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-11/P21817.json"
+        },
+        {
+          "@id": "graph/raw/uniprot/2026-10-11/help_license.json"
+        },
+        {
+          "@id": "graph/records/alignment.jsonl"
+        },
+        {
+          "@id": "graph/records/check_result.jsonl"
+        },
+        {
+          "@id": "graph/records/gene.jsonl"
+        },
+        {
+          "@id": "graph/records/method.jsonl"
+        },
+        {
+          "@id": "graph/records/numbering.jsonl"
+        },
+        {
+          "@id": "graph/records/protein.jsonl"
+        },
+        {
+          "@id": "graph/records/residue_mapping.jsonl"
+        },
+        {
+          "@id": "graph/records/retrieval.jsonl"
+        },
+        {
+          "@id": "graph/records/run.jsonl"
+        },
+        {
+          "@id": "graph/records/search_result.jsonl"
+        },
+        {
+          "@id": "graph/records/source.jsonl"
+        },
+        {
+          "@id": "graph/records/table.jsonl"
+        },
+        {
+          "@id": "graph/records/transcript.jsonl"
+        },
+        {
+          "@id": "graph/tables/codon_map_NM_000540.3_GRCh38.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_E9PZQ0.sv1.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv"
+        },
+        {
+          "@id": "graph/tables/residue_mapping_P21817-1.sv3_P16960.sv2.tsv"
+        },
+        {
+          "@id": "how_a_rerun_of_a6_is_read.md"
+        },
+        {
+          "@id": "indels/mouse.tsv"
+        },
+        {
+          "@id": "indels/pig.tsv"
+        },
+        {
+          "@id": "indels/rabbit.tsv"
+        },
+        {
+          "@id": "ledger.md"
+        },
+        {
+          "@id": "manifest.json"
+        },
+        {
+          "@id": "view/mouse.tsv"
+        },
+        {
+          "@id": "view/pig.tsv"
+        },
+        {
+          "@id": "view/rabbit.tsv"
+        },
+        {
+          "@id": "view/view_contract.json"
+        },
+        {
+          "@id": "withheld.tsv"
+        },
+        {
+          "@id": "withheld_check_records.json"
+        }
+      ]
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "sha256": "b8b49760ca63d3ed346e96adcc17df2fbac186e713726de7fe7e15701485d20d",
+      "contentSize": 14227,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "a6/a6_stated_correspondences.tsv",
+      "@type": "File",
+      "sha256": "9c26f62fc31d6e61d8dae4efd8cf69e5f785e19e9dad8a3c77048ec30f53fa98",
+      "contentSize": 3392,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "a6/quotation_references.tsv",
+      "@type": "File",
+      "sha256": "02ee7664dbd7a40e3d1be408225f8b177b669aca7eae00ea9be5614b55fb4197",
+      "contentSize": 1142,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "a6/quotations.tsv",
+      "@type": "File",
+      "sha256": "4755fb3e3e5b053349ea15a22a3fd1a53c80b0937fe4a42d1b8f162305a6e206",
+      "contentSize": 471,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "a6/run_a6.py",
+      "@type": "File",
+      "sha256": "57f2810445dd61d9425c4fee1f74026b2f94a246c7be173683d896597e1e097c",
+      "contentSize": 6680,
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT.html"
+      }
+    },
+    {
+      "@id": "citations.tsv",
+      "@type": "File",
+      "sha256": "08a516c5f9b6839019f44783b24ad9507d6f0369efb47bca1c16839401e7c109",
+      "contentSize": 909,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "code_changes.tsv",
+      "@type": "File",
+      "sha256": "2c98afdc3bcf44b9f6e51558a8c607e21c6f3a2121fef902eebf122de19e4a9b",
+      "contentSize": 910,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "criteria/criteria.json",
+      "@type": "File",
+      "sha256": "30c4882f9f24cc92502d5211690b5e9bd3042ae7a1d624947a6e3eda77fae086",
+      "contentSize": 30400,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "criteria/criteria.md",
+      "@type": "File",
+      "sha256": "6ea65bb08d8a4c423c2583788ef58b370564c783db1f92df6dc2942c99e50681",
+      "contentSize": 22642,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esearch_RYR1_expert_panel.json",
+      "@type": "File",
+      "sha256": "b541cd3668e8ad31ed9482c1a1469e8b699048d1ff03ef6aa4dcdb3a2e761136",
+      "contentSize": 3854,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_1.json",
+      "@type": "File",
+      "sha256": "8abb07cdf7fbe06128e474998d01446ae854ab0866a7b9849089d89538d845a3",
+      "contentSize": 539760,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/clinvar/2026-09-29/esummary_RYR1_expert_panel_2.json",
+      "@type": "File",
+      "sha256": "692842083c593cc0548ea8d7dc3af2ff7e6480022492deee23a7d8e0b927abb5",
+      "contentSize": 524488,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ensembl/2026-09-29/lookup_ENST00000359596_expand.json",
+      "@type": "File",
+      "sha256": "6c3c8b22ca87a6beaf33743dd153ba7a8e0d554f2b4c69bfb3724492662a1fe7",
+      "contentSize": 20880,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ensembl/2026-09-30/archive_jun2026_legal_disclaimer.html",
+      "@type": "File",
+      "sha256": "3f3bcb56720c2f66421276b39284f57208d441f34b224810fd909371be44b0bf",
+      "contentSize": 24845,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/hgnc/2026-09-29/hgnc_10483.json",
+      "@type": "File",
+      "sha256": "ee0a6d6835b67b2fab114964db51ab0b10d193e34305058e34093d1e0c2732e2",
+      "contentSize": 1397,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/hgnc/2026-09-30/about_license.html",
+      "@type": "File",
+      "sha256": "d3748ba7b790ca6cc8c978fd418a0402cd42faa59dc7131c90e7d9fe529fc468",
+      "contentSize": 6073,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/NC_000019.10_38433691-38587564.fasta",
+      "@type": "File",
+      "sha256": "19041741e3bfa7e1e9f05c37794064cd516bf902f488ead0b365917210e505be",
+      "contentSize": 156162,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/NP_000531.2.fasta",
+      "@type": "File",
+      "sha256": "07a6e8c7db42f7ff6944f34961878527299bb0e94d93cf8b6bb74ab6bed59e1d",
+      "contentSize": 5170,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/about_policies.html",
+      "@type": "File",
+      "sha256": "8ad8f6f186ca51ec73a5fb8935ecfa17b8cbaad300b7025b381898ab72621869",
+      "contentSize": 38936,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/ncbi/2026-09-29/datasets_gene_6261_product_report.json",
+      "@type": "File",
+      "sha256": "72d160e6f034744c93ed9410f070ad1abb6e2ed110468824c5dddcdb132a0ec4",
+      "contentSize": 88780,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/rcsb/2026-09-29/search_entities_human_RYR1.json",
+      "@type": "File",
+      "sha256": "4d3051de92584b77172aa644e9a9c8d77e6011e9c6e3807f86117ffd9c656950",
+      "contentSize": 243,
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/rcsb/2026-10-12/usage_policy.html",
+      "@type": "File",
+      "sha256": "2f4ba790ed75708f488eb957a6908981dad5dba758b8b594ba607a49edac9f65",
+      "contentSize": 41992,
+      "license": {
+        "@id": "#each-source-terms"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P11716.json",
+      "@type": "File",
+      "sha256": "020be0bc0aa1eeadf11a48af2810ebbf79334d6c2073aa880fe7231fb0012983",
+      "contentSize": 235320,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817-2.json",
+      "@type": "File",
+      "sha256": "b53e16d58d7a07e1e311394597ef9a5edd87b08fe77bd5bc7d5ab1a390f7eba5",
+      "contentSize": 64770,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817-3.json",
+      "@type": "File",
+      "sha256": "c46eb082b3df1032cb2e4f407a6091a3b08cab1a83509d20827bb78721eab3e2",
+      "contentSize": 64410,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817.json",
+      "@type": "File",
+      "sha256": "1af73b671497038c47015589030e2caa31858e1619e25ec56f4d6951a888e17e",
+      "contentSize": 238629,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-09-29/P21817_with_isoforms.fasta",
+      "@type": "File",
+      "sha256": "8207849361d1e10029a6551b931e387419b31c24cbe5f48c83c02a84673dd19e",
+      "contentSize": 15621,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-06/E9PZQ0.json",
+      "@type": "File",
+      "sha256": "5a34aac6be6939f3e1bb23d2c1f91f22c31630ae02f879fe2c3e8e246d6c614f",
+      "contentSize": 155259,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-06/P16960.json",
+      "@type": "File",
+      "sha256": "e99b7084fd37452b1a95e56deae3563427e77285d99588b7ecacb0f1e296d038",
+      "contentSize": 46451,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-11/P21817.json",
+      "@type": "File",
+      "sha256": "1af73b671497038c47015589030e2caa31858e1619e25ec56f4d6951a888e17e",
+      "contentSize": 238629,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/raw/uniprot/2026-10-11/help_license.json",
+      "@type": "File",
+      "sha256": "5960c22bf17f22286504b927dbb3ca41713c571ed91a10fe7a88ddd964b416ce",
+      "contentSize": 914,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/alignment.jsonl",
+      "@type": "File",
+      "sha256": "d8bf11a2ff6bdd2443ef3d9147f01d99179635a29e73c836c75c546dc96a1f1e",
+      "contentSize": 4826,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/check_result.jsonl",
+      "@type": "File",
+      "sha256": "e310888691ece545cc2bcf227361aeddcd9c4ce4a78baac8cbffc0b1d4ce723e",
+      "contentSize": 47814,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/gene.jsonl",
+      "@type": "File",
+      "sha256": "acba0ecb1ab828432671003ffc2359345ff5e2c47684a18bc423728029ab6fbb",
+      "contentSize": 544,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/method.jsonl",
+      "@type": "File",
+      "sha256": "a6759d3b6e707b06195c78e06f737d129c1f0acd2bafd6ea6058ecdb28a911b0",
+      "contentSize": 9343,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/numbering.jsonl",
+      "@type": "File",
+      "sha256": "bb59c84805b8d420442b43d62383d7831ec2d1f36bc3999c03b817d966f31a0a",
+      "contentSize": 40100,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/protein.jsonl",
+      "@type": "File",
+      "sha256": "fec8148cca9b98914608dd9643553df5ccb6bc421c302f27f2c1877cde6d2ce5",
+      "contentSize": 2484,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/residue_mapping.jsonl",
+      "@type": "File",
+      "sha256": "b9d4b630e1e641bc9e413322e5250077aecace98cc62fec8d06944826085a579",
+      "contentSize": 4591,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/retrieval.jsonl",
+      "@type": "File",
+      "sha256": "d924b3d864cab1c97953591b8dabb37a28cbcf168bba082a62a42d9416a90547",
+      "contentSize": 20989,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/run.jsonl",
+      "@type": "File",
+      "sha256": "8317255c8b928c9acabae146d2ec9a2e5f3346a8cbad8fff8b0a95c6cdac4e5a",
+      "contentSize": 8745,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/search_result.jsonl",
+      "@type": "File",
+      "sha256": "070b717b895be4ee26a561c03fa7b4503f89143ee0f0d75df9bc8396c94db5aa",
+      "contentSize": 2016,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/source.jsonl",
+      "@type": "File",
+      "sha256": "d326d64cfcf1ea822af9ac2958af1fc361571f6dd6578897881e90d3a6854977",
+      "contentSize": 3618,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/table.jsonl",
+      "@type": "File",
+      "sha256": "04dc4f950033034d5fa16708586fc574cba9a061f692d55bb3607b65cb706892",
+      "contentSize": 11291,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/records/transcript.jsonl",
+      "@type": "File",
+      "sha256": "11e3f63d693ceedfa1de350928a453014f1e740edca9abaa8f11ad863c04e065",
+      "contentSize": 1863,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/codon_map_NM_000540.3_GRCh38.tsv",
+      "@type": "File",
+      "sha256": "cae632faa2f50f3e02a8b7770aab1011761ce5433471f79ae1b32b6c00592115",
+      "contentSize": 958307,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_E9PZQ0.sv1.tsv",
+      "@type": "File",
+      "sha256": "91c5eec4b14986c5c4a155cd2193da3affab03245c5bad90146c73321dcd3a7a",
+      "contentSize": 302595,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv",
+      "@type": "File",
+      "sha256": "5145632836c4a8abe61253846a3184c8d387a9440a75d306ca83afb85b06ef1f",
+      "contentSize": 301447,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "graph/tables/residue_mapping_P21817-1.sv3_P16960.sv2.tsv",
+      "@type": "File",
+      "sha256": "9f74e9c222e76daa08fa1d8b8934cbb506371c33880c61384d2260e548aba985",
+      "contentSize": 302286,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "how_a_rerun_of_a6_is_read.md",
+      "@type": "File",
+      "sha256": "4a2eecce6bf18a0153d5e9dbf026362b00c461b114b8b09fb80b0a290fa77d49",
+      "contentSize": 5788,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "indels/mouse.tsv",
+      "@type": "File",
+      "sha256": "20781ad3c840ad74d7554bb5393b6ed4a6bd4064800121141f911861b170fbdc",
+      "contentSize": 659,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "indels/pig.tsv",
+      "@type": "File",
+      "sha256": "a27861fa67d033a96fa8ff42204dc54ebc229950d43ee096305ccea385dd4b20",
+      "contentSize": 342,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "indels/rabbit.tsv",
+      "@type": "File",
+      "sha256": "5deaad1d88f1cfa3376beadf58b5a04cdfd94dbfaa1bf9b44a2f1262266bc48b",
+      "contentSize": 516,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "ledger.md",
+      "@type": "File",
+      "sha256": "5bcc1ef8f7f876bf97f0082734023ec3a7a42c61768d5b542721f873903c7795",
+      "contentSize": 9773,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "manifest.json",
+      "@type": "File",
+      "sha256": "6b85017ae416132aa0f00758dcb01950a1ef793daac26378c4b3d30f176b7b52",
+      "contentSize": 7320,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "view/mouse.tsv",
+      "@type": "File",
+      "sha256": "80b2011fbb6eba07245d1e17401f2e431e674e90c6834ae88d1b445d79553ce8",
+      "contentSize": 194171,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "view/pig.tsv",
+      "@type": "File",
+      "sha256": "6e2f283abc7b5a76e681c3d7cfd82680008944ee44aace748f8ba222e4f63abd",
+      "contentSize": 193767,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "view/rabbit.tsv",
+      "@type": "File",
+      "sha256": "55463c8251fc18f95c30af9601b7cf136ec3f402cd620037ae7511587b1852a4",
+      "contentSize": 193971,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "view/view_contract.json",
+      "@type": "File",
+      "sha256": "155430e4b2a02b0fa3372057240c0fcb1419a1baf2c76bbbf301c83b150aab25",
+      "contentSize": 3415,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "withheld.tsv",
+      "@type": "File",
+      "sha256": "85447e28110193cb53bbbabe948fc967e9a24c15471fbcb4c12a6109de9780b2",
+      "contentSize": 4050,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "withheld_check_records.json",
+      "@type": "File",
+      "sha256": "c53ee5c8a37f72c4b77e7a5f6eaaa956de45e3f014d00893c5a13e0983963bf7",
+      "contentSize": 6099,
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "@id": "https://creativecommons.org/licenses/by/4.0/",
+      "@type": "CreativeWork",
+      "name": "Creative Commons Attribution 4.0 International"
+    },
+    {
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@type": "CreativeWork",
+      "name": "CC0 1.0 Universal"
+    },
+    {
+      "@id": "https://spdx.org/licenses/MIT.html",
+      "@type": "CreativeWork",
+      "name": "MIT License"
+    },
+    {
+      "@id": "#each-source-terms",
+      "@type": "CreativeWork",
+      "name": "Each source's own terms",
+      "description": "A file that a source served, or that quotes a source, stays under that source's terms; the release's README.md quotes them from each source's page and says where the page is carried."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "release": "ryr1_composition_v0.1",
+  "extracts": [
+    {
+      "file": "criteria/cl4_composition_criteria_v3.md",
+      "source": "context_channelscope_cl4_composition_criteria_v3.md",
+      "commit": "2004787a50b87a82bfafd748f9454691bb95986b",
+      "source_sha256": "sha256:1a022afaef1552da52bcf2631e9c4170a7a381c0c186ba09906573dd3026563f",
+      "replacements": [
+        {
+          "kind": "a session's name",
+          "replaced_by": "[a working record, not public]",
+          "count": 1
+        },
+        {
+          "kind": "another project's name",
+          "replaced_by": "[a peer's project]",
+          "count": 3
+        },
+        {
+          "kind": "a working note's path",
+          "replaced_by": "[a working note, not public]",
+          "count": 1
+        },
+        {
+          "kind": "a working note's link",
+          "replaced_by": "[a working note, not public]",
+          "count": 9
+        },
+        {
+          "kind": "a working file's path",
+          "replaced_by": "[a working file, not public]",
+          "count": 1
+        },
+        {
+          "kind": "a working record's name",
+          "replaced_by": "[a working record, not public]",
+          "count": 1
+        },
+        {
+          "kind": "a session's name, abbreviated",
+          "replaced_by": "[a working record, not public]",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

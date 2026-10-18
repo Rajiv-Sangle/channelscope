@@ -1,0 +1,84 @@
+{
+  "query_id" : "8aad06b2-c857-4391-9fa0-a99963a757c2",
+  "result_type" : "entry",
+  "total_count" : 26,
+  "result_set" : [ {
+    "identifier" : "4JKQ",
+    "score" : 1.0
+  }, {
+    "identifier" : "6Y4O",
+    "score" : 1.0
+  }, {
+    "identifier" : "6Y4P",
+    "score" : 1.0
+  }, {
+    "identifier" : "7KL5",
+    "score" : 1.0
+  }, {
+    "identifier" : "7U9Q",
+    "score" : 1.0
+  }, {
+    "identifier" : "7U9R",
+    "score" : 1.0
+  }, {
+    "identifier" : "7U9T",
+    "score" : 1.0
+  }, {
+    "identifier" : "7U9X",
+    "score" : 1.0
+  }, {
+    "identifier" : "7U9Z",
+    "score" : 1.0
+  }, {
+    "identifier" : "7UA1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7UA3",
+    "score" : 1.0
+  }, {
+    "identifier" : "7UA4",
+    "score" : 1.0
+  }, {
+    "identifier" : "7UA5",
+    "score" : 1.0
+  }, {
+    "identifier" : "7UA9",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UQ2",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UQ3",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UQ4",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UQ5",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXC",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXE",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXF",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXG",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXH",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXI",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXL",
+    "score" : 1.0
+  }, {
+    "identifier" : "8UXM",
+    "score" : 1.0
+  } ]
+}

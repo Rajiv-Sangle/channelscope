@@ -1,0 +1,33 @@
+subset	unit	join_scope	species	class_measure	n_total	n_closed	n_open	n_both	n_joined_other_only	n_not_joined	clinvar_table	structures_table
+VUS	records	agree	Oryctolagus cuniculus	A	222	213	212	212	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree	Mus musculus	A	222	211	211	211	0	11	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree	Sus scrofa	A	222	0	202	0	0	20	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree	any	A	222	213	212	212	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree or path A only	Oryctolagus cuniculus	A	222	213	212	212	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree or path A only	Mus musculus	A	222	211	211	211	0	11	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree or path A only	Sus scrofa	A	222	184	203	183	0	18	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	records	agree or path A only	any	A	222	213	213	213	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree	Oryctolagus cuniculus	A	200	191	190	190	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree	Mus musculus	A	200	189	189	189	0	11	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree	Sus scrofa	A	200	0	181	0	0	19	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree	any	A	200	191	190	190	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree or path A only	Oryctolagus cuniculus	A	200	191	190	190	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree or path A only	Mus musculus	A	200	189	189	189	0	11	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree or path A only	Sus scrofa	A	200	164	182	163	0	17	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS	residues	agree or path A only	any	A	200	191	191	191	0	9	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree	Oryctolagus cuniculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree	Mus musculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree	Sus scrofa	A	1	0	1	0	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree	any	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree or path A only	Oryctolagus cuniculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree or path A only	Mus musculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree or path A only	Sus scrofa	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	records	agree or path A only	any	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree	Oryctolagus cuniculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree	Mus musculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree	Sus scrofa	A	1	0	1	0	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree	any	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree or path A only	Oryctolagus cuniculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree or path A only	Mus musculus	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree or path A only	Sus scrofa	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn
+VUS-high (apart)	residues	agree or path A only	any	A	1	1	1	1	0	0	cs:table.U8Q8D1BblyFR_G5ZTzXfHLWaFLESyybn	cs:table.QjZajVH9NOaYKaqiqI_QnpkSCt6yIbWn

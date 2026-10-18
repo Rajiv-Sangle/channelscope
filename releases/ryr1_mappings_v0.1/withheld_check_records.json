@@ -1,0 +1,140 @@
+{
+  "release": "ryr1_mappings_v0.1",
+  "records": [
+    {
+      "id": "cs:check_result.nVcla1ryBlHYA3iQg02s6R_y2ib_d9E8",
+      "check": "G6",
+      "label": "G6",
+      "outcome": "pass",
+      "run": "cs:run.70f58VB_AanLbpKj4P2z4jT6eTqNz75y",
+      "pre_registered_in": "a5b6583",
+      "fails_if": "Any exon's residue range differs, or any anchor lands in a different exon. The difference is investigated; either side may be wrong. A difference traced to a different transcript or assembly on the archive's side is recorded and dismissed, not tuned away",
+      "control": {
+        "fault": "exon 17's first residue moved by one",
+        "outcome": "detected"
+      },
+      "record_line_sha256": "sha256:e882778edc9c99ce019742a6b7f141ef46c5ea6941097509ea4bbafa61d90193",
+      "why_withheld": "its `observed` holds a local drive path to the earlier version's file, inside the record's content digest, so it cannot be cleaned under its id",
+      "compared_with": "the exon table of an earlier version of this project (July 2026), which is not public",
+      "observed": {
+        "exons_compared": 106,
+        "differences": [],
+        "anchors_landing_in_their_stated_exon": 5,
+        "anchors": 5,
+        "comparator_sha256": "sha256:509dd9b2f1e3fb2c5ff3ecec2b7502bf13bfe3d06ec78cb7282d2519da94f6a1"
+      }
+    },
+    {
+      "id": "cs:check_result.YzyH3BG8loYqnCnoWGQH9fWW0zs5gtcO",
+      "check": "A7",
+      "label": "A7",
+      "outcome": "pass",
+      "run": "cs:run.hY0Ai_Pe9GSyMNvD1i18M7T7UF_ryGfx",
+      "pre_registered_in": "8e84a8b",
+      "fails_if": "The difference exceeds 0.5 percentage points or 10 pairs, and stated parameter differences don't explain it",
+      "control": {
+        "fault": "alignment A's n_pairs reduced by 11",
+        "outcome": "detected"
+      },
+      "record_line_sha256": "sha256:88d679f66da2d5df5316cf917ca30c3ffd43311b34082c63d3ceb4e1f419af66",
+      "why_withheld": "its `observed` and its method text name a person outside this project and that person's project, inside the record's content digest",
+      "compared_with": "an identity figure recorded on 2026-09-28 by a separate run of the same method, held outside this project",
+      "observed": {
+        "ours": {
+          "identical": 4871,
+          "pairs": 5029,
+          "percent": 96.8582
+        },
+        "comparator": {
+          "pairs": 5029,
+          "percent": 96.86
+        },
+        "difference": {
+          "pairs": 0,
+          "percentage_points": 0.0018
+        },
+        "tolerance": {
+          "pairs": 10,
+          "percentage_points": 0.5
+        },
+        "control_observed": {
+          "difference": {
+            "pairs": 11,
+            "percentage_points": 0.2105
+          }
+        }
+      }
+    },
+    {
+      "id": "cs:check_result.2mhCKxoNKIKM3HimovL4Tg5Acl6gVT7U",
+      "check": "A11",
+      "label": "A11 (rabbit)",
+      "outcome": "pass",
+      "run": "cs:run.hY0Ai_Pe9GSyMNvD1i18M7T7UF_ryGfx",
+      "pre_registered_in": "258d6d9",
+      "fails_if": "An exact offset differs. The difference is investigated; the archive is a quarry, not a source (SO-DOMAIN-10), so either side may be wrong",
+      "control": {
+        "fault": "the archive's last segment offset changed from -1 to -2",
+        "outcome": "detected"
+      },
+      "record_line_sha256": "sha256:826abb362378e27d26b4d8050b0923007164622f3451fbbcb5990bcd5d8cca6d",
+      "why_withheld": "its `observed` holds a local drive path to the earlier version's file, inside the record's content digest",
+      "compared_with": "the offset table of an earlier version of this project (July 2026), which is not public",
+      "observed": {
+        "segments": 11,
+        "residues_in_segments": 5029,
+        "agree": 5009,
+        "differ": [],
+        "not_compared_ambiguous": [
+          "4",
+          "1873-1887",
+          "3745-3747",
+          "4500"
+        ],
+        "not_in_any_segment": [
+          "1758",
+          "1899-1900",
+          "1921",
+          "4267-4268",
+          "4498-4499",
+          "4525"
+        ],
+        "comparator_sha256": "sha256:3a3ea9e1a143a419581c3a90ac20fe6419269c298ef55bff1bec1efff498be8f"
+      },
+      "note_on_a_key": "The record lists these residues under `not_compared_ambiguous`, though they were compared: each differs from the earlier table and is flagged ambiguous, which the rule excuses."
+    },
+    {
+      "id": "cs:check_result.pnZBzrWcUjIR-wtOIRNlKGj_xgnizhRo",
+      "check": "A11",
+      "label": "A11 (pig)",
+      "outcome": "pass",
+      "run": "cs:run.1yTUjV_7nydWMQlWqVgFOCap1qFPoN35",
+      "pre_registered_in": "c26fd23",
+      "fails_if": "An exact offset differs. The difference is investigated; the archive is a quarry, not a source (SO-DOMAIN-10), so either side may be wrong",
+      "control": {
+        "fault": "the archive's last segment offset lowered by one",
+        "outcome": "detected"
+      },
+      "record_line_sha256": "sha256:d7a5a0e61b52343c40f7d1cefa828bab0102ada20479e6855e90a289aba44fd4",
+      "why_withheld": "its `observed` holds a local drive path to the earlier version's file, inside the record's content digest",
+      "compared_with": "the offset table of an earlier version of this project (July 2026), which is not public",
+      "observed": {
+        "segments": 5,
+        "residues_in_segments": 5031,
+        "agree": 5029,
+        "differ": [],
+        "not_compared_ambiguous": [
+          "4",
+          "4500"
+        ],
+        "not_in_any_segment": [
+          "3481-3485",
+          "4498-4499"
+        ],
+        "comparator_sha256": "sha256:3a3ea9e1a143a419581c3a90ac20fe6419269c298ef55bff1bec1efff498be8f"
+      },
+      "note": "This record is the pig mapping's. Its segments carry the labels of the rabbit code it reuses (`offset_rabbit_minus_human`; its control's lines say \"archive rabbit\"); the residues they count are pig residues.",
+      "note_on_a_key": "The record lists these residues under `not_compared_ambiguous`, though they were compared: each differs from the earlier table and is flagged ambiguous, which the rule excuses."
+    }
+  ]
+}

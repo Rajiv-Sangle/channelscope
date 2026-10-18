@@ -1,0 +1,9 @@
+{
+  "query_id" : "43c7f483-a63f-4c19-8196-1a6a7b19ac9d",
+  "result_type" : "polymer_entity",
+  "total_count" : 1,
+  "result_set" : [ {
+    "identifier" : "35TM_1",
+    "score" : 1.0
+  } ]
+}

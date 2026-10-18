@@ -1,0 +1,22 @@
+uid	accession_version	title	rule	reason	clinvar_retrieval
+4813083	VCV004813083.1	NM_000540.3(RYR1):c.992_994dup (p.Glu331_Gly332insGlu)	1	molecular_consequence_list is ["inframe_insertion"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2710027	VCV002710027.6	NM_000540.3(RYR1):c.10171G>T (p.Glu3391Ter)	1	molecular_consequence_list is ["nonsense"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1330370	VCV001330370.3	NM_000540.3(RYR1):c.14364+1G>T	1	molecular_consequence_list is ["splice donor variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1253809	VCV001253809.9	NM_000540.3(RYR1):c.8310+1G>T	1	molecular_consequence_list is ["splice donor variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+982438	VCV000982438.2	NM_000540.3(RYR1):c.1925+1G>C	1	molecular_consequence_list is ["splice donor variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+590630	VCV000590630.12	NM_000540.3(RYR1):c.9499C>T (p.Arg3167Ter)	1	molecular_consequence_list is ["nonsense"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+451330	VCV000451330.21	NM_000540.3(RYR1):c.9472+1G>A	1	molecular_consequence_list is ["splice donor variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+420138	VCV000420138.16	NM_000540.2(RYR1):c.958_960del	1	molecular_consequence_list is []	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+329085	VCV000329085.45	NM_000540.3(RYR1):c.9093C>T (p.Ala3031=)	1	molecular_consequence_list is ["synonymous variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+256586	VCV000256586.18	NM_000540.3(RYR1):c.958-11del	1	molecular_consequence_list is ["intron variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+256386	VCV000256386.69	NM_000540.3(RYR1):c.10048C>A (p.Arg3350=)	1	molecular_consequence_list is ["synonymous variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+224998	VCV000224998.30	NM_000540.3(RYR1):c.10347+1G>A	1	molecular_consequence_list is ["splice donor variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+133224	VCV000133224.7	NM_000540.3(RYR1):c.8400+28A>G	1	molecular_consequence_list is ["intron variant"]	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+133180	VCV000133180.25	NM_000540.3(RYR1):c.7039GAG[1] (p.Glu2348del)	1	molecular_consequence_list is ["inframe_deletion"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+133146	VCV000133146.4	NM_000540.3(RYR1):c.51_53del (p.Asp17del)	1	molecular_consequence_list is ["inframe_deletion"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+133073	VCV000133073.3	NM_000540.3(RYR1):c.14510del (p.Gln4837fs)	1	molecular_consequence_list is ["frameshift variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+132994	VCV000132994.71	NM_000540.3(RYR1):c.10348-6C>G	1	molecular_consequence_list is ["intron variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+132987	VCV000132987.9	NM_000540.3(RYR1):c.-108T>C	1	molecular_consequence_list is ["5 prime UTR variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+93300	VCV000093300.38	NM_000540.3(RYR1):c.8589T>C (p.Ser2863=)	1	molecular_consequence_list is ["synonymous variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+93243	VCV000093243.40	NM_000540.3(RYR1):c.1077T>C (p.Ala359=)	1	molecular_consequence_list is ["synonymous variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+12996	VCV000012996.60	NM_000540.3(RYR1):c.13013_13032del (p.Ala4338fs)	1	molecular_consequence_list is ["frameshift variant"]	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR

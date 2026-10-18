@@ -1,0 +1,625 @@
+human_position	accession_version	condition_index	condition_name	mondo_id	mondo_given	clinvar_retrieval
+1301	VCV004856787.1	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+464	VCV004820220.1	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2560	VCV004536610.1	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4851	VCV004087686.1	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2436	VCV001330372.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+178	VCV001330371.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3290	VCV001330369.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3284	VCV001330368.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3266	VCV001330367.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3226	VCV001330366.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3217	VCV001330365.6	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3090	VCV001330364.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2976	VCV001330363.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2910	VCV001330362.8	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2885	VCV001330361.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2843	VCV001330360.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2669	VCV001330359.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2627	VCV001330358.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2606	VCV001330357.1	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2593	VCV001330356.11	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2371	VCV001330355.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2685	VCV001308515.8	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3283	VCV001303276.10	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2183	VCV001214008.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1678	VCV001214007.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4104	VCV001214006.1	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+60	VCV001214005.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+401	VCV001214004.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+684	VCV001214003.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2362	VCV001214002.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4938	VCV001214001.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+342	VCV001214000.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1964	VCV001213827.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1814	VCV001213826.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1675	VCV001213825.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4990	VCV001213824.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+5020	VCV001213823.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+5020	VCV001213822.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2340	VCV001213821.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2126	VCV001213820.15	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4808	VCV001213684.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3584	VCV001213683.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3631	VCV001213682.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2345	VCV001210320.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2013	VCV001210319.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3908	VCV001210318.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+539	VCV001210317.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4935	VCV001210316.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3696	VCV001210315.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2452	VCV001210314.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4039	VCV001210313.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3413	VCV001210312.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4128	VCV001210311.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1056	VCV001210310.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1219	VCV001210309.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2102	VCV001210308.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+487	VCV001210307.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+40	VCV001210306.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3410	VCV001210305.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3418	VCV001210304.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+382	VCV001210303.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2431	VCV001210302.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+178	VCV001210301.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1056	VCV001210300.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+612	VCV001210299.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+544	VCV001210298.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3806	VCV001120230.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3711	VCV001120229.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4664	VCV001120228.14	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4022	VCV001120227.3	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4234	VCV001071064.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2237	VCV001065119.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2587	VCV001056224.17	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+492	VCV001050940.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4081	VCV001029908.17	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4010	VCV001019540.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+471	VCV001018682.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3218	VCV001010267.14	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1781	VCV001009683.11	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2560	VCV001005573.9	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1223	VCV001004840.14	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+401	VCV000983140.9	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3324	VCV000979084.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1058	VCV000978526.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3938	VCV000933345.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+316	VCV000889434.18	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2627	VCV000872586.49	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4723	VCV000849226.10	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2542	VCV000840575.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+84	VCV000808527.28	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4640	VCV000803557.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4568	VCV000803556.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3519	VCV000803555.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2375	VCV000803554.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2358	VCV000803553.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4133	VCV000654427.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2593	VCV000654130.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3292	VCV000651289.13	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3983	VCV000650932.12	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2963	VCV000642707.43	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+163	VCV000635269.31	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2458	VCV000590585.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2375	VCV000590582.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2354	VCV000590580.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2253	VCV000590575.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2248	VCV000590574.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2163	VCV000590571.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+176	VCV000590556.20	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1176	VCV000590517.21	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+975	VCV000590508.15	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+64	VCV000590492.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+518	VCV000590482.15	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4928	VCV000590472.10	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4847	VCV000590456.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4837	VCV000590454.6	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4820	VCV000590453.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4729	VCV000590447.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4230	VCV000590413.6	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4178	VCV000590405.7	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4897	VCV000582126.12	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2400	VCV000582065.24	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2359	VCV000573252.26	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4725	VCV000571399.20	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2248	VCV000568713.18	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+487	VCV000567662.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2101	VCV000544517.54	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3051	VCV000544516.60	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4853	VCV000544455.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+140	VCV000544412.54	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1711	VCV000544383.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2363	VCV000478267.11	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2224	VCV000478260.24	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+209	VCV000478249.19	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+816	VCV000478213.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4808	VCV000478199.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4558	VCV000478187.21	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3772	VCV000478159.69	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3709	VCV000478157.12	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2359	VCV000449521.17	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+152	VCV000448182.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1075	VCV000433176.13	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1032	VCV000374974.31	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4178	VCV000374083.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3348	VCV000329095.26	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3212	VCV000329090.73	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3118	VCV000329088.45	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2635	VCV000329073.32	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2462	VCV000329061.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1588	VCV000329033.15	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1583	VCV000329032.18	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+193	VCV000328993.14	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+533	VCV000291315.8	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4757	VCV000285857.70	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3550	VCV000281479.56	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4501	VCV000224403.60	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4185	VCV000224402.27	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2224	VCV000224387.20	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1773	VCV000224382.44	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1667	VCV000224380.73	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+207	VCV000212104.25	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+885	VCV000212100.83	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4976	VCV000201154.22	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4939	VCV000201153.7	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+176	VCV000198090.28	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2776	VCV000197946.74	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+214	VCV000167614.41	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2404	VCV000161379.18	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4587	VCV000161377.33	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2160	VCV000161374.29	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1467	VCV000161371.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4502	VCV000161366.61	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1679	VCV000161364.78	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+933	VCV000161363.34	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+893	VCV000161362.28	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3253	VCV000159865.30	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1571	VCV000159851.83	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+1352	VCV000159846.54	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+708	VCV000159840.42	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+4294	VCV000159834.52	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	2	desflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	3	succinylcholine response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	4	sevoflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	5	isoflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	6	methoxyflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	7	halothane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+328	VCV000133245.16	8	enflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+316	VCV000133242.11	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3119	VCV000133241.11	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	2	succinylcholine response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	3	sevoflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	4	methoxyflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	5	isoflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	6	halothane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	7	enflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+3104	VCV000133240.26	8	desflurane response - Toxicity		false	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2880	VCV000133232.14	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2867	VCV000133230.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2840	VCV000133226.23	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2787	VCV000133223.67	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.PNXvfeq3vV_HZaou_sauo8UQEfmL6M0X
+2764	VCV000133221.15	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2733	VCV000133220.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2730	VCV000133219.6	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2730	VCV000133218.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2676	VCV000133217.64	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2596	VCV000133212.17	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2591	VCV000133211.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2510	VCV000133208.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133207.29	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133206.9	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000133206.9	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2496	VCV000133204.13	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+248	VCV000133203.56	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000133202.66	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000133201.52	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2439	VCV000133198.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2437	VCV000133197.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000133196.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2431	VCV000133195.20	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2431	VCV000133194.22	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	7	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2428	VCV000133193.73	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2375	VCV000133189.6	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2367	VCV000133187.26	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2366	VCV000133186.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2364	VCV000133185.8	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2362	VCV000133184.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	3	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	4	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	5	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	6	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	7	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	8	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2355	VCV000133183.58	9	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2350	VCV000133182.29	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2348	VCV000133181.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2346	VCV000133179.21	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2344	VCV000133178.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2342	VCV000133175.73	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2342	VCV000133175.73	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	4	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2336	VCV000133174.63	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2321	VCV000133173.74	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2280	VCV000133172.54	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+227	VCV000133171.8	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+226	VCV000133170.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2214	VCV000133168.21	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2212	VCV000133166.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2210	VCV000133165.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2204	VCV000133163.13	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2200	VCV000133162.32	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2182	VCV000133161.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+218	VCV000133160.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000133159.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2130	VCV000133158.9	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2129	VCV000133157.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2117	VCV000133156.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1814	VCV000133150.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1787	VCV000133149.59	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+177	VCV000133147.44	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1729	VCV000133145.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1728	VCV000133144.42	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+166	VCV000133141.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+166	VCV000133140.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+165	VCV000133139.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000133137.6	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+160	VCV000133136.11	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1592	VCV000133135.49	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+156	VCV000133133.9	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+155	VCV000133132.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+13	VCV000133129.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1140	VCV000133126.12	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1043	VCV000133124.22	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+999	VCV000133122.30	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+846	VCV000133117.9	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000133108.25	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	2	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	3	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	4	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	5	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	6	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	7	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+552	VCV000133106.52	8	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+539	VCV000133104.12	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133103.80	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+533	VCV000133102.18	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+530	VCV000133101.89	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000133100.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+51	VCV000133099.22	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4973	VCV000133098.88	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4973	VCV000133098.88	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4960	VCV000133096.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4942	VCV000133094.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4939	VCV000133093.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4894	VCV000133087.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4880	VCV000133082.7	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4876	VCV000133081.5	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4856	VCV000133077.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+485	VCV000133076.77	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4842	VCV000133075.75	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4838	VCV000133074.8	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4833	VCV000133072.10	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4824	VCV000133070.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4820	VCV000133069.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4817	VCV000133068.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+474	VCV000133063.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4737	VCV000133061.31	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4737	VCV000133060.23	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4734	VCV000133059.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4733	VCV000133058.3	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4684	VCV000133057.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4668	VCV000133056.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4665	VCV000133055.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4645	VCV000133053.23	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133046.63	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+44	VCV000133045.49	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4295	VCV000133043.81	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4283	VCV000133042.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4234	VCV000133040.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4138	VCV000133038.4	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4136	VCV000133037.12	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4119	VCV000133036.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4050	VCV000133033.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4041	VCV000133032.38	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133030.28	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133029.58	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+401	VCV000133028.9	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3990	VCV000133027.7	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3986	VCV000133026.11	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3985	VCV000133025.5	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3933	VCV000133021.80	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3916	VCV000133018.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3903	VCV000133017.19	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3903	VCV000133017.19	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3840	VCV000133013.18	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3772	VCV000133012.48	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3772	VCV000133012.48	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3756	VCV000133011.31	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3707	VCV000133005.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+367	VCV000133004.4	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+367	VCV000133003.25	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3583	VCV000132999.62	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3539	VCV000132997.90	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	2	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	3	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	4	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	5	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	6	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	7	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+35	VCV000132995.13	8	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+341	VCV000132992.2	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3366	VCV000132990.80	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3348	VCV000132988.17	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2591	VCV000093291.17	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2060	VCV000093279.33	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1393	VCV000093269.76	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1342	VCV000093265.32	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4505	VCV000093252.74	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4709	VCV000065996.59	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+71	VCV000065993.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4893	VCV000065988.49	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000065986.33	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4558	VCV000065984.41	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2508	VCV000065981.83	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	3	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	4	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	6	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2454	VCV000065980.85	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	2	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	4	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	6	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2452	VCV000065979.70	9	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2283	VCV000065968.8	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4650	VCV000065961.18	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3367	VCV000065956.6	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3367	VCV000065956.6	2	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4938	VCV000065955.11	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2453	VCV000065953.16	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4638	VCV000065941.16	1	Malignant hyperthermia of anesthesia	MONDO:0018493	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+60	VCV000065932.53	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4940	VCV000065927.73	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+1577	VCV000065923.15	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+33	VCV000055831.10	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+3402	VCV000042098.78	1	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+522	VCV000012993.7	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	1	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	3	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	4	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	5	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	6	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4849	VCV000012984.69	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	1	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	8	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4861	VCV000012982.72	9	RYR1-related myopathy	MONDO:0100150	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	2	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	3	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	4	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	5	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	6	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	7	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4796	VCV000012979.11	8	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4826	VCV000012978.14	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2206	VCV000012977.94	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	1	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	3	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	4	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	6	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2168	VCV000012976.25	8	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	1	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	2	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	3	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	5	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	6	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+4898	VCV000012975.71	8	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	3	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	6	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012974.24	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2163	VCV000012973.63	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	1	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	5	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012972.25	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	2	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	4	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	5	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	7	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2458	VCV000012971.29	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	1	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	2	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	3	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	4	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	5	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	6	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	7	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2434	VCV000012970.95	8	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+341	VCV000012969.34	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+403	VCV000012968.14	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	1	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	2	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	3	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	4	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	5	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	6	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+163	VCV000012967.33	8	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	2	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	3	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	4	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	5	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	6	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	7	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+2435	VCV000012966.33	8	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+248	VCV000012965.18	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	1	Malignant hyperthermia, susceptibility to, 1	MONDO:0007783	true	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	2	desflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	3	succinylcholine response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	4	sevoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	5	methoxyflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	6	isoflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	7	halothane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR
+614	VCV000012964.91	8	enflurane response - Toxicity		false	cs:retrieval.m3LSpuTeDIuCl6DQZhO0yCz9CU2PxUZR

@@ -1,0 +1,129 @@
+{
+  "query_id" : "25ed04d8-bf25-4814-bba9-2804cb14319b",
+  "result_type" : "polymer_entity",
+  "total_count" : 41,
+  "result_set" : [ {
+    "identifier" : "2MC2_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4ETV_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4KEI_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4KEJ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4KEK_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4L4H_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4L4I_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4P9I_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "4P9L_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "5C33_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "5VSN_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6J6L_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6MM5_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "6MM6_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "6MM7_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "6MM8_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "6WOU_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6WOV_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "6Y4O_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "6Y4P_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VML_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMM_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMN_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMO_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMP_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMQ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMR_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7VMS_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8DTY_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8DTZ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8DVV_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8RRS_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VJJ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VJK_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VK3_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "8VK4_3",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMN_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMO_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMP_2",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMQ_1",
+    "score" : 1.0
+  }, {
+    "identifier" : "9NMR_1",
+    "score" : 1.0
+  } ]
+}
