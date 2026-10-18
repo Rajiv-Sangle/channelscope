@@ -81,21 +81,24 @@ there. Each release numbers its own; [How ChannelScope works](#how-channelscope-
   RyR1. **P21817-1** is isoform 1, the sequence the entry displays: an isoform's identifier is "the primary accession
   number of the entry, followed by a dash and a number". In the releases' file names, **`.sv3`** is this project's mark
   for the sequence's version (UniProt's "sequence version 3"), so that each mapping names the exact sequence it was
-  made on.
+  made on.[^uniprotids]
 - **NM_000540.3** is one of RYR1's two transcripts in NCBI's RefSeq; the number after the dot is its version, which
   rises by one whenever the sequence changes. It is the gene's MANE Select transcript: MANE (Matched Annotation from
-  NCBI and EMBL-EBI) chooses "one transcript at each locus", a set it calls "useful as a universal standard for
-  clinical reporting".
+  NCBI and EMBL-EBI) keeps a Select set of "one transcript at each locus", which it calls "useful as a universal
+  standard for clinical reporting".[^refseqmane]
 - **GRCh38** is the Genome Reference Consortium's Human Build 38, the human reference genome assembly. The exon map
-  reads its patch release GRCh38.p14, whose patches changed no chromosome coordinates.
+  reads its patch release GRCh38.p14, whose patches changed no chromosome coordinates.[^grc]
 - **9PWO**, **6X36** and the like are PDB IDs: each names one entry of the Protein Data Bank, and an entry keeps its ID
-  when it is revised.
+  when it is revised.[^pdbversions]
 - **R614C** names a change with one-letter amino-acid codes: the arginine (R) at residue 614 changed to a cysteine (C).
-  HGVS, the standard for naming variants, writes it on the protein as p.Arg614Cys, preferring three-letter codes, and
-  on the coding DNA as c.1840C>T: the base at position 1840, counted from the A of the start codon, changed from C to
-  T. The composition's ClinVar table gives both, as "NM_000540.3(RYR1):c.1840C>T (p.Arg614Cys)".
+  HGVS Nomenclature, the recommendations for describing sequence variants, writes it on the coding DNA as c.1840C>T:
+  the base at position 1840, counted from the A of the start codon, changed from C to T. On the protein, a predicted
+  consequence, one without experimental evidence (no RNA or protein sequence analysed), is written p.(Arg614Cys):
+  three-letter codes are preferred, and the parentheses mark the prediction.[^hgvs] The composition's ClinVar table
+  gives both in the record's own title, "NM_000540.3(RYR1):c.1840C>T (p.Arg614Cys)", where the title's parentheses
+  hold the protein change, written without HGVS's parentheses for a prediction.
 - **VCV000012964.91** is a ClinVar accession: the record that gathers every submission about one variant, here R614C,
-  at its version 91.
+  at its version 91.[^clinvarvcv]
 - **MONDO:0007783** is an identifier in the Mondo Disease Ontology, here the one ClinVar gives for "Malignant
   hyperthermia, susceptibility to, 1".
 - **A SHA-256** is a checksum: a fingerprint of a file's bytes that changes if a single byte does.
@@ -163,7 +166,7 @@ Version 0.1 can be read in eight steps, each number with what it means. The diag
    September 2026, the rule includes 358 and excludes 21, each with its reason. ClinVar classifies 97 of the 358 as
    pathogenic or likely pathogenic, 34 as benign or likely benign, and 222 as of uncertain significance: for these,
    the research may not yet be enough to confirm or rule out a link to disease, or it may conflict. The other 5 are
-   2 conflicting, 2 drug response only and 1 VUS-high, a sub-tier of uncertain significance counted apart.
+   2 conflicting, 2 drug response only and 1 VUS-high, a sub-tier of uncertain significance counted apart.[^vushigh]
 4. **Which structures: 26 of 188.** Experimental structures of the whole channel are all of animal RyR1, so version
    0.1 reads rabbit, mouse and pig structures. The project's searches of 3 and 6 October 2026 found 188 entries in
    the [Protein Data Bank](https://www.rcsb.org/) (PDB) holding RyR1; 155 of them are electron-microscopy entries
@@ -207,7 +210,15 @@ docs/figures/                         the figures on this page
 AGENTS.md, CLAUDE.md                  guides for an AI agent working in this repository
 CITATION.cff, LICENSE, SHA256SUMS     how to cite it, the code's licence, every file's SHA-256
 .github/workflows/rerun.yml           the re-run on Linux, started by hand
+MANIFEST.md, STATE.md                 what the project is and where it stands, for an aDNA workspace
+.agentic/                             the aDNA layer: context, backlog, templates, how to contribute
 ```
+
+**Working with an AI agent.** The repository is also an [aDNA](https://github.com/aDNA-Network/aDNA) project (Agentic
+DNA, "a knowledge architecture standard for AI-native projects"), the standard ChannelScope was built with. An agent
+such as Claude Code reads `CLAUDE.md` when started in a clone. To work on ChannelScope inside an aDNA workspace, clone
+it there under aDNA's project name: `git clone https://github.com/Rajiv-Sangle/channelscope.git
+~/aDNA/channelscope.aDNA`. `MANIFEST.md` gives its aDNA level and how that was checked.
 
 <details>
 <summary><b>Words you will meet in the releases' files</b></summary>
@@ -364,12 +375,15 @@ from this repository is listed under [Re-running the results](#re-running-the-re
   off. This project's alignment alone shows it, since SIFTS maps none of these structures, and that outcome was known
   before the run; the numbering tables record it in every RyR1 chain
   ([result 2](#2-the-residue-numbering-of-26-structures)).
-- **The state (step 3 of 3): words that are missing, and a condition that misleads.** The titles of
+- **The state (step 3 of 3): words that are missing, and a condition that does not settle the state.** The titles of
   [8VJJ](https://www.rcsb.org/structure/8VJJ), [8VJK](https://www.rcsb.org/structure/8VJK) and 6W1N name no state.
-  8VJK's sample held calcium, caffeine and ATP, agents that activate the channel, yet measured, its gate is closed, with
-  a radius of 0.85 Å: a sample holds molecules in more than one state, and a structure is one class sorted from it. A
-  state read from a title or a condition can be missing or wrong, so the release measures each gate and keeps the
-  depositors' words, where there are any, beside the measured class
+  8VJK's title names only its sample, "high-Ca2+/CFF/ATP dataset": calcium, caffeine and ATP, agents that activate
+  the channel, yet measured, its gate is closed, with a radius of 0.85 Å. Its authors, who by their Results added the
+  calcium at 0.25 mM, write that "the RyR1 pore adopted only closed conformational states due to the high [Ca2+]
+  inactivating RyR1 as reported previously"; the release did not record their paper's words.[^weninger2024] A
+  condition names the agents, not the state they leave the channel in, so a state read from a title or a condition
+  can be missing or wrong; the release measures each gate and keeps beside the measured class the words, where any
+  are recorded, that name the structure's state
   ([result 3](#3-the-pore-at-the-gate-of-the-same-26-structures)).
 - **A changed residue that is not declared.** Three pig structures of Woll et al. ([6X34](https://www.rcsb.org/structure/6X34),
   6X35 and 6X36) carry a cysteine at pig residue 615 (human 614), where pig RyR1 in UniProt has an arginine, and their files do not
@@ -441,7 +455,7 @@ re-run ([Re-running the results](#re-running-the-results)).
 ChannelScope makes no judgement about any variant. It does not predict a variant's effect, the direction of that
 effect or whether the variant causes disease. It adds no evidence for or against a variant's pathogenicity: it applies
 none of the criteria for classifying variants that the ACMG/AMP guidelines set (those of the American College of
-Medical Genetics and Genomics and the Association for Molecular Pathology), and the ClinVar classifications it shows are
+Medical Genetics and Genomics and the Association for Molecular Pathology),[^acmg] and the ClinVar classifications it shows are
 ClinVar's, as retrieved. What version 0.1 offers for a missense variant is the evidence around its residue, with each
 value's source:
 
@@ -533,7 +547,7 @@ reference sequence in UniProt.
 6 October 2026 (IST), found 188 entries holding RyR1, and 155 of them are electron-microscopy entries whose deposited RyR1
 sequence has 3,000 residues or more. Twenty-four were chosen on 6 October 2026, before any was measured: six pairs,
 each a closed and an open structure sorted from one dataset; ten other structures, which the criteria list without a reason for each;
-and two that a review calls closed and open, used as positive controls. Some are of mutant channels: four rabbit
+and two that a review calls closed and open, used as positive controls.[^controls] Some are of mutant channels: four rabbit
 structures, as the criteria name them, carry Y523S (human Y522S), and four pig structures carry a cysteine at residue
 615 (human 614), which 9PWO declares (R615C) and 6X34 to 6X36 do not. Two more, a closed and open pair released on 30 September 2026 ([9ZO8](https://www.rcsb.org/structure/9ZO8) and
 [9ZOE](https://www.rcsb.org/structure/9ZOE)),
@@ -575,7 +589,7 @@ not yet published.
   short departing run unjoined (rule R11c), which makes 20 of the composition's rows undecidable. In 6X32, author
   residues 2490 to 2534 sit at their own numbers, but match P16960 at 43 of their 45 residues (0.9556). That is low
   identity by the rules, so they are not joined either.
-- **The gate residue,** the isoleucine whose ring forms the pore's gate (I4937 in rabbit, I4935 in mouse and pig),
+- **The gate residue,** the isoleucine whose ring forms the pore's gate (I4937 in rabbit,[^gate] I4935 in mouse and pig),
   sits at the expected author number in all 104 RyR1 chains: 80 of them checked against SIFTS, and 24 by the alignment
   alone.
 - **Every planted fault was caught:** a region renumbered by one, in a structure file and in SIFTS; a structure given
@@ -603,16 +617,20 @@ records are in the composition release.
 ### 3. The pore at the gate of the same 26 structures
 
 What a variant does can depend on the channel's state, and structures are where its states are seen. Depositors name
-most structures' states in words: the entry's title or a paper does for 22 of the 26. For [8X4C](https://www.rcsb.org/structure/8X4C) the title gives none,
-but its paper calls the condition primed, which it defines as closed. For [8VJJ](https://www.rcsb.org/structure/8VJJ), [8VJK](https://www.rcsb.org/structure/8VJK) and 6W1N the titles give none,
-and the papers were not read. So the release measures each one. Here a structure's state means the class of its gate's
+most structures' states in words. For 22 of the 26, the release quotes words naming a state, as the code that first
+measured each structure holds them: from the entry's title, the depositors' paper, a partner entry's record or, for
+two positive controls, a review. For [8X4C](https://www.rcsb.org/structure/8X4C) the title gives none, but its paper
+calls the condition primed, which it defines as closed.[^wei2025] For [8VJJ](https://www.rcsb.org/structure/8VJJ),
+[8VJK](https://www.rcsb.org/structure/8VJK) and 6W1N the titles give none, and the release records no words naming
+their state. Words can be missing, so the release measures each one. The paper of 8VJJ and 8VJK, whose passages on
+the pore the release did not record, calls both pores closed.[^weninger2024] Here a structure's state means the class of its gate's
 ring, closed or open, not the conformation of the whole channel. The radius is the clearance of that ring: the least
 distance from the pore's axis, taken through the centre of the four isoleucines' Cα atoms and perpendicular to the
 plane that best fits them, to any heavy atom of the four, less that atom's van der Waals radius (carbon 1.70 Å in the
 release's code). It is not the
 pore's minimum radius, which in an open structure may lie elsewhere along the pore: for 9ZOE, which its authors call
-open, they report about 3.0 Å by HOLE, a standard program for pore profiles, where this measure gives 5.28 Å (the
-states release's README).
+open, they report about 3.0 Å by HOLE, a program that measures a pore's radius along its length,[^hole] where this
+measure gives 5.28 Å (the states release's README).
 Eight of the 26 are structures of changed channels, as result 2 says: four rabbit structures carry Y523S (human
 Y522S), and four pig structures carry R615C (human R614C), which 9PWO declares and 6X34 to 6X36 do not. Their classes count with the others'.
 
@@ -670,7 +688,8 @@ side, with no verdict of its own.
 residues of human RyR1 at which at least one of ClinVar's expert-panel records (379 read, as retrieved on 29 September 2026)
 describes a single missense change on NM_000540.3; 47 of the 299 residues have more than one such record. 358 records are included, and 21 excluded, each with its reason. Of the 358, ClinVar
 classifies 222 as of uncertain significance, 97 as pathogenic or likely pathogenic, 34 as benign or likely benign, 1 as
-VUS-high (a sub-tier of uncertain significance whose criteria each submitter defines, counted apart), 2 as conflicting and 2 as drug response only.
+VUS-high (a sub-tier of uncertain significance for which the ACMG/AMP guidelines give no criteria, counted
+apart),[^vushigh] 2 as conflicting and 2 as drug response only.
 
 **For each residue it sets out:**
 - the residue's partners in rabbit, mouse and pig, from the mappings release, with each row's reliability flag;
@@ -678,7 +697,7 @@ VUS-high (a sub-tier of uncertain significance whose criteria each submitter def
   where SIFTS maps the entity, and by this project's alignment alone for the six Woll et al. structures), with each
   structure's measured class and how its gate's numbering was checked (against SIFTS, or by this project's alignment alone), and the reason wherever a structure does not join;
 - the gnomAD missense variants at the residue, with their filters (the dataset is labelled gnomAD v4.1.2, whose
-  variant data are unchanged from v4.1.1, as gnomAD's post on it says);
+  "variant frequency data and filtering status are unchanged from v4.1.1", as gnomAD's post on it says[^gnomad412]);
 - ClinVar's classification, quoted with its review status and date, and each condition with the Mondo identifier
   ClinVar gives it, where it gives one (365 of the 624 condition entries; [Mondo](https://mondo.monarchinitiative.org/)
   is a disease ontology).
@@ -939,6 +958,95 @@ Views on any of these premises are welcome.
 
 ChannelScope is by Rajiv Sangle ([`CITATION.cff`](CITATION.cff)).
 
+[^uniprotids]: UniProt's help page "Alternative products" (last modified 24 November 2023), as this project
+    retrieved it from https://rest.uniprot.org/help/alternative_products on 30 September 2026: "Each isoform is
+    characterized by a unique identifier, which is composed of the primary accession number of the entry, followed by a
+    dash and a number." The sequence version is the entry's own: P21817's text at
+    [entry version 256](https://rest.uniprot.org/unisave/P21817?format=txt&versions=256), as this project retrieved it
+    on 11 October 2026, reads `DT   13-JUN-2006, sequence version 3.`
+
+[^refseqmane]: NCBI's page [Sequence Identifiers](https://www.ncbi.nlm.nih.gov/genbank/sequenceids/), as this project
+    retrieved it on 29 September 2026: "when any change is made to a sequence, it both receives a new GI number, and the
+    version part of its accession number is incremented by 1." NCBI's page
+    [Matched Annotation from NCBI and EMBL-EBI (MANE)](https://www.ncbi.nlm.nih.gov/refseq/MANE/), as this project
+    retrieved it on 30 September 2026: "The MANE Select set consists of one transcript at each locus across the genome
+    that is representative of biology at that locus. This set is useful as a universal standard for clinical reporting,
+    as a default for display on browsers and key genomic resources, and as a starting point for comparative or
+    evolutionary genomics."
+
+[^grc]: The Genome Reference Consortium's page
+    [Introduction to Patches](https://www.ncbi.nlm.nih.gov/grc/help/patches/), as this project retrieved it on 29
+    September 2026: "Patch releases do not change chromosome coordinates." The exon map's release checks that
+    chromosome 19 is the same sequence in GRCh38 as first released and in GRCh38.p14 (its header, `assembly_scope`).
+
+[^pdbversions]: The wwPDB's page [PDB Versioned Archive](https://www.wwpdb.org/ftp/pdb-versioned-ftp-site), as this
+    project retrieved it on 15 October 2026 (IST): "Updates to atomic coordinates, polymer sequence, or chemical
+    description in the coordinate file trigger a major version increment, retaining the originally issued PDB accession
+    code."
+
+[^hgvs]: HGVS Nomenclature, version 21.1.4, as this project retrieved it on 30 September 2026 from its repository at
+    tag 21.1.4, commit [`6f85311`](https://github.com/HGVSnomenclature/hgvs-nomenclature/tree/6f85311989e76ead95d3547828f97ebaa3802e35).
+    Its general recommendations: "descriptions should make clear whether the change was experimentally determined or
+    theoretically deduced by giving predicted consequences in parentheses"; a protein change is written "in three- or
+    one-letter code", and "three-letter amino acid code is preferred". Its page on protein substitutions: "predicted
+    consequences, i.e. without experimental evidence (no RNA or protein sequence analysed), should be given in
+    parentheses, e.g., p.(Arg727Ser)". Its page on numbering: for a coding DNA reference sequence, "numbering starts with
+    c.1 at the A of the ATG translation initiation (start) codon".
+
+[^clinvarvcv]: ClinVar's page
+    [Representation of classifications in ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/docs/clinsig/), as this
+    project retrieved it on 11 October 2026: "all submissions about the same variant are aggregated into a record with
+    an accession starting with VCV".
+
+[^weninger2024]: G. Weninger, M. C. Miotto, C. Tchagou et al., "Structural insights into the regulation of RyR1 by
+    S100A1", *Proceedings of the National Academy of Sciences of the United States of America* 121: e2400497121 (2024),
+    [doi:10.1073/pnas.2400497121](https://doi.org/10.1073/pnas.2400497121), the paper of 8VJJ and 8VJK, from its
+    Results. Comparing 8VJJ, the EGTA-only dataset, with 8VK3, its particles with S100A1 bound: "the pore remained in a
+    closed conformation". 8VJK is "the RyR1 structure of all particles (N = 292,757)" from samples to which they "added
+    0.25 mM free Ca2+, 5 mM caffeine, and 10 mM ATP" (their Methods give 30 μM free Ca2+), ligands the paper calls "the
+    small activating ligands"; of it, "the RyR1 pore adopted only closed conformational states due to the high [Ca2+]
+    inactivating RyR1 as reported previously", citing A. R. Nayak and M. Samsó, *eLife* 11: e75568 (2022).
+
+[^acmg]: S. Richards, N. Aziz, S. Bale et al., "Standards and guidelines for the interpretation of sequence variants: a
+    joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for
+    Molecular Pathology", *Genetics in Medicine* 17: 405–424 (2015),
+    [doi:10.1038/gim.2015.30](https://doi.org/10.1038/gim.2015.30).
+
+[^gate]: Iyer et al. 2020 (*Sci Adv* 6:eabb2964, [doi:10.1126/sciadv.abb2964](https://doi.org/10.1126/sciadv.abb2964))
+    call rabbit I4937 "the gating residue"; the states release's `quotations.tsv` gives the passage and its locator.
+
+[^wei2025]: R. Wei, Q. Chen, L. Zhang et al., "Structural insights into transmembrane helix S0 facilitated RyR1 channel
+    gating by Ca2+/ATP", *Nature Communications* 16: 1936 (2025),
+    [doi:10.1038/s41467-025-57074-4](https://doi.org/10.1038/s41467-025-57074-4), the paper of 8X4C; the states
+    release's `quotations.tsv` gives its passages on the primed condition and state.
+
+[^hole]: O. S. Smart, J. G. Neduvelil, X. Wang, B. A. Wallace and M. S. P. Sansom, "HOLE: a program for the analysis of
+    the pore dimensions of ion channel structural models", *Journal of Molecular Graphics* 14: 354–360 (1996),
+    [doi:10.1016/s0263-7855(97)00009-x](https://doi.org/10.1016/s0263-7855(97)00009-x). Its abstract describes "a
+    Monte Carlo simulated annealing procedure to find the best route for a sphere with variable radius to squeeze
+    through the channel". 9ZOE's authors, G. Weninger et al., *Nature Communications* 17: 10487 (2026),
+    [doi:10.1038/s41467-026-77372-9](https://doi.org/10.1038/s41467-026-77372-9), write: "Quantitative analysis of the
+    pore radii along the conduction pathway of the RyR1 channel (calculated using HOLE) confirmed the closed and open
+    conformations (minimum pore radius: ~0.8 versus ~3.0 Å, respectively) separated by 3D classification". They cite
+    HOLE by an earlier paper of two of its authors, with J. M. Goodfellow: O. S. Smart, J. M. Goodfellow and B. A.
+    Wallace, "The pore dimensions of gramicidin A", *Biophysical Journal* 65: 2455–2460 (1993).
+
+[^gnomad412]: gnomAD's post [gnomAD v4.1.2](https://gnomad.broadinstitute.org/news/2026-09-gnomad-v4-1-2/), as this
+    project retrieved it on 6 October 2026: "All variant frequency data and filtering status are unchanged from v4.1.1."
+
+[^controls]: K. A. Woll and F. Van Petegem 2022 (*Physiological Reviews* 102: 209–268), in the authors' line-numbered
+    manuscript: "Three different views of a closed RyR1 pore (PDB ID 5TB0)" (p. 82, line 3300), and "resting RyR1,
+    obtained in excess EGTA (PDB ID 5TB0, colors) and an open RyR1 in the presence of the activators Ca2+, ATP and
+    caffeine (PDB ID 5T9V, gray)" (p. 84, lines 3368 to 3370), as the states release's `quotations.tsv` gives them.
+
+[^vushigh]: ClinVar's page
+    [Representation of classifications in ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/docs/clinsig/), as this
+    project retrieved it on 11 October 2026: VUS-high, VUS-mid and VUS-low are "considered consistent with the 2015
+    guidelines from ACMG/AMP for variants classified for Mendelian diseases", but "those guidelines do not provide
+    specific criteria for each sub-tier of VUS so we
+    recommend that submitters who use the sub-tiers describe their criteria for each sub-tier in their assertion
+    criteria".
+
 [^kimlicka2013]: Kimlicka L, Lau K, Tung C-C, Van Petegem F. "Disease mutations in the ryanodine receptor N-terminal region couple to a mobile intersubunit interface." *Nature Communications* 4:1506 (2013), [doi:10.1038/ncomms2501](https://doi.org/10.1038/ncomms2501). The quoted wording is from its Discussion and Results; the count of 20 is the paper's, for RyR1 and RyR2 together.
 
 [^census]: Of the 188 entries holding RyR1 that this project's searches of the
@@ -970,7 +1078,8 @@ ChannelScope is by Rajiv Sangle ([`CITATION.cff`](CITATION.cff)).
 [^woll2022]: K. A. Woll and F. Van Petegem, "Calcium-release channels: structure and function of IP3 receptors and
     ryanodine receptors", *Physiological Reviews* 102: 209–268 (2022),
     [doi:10.1152/physrev.00033.2020](https://doi.org/10.1152/physrev.00033.2020), quoted from the authors'
-    line-numbered manuscript (lines 342 to 352), as this project read it. Of the many MH mutations studied, it writes:
+    line-numbered manuscript, as this project read it: the passage on pigs, PSS and R614C from lines 342 to 346, and,
+    from lines 350 to 352, of the many MH mutations studied:
     "These generally agree on the overall gain-of-function phenotype, with an increased sensitivity of mutant RyR1 to
     triggering agents such as Ca2+, caffeine, and volatile anesthetics." The link between these variants and disease is the review's,
     not this project's.

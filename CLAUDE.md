@@ -1,3 +1,12 @@
+---
+type: governance
+status: active
+created: 2026-10-11
+updated: 2026-10-18
+last_edited_by: agent_claude
+tags: [channelscope, governance, agent-guide]
+---
+
 # ChannelScope: a guide for an AI agent in this repository
 
 ChannelScope assembles evidence about the residues of one ion channel, RyR1, and keeps the provenance of every value.
@@ -5,10 +14,16 @@ This repository is its first public version, a proof of concept. Read `README.md
 failed, and what is not claimed.
 
 This guide is for an AI agent, such as Claude Code, that a user runs in a clone of this repository. It says how to check
-the clone and re-derive the results, and which rules to keep when using or extending the evidence. The project was
-built with agents working under aDNA, an open standard for agent-readable projects
-(https://github.com/aDNA-Network/aDNA). This repository carries none of aDNA's files and none of the project's working
-records: this guide and the `AGENTS.md` files are what an agent needs here.
+the clone and re-derive the results, and which rules to keep when using or extending the evidence.
+
+**This repository is an aDNA project.** The project was built with agents working under aDNA (Agentic DNA,
+https://github.com/aDNA-Network/aDNA), in its own words "a knowledge architecture standard for AI-native projects", and
+this repository follows it at aDNA's Starter level, in its embedded form: `MANIFEST.md` says what the project is and how
+that level was checked, `STATE.md` says where it stands, and `.agentic/` holds its context, backlog and templates, how
+to contribute, and how it is governed. It carries none of the project's private working records.
+
+**Starting a session:** read `README.md`, `MANIFEST.md` and `STATE.md`, then `.agentic/AGENTS.md`. To work inside an aDNA
+workspace, clone this repository into it as `channelscope.aDNA`, as `README.md` shows.
 
 ## What is here
 
@@ -22,6 +37,8 @@ records: this guide and the `AGENTS.md` files are what an agent needs here.
 | `checks/structure_numbering/` | The 26 structures' residue numbering, checked against SIFTS where it maps them (20 of 26) and by this project's alignment |
 | `code/` | The `channelscope` Python package, its `pyproject.toml` and the pinned `uv.lock` |
 | `SHA256SUMS` | The SHA-256 of every other file |
+| `MANIFEST.md`, `STATE.md` | What the project is, its aDNA level and how it was checked; where it stands |
+| `.agentic/` | The aDNA layer: context, backlog, templates, how to contribute, and governance |
 
 `releases/AGENTS.md` explains how a release is laid out; `code/AGENTS.md` explains how to run the package.
 
