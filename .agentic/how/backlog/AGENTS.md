@@ -8,7 +8,7 @@ tags: [channelscope, adna, index, backlog]
 
 # how/backlog/: the work this version leaves undone
 
-The backlog is the list in `README.md`, *Roadmap: what is shown, and what is a premise*, under **Next steps**, which
+The backlog is the list in `README.md`, *What version 0.1 shows of the aim, and next steps*, under **Next steps**, which
 opens "Work this version leaves undone. None is promised". It is kept there, in one place, so that it cannot drift from
 the README. An item that grows a test with criteria fixed in advance becomes a mission (`how/missions/`).
 

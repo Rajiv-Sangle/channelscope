@@ -26,7 +26,7 @@ tags: [mission, <the premise's theme>]
 # Mission: <the premise, in a few words>
 
 ## The premise
-Quoted from README.md, *Roadmap*, with its theme.
+Quoted from README.md, *Where ChannelScope is going: the aim, and its premises*, with its theme.
 
 ## The test
 What is measured, on which inputs (each with its source, identifier and version), and by which method.

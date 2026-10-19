@@ -2,7 +2,7 @@
 type: manifest
 status: active
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-19
 last_edited_by: agent_claude
 tags: [channelscope, manifest, adna]
 adna_conformance: starter
@@ -25,8 +25,14 @@ them HGVS and HOLE no longer called "the standard" and "a standard program", MAN
 their own words, the state bullet's heading and words under *What can go wrong*, and one footnote's line ranges; and
 three corrections, each in its source's words: the reason for 8VJK's closed gate, with what the same paper says of
 8VJJ; the protein form that HGVS gives a predicted change, p.(Arg614Cys); and the count of 22 structures with words
-naming a state, which is the record of the code that first measured each structure. `CITATION.cff` says how to cite
-it.
+naming a state, which is the record of the code that first measured each structure. Its sections are reordered:
+why RyR1, where ChannelScope is going (the aim and its premises, each with what would count against it), how it
+works and what can go wrong, then what this version has, its results and failures, and what it shows of the aim,
+with the next steps. The former *Roadmap*'s table is split between the second and the last of these, its
+cells unchanged but for two premises and one counter said in full, which had pointed at the cell beside them,
+and its opening question, which the README's opening asks, is not repeated. It links the explanatory article,
+which the exon map's row had called not yet published, and thanks those who helped.
+`CITATION.cff` says how to cite it.
 
 **What it holds**, each described in `README.md`:
 - `releases/`: the mappings from human RyR1 to rabbit, mouse and pig RyR1; the gate's state in 26 structures; the

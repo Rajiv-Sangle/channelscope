@@ -10,10 +10,10 @@ tags: [channelscope, context, premises, roadmap]
 # The premises ChannelScope has not shown
 
 A premise is a statement the project's aim depends on that version 0.1 does not show. Each is stated, with what would
-count against it, in the table of `README.md`, *Roadmap: what is shown, and what is a premise*. This guide lists them so
+count against it, in the table of `README.md`, *Where ChannelScope is going: the aim, and its premises*. This guide lists them so
 an agent can find them; the README's wording is the one that counts.
 
-| Theme in the Roadmap | The premise, in short |
+| Theme in the README | The premise, in short |
 |---|---|
 | Adding evidence | A new source or method can be added without rewriting what exists |
 | Composing evidence around a residue | What holds for the 299 residues holds for every residue and for further sources |
@@ -21,7 +21,7 @@ an agent can find them; the README's wording is the one that counts.
 | Transfer to another protein | Evidence gathered for RyR1 carries over to its paralogue RyR2 |
 | Downstream value | Laying the evidence side by side helps choose variants of uncertain significance for laboratory tests |
 | Value for models | The tables can serve as training data for models |
-| Other genes | The same records serve other genes |
+| Other genes | The record types used for RyR1 serve other genes |
 
 **Working on one.** A premise becomes a mission (`how/missions/`) only when its test is written down with what would
 count against it, fixed before the test runs. Until then, work on it belongs in the backlog or an issue. The rules every

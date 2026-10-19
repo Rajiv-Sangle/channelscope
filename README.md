@@ -9,26 +9,28 @@ gathered from public sources, with each value's source recorded.</b>
 <sub>ChannelScope began at <a href="https://cerebralvalley.ai/e/built-with-claude-life-sciences">Built with Claude: Life Sciences</a>,
 a virtual hackathon hosted by Anthropic and Cerebral Valley in July 2026, where its proposal was accepted to the Build
 track, and was rebuilt from first principles from 28 September 2026 with Claude, Anthropic's AI model, under the
-author's direction. Reviews, corrections and other perspectives are welcome: please open an issue on this repository.</sub>
+author's direction. An explanatory article, <a href="https://rajiv-sangle.github.io/channelscope/">ChannelScope</a>, gives the background: how RyR1 works, how its gene maps to the protein, the kinds of change and how some are linked to disease. Reviews, corrections and other perspectives are welcome: please open an issue on this repository.</sub>
 </p>
 
 <p align="center">
 <sub>Version 0.1 is a pre-release and a proof of concept. It reports what each check found, failures included,
-and it makes no judgement about any variant. The table under <a href="#what-is-in-version-01">What is in version 0.1</a>
+and it makes no judgement about any variant. <br>
+The table under <a href="#what-is-in-version-01">What is in version 0.1</a>
 lists what is in it and what is not yet.</sub>
 </p>
 
 <p align="center">
 <a href="#why-ryr1-and-why-provenance">Why RyR1</a> ·
-<a href="#what-is-in-version-01">What is in version 0.1</a> ·
+<a href="#where-channelscope-is-going-the-aim-and-its-premises">Where it is going</a> ·
 <a href="#how-channelscope-works">How it works</a> ·
 <a href="#what-can-go-wrong-and-how-version-01-handles-it">What can go wrong</a> ·
-<a href="#checking-it-yourself">Check it yourself</a> ·
+<a href="#what-is-in-version-01">What is in version 0.1</a> ·
+<a href="#checking-it-yourself">Check it yourself</a> · <br>
 <a href="#what-version-01-can-tell-you-about-a-variant">A new variant</a> ·
 <a href="#the-results">Results</a> ·
 <a href="#what-failed">What failed</a> ·
 <a href="#re-running-the-results">Re-running</a> ·
-<a href="#roadmap-what-is-shown-and-what-is-a-premise">Roadmap</a> ·
+<a href="#what-version-01-shows-of-the-aim-and-next-steps">What 0.1 shows</a> ·
 <a href="#what-channelscope-does-not-claim">What it does not claim</a>
 </p>
 
@@ -59,8 +61,8 @@ Version 0.1 is a proof of concept. The aim is evidence that keeps its provenance
 rewriting, can be composed around a residue and carried over to other proteins, and is of use downstream, in
 choosing variants to test and as data for models. For one protein, version 0.1 takes the three steps above with
 checks, for 299 residues and 26 structures, each value's source recorded and each withheld record listed with its
-reason. The [Roadmap](#roadmap-what-is-shown-and-what-is-a-premise) gives, for each part of the aim, what version
-0.1 shows and what is still a premise, with what would count against it.
+reason. [Where ChannelScope is going](#where-channelscope-is-going-the-aim-and-its-premises) gives what is still a premise in each part of the aim, with what
+would count against it, and [What version 0.1 shows of the aim](#what-version-01-shows-of-the-aim-and-next-steps) what this version shows of each.
 
 Reading a new variant's effect from this evidence would first need tests on known variants, benign ones among them,
 which version 0.1 has not run.
@@ -124,7 +126,11 @@ malignant hyperthermia "generally agree on the overall gain-of-function phenotyp
 channel is more sensitive to the agents that trigger it, such as calcium, caffeine and volatile
 anaesthetics.[^woll2022] That is one reason to record each structure's state: a residue's surroundings could then be
 compared between closed and open structures, which version 0.1 does not do (the
-[Roadmap](#roadmap-what-is-shown-and-what-is-a-premise)'s structure premise).
+structure premise in [Where ChannelScope is going](#where-channelscope-is-going-the-aim-and-its-premises)).
+
+The [explanatory article](https://rajiv-sangle.github.io/channelscope/) tells this background at length: [how RyR1 works](https://rajiv-sangle.github.io/channelscope/#what-ryr1-is),
+[from gene to residue](https://rajiv-sangle.github.io/channelscope/#gene-to-residue), [the kinds of change](https://rajiv-sangle.github.io/channelscope/#kinds-of-change) and
+[how some are linked to disease](https://rajiv-sangle.github.io/channelscope/#linked-to-disease).
 
 What a variant does to the channel depends on where its residue sits, in which state of the channel, and what else is
 known about that position. That evidence is spread across sequence databases, structure archives, variant databases
@@ -138,126 +144,36 @@ would land one residue off ([result 2](#2-the-residue-numbering-of-26-structures
 ChannelScope brings the evidence together around a residue. It says where each value came from, and where sources
 disagree, it keeps their values side by side instead of merging them into one verdict.
 
-## What is in version 0.1
+## Where ChannelScope is going: the aim, and its premises
+
+The project's aim, an aspiration rather than a promise, is
+evidence that keeps its provenance, takes new sources without rewriting, can be composed around a residue and
+carried over to other proteins, and is of use downstream, in choosing variants to test and as data for models. The
+lower half of the figure is what version 0.1 shows. Each statement in the upper half is a premise: it is not shown
+here, and the table names what would count against it. Its terms, such as records, the validator and re-runs, are explained
+under [How ChannelScope works](#how-channelscope-works).
 
 <p align="center">
-<img src="docs/figures/whats_inside.svg" width="100%" alt="Three parts, the mappings between species, the residue numbering of 26 structures and the gate's state in the same 26 structures, feed a fourth, the evidence for 299 residues side by side; the gate's part also reads the numbering part's gate numbering. Each part names what it reads and the folder that holds it. Below them, the exon map, four of whose files fed the composition's gnomAD table, and the code.">
+<img src="docs/figures/roadmap.svg" width="100%" alt="At the base, what version 0.1 shows: provenance, and four parts built on it. Above them, seven premises, drawn dashed because none is shown here: a new source or method is added without rewriting what exists; the same holds for every residue and for further sources; Kimlicka et al. (2013) propose that contacts between subunits in the N-terminal region are disrupted when the channel opens, and that a random disease mutation there is much more likely to weaken them than to strengthen them; evidence gathered for RyR1 transfers to RyR2; laying the evidence side by side helps choose variants of uncertain significance for laboratory tests; the tables can serve as training data for models; and the same records serve other genes.">
 </p>
 
-| Part | In this version? |
-|---|---|
-| Residue mappings from human RyR1 to rabbit, mouse and pig RyR1, with their checks and evidence records | Yes: [`releases/ryr1_mappings_v0.1/`](releases/ryr1_mappings_v0.1/) ([result 1](#1-mappings-from-human-ryr1-to-rabbit-mouse-and-pig-ryr1)) |
-| The residue numbering of 26 RyR1 structures, checked against SIFTS (the European Bioinformatics Institute's map from Protein Data Bank entries to UniProt) where it maps them (20 of 26) and by this project's alignment | Yes: [`checks/structure_numbering/`](checks/structure_numbering/) ([result 2](#2-the-residue-numbering-of-26-structures)) |
-| The pore's state in the same 26 structures, measured at the gate | Yes: [`releases/ryr1_structure_states_v0.1/`](releases/ryr1_structure_states_v0.1/) ([result 3](#3-the-pore-at-the-gate-of-the-same-26-structures)) |
-| The evidence for a residue set fixed in advance, laid side by side | Yes: [`releases/ryr1_composition_v0.1/`](releases/ryr1_composition_v0.1/) ([result 4](#4-the-evidence-for-a-residue-set-fixed-in-advance)) |
-| The exons of human RYR1's transcript [NM_000540.3](https://www.ncbi.nlm.nih.gov/nuccore/NM_000540.3) on [GRCh38](https://www.ncbi.nlm.nih.gov/grc/human), with its codons, residues and sequences, as the files that the exon-map figure of an explanatory article (not yet published) reads | Yes: [`releases/exon_map_v0.5.3/`](releases/exon_map_v0.5.3/). It cannot be rebuilt from this repository, and it withholds a test set; its README says why |
-| The code | Yes: [`code/`](code/), the package as it stood when this version was exported, with the lines changed for publication listed in [`releases/ryr1_mappings_v0.1/code_changes.tsv`](releases/ryr1_mappings_v0.1/code_changes.tsv). It is newer than the code some earlier runs used, which each run's record identifies by its digest, so it is not the code of any one run. The states and composition releases carry the scripts that built their tables. The numbering check's code is not yet here |
-| Re-running the results from this repository | In part: the states, the composition and the mappings' comparison with published residue pairs (A6) ([Re-running the results](#re-running-the-results)) |
+| Theme | What is a premise | What would count against it |
+|---|---|---|
+| Adding evidence | A new source or method is added without rewriting what exists | A validator finding beyond the withheld items, a clean re-run that does not reproduce every checksum, or an earlier record that has to change |
+| Composing evidence around a residue | What version 0.1 does for 299 residues holds for every residue and for further sources | Version 0.1's checks failing when run at full scale |
+| Structure, by state | In 2013, Kimlicka et al. reported that, in the N-terminal region of RyR1 and RyR2, the largest cluster of disease mutations (20, counting RyR1's and RyR2's together) faces the boundary between neighbouring subunits. They propose that the contacts across that boundary are disrupted when the channel opens, and that a random disease mutation there is much more likely to weaken them than to strengthen them.[^kimlicka2013] | Those contacts, computed in closed and open structures by a method fixed in advance, found the same within a margin also fixed in advance; or measurements of what disease mutations there do to them showing that they weaken the contacts no more often than they strengthen them |
+| Transfer to another protein | Evidence gathered for RyR1 transfers to its paralogue RyR2 | RyR1-derived evidence that separates RyR2's disease positions no better than a baseline fixed in advance |
+| Downstream value | Laying the evidence side by side helps choose variants of uncertain significance for laboratory tests | Expert disagreement with candidate mechanisms drafted from the evidence, or functional data that contradict them |
+| Value for models | The tables can serve as training data for models | Performance that does not survive an audit for leakage between training and test data |
+| Other genes | The record types used for RyR1 serve other genes | Any RyR1-specific change the record types need |
 
-Version 0.1 can be read in eight steps, each number with what it means. The diagram below draws the same steps.
-
-1. **The question.** ChannelScope starts from one question: what does a missense variant, one that changes a single
-   amino acid, do to RyR1's structure and function? Version 0.1 does not answer it. It gathers, from public sources,
-   the evidence an answer would rest on, residue by residue, and keeps where each value came from.
-2. **Which residues: 299 of 5,038.** Human RyR1 has 5,038 residues. The 299 are those where at least one of
-   ClinVar's expert-panel records describes a single missense change. A rule chose them, committed before the
-   composition was built (its ledger attests the order, not shown).
-3. **What the records say: 358 records.** Of the 379 expert-panel records that ClinVar's search returned on 29
-   September 2026, the rule includes 358 and excludes 21, each with its reason. ClinVar classifies 97 of the 358 as
-   pathogenic or likely pathogenic, 34 as benign or likely benign, and 222 as of uncertain significance: for these,
-   the research may not yet be enough to confirm or rule out a link to disease, or it may conflict. The other 5 are
-   2 conflicting, 2 drug response only and 1 VUS-high, a sub-tier of uncertain significance counted apart.[^vushigh]
-4. **Which structures: 26 of 188.** Experimental structures of the whole channel are all of animal RyR1, so version
-   0.1 reads rabbit, mouse and pig structures. The project's searches of 3 and 6 October 2026 found 188 entries in
-   the [Protein Data Bank](https://www.rcsb.org/) (PDB) holding RyR1; 155 of them are electron-microscopy entries
-   whose deposited RyR1 sequence has 3,000 residues or more. On 6 October, before any was measured, 24 were named: six
-   closed and open pairs, each sorted from one dataset, ten others and two positive controls. A closed and open pair
-   was measured later the same day under the same criteria and code. That makes 26: 13 rabbit, 6 mouse and 7 pig,
-   with four RyR1 chains each, 104 in all.
-5. **Their numbering.** Each structure's residue numbers are checked against UniProt's: in 20 structures, two ways
-   (against SIFTS and by this project's alignment); in the 6 pig structures that Woll et al. published in 2021, by
-   the alignment alone.
-   In 5 of those, one stretch is numbered one off.
-6. **Their state at the gate.** Each structure's gate, the ring of four isoleucines, is measured: 14 are closed and
-   12 open, narrow or wide at that ring, by class lines committed before the first measurement. "Open" here does not
-   say whether ions flow.
-7. **Where they meet: 31,096 rows.** For each of the 299 residues, ChannelScope finds the matching residue in rabbit,
-   mouse and pig RyR1 and looks for it in each of the 104 chains. It joins it where the chain models the partner and
-   the numbering check's rules allow the join, unless a later check withdraws it; every other row gives the reason. That gives 299 × 104 = 31,096 rows. ClinVar's
-   records sit beside each residue, and gnomAD's missense variants beside 260 of them.
-8. **One count.** Of the 222 records of uncertain significance, 213 can be read on at least one closed structure
-   and 212 on at least one open one, on numbering that both of the numbering check's paths agree on, and 9 on none.
-   The 212 are all among the 213, so 212 of the 222 can be looked at in both states. ChannelScope draws no conclusion
-   from that.
-
-<p align="center">
-<img src="docs/figures/at_a_glance.svg" width="100%" alt="Version 0.1 at a glance. Left, the structures: 188 PDB entries holding RyR1, found by the project's searches on 3 and 6 October 2026; 155 electron-microscopy entries whose deposited RyR1 sequence has 3,000 residues or more; 26 measured, 24 named before any was measured and a pair added later under the same criteria; 104 chains of 13 rabbit, 6 mouse and 7 pig structures. Their numbering: 20 checked two ways, 6 by the alignment alone, in 5 one stretch numbered one off. Their state at the gate: 14 closed, 12 open, none between the class lines. Right, the residues: 5,038 human residues, each mapped to rabbit, mouse and pig; 299 fixed in advance, where at least one of ClinVar's expert-panel records describes a single missense change; 358 expert-panel records, of which ClinVar classes 222 as of uncertain significance, 97 as pathogenic or likely pathogenic, 34 as benign or likely benign, 5 other; 624 gnomAD missense variants at 260 of the 299. Where they meet: 31,096 rows, 27,228 joined, 2,344 with no residue at the partner's place, 1,496 where the numbering cannot decide, 24 not joined, 4 withdrawn. One count: of the 222 records of uncertain significance, 213 are joined in at least one closed structure and 212 in at least one open one, all among the 213; 9 in none. These are counts of where the records can be read; nothing about any variant is inferred from them.">
-</p>
-
-Each release has its own README, which says what the release holds, how it was checked and the sources' terms, and a
-`manifest.json` that lists each of its files with its SHA-256 checksum, a fingerprint of the file's bytes that changes
-if a single byte does. The repository is laid out like this:
-
-```text
-README.md                             this page
-releases/ryr1_mappings_v0.1/          result 1: the mappings between species
-checks/structure_numbering/           result 2: the numbering of 26 structures
-releases/ryr1_structure_states_v0.1/  result 3: the gate in the same 26 structures
-releases/ryr1_composition_v0.1/       result 4: the evidence for 299 residues
-releases/exon_map_v0.5.3/             the exon map of NM_000540.3
-code/                                 the package, with its environment pinned
-docs/figures/                         the figures on this page
-AGENTS.md, CLAUDE.md                  guides for an AI agent working in this repository
-CITATION.cff, LICENSE, SHA256SUMS     how to cite it, the code's licence, every file's SHA-256
-.github/workflows/rerun.yml           the re-run on Linux, started by hand
-MANIFEST.md, STATE.md                 what the project is and where it stands, for an aDNA workspace
-.agentic/                             the aDNA layer: context, backlog, templates, how to contribute
-```
-
-**Working with an AI agent.** The repository is also an [aDNA](https://github.com/aDNA-Network/aDNA) project (Agentic
-DNA, "a knowledge architecture standard for AI-native projects"), the standard ChannelScope was built with. An agent
-such as Claude Code reads `CLAUDE.md` when started in a clone. To work on ChannelScope inside an aDNA workspace, clone
-it there under aDNA's project name: `git clone https://github.com/Rajiv-Sangle/channelscope.git
-~/aDNA/channelscope.aDNA`. `MANIFEST.md` gives its aDNA level and how that was checked.
-
-<details>
-<summary><b>Words you will meet in the releases' files</b></summary>
-
-Files that ship byte for byte, or quote a record word for word (the criteria as committed, the graph records and the
-summaries of withheld ones, the code that ran), keep the project's working words: a "vault" is the project's private working repository, a
-record's `mission` names the piece of work it belonged to, and names such as ADR-001, "decision S6", "CL-3's notes" or
-"the archive crosswalk" refer to working documents that are not published. Commits named in the releases' READMEs are
-in the project's private working history: the order they give, criteria before the runs they judge, is attested by
-the ledger of each release that has one, not shown. A release's ledger is its dated list of each criterion, build,
-trial and recorded run. Records name `agent:channelscope`, the project's software, and `agent:lumen`, the AI agent that
-ran the work on the author's behalf. In the states release, "O2" is the first measurement and "S13" the
-re-measurement.
-
-</details>
-
-## Using the data
-
-To look up a residue, three files are enough:
-- the mappings, one table per species:
-  [`residue_mapping_P21817-1.sv3_P11716.sv1.tsv`](releases/ryr1_mappings_v0.1/graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv)
-  for rabbit, and beside it the tables ending `E9PZQ0.sv1.tsv` for mouse and `P16960.sv2.tsv` for pig. Each row pairs a
-  human residue (`subject_position`, `subject_residue`) with its partner (`object_position`, `object_residue`), or with
-  none, and gives its `reliability` and the reasons for it;
-- the composition's
-  [`cl4_structures.tsv`](releases/ryr1_composition_v0.1/graph/tables/cl4/51539fd/full_set/cl4_structures.tsv): one row
-  for each of the 299 residues in each of the 104 chains, found by `human_position`, with its `status`, `join_path`,
-  `state_class_a` and `gate_radius_a`, and the records it came from in its last five columns;
-- [`cl4_structure_counts.tsv`](releases/ryr1_composition_v0.1/graph/tables/cl4/51539fd/full_set/cl4_structure_counts.tsv),
-  beside it: one line per residue and species (897), with how many structures join it closed and open by the first
-  implementation.
-
-[Checking it yourself](#checking-it-yourself) reads one row of `cl4_structures.tsv` with a single command.
+Views on any of these premises are welcome. What version 0.1 shows of each part comes after the results, in [What version 0.1 shows of the aim](#what-version-01-shows-of-the-aim-and-next-steps).
 
 ## How ChannelScope works
 
 ChannelScope is built to place each residue on experimental structures of the channel, by state, wherever they
 resolve it, and to say where they do not; to get there through checked mappings between species; and to set the
-other evidence beside it without a verdict. The table above and the sections below say which parts run today. That the method carries
+other evidence beside it without a verdict. The table under [What is in version 0.1](#what-is-in-version-01) and the sections after it say which parts run today. That the method carries
 over to other genes is a premise until a second gene is run.
 
 <p align="center">
@@ -405,6 +321,121 @@ The records also keep the project's own history:
   compression library, tested
   ([Re-running the results](#re-running-the-results)).
 
+## What is in version 0.1
+
+<p align="center">
+<img src="docs/figures/whats_inside.svg" width="100%" alt="Three parts, the mappings between species, the residue numbering of 26 structures and the gate's state in the same 26 structures, feed a fourth, the evidence for 299 residues side by side; the gate's part also reads the numbering part's gate numbering. Each part names what it reads and the folder that holds it. Below them, the exon map, four of whose files fed the composition's gnomAD table, and the code.">
+</p>
+
+| Part | In this version? |
+|---|---|
+| Residue mappings from human RyR1 to rabbit, mouse and pig RyR1, with their checks and evidence records | Yes: [`releases/ryr1_mappings_v0.1/`](releases/ryr1_mappings_v0.1/) ([result 1](#1-mappings-from-human-ryr1-to-rabbit-mouse-and-pig-ryr1)) |
+| The residue numbering of 26 RyR1 structures, checked against SIFTS (the European Bioinformatics Institute's map from Protein Data Bank entries to UniProt) where it maps them (20 of 26) and by this project's alignment | Yes: [`checks/structure_numbering/`](checks/structure_numbering/) ([result 2](#2-the-residue-numbering-of-26-structures)) |
+| The pore's state in the same 26 structures, measured at the gate | Yes: [`releases/ryr1_structure_states_v0.1/`](releases/ryr1_structure_states_v0.1/) ([result 3](#3-the-pore-at-the-gate-of-the-same-26-structures)) |
+| The evidence for a residue set fixed in advance, laid side by side | Yes: [`releases/ryr1_composition_v0.1/`](releases/ryr1_composition_v0.1/) ([result 4](#4-the-evidence-for-a-residue-set-fixed-in-advance)) |
+| The exons of human RYR1's transcript [NM_000540.3](https://www.ncbi.nlm.nih.gov/nuccore/NM_000540.3) on [GRCh38](https://www.ncbi.nlm.nih.gov/grc/human), with its codons, residues and sequences, as the files that the exon-map figure of [the explanatory article](https://rajiv-sangle.github.io/channelscope/) reads | Yes: [`releases/exon_map_v0.5.3/`](releases/exon_map_v0.5.3/). It cannot be rebuilt from this repository, and it withholds a test set; its README says why |
+| The code | Yes: [`code/`](code/), the package as it stood when this version was exported, with the lines changed for publication listed in [`releases/ryr1_mappings_v0.1/code_changes.tsv`](releases/ryr1_mappings_v0.1/code_changes.tsv). It is newer than the code some earlier runs used, which each run's record identifies by its digest, so it is not the code of any one run. The states and composition releases carry the scripts that built their tables. The numbering check's code is not yet here |
+| Re-running the results from this repository | In part: the states, the composition and the mappings' comparison with published residue pairs (A6) ([Re-running the results](#re-running-the-results)) |
+
+Version 0.1 can be read in eight steps, each number with what it means. The diagram below draws the same steps.
+
+1. **The question.** ChannelScope starts from one question: what does a missense variant, one that changes a single
+   amino acid, do to RyR1's structure and function? Version 0.1 does not answer it. It gathers, from public sources,
+   the evidence an answer would rest on, residue by residue, and keeps where each value came from.
+2. **Which residues: 299 of 5,038.** Human RyR1 has 5,038 residues. The 299 are those where at least one of
+   ClinVar's expert-panel records describes a single missense change. A rule chose them, committed before the
+   composition was built (its ledger attests the order, not shown).
+3. **What the records say: 358 records.** Of the 379 expert-panel records that ClinVar's search returned on 29
+   September 2026, the rule includes 358 and excludes 21, each with its reason. ClinVar classifies 97 of the 358 as
+   pathogenic or likely pathogenic, 34 as benign or likely benign, and 222 as of uncertain significance: for these,
+   the research may not yet be enough to confirm or rule out a link to disease, or it may conflict. The other 5 are
+   2 conflicting, 2 drug response only and 1 VUS-high, a sub-tier of uncertain significance counted apart.[^vushigh]
+4. **Which structures: 26 of 188.** Experimental structures of the whole channel are all of animal RyR1, so version
+   0.1 reads rabbit, mouse and pig structures. The project's searches of 3 and 6 October 2026 found 188 entries in
+   the [Protein Data Bank](https://www.rcsb.org/) (PDB) holding RyR1; 155 of them are electron-microscopy entries
+   whose deposited RyR1 sequence has 3,000 residues or more. On 6 October, before any was measured, 24 were named: six
+   closed and open pairs, each sorted from one dataset, ten others and two positive controls. A closed and open pair
+   was measured later the same day under the same criteria and code. That makes 26: 13 rabbit, 6 mouse and 7 pig,
+   with four RyR1 chains each, 104 in all.
+5. **Their numbering.** Each structure's residue numbers are checked against UniProt's: in 20 structures, two ways
+   (against SIFTS and by this project's alignment); in the 6 pig structures that Woll et al. published in 2021, by
+   the alignment alone.
+   In 5 of those, one stretch is numbered one off.
+6. **Their state at the gate.** Each structure's gate, the ring of four isoleucines, is measured: 14 are closed and
+   12 open, narrow or wide at that ring, by class lines committed before the first measurement. "Open" here does not
+   say whether ions flow.
+7. **Where they meet: 31,096 rows.** For each of the 299 residues, ChannelScope finds the matching residue in rabbit,
+   mouse and pig RyR1 and looks for it in each of the 104 chains. It joins it where the chain models the partner and
+   the numbering check's rules allow the join, unless a later check withdraws it; every other row gives the reason. That gives 299 × 104 = 31,096 rows. ClinVar's
+   records sit beside each residue, and gnomAD's missense variants beside 260 of them.
+8. **One count.** Of the 222 records of uncertain significance, 213 can be read on at least one closed structure
+   and 212 on at least one open one, on numbering that both of the numbering check's paths agree on, and 9 on none.
+   The 212 are all among the 213, so 212 of the 222 can be looked at in both states. ChannelScope draws no conclusion
+   from that.
+
+<p align="center">
+<img src="docs/figures/at_a_glance.svg" width="100%" alt="Version 0.1 at a glance. Left, the structures: 188 PDB entries holding RyR1, found by the project's searches on 3 and 6 October 2026; 155 electron-microscopy entries whose deposited RyR1 sequence has 3,000 residues or more; 26 measured, 24 named before any was measured and a pair added later under the same criteria; 104 chains of 13 rabbit, 6 mouse and 7 pig structures. Their numbering: 20 checked two ways, 6 by the alignment alone, in 5 one stretch numbered one off. Their state at the gate: 14 closed, 12 open, none between the class lines. Right, the residues: 5,038 human residues, each mapped to rabbit, mouse and pig; 299 fixed in advance, where at least one of ClinVar's expert-panel records describes a single missense change; 358 expert-panel records, of which ClinVar classes 222 as of uncertain significance, 97 as pathogenic or likely pathogenic, 34 as benign or likely benign, 5 other; 624 gnomAD missense variants at 260 of the 299. Where they meet: 31,096 rows, 27,228 joined, 2,344 with no residue at the partner's place, 1,496 where the numbering cannot decide, 24 not joined, 4 withdrawn. One count: of the 222 records of uncertain significance, 213 are joined in at least one closed structure and 212 in at least one open one, all among the 213; 9 in none. These are counts of where the records can be read; nothing about any variant is inferred from them.">
+</p>
+
+Each release has its own README, which says what the release holds, how it was checked and the sources' terms, and a
+`manifest.json` that lists each of its files with its SHA-256 checksum, a fingerprint of the file's bytes that changes
+if a single byte does. The repository is laid out like this:
+
+```text
+README.md                             this page
+releases/ryr1_mappings_v0.1/          result 1: the mappings between species
+checks/structure_numbering/           result 2: the numbering of 26 structures
+releases/ryr1_structure_states_v0.1/  result 3: the gate in the same 26 structures
+releases/ryr1_composition_v0.1/       result 4: the evidence for 299 residues
+releases/exon_map_v0.5.3/             the exon map of NM_000540.3
+code/                                 the package, with its environment pinned
+docs/figures/                         the figures on this page
+AGENTS.md, CLAUDE.md                  guides for an AI agent working in this repository
+CITATION.cff, LICENSE, SHA256SUMS     how to cite it, the code's licence, every file's SHA-256
+.github/workflows/rerun.yml           the re-run on Linux, started by hand
+MANIFEST.md, STATE.md                 what the project is and where it stands, for an aDNA workspace
+.agentic/                             the aDNA layer: context, backlog, templates, how to contribute
+```
+
+**Working with an AI agent.** The repository is also an [aDNA](https://github.com/aDNA-Network/aDNA) project (Agentic
+DNA, "a knowledge architecture standard for AI-native projects"), the standard ChannelScope was built with. An agent
+such as Claude Code reads `CLAUDE.md` when started in a clone. To work on ChannelScope inside an aDNA workspace, clone
+it there under aDNA's project name: `git clone https://github.com/Rajiv-Sangle/channelscope.git
+~/aDNA/channelscope.aDNA`. `MANIFEST.md` gives its aDNA level and how that was checked.
+
+<details>
+<summary><b>Words you will meet in the releases' files</b></summary>
+
+Files that ship byte for byte, or quote a record word for word (the criteria as committed, the graph records and the
+summaries of withheld ones, the code that ran), keep the project's working words: a "vault" is the project's private working repository, a
+record's `mission` names the piece of work it belonged to, and names such as ADR-001, "decision S6", "CL-3's notes" or
+"the archive crosswalk" refer to working documents that are not published. Commits named in the releases' READMEs are
+in the project's private working history: the order they give, criteria before the runs they judge, is attested by
+the ledger of each release that has one, not shown. A release's ledger is its dated list of each criterion, build,
+trial and recorded run. Records name `agent:channelscope`, the project's software, and `agent:lumen`, the AI agent that
+ran the work on the author's behalf. In the states release, "O2" is the first measurement and "S13" the
+re-measurement.
+
+</details>
+
+## Using the data
+
+To look up a residue, three files are enough:
+- the mappings, one table per species:
+  [`residue_mapping_P21817-1.sv3_P11716.sv1.tsv`](releases/ryr1_mappings_v0.1/graph/tables/residue_mapping_P21817-1.sv3_P11716.sv1.tsv)
+  for rabbit, and beside it the tables ending `E9PZQ0.sv1.tsv` for mouse and `P16960.sv2.tsv` for pig. Each row pairs a
+  human residue (`subject_position`, `subject_residue`) with its partner (`object_position`, `object_residue`), or with
+  none, and gives its `reliability` and the reasons for it;
+- the composition's
+  [`cl4_structures.tsv`](releases/ryr1_composition_v0.1/graph/tables/cl4/51539fd/full_set/cl4_structures.tsv): one row
+  for each of the 299 residues in each of the 104 chains, found by `human_position`, with its `status`, `join_path`,
+  `state_class_a` and `gate_radius_a`, and the records it came from in its last five columns;
+- [`cl4_structure_counts.tsv`](releases/ryr1_composition_v0.1/graph/tables/cl4/51539fd/full_set/cl4_structure_counts.tsv),
+  beside it: one line per residue and species (897), with how many structures join it closed and open by the first
+  implementation.
+
+[Checking it yourself](#checking-it-yourself) reads one row of `cl4_structures.tsv` with a single command.
+
 ## Checking it yourself
 
 | What you can check here | What rests on the project's word |
@@ -475,7 +506,7 @@ value's source:
   Local model quality, how well a structure's model fits its experimental map at that residue, is not assessed. The
   evidence is kept per residue, so a new change at one of these residues
   finds the same structures and the variants already recorded there; whether that helps an assessment is a premise
-  ([Roadmap](#roadmap-what-is-shown-and-what-is-a-premise)). For these residues, apart from the gate's own
+  ([Where ChannelScope is going](#where-channelscope-is-going-the-aim-and-its-premises)). For these residues, apart from the gate's own
   isoleucine, human 4938, whose ring's clearance is the gate's radius, version 0.1 measures no distance, contact or
   change between states at a residue; its coordinate check compares positions only to test a join
   ([result 4](#4-the-evidence-for-a-residue-set-fixed-in-advance)). A structure's state is the class of its gate's
@@ -893,27 +924,19 @@ it passed. A broken download stops the re-run with an error, and running it agai
 Their outcomes are stated in each release's README, not kept as check records; the numbering check's are in its
 tables' headers, and the exon map's in its manifest.
 
-## Roadmap: what is shown, and what is a premise
+## What version 0.1 shows of the aim, and next steps
 
-ChannelScope starts from one question: what does a missense variant, one that changes a single amino acid, do to RyR1's structure and function? The project's aim, an aspiration rather than a promise, is
-evidence that keeps its provenance, takes new sources without rewriting, can be composed around a residue and
-carried over to other proteins, and is of use downstream, in choosing variants to test and as data for models. The
-lower half of the figure is what version 0.1 shows. Each statement in the upper half is a premise: it is not shown
-here, and the table names what would count against it.
+For each part of the aim set out in [Where ChannelScope is going](#where-channelscope-is-going-the-aim-and-its-premises), what version 0.1 shows:
 
-<p align="center">
-<img src="docs/figures/roadmap.svg" width="100%" alt="At the base, what version 0.1 shows: provenance, and four parts built on it. Above them, seven premises, drawn dashed because none is shown here: a new source or method is added without rewriting what exists; the same holds for every residue and for further sources; Kimlicka et al. (2013) propose that contacts between subunits in the N-terminal region are disrupted when the channel opens, and that a random disease mutation there is much more likely to weaken them than to strengthen them; evidence gathered for RyR1 transfers to RyR2; laying the evidence side by side helps choose variants of uncertain significance for laboratory tests; the tables can serve as training data for models; and the same records serve other genes.">
-</p>
-
-| Theme | What version 0.1 shows | What is a premise | What would count against it |
-|---|---|---|---|
-| Adding evidence | The mappings, states and composition releases each added their own typed records. A correction is a new record that names the one it revises, and the old one is kept | A new source or method is added without rewriting what exists | A validator finding beyond the withheld items, a clean re-run that does not reproduce every checksum, or an earlier record that has to change |
-| Composing evidence around a residue | For 299 residues fixed in advance: the partners, the structures that model them and their state, gnomAD's variants and ClinVar's classification, side by side on numbering checked by its rules (5,000 joins on this project's alignment alone untested by coordinates), with no verdict | The same holds for every residue and for further sources | The same checks failing when run at full scale |
-| Structure, by state | The gate's radius and class in 26 experimental structures of three species, beside the words of a title, paper, partner entry or review that name a state, where any are recorded (none are for 8VJJ, 8VJK and 6W1N) | In 2013, Kimlicka et al. reported that, in the N-terminal region of RyR1 and RyR2, the largest cluster of disease mutations (20, counting RyR1's and RyR2's together) faces the boundary between neighbouring subunits. They propose that the contacts across that boundary are disrupted when the channel opens, and that a random disease mutation there is much more likely to weaken them than to strengthen them.[^kimlicka2013] | Those contacts, computed in closed and open structures by a method fixed in advance, found the same within a margin also fixed in advance; or measurements of what disease mutations there do to them showing that they weaken the contacts no more often than they strengthen them |
-| Transfer to another protein | Rabbit, mouse and pig structures read for human residues through checked mappings: template use within one protein, not transfer | Evidence gathered for RyR1 transfers to its paralogue RyR2 | RyR1-derived evidence that separates RyR2's disease positions no better than a baseline fixed in advance |
-| Downstream value | The evidence beside the 358 expert-panel ClinVar records included (of 379 read), the 222 of uncertain significance among them, with no verdict | Laying the evidence side by side helps choose variants of uncertain significance for laboratory tests | Expert disagreement with candidate mechanisms drafted from the evidence, or functional data that contradict them |
-| Value for models | Machine-readable tables with provenance | The tables can serve as training data for models | Performance that does not survive an audit for leakage between training and test data |
-| Other genes | General record types (gene, transcript, protein, residue, mapping, method, run and others), none of them specific to RyR1 | The same records serve other genes | Any RyR1-specific change the record types need |
+| Theme | What version 0.1 shows |
+|---|---|
+| Adding evidence | The mappings, states and composition releases each added their own typed records. A correction is a new record that names the one it revises, and the old one is kept |
+| Composing evidence around a residue | For 299 residues fixed in advance: the partners, the structures that model them and their state, gnomAD's variants and ClinVar's classification, side by side on numbering checked by its rules (5,000 joins on this project's alignment alone untested by coordinates), with no verdict |
+| Structure, by state | The gate's radius and class in 26 experimental structures of three species, beside the words of a title, paper, partner entry or review that name a state, where any are recorded (none are for 8VJJ, 8VJK and 6W1N) |
+| Transfer to another protein | Rabbit, mouse and pig structures read for human residues through checked mappings: template use within one protein, not transfer |
+| Downstream value | The evidence beside the 358 expert-panel ClinVar records included (of 379 read), the 222 of uncertain significance among them, with no verdict |
+| Value for models | Machine-readable tables with provenance |
+| Other genes | General record types (gene, transcript, protein, residue, mapping, method, run and others), none of them specific to RyR1 |
 
 **Next steps.** Work this version leaves undone. None is promised:
 - run tests on known variants, benign ones among them, before any variant's effect is read from this evidence,
@@ -935,8 +958,6 @@ here, and the table names what would count against it.
 - compare the exon map's c. and p. names with those that Ensembl's Variant Effect Predictor gives on the same MANE
   transcript, a test of the naming arithmetic alone.
 
-Views on any of these premises are welcome.
-
 ## What ChannelScope does not claim
 
 - that it is "validated" as a whole: each component's checks are reported, with their numbers, instead;
@@ -954,9 +975,22 @@ Views on any of these premises are welcome.
   (https://creativecommons.org/licenses/by/4.0/).
 - **Third-party data** keep their own terms, stated with each part.
 
-## Credit
+## Credit and acknowledgements
 
 ChannelScope is by Rajiv Sangle ([`CITATION.cff`](CITATION.cff)).
+
+I thank [Stanley Bishop](https://www.linkedin.com/in/sciencestanley/), Head of AI at the Wilhelm Foundation, for
+his valuable insights, which helped in making ChannelScope's proposal for
+[Anthropic's Built with Claude: Life Sciences Hackathon](https://cerebralvalley.ai/e/built-with-claude-life-sciences).
+
+I also thank [Prof. P. Balaram](https://en.wikipedia.org/wiki/Padmanabhan_Balaram), Emeritus Professor, Indian
+Institute of Science (IISc), Bangalore, for his guidance and support in my ongoing exploration to understand the
+RyR1 structure and mechanism.
+
+Finally, I thank [Prof. Filip Van Petegem](https://biochem.ubc.ca/fac-research/faculty/filip-van-petegem/),
+University of British Columbia, for his
+[talk at the RYR-1 Foundation](https://www.youtube.com/watch?v=vGm9aLd8_WE&t=1570s), which sparked the interest
+and the motivation to pursue this theme.
 
 [^uniprotids]: UniProt's help page "Alternative products" (last modified 24 November 2023), as this project
     retrieved it from https://rest.uniprot.org/help/alternative_products on 30 September 2026: "Each isoform is
